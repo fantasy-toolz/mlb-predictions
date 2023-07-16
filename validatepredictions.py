@@ -14,6 +14,13 @@ plt.ion()
 
 
 
+teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
+
+mlbteams = {'Oakland Athletics': 'OAK', 'Pittsburgh Pirates': 'PIT', 'Seattle Mariners': 'SEA', 'San Diego Padres': 'SD', 'Kansas City Royals': 'KC', 'Miami Marlins': 'MIA', 'Minnesota Twins': 'MIN', 'Tampa Bay Rays': 'TB', 'Arizona Diamondbacks': 'AZ', 'Washington Nationals': 'WSH', 'Houston Astros': 'HOU', 'Toronto Blue Jays': 'TOR', 'Boston Red Sox': 'BOS', 'Cleveland Guardians': 'CLE', 'Los Angeles Dodgers': 'LAD', 'Cincinnati Reds': 'CIN', 'New York Mets': 'NYM', 'Atlanta Braves': 'ATL', 'Baltimore Orioles': 'BAL', 'Milwaukee Brewers': 'MIL', 'St. Louis Cardinals': 'STL', 'Texas Rangers': 'TEX', 'San Francisco Giants': 'SF', 'Colorado Rockies': 'COL', 'Chicago Cubs': 'CHC', 'Los Angeles Angels': 'LAA', 'Detroit Tigers': 'DET', 'Philadelphia Phillies': 'PHI', 'Chicago White Sox': 'CWS', 'New York Yankees': 'NYY'}
+
+
+
+
 # tuned parameters from first 60 games of the 2023 season
 X = [0.49962572,0.05612191]
 kernel_size = 10
@@ -74,7 +81,7 @@ plt.plot([0.,0.],[0.,1.],color='grey',lw=0.5,linestyle='dashed',zorder=-10)
 
 plt.axis([rdmin,rdmax,0.,1.])
 
-plt.savefig('figures/rundifferentialcheck.png',dpi=300)
+plt.savefig('figures/rundifferentialcheck{}.png'.format(str(pd.to_datetime("today").date())),dpi=300)
 
 
 
@@ -83,8 +90,8 @@ boxcar10rundiff = np.convolve(T['rundiff'], kernel, mode='same')
 boxcar10rundiff5 = np.convolve(T['rundiff5'], kernel, mode='same')
 
 
-wins = int(np.nansum(np.ones(T['rundiff'].size)[G['rundiff']>0]))
-loss = int(np.nansum(np.ones(T['rundiff'].size)[G['rundiff']<0]))
+#wins = int(np.nansum(np.ones(T['rundiff'].size)[G['rundiff']>0]))
+#loss = int(np.nansum(np.ones(T['rundiff'].size)[G['rundiff']<0]))
 
 
 # who has big leads after 5 innings typically?
