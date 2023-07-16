@@ -1,0 +1,8 @@
+
+# data we don't need, but saved for posterity
+data/mlb_elo_latest.csv
+data/mlb_elo.csv
+
+# prototypers
+qualityteams.py
+winlosspredictor.py
