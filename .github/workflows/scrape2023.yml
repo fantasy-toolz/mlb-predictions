@@ -27,6 +27,7 @@ jobs:
               pip install pandas
               pip install numpy
               pip install html5lib
+              pip install matplotlib
               python rundiffscraper.py
               python outcomepredictions.py
               python validatepredictions.py
