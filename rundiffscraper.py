@@ -22,6 +22,12 @@ alldates = yeardates[0:todaynum]
 alldates = yeardates[todaynum-3:todaynum]
 
 
+# create a file that stamps the last time run
+f = open('data/lasttouched.txt'.format(year),'w')
+print(pd.to_datetime("today"),file=f)
+f.close()
+
+
 
 teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
 
