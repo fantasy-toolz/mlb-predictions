@@ -8,3 +8,4 @@ qualityteams.py
 winlosspredictor.py
 
 *.DS_Store
+.DS_Store

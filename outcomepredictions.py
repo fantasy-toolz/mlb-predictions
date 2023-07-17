@@ -33,8 +33,21 @@ X = [0.49962572,0.05612191]
 kernel_size = 10
 kernel = np.ones(kernel_size) / kernel_size
 
+linedict = {0.50:'EVS',0.51:'21/20',0.52:'11/10',0.53:'23/20',0.54:'6/5',0.55:'5/4',0.56:'13/10',0.57:'27/20',0.58:'7/5',0.59:'29/20',0.60:'6/4'}
+
+def compute_betline(odds):
+    # return fractional bet lines
+    roundedodds = np.round(odds,2)
+    betstring = ''
+    for i in linedict.keys():
+        if i>=roundedodds:
+            betstring += linedict[i]+' '
+    return betstring
+
+
 today = pd.to_datetime("today").dayofyear - 59
 f = open('predictions/{}.csv'.format(str(pd.to_datetime("today").date())),'w')
+print('date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds',file=f)
 for indx in range(today,today+15):
     ngames = len(DF.values[indx][5]['games'])
     gamedate =  DF.values[indx][5]['date']
@@ -48,7 +61,8 @@ for indx in range(today,today+15):
         rundiffdelta = hrundiff[-1] - arundiff[-1]
         hteamwin = rundiffdelta*X[1]+X[0]
         ateamwin = 1.-hteamwin
-        print('{0},{1},{2},{3},{4},{5},{6}'.format(gamedate,hometeam,mlbteams[hometeam],np.round(hteamwin,3),awayteam,mlbteams[awayteam],np.round(ateamwin,3)),file=f)
+        betstring = compute_betline(np.nanmax([hteamwin,ateamwin]))
+        print('{0},{1},{2},{3},{4},{5},{6}'.format(gamedate,hometeam,mlbteams[hometeam],np.round(hteamwin,3),awayteam,mlbteams[awayteam],np.round(ateamwin,3),betstring),file=f)
         print('{0}: {1:22s} ({2:4.3f}) v. {3:22s} ({4:4.3f})'.format(gamedate,hometeam,np.round(hteamwin,3),awayteam,np.round(ateamwin,3)))
 
 f.close()
