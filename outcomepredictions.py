@@ -28,14 +28,13 @@ awayteam = DF.values[indx][5]['games'][gnum]['teams']['away']['team']['name']
 hometeam = DF.values[indx][5]['games'][gnum]['teams']['home']['team']['name']
 print(gamedate,hometeam,'v.',awayteam)
 
-indx = 136 # '2023-07-14'
 # tuned parameters from first 60 games of the 2023 season
 X = [0.49962572,0.05612191]
 kernel_size = 10
 kernel = np.ones(kernel_size) / kernel_size
 
-today = 138
-f = open('predictions/2023-07-16.csv','w')
+today = pd.to_datetime("today").dayofyear - 59
+f = open('predictions/{}.csv'.format(str(pd.to_datetime("today").date())),'w')
 for indx in range(today,today+15):
     ngames = len(DF.values[indx][5]['games'])
     gamedate =  DF.values[indx][5]['date']

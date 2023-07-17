@@ -6,3 +6,5 @@ data/mlb_elo.csv
 # prototypers
 qualityteams.py
 winlosspredictor.py
+
+*.DS_Store
