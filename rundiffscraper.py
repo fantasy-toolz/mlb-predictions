@@ -87,7 +87,7 @@ for team in teams:
             oppscore  = np.nanmax(O['post_home_score'].values)
             oppscoreI = np.nanmax(O['post_home_score'].loc[O['inning']==indexinning].values)
         rundiff   = teamscore - oppscore
-        rundiffI  = tscore5   - oppscore5
+        rundiffI  = tscoreI   - oppscoreI
         teamwin   = 0.
         if teamscore>oppscore:
             teamwin = 1.
