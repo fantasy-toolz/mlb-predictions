@@ -1,94 +1,94 @@
-2023-03-30,STL,TOR,-1,9,0,5
-2023-04-01,STL,TOR,3,4,3,3
-2023-04-02,STL,TOR,5,9,6,9
-2023-04-03,STL,ATL,-4,4,-3,3
-2023-04-04,STL,ATL,-3,1,-3,1
-2023-04-05,STL,ATL,-3,2,-5,0
-2023-04-07,STL,MIL,-4,0,-2,0
-2023-04-08,STL,MIL,6,6,6,6
-2023-04-09,STL,MIL,-5,1,-2,1
-2023-04-10,STL,COL,-3,4,-2,2
-2023-04-11,STL,COL,3,9,-4,2
-2023-04-12,STL,COL,3,7,1,3
-2023-04-13,STL,PIT,-5,0,0,0
-2023-04-14,STL,PIT,3,3,0,0
-2023-04-15,STL,PIT,-3,3,0,2
-2023-04-16,STL,PIT,1,5,-1,1
-2023-04-17,STL,AZ,-3,3,-1,0
-2023-04-18,STL,AZ,-1,7,-5,2
-2023-04-19,STL,AZ,9,14,6,10
-2023-04-21,STL,SEA,-3,2,0,2
-2023-04-22,STL,SEA,-1,4,2,3
-2023-04-23,STL,SEA,4,7,3,6
-2023-04-24,STL,SF,-4,0,0,0
-2023-04-25,STL,SF,-1,4,-1,1
-2023-04-26,STL,SF,-4,3,-1,2
-2023-04-27,STL,SF,6,6,0,0
-2023-04-28,STL,LAD,-4,3,-3,2
-2023-04-29,STL,LAD,-1,0,-1,0
-2023-04-30,STL,LAD,-3,3,-2,3
-2023-05-02,STL,LAA,-4,1,-3,1
-2023-05-03,STL,LAA,-2,4,1,4
-2023-05-04,STL,LAA,-4,7,-6,5
-2023-05-05,STL,DET,-1,4,1,3
-2023-05-06,STL,DET,-1,5,2,5
-2023-05-07,STL,DET,6,12,2,3
-2023-05-08,STL,CHC,2,3,0,1
-2023-05-09,STL,CHC,2,6,1,4
-2023-05-10,STL,CHC,-6,4,-4,2
-2023-05-12,STL,BOS,2,8,-2,2
-2023-05-13,STL,BOS,1,4,-3,0
-2023-05-14,STL,BOS,8,9,3,4
-2023-05-15,STL,MIL,17,18,4,4
-2023-05-16,STL,MIL,-1,2,0,2
-2023-05-17,STL,MIL,3,3,1,1
-2023-05-18,STL,LAD,8,16,7,9
-2023-05-19,STL,LAD,-5,0,-1,0
-2023-05-20,STL,LAD,1,6,3,3
-2023-05-21,STL,LAD,5,10,4,7
-2023-05-22,STL,CIN,-1,5,-1,4
-2023-05-23,STL,CIN,3,8,3,7
-2023-05-24,STL,CIN,-7,3,-4,2
-2023-05-25,STL,CIN,1,2,0,0
-2023-05-26,STL,CLE,-1,3,-4,0
-2023-05-27,STL,CLE,1,2,0,1
-2023-05-28,STL,CLE,-1,3,1,3
-2023-05-29,STL,KC,-7,0,-3,0
-2023-05-30,STL,KC,1,2,0,0
-2023-06-02,STL,PIT,-2,5,5,5
-2023-06-03,STL,PIT,-1,3,0,1
-2023-06-04,STL,PIT,-1,1,-2,0
-2023-06-05,STL,TEX,-1,3,-2,1
-2023-06-06,STL,TEX,-2,4,-4,2
-2023-06-07,STL,TEX,1,1,0,0
-2023-06-09,STL,CIN,3,7,5,5
-2023-06-10,STL,CIN,-4,4,-5,0
-2023-06-11,STL,CIN,-1,3,1,3
-2023-06-12,STL,SF,-1,3,-1,1
-2023-06-13,STL,SF,-8,3,-4,2
-2023-06-14,STL,SF,-3,5,3,5
-2023-06-16,STL,NYM,-5,1,-4,1
-2023-06-17,STL,NYM,2,5,1,4
-2023-06-18,STL,NYM,1,8,0,7
-2023-06-19,STL,WSH,2,8,1,6
-2023-06-20,STL,WSH,6,9,3,4
-2023-06-21,STL,WSH,-3,0,-1,0
-2023-06-24,STL,CHC,-8,1,-7,0
-2023-06-25,STL,CHC,2,7,3,7
-2023-06-27,STL,HOU,2,4,2,4
-2023-06-28,STL,HOU,-3,7,3,6
-2023-06-29,STL,HOU,-14,0,-6,0
-2023-07-01,STL,NYY,5,11,8,11
-2023-07-02,STL,NYY,4,5,2,2
-2023-07-03,STL,MIA,-1,4,0,2
-2023-07-04,STL,MIA,-13,2,-7,0
-2023-07-05,STL,MIA,-1,9,0,6
-2023-07-06,STL,MIA,3,3,0,0
-2023-07-07,STL,CWS,-1,7,4,5
-2023-07-08,STL,CWS,3,3,2,2
-2023-07-09,STL,CWS,1,4,1,2
-2023-07-14,STL,WSH,-2,5,-7,4
-2023-07-15,STL,WSH,3,9,-7,7
-2023-07-16,STL,WSH,4,8,3,4
-2023-07-17,STL,MIA,2,6,1,3
-2023-07-18,STL,MIA,3,5,-1,0
+2023-03-30,STL,TOR,-1,9,1,6,Miles Mikolas,Alek Manoah
+2023-04-01,STL,TOR,3,4,3,3,Jack Flaherty,Kevin Gausman
+2023-04-02,STL,TOR,5,9,5,9,Jordan Montgomery,Chris Bassitt
+2023-04-03,STL,ATL,-4,4,-3,3,Jake Woodford,Charlie Morton
+2023-04-04,STL,ATL,-3,1,-3,1,Steven Matz,Dylan Dodd
+2023-04-05,STL,ATL,-3,2,-5,0,Miles Mikolas,Bryce Elder
+2023-04-07,STL,MIL,-4,0,-3,0,Jack Flaherty,Brandon Woodruff
+2023-04-08,STL,MIL,6,6,6,6,Jordan Montgomery,Eric Lauer
+2023-04-09,STL,MIL,-5,1,-2,1,Jake Woodford,Freddy Peralta
+2023-04-10,STL,COL,-3,4,-3,3,Steven Matz,German Marquez
+2023-04-11,STL,COL,3,9,-4,2,Miles Mikolas,Kyle Freeland
+2023-04-12,STL,COL,3,7,1,3,Jack Flaherty,Jose Urena
+2023-04-13,STL,PIT,-5,0,-1,0,Jordan Montgomery,Vince Velasquez
+2023-04-14,STL,PIT,3,3,1,1,Jake Woodford,Johan Oviedo
+2023-04-15,STL,PIT,-3,3,0,2,Steven Matz,Roansy Contreras
+2023-04-16,STL,PIT,1,5,0,3,Miles Mikolas,Mitch Keller
+2023-04-17,STL,AZ,-3,3,0,1,Jack Flaherty,Merrill Kelly
+2023-04-18,STL,AZ,-1,7,-4,3,Jordan Montgomery,Drey Jameson
+2023-04-19,STL,AZ,9,14,10,14,Jake Woodford,Madison Bumgarner
+2023-04-21,STL,SEA,-3,2,-3,2,Steven Matz,George Kirby
+2023-04-22,STL,SEA,-1,4,0,3,Miles Mikolas,Luis Castillo
+2023-04-23,STL,SEA,4,7,3,6,Jack Flaherty,Chris Flexen
+2023-04-24,STL,SF,-4,0,0,0,Jordan Montgomery,Alex Cobb
+2023-04-25,STL,SF,-1,4,-1,1,Jake Woodford,John Brebbia
+2023-04-26,STL,SF,-4,3,-1,2,Steven Matz,Anthony Desclafani
+2023-04-27,STL,SF,6,6,0,0,Miles Mikolas,???
+2023-04-28,STL,LAD,-4,3,-3,2,Jack Flaherty,Dustin May
+2023-04-29,STL,LAD,-1,0,-1,0,Jordan Montgomery,Clayton Kershaw
+2023-04-30,STL,LAD,-3,3,-2,3,Jake Woodford,Noah Syndergaard
+2023-05-02,STL,LAA,-4,1,-4,1,Steven Matz,Patrick Sandoval
+2023-05-03,STL,LAA,-2,4,1,4,Miles Mikolas,Shohei Ohtani
+2023-05-04,STL,LAA,-4,7,-4,7,Jack Flaherty,Griffin Canning
+2023-05-05,STL,DET,-1,4,1,3,Jordan Montgomery,Matthew Boyd
+2023-05-06,STL,DET,-1,5,1,5,Adam Wainwright,Spencer Turnbull
+2023-05-07,STL,DET,6,12,4,10,Steven Matz,Alex Faedo
+2023-05-08,STL,CHC,2,3,1,2,Miles Mikolas,Marcus Stroman
+2023-05-09,STL,CHC,2,6,0,4,Jack Flaherty,Jameson Taillon
+2023-05-10,STL,CHC,-6,4,-6,3,Jordan Montgomery,Justin Steele
+2023-05-12,STL,BOS,2,8,1,5,Adam Wainwright,James Paxton
+2023-05-13,STL,BOS,1,4,-3,0,Steven Matz,Chris Sale
+2023-05-14,STL,BOS,8,9,5,6,Miles Mikolas,Corey Kluber
+2023-05-15,STL,MIL,17,18,8,8,Jack Flaherty,Freddy Peralta
+2023-05-16,STL,MIL,-1,2,-1,2,Jordan Montgomery,Wade Miley
+2023-05-17,STL,MIL,3,3,3,3,Matthew Liberatore,Corbin Burnes
+2023-05-18,STL,LAD,8,16,2,9,Adam Wainwright,Julio Urias
+2023-05-19,STL,LAD,-5,0,-1,0,Steven Matz,Tony Gonsolin
+2023-05-20,STL,LAD,1,6,0,3,Miles Mikolas,Noah Syndergaard
+2023-05-21,STL,LAD,5,10,4,7,Jack Flaherty,Clayton Kershaw
+2023-05-22,STL,CIN,-1,5,-1,4,Jordan Montgomery,Brandon Williamson
+2023-05-23,STL,CIN,3,8,2,7,Adam Wainwright,Graham Ashcraft
+2023-05-24,STL,CIN,-7,3,-6,2,Steven Matz,Ben Lively
+2023-05-25,STL,CIN,1,2,0,0,Miles Mikolas,Luke Weaver
+2023-05-26,STL,CLE,-1,3,-3,1,Matthew Liberatore,Shane Bieber
+2023-05-27,STL,CLE,1,2,0,1,Jack Flaherty,Tanner Bibee
+2023-05-28,STL,CLE,-1,3,1,3,Jordan Montgomery,Hunter Gaddis
+2023-05-29,STL,KC,-7,0,-3,0,Adam Wainwright,Josh Staumont
+2023-05-30,STL,KC,1,2,1,1,Miles Mikolas,Zack Greinke
+2023-06-02,STL,PIT,-2,5,4,5,Jack Flaherty,Roansy Contreras
+2023-06-03,STL,PIT,-1,3,-3,1,Jordan Montgomery,Luis L
+2023-06-04,STL,PIT,-1,1,-2,0,Miles Mikolas,Rich Hill
+2023-06-05,STL,TEX,-1,3,-2,1,Adam Wainwright,Martin Perez
+2023-06-06,STL,TEX,-2,4,-2,4,Matthew Liberatore,Dane Dunning
+2023-06-07,STL,TEX,1,1,0,0,Jack Flaherty,Jon Gray
+2023-06-09,STL,CIN,3,7,5,5,Jordan Montgomery,Ben Lively
+2023-06-10,STL,CIN,-4,4,-5,0,Miles Mikolas,Andrew Abbott
+2023-06-11,STL,CIN,-1,3,0,3,Adam Wainwright,Hunter Greene
+2023-06-12,STL,SF,-1,3,1,3,Matthew Liberatore,Logan Webb
+2023-06-13,STL,SF,-8,3,-7,2,Jack Flaherty,Alex Cobb
+2023-06-14,STL,SF,-3,5,3,5,Jordan Montgomery,Anthony Desclafani
+2023-06-16,STL,NYM,-5,1,-5,1,Miles Mikolas,Tylor Megill
+2023-06-17,STL,NYM,2,5,1,4,Adam Wainwright,Kodai Senga
+2023-06-18,STL,NYM,1,8,0,7,Matthew Liberatore,Carlos Carrasco
+2023-06-19,STL,WSH,2,8,1,6,Jack Flaherty,Josiah Gray
+2023-06-20,STL,WSH,6,9,4,5,Jordan Montgomery,Mackenzie Gore
+2023-06-21,STL,WSH,-3,0,-2,0,Miles Mikolas,Trevor Williams
+2023-06-24,STL,CHC,-8,1,-6,1,Adam Wainwright,Justin Steele
+2023-06-25,STL,CHC,2,7,3,7,Matthew Liberatore,Marcus Stroman
+2023-06-27,STL,HOU,2,4,2,4,Jordan Montgomery,Framber Valdez
+2023-06-28,STL,HOU,-3,7,2,7,Miles Mikolas,Cristian Javier
+2023-06-29,STL,HOU,-14,0,-9,0,Adam Wainwright,J P
+2023-07-01,STL,NYY,5,11,8,11,Matthew Liberatore,Ian Hamilton
+2023-07-02,STL,NYY,4,5,2,2,Jordan Montgomery,Gerrit Cole
+2023-07-03,STL,MIA,-1,4,1,3,Miles Mikolas,Braxton Garrett
+2023-07-04,STL,MIA,-13,2,-7,0,Adam Wainwright,Jesus Luzardo
+2023-07-05,STL,MIA,-1,9,-2,6,Matthew Liberatore,Bryan Hoeing
+2023-07-06,STL,MIA,3,3,1,1,Jack Flaherty,Eury Perez
+2023-07-07,STL,CWS,-1,7,-1,5,Jordan Montgomery,Dylan Cease
+2023-07-08,STL,CWS,3,3,2,2,Miles Mikolas,Touki Toussaint
+2023-07-09,STL,CWS,1,4,1,2,Steven Matz,Lucas Giolito
+2023-07-14,STL,WSH,-2,5,0,4,Miles Mikolas,Trevor Williams
+2023-07-15,STL,WSH,3,9,4,8,Steven Matz,Jake Irvin
+2023-07-16,STL,WSH,4,8,5,8,Jack Flaherty,Josiah Gray
+2023-07-17,STL,MIA,2,6,3,6,Miles Mikolas,Jesus Luzardo
+2023-07-18,STL,MIA,3,5,0,1,Jordan Montgomery,Edward Cabrera

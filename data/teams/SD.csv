@@ -1,94 +1,94 @@
-2023-03-30,SD,COL,-5,2,-2,2
-2023-03-31,SD,COL,-3,1,-4,0
-2023-04-01,SD,COL,4,8,4,5
-2023-04-02,SD,COL,2,3,3,3
-2023-04-03,SD,AZ,1,5,1,3
-2023-04-04,SD,AZ,-2,6,4,5
-2023-04-06,SD,ATL,-1,6,-1,3
-2023-04-07,SD,ATL,1,5,0,4
-2023-04-08,SD,ATL,3,4,3,3
-2023-04-09,SD,ATL,8,10,7,8
-2023-04-10,SD,NYM,-5,0,-2,0
-2023-04-11,SD,NYM,2,4,1,2
-2023-04-12,SD,NYM,-3,2,-1,2
-2023-04-13,SD,MIL,-1,3,-2,1
-2023-04-14,SD,MIL,-9,2,-6,1
-2023-04-15,SD,MIL,7,10,2,5
-2023-04-16,SD,MIL,-1,0,-1,0
-2023-04-17,SD,ATL,-2,0,-2,0
-2023-04-18,SD,ATL,-7,1,-2,0
-2023-04-19,SD,ATL,1,1,1,1
-2023-04-20,SD,AZ,2,7,0,5
-2023-04-21,SD,AZ,-9,0,-2,0
-2023-04-22,SD,AZ,2,5,-1,2
-2023-04-23,SD,AZ,2,7,4,5
-2023-04-25,SD,CHC,-6,0,-2,0
-2023-04-26,SD,CHC,2,5,-1,2
-2023-04-27,SD,CHC,-3,2,-3,1
-2023-04-29,SD,SF,5,16,2,10
-2023-04-30,SD,SF,2,6,-1,3
-2023-05-01,SD,CIN,5,8,3,6
-2023-05-02,SD,CIN,-1,1,1,1
-2023-05-03,SD,CIN,6,7,4,4
-2023-05-05,SD,LAD,3,5,3,4
-2023-05-06,SD,LAD,-1,1,-2,0
-2023-05-07,SD,LAD,-3,2,2,2
-2023-05-09,SD,MIN,5,6,0,1
-2023-05-10,SD,MIN,-1,3,-2,0
-2023-05-11,SD,MIN,-2,3,1,3
-2023-05-12,SD,LAD,-2,2,-2,0
-2023-05-13,SD,LAD,-2,2,-2,2
-2023-05-14,SD,LAD,-4,0,-2,0
-2023-05-15,SD,KC,4,4,3,3
-2023-05-16,SD,KC,-1,4,-3,2
-2023-05-17,SD,KC,-1,3,0,1
-2023-05-19,SD,BOS,-5,1,-5,1
-2023-05-20,SD,BOS,-2,2,-3,1
-2023-05-21,SD,BOS,7,7,6,6
-2023-05-23,SD,WSH,3,7,0,3
-2023-05-24,SD,WSH,-2,3,-2,3
-2023-05-25,SD,WSH,2,8,4,5
-2023-05-26,SD,NYY,4,5,2,2
-2023-05-27,SD,NYY,-1,2,0,1
-2023-05-28,SD,NYY,-3,7,-5,3
-2023-05-30,SD,MIA,5,9,-1,2
-2023-05-31,SD,MIA,-1,1,1,1
-2023-06-01,SD,MIA,9,10,2,3
-2023-06-02,SD,CHC,-1,1,-2,0
-2023-06-03,SD,CHC,6,6,3,3
-2023-06-04,SD,CHC,-6,1,-6,1
-2023-06-05,SD,CHC,5,5,4,4
-2023-06-06,SD,SEA,-3,1,0,1
-2023-06-07,SD,SEA,7,10,8,8
-2023-06-09,SD,COL,3,9,6,7
-2023-06-10,SD,COL,1,3,-1,1
-2023-06-11,SD,COL,-1,4,2,3
-2023-06-13,SD,CLE,3,6,4,6
-2023-06-14,SD,CLE,5,5,2,2
-2023-06-15,SD,CLE,-2,6,-1,6
-2023-06-16,SD,TB,-4,2,-6,0
-2023-06-17,SD,TB,2,2,2,2
-2023-06-18,SD,TB,1,5,3,5
-2023-06-19,SD,SF,-3,4,3,4
-2023-06-20,SD,SF,-1,3,2,3
-2023-06-21,SD,SF,-2,2,-4,0
-2023-06-22,SD,SF,10,10,10,10
-2023-06-23,SD,WSH,10,13,7,7
-2023-06-24,SD,WSH,-2,0,-2,0
-2023-06-25,SD,WSH,-5,3,0,1
-2023-06-27,SD,PIT,-5,4,-3,3
-2023-06-28,SD,PIT,-6,1,-2,0
-2023-06-29,SD,PIT,-1,4,3,4
-2023-06-30,SD,CIN,-2,5,0,0
-2023-07-01,SD,CIN,7,12,0,1
-2023-07-02,SD,CIN,-1,3,-2,0
-2023-07-03,SD,LAA,7,10,4,4
-2023-07-04,SD,LAA,3,8,1,2
-2023-07-05,SD,LAA,2,5,0,2
-2023-07-07,SD,NYM,-2,5,0,3
-2023-07-08,SD,NYM,2,3,3,3
-2023-07-09,SD,NYM,4,6,5,5
-2023-07-14,SD,PHI,5,8,-7,3
-2023-07-15,SD,PHI,-5,4,-7,3
-2023-07-16,SD,PHI,-1,6,2,3
-2023-07-18,SD,TOR,8,9,5,6
+2023-03-30,SD,COL,-5,2,-3,2,Blake Snell,German Marquez
+2023-03-31,SD,COL,-3,1,-4,0,Nick Martinez,Kyle Freeland
+2023-04-01,SD,COL,4,8,2,6,Michael Wacha,Jose Urena
+2023-04-02,SD,COL,2,3,3,3,Seth Lugo,Austin Gomber
+2023-04-03,SD,AZ,1,5,1,3,Ryan Weathers,Ryne Nelson
+2023-04-04,SD,AZ,-2,6,1,5,Yu Darvish,Zac Gallen
+2023-04-06,SD,ATL,-1,6,0,4,Blake Snell,Spencer Strider
+2023-04-07,SD,ATL,1,5,1,5,Nick Martinez,Jared Shuster
+2023-04-08,SD,ATL,3,4,3,3,Michael Wacha,Charlie Morton
+2023-04-09,SD,ATL,8,10,9,10,Seth Lugo,Dylan Dodd
+2023-04-10,SD,NYM,-5,0,-2,0,Yu Darvish,Max Scherzer
+2023-04-11,SD,NYM,2,4,1,2,Ryan Weathers,David Peterson
+2023-04-12,SD,NYM,-3,2,-2,2,Blake Snell,Tylor Megill
+2023-04-13,SD,MIL,-1,3,-2,1,Nick Martinez,Colin Rea
+2023-04-14,SD,MIL,-9,2,-9,1,Michael Wacha,Eric Lauer
+2023-04-15,SD,MIL,7,10,2,5,Seth Lugo,Freddy Peralta
+2023-04-16,SD,MIL,-1,0,-1,0,Yu Darvish,Wade Miley
+2023-04-17,SD,ATL,-2,0,-2,0,Ryan Weathers,Max Fried
+2023-04-18,SD,ATL,-7,1,-2,0,Blake Snell,Spencer Strider
+2023-04-19,SD,ATL,1,1,1,1,Nick Martinez,Charlie Morton
+2023-04-20,SD,AZ,2,7,2,7,Michael Wacha,Ryne Nelson
+2023-04-21,SD,AZ,-9,0,-2,0,Seth Lugo,Zac Gallen
+2023-04-22,SD,AZ,2,5,1,4,Joe Musgrove,Merrill Kelly
+2023-04-23,SD,AZ,2,7,4,5,Yu Darvish,Drey Jameson
+2023-04-25,SD,CHC,-6,0,-2,0,Blake Snell,Justin Steele
+2023-04-26,SD,CHC,2,5,-1,2,Michael Wacha,Drew Smyly
+2023-04-27,SD,CHC,-3,2,-3,1,Seth Lugo,Hayden Wesneski
+2023-04-29,SD,SF,5,16,2,10,Joe Musgrove,Sean Manaea
+2023-04-30,SD,SF,2,6,-1,3,Yu Darvish,Alex Cobb
+2023-05-01,SD,CIN,5,8,3,6,Blake Snell,Luke Weaver
+2023-05-02,SD,CIN,-1,1,1,1,Michael Wacha,Graham Ashcraft
+2023-05-03,SD,CIN,6,7,6,7,Seth Lugo,Luis Cessa
+2023-05-05,SD,LAD,3,5,3,4,Yu Darvish,Clayton Kershaw
+2023-05-06,SD,LAD,-1,1,-2,0,Blake Snell,Dustin May
+2023-05-07,SD,LAD,-3,2,1,2,Joe Musgrove,Julio Urias
+2023-05-09,SD,MIN,5,6,0,1,Michael Wacha,Louie Varland
+2023-05-10,SD,MIN,-1,3,-2,0,Seth Lugo,Pablo Lopez
+2023-05-11,SD,MIN,-2,3,1,3,Yu Darvish,Bailey Ober
+2023-05-12,SD,LAD,-2,2,-2,0,Blake Snell,Dustin May
+2023-05-13,SD,LAD,-2,2,-2,2,Joe Musgrove,Julio Urias
+2023-05-14,SD,LAD,-4,0,-4,0,Ryan Weathers,Tony Gonsolin
+2023-05-15,SD,KC,4,4,3,3,Michael Wacha,Brad Keller
+2023-05-16,SD,KC,-1,4,-1,4,Seth Lugo,Brady Singer
+2023-05-17,SD,KC,-1,3,-1,3,Yu Darvish,Carlos Hernandez
+2023-05-19,SD,BOS,-5,1,-5,1,Blake Snell,James Paxton
+2023-05-20,SD,BOS,-2,2,-2,2,Joe Musgrove,Chris Sale
+2023-05-21,SD,BOS,7,7,7,7,Michael Wacha,Corey Kluber
+2023-05-23,SD,WSH,3,7,1,4,Yu Darvish,Mackenzie Gore
+2023-05-24,SD,WSH,-2,3,-2,3,Ryan Weathers,Trevor Williams
+2023-05-25,SD,WSH,2,8,4,5,Blake Snell,Jake Irvin
+2023-05-26,SD,NYY,4,5,3,4,Joe Musgrove,Randy Vasquez
+2023-05-27,SD,NYY,-1,2,0,1,Michael Wacha,Luis Severino
+2023-05-28,SD,NYY,-3,7,-5,3,Yu Darvish,Gerrit Cole
+2023-05-30,SD,MIA,5,9,-2,2,Ryan Weathers,Sandy Alcantara
+2023-05-31,SD,MIA,-1,1,1,1,Blake Snell,Braxton Garrett
+2023-06-01,SD,MIA,9,10,9,10,Joe Musgrove,Jesus Luzardo
+2023-06-02,SD,CHC,-1,1,-1,1,Michael Wacha,Jameson Taillon
+2023-06-03,SD,CHC,6,6,3,3,Yu Darvish,Drew Smyly
+2023-06-04,SD,CHC,-6,1,-6,1,Ryan Weathers,Marcus Stroman
+2023-06-05,SD,CHC,5,5,4,4,Blake Snell,Kyle Hendricks
+2023-06-06,SD,SEA,-3,1,-1,1,Joe Musgrove,Logan Gilbert
+2023-06-07,SD,SEA,7,10,8,8,Michael Wacha,George Kirby
+2023-06-09,SD,COL,3,9,4,8,Yu Darvish,Austin Gomber
+2023-06-10,SD,COL,1,3,1,3,Ryan Weathers,Kyle Freeland
+2023-06-11,SD,COL,-1,4,2,3,Blake Snell,Dinelson Lamet
+2023-06-13,SD,CLE,3,6,3,6,Joe Musgrove,Tanner Bibee
+2023-06-14,SD,CLE,5,5,4,4,Michael Wacha,Aaron Civale
+2023-06-15,SD,CLE,-2,6,-1,6,Ryan Weathers,Logan Allen
+2023-06-16,SD,TB,-4,2,-6,0,Yu Darvish,Shane Mcclanahan
+2023-06-17,SD,TB,2,2,2,2,Blake Snell,Zach Eflin
+2023-06-18,SD,TB,1,5,3,5,Joe Musgrove,Yonny Chirinos
+2023-06-19,SD,SF,-3,4,2,4,Michael Wacha,Ryan Walker
+2023-06-20,SD,SF,-1,3,2,3,Seth Lugo,Anthony Desclafani
+2023-06-21,SD,SF,-2,2,-4,0,Yu Darvish,Ryan Walker
+2023-06-22,SD,SF,10,10,10,10,Blake Snell,Alex Wood
+2023-06-23,SD,WSH,10,13,6,7,Joe Musgrove,Patrick Corbin
+2023-06-24,SD,WSH,-2,0,-2,0,Matt Waldron,Josiah Gray
+2023-06-25,SD,WSH,-5,3,-2,1,Seth Lugo,Mackenzie Gore
+2023-06-27,SD,PIT,-5,4,-4,4,Reiss Knehr,Rich Hill
+2023-06-28,SD,PIT,-6,1,-1,1,Blake Snell,Mitch Keller
+2023-06-29,SD,PIT,-1,4,2,4,Joe Musgrove,Luis L
+2023-06-30,SD,CIN,-2,5,0,1,Seth Lugo,Graham Ashcraft
+2023-07-01,SD,CIN,7,12,4,5,Michael Wacha,Brandon Williamson
+2023-07-02,SD,CIN,-1,3,-2,0,Adrian Morejon,Andrew Abbott
+2023-07-03,SD,LAA,7,10,4,6,Blake Snell,Jaime Barria
+2023-07-04,SD,LAA,3,8,4,5,Joe Musgrove,Shohei Ohtani
+2023-07-05,SD,LAA,2,5,1,3,Seth Lugo,Patrick Sandoval
+2023-07-07,SD,NYM,-2,5,0,3,Yu Darvish,Justin Verlander
+2023-07-08,SD,NYM,2,3,3,3,Blake Snell,David Peterson
+2023-07-09,SD,NYM,4,6,6,6,Joe Musgrove,Max Scherzer
+2023-07-14,SD,PHI,5,8,3,4,Yu Darvish,Cristopher Sanchez
+2023-07-15,SD,PHI,-5,4,-3,3,Blake Snell,Taijuan Walker
+2023-07-16,SD,PHI,-1,6,-2,3,Seth Lugo,Zack Wheeler
+2023-07-18,SD,TOR,8,9,5,6,Joe Musgrove,Alek Manoah

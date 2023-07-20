@@ -1,95 +1,95 @@
-2023-03-30,AZ,LAD,-6,2,-3,2
-2023-03-31,AZ,LAD,1,2,0,0
-2023-04-01,AZ,LAD,-9,1,-7,1
-2023-04-02,AZ,LAD,1,2,0,1
-2023-04-03,AZ,SD,-1,4,-1,2
-2023-04-04,AZ,SD,2,8,-4,1
-2023-04-06,AZ,LAD,-3,2,-3,0
-2023-04-07,AZ,LAD,3,6,-1,2
-2023-04-08,AZ,LAD,4,12,2,7
-2023-04-09,AZ,LAD,5,11,8,11
-2023-04-10,AZ,MIL,3,3,3,3
-2023-04-11,AZ,MIL,-6,1,0,0
-2023-04-12,AZ,MIL,4,7,5,5
-2023-04-14,AZ,MIA,-4,1,-5,0
-2023-04-15,AZ,MIA,-1,2,0,1
-2023-04-16,AZ,MIA,5,5,1,1
-2023-04-17,AZ,STL,3,6,1,1
-2023-04-18,AZ,STL,1,8,5,7
-2023-04-19,AZ,STL,-9,5,-6,4
-2023-04-20,AZ,SD,-2,5,0,5
-2023-04-21,AZ,SD,9,9,2,2
-2023-04-22,AZ,SD,-2,3,1,3
-2023-04-23,AZ,SD,-2,5,-4,1
-2023-04-24,AZ,KC,1,5,1,4
-2023-04-25,AZ,KC,-1,4,-3,1
-2023-04-26,AZ,KC,2,2,2,2
-2023-04-28,AZ,COL,8,9,0,1
-2023-04-29,AZ,COL,7,11,7,8
-2023-04-30,AZ,COL,-8,4,-5,1
-2023-05-02,AZ,TEX,-2,4,1,4
-2023-05-03,AZ,TEX,5,12,-1,6
-2023-05-05,AZ,WSH,2,3,2,3
-2023-05-06,AZ,WSH,1,8,-1,1
-2023-05-07,AZ,WSH,-1,8,4,7
-2023-05-08,AZ,MIA,3,5,0,1
-2023-05-09,AZ,MIA,-4,2,-5,1
-2023-05-10,AZ,MIA,-1,4,0,4
-2023-05-11,AZ,SF,-4,2,-2,0
-2023-05-12,AZ,SF,2,7,0,4
-2023-05-13,AZ,SF,5,7,-1,0
-2023-05-14,AZ,SF,1,2,0,1
-2023-05-15,AZ,OAK,3,5,4,5
-2023-05-16,AZ,OAK,-1,8,2,6
-2023-05-17,AZ,OAK,2,5,1,1
-2023-05-19,AZ,PIT,-10,3,-10,1
-2023-05-20,AZ,PIT,1,4,-2,1
-2023-05-21,AZ,PIT,5,8,0,3
-2023-05-22,AZ,PHI,3,6,2,4
-2023-05-23,AZ,PHI,1,4,2,3
-2023-05-24,AZ,PHI,-1,5,5,5
-2023-05-26,AZ,BOS,-5,2,-4,1
-2023-05-27,AZ,BOS,-1,1,-1,1
-2023-05-28,AZ,BOS,2,4,4,4
-2023-05-29,AZ,COL,2,7,2,7
-2023-05-30,AZ,COL,4,5,4,4
-2023-05-31,AZ,COL,6,6,6,6
-2023-06-01,AZ,COL,1,5,-1,0
-2023-06-02,AZ,ATL,1,3,2,3
-2023-06-03,AZ,ATL,-3,2,-2,1
-2023-06-04,AZ,ATL,-3,5,2,5
-2023-06-06,AZ,WSH,5,10,1,6
-2023-06-07,AZ,WSH,4,6,1,3
-2023-06-09,AZ,DET,5,11,1,2
-2023-06-10,AZ,DET,5,5,5,5
-2023-06-11,AZ,DET,2,7,-3,2
-2023-06-12,AZ,PHI,1,9,0,5
-2023-06-13,AZ,PHI,-12,3,-7,0
-2023-06-14,AZ,PHI,-1,3,-2,0
-2023-06-15,AZ,PHI,-1,4,-1,4
-2023-06-16,AZ,CLE,4,5,1,2
-2023-06-17,AZ,CLE,3,6,0,2
-2023-06-18,AZ,CLE,-9,3,-9,3
-2023-06-19,AZ,MIL,8,9,6,7
-2023-06-20,AZ,MIL,-2,5,1,4
-2023-06-21,AZ,MIL,4,5,-1,0
-2023-06-22,AZ,WSH,2,5,1,2
-2023-06-23,AZ,SF,-3,5,-4,4
-2023-06-24,AZ,SF,-1,6,0,5
-2023-06-25,AZ,SF,3,5,2,2
-2023-06-27,AZ,TB,4,8,3,7
-2023-06-28,AZ,TB,-1,2,2,2
-2023-06-29,AZ,TB,-5,1,-6,0
-2023-06-30,AZ,LAA,4,6,5,5
-2023-07-01,AZ,LAA,2,3,-1,0
-2023-07-02,AZ,LAA,-3,2,-2,2
-2023-07-04,AZ,NYM,-3,5,0,4
-2023-07-05,AZ,NYM,-1,1,0,0
-2023-07-06,AZ,NYM,-9,0,-8,0
-2023-07-07,AZ,PIT,4,7,4,5
-2023-07-08,AZ,PIT,1,3,0,0
-2023-07-09,AZ,PIT,-2,2,-1,2
-2023-07-14,AZ,TOR,-5,2,-7,1
-2023-07-15,AZ,TOR,-3,2,-7,2
-2023-07-16,AZ,TOR,-2,5,-1,2
-2023-07-18,AZ,ATL,3,16,-3,8
+2023-03-30,AZ,LAD,-6,2,-5,2,Zac Gallen,Julio Urias
+2023-03-31,AZ,LAD,1,2,0,0,Merrill Kelly,Dustin May
+2023-04-01,AZ,LAD,-9,1,-7,1,Madison Bumgarner,Clayton Kershaw
+2023-04-02,AZ,LAD,1,2,0,1,Zach Davies,Noah Syndergaard
+2023-04-03,AZ,SD,-1,4,-1,2,Ryne Nelson,Ryan Weathers
+2023-04-04,AZ,SD,2,8,-1,4,Zac Gallen,Yu Darvish
+2023-04-06,AZ,LAD,-3,2,-3,1,Merrill Kelly,Dustin May
+2023-04-07,AZ,LAD,3,6,1,4,Madison Bumgarner,Clayton Kershaw
+2023-04-08,AZ,LAD,4,12,3,9,Zach Davies,Noah Syndergaard
+2023-04-09,AZ,LAD,5,11,8,11,Ryne Nelson,Michael Grove
+2023-04-10,AZ,MIL,3,3,3,3,Zac Gallen,Wade Miley
+2023-04-11,AZ,MIL,-6,1,0,0,Merrill Kelly,Corbin Burnes
+2023-04-12,AZ,MIL,4,7,5,5,Drey Jameson,Janson Junk
+2023-04-14,AZ,MIA,-4,1,-5,0,Madison Bumgarner,Trevor Rogers
+2023-04-15,AZ,MIA,-1,2,0,1,Ryne Nelson,Braxton Garrett
+2023-04-16,AZ,MIA,5,5,5,5,Zac Gallen,Sandy Alcantara
+2023-04-17,AZ,STL,3,6,0,1,Merrill Kelly,Jack Flaherty
+2023-04-18,AZ,STL,1,8,4,7,Drey Jameson,Jordan Montgomery
+2023-04-19,AZ,STL,-9,5,-10,4,Madison Bumgarner,Jake Woodford
+2023-04-20,AZ,SD,-2,5,-2,5,Ryne Nelson,Michael Wacha
+2023-04-21,AZ,SD,9,9,2,2,Zac Gallen,Seth Lugo
+2023-04-22,AZ,SD,-2,3,-1,3,Merrill Kelly,Joe Musgrove
+2023-04-23,AZ,SD,-2,5,-4,1,Drey Jameson,Yu Darvish
+2023-04-24,AZ,KC,1,5,1,4,Tommy Henry,Brad Keller
+2023-04-25,AZ,KC,-1,4,-3,1,Ryne Nelson,Brady Singer
+2023-04-26,AZ,KC,2,2,2,2,Zac Gallen,Ryan Yarbrough
+2023-04-28,AZ,COL,8,9,0,1,Merrill Kelly,Kyle Freeland
+2023-04-29,AZ,COL,7,11,5,9,Tommy Henry,Noah Davis
+2023-04-30,AZ,COL,-8,4,-9,1,Ryne Nelson,Austin Gomber
+2023-05-02,AZ,TEX,-2,4,-1,4,Zac Gallen,Jon Gray
+2023-05-03,AZ,TEX,5,12,-1,6,Brandon Pfaadt,Andrew Heaney
+2023-05-05,AZ,WSH,2,3,2,3,Merrill Kelly,Josiah Gray
+2023-05-06,AZ,WSH,1,8,0,2,Tommy Henry,Mackenzie Gore
+2023-05-07,AZ,WSH,-1,8,4,7,Ryne Nelson,Trevor Williams
+2023-05-08,AZ,MIA,3,5,3,4,Zac Gallen,Braxton Garrett
+2023-05-09,AZ,MIA,-4,2,-5,1,Brandon Pfaadt,Jesus Luzardo
+2023-05-10,AZ,MIA,-1,4,0,4,Merrill Kelly,Edward Cabrera
+2023-05-11,AZ,SF,-4,2,-2,0,Tommy Henry,Alex Cobb
+2023-05-12,AZ,SF,2,7,2,6,Ryne Nelson,John Brebbia
+2023-05-13,AZ,SF,5,7,3,4,Zac Gallen,Anthony Desclafani
+2023-05-14,AZ,SF,1,2,0,1,Brandon Pfaadt,Logan Webb
+2023-05-15,AZ,OAK,3,5,4,5,Merrill Kelly,Drew Rucinski
+2023-05-16,AZ,OAK,-1,8,2,6,Tommy Henry,Kyle Muller
+2023-05-17,AZ,OAK,2,5,3,3,Ryne Nelson,Luis Medina
+2023-05-19,AZ,PIT,-10,3,-10,1,Zac Gallen,Johan Oviedo
+2023-05-20,AZ,PIT,1,4,-1,2,Brandon Pfaadt,Mitch Keller
+2023-05-21,AZ,PIT,5,8,1,4,Merrill Kelly,Roansy Contreras
+2023-05-22,AZ,PHI,3,6,2,4,Tommy Henry,Zack Wheeler
+2023-05-23,AZ,PHI,1,4,2,3,Ryne Nelson,Matt Strahm
+2023-05-24,AZ,PHI,-1,5,2,5,Zac Gallen,Ranger Suarez
+2023-05-26,AZ,BOS,-5,2,-5,1,Brandon Pfaadt,Chris Sale
+2023-05-27,AZ,BOS,-1,1,-1,1,Zach Davies,Garrett Whitlock
+2023-05-28,AZ,BOS,2,4,4,4,Merrill Kelly,Tanner Houck
+2023-05-29,AZ,COL,2,7,2,7,Ryne Nelson,Karl Kauffmann
+2023-05-30,AZ,COL,4,5,5,5,Zac Gallen,Kyle Freeland
+2023-05-31,AZ,COL,6,6,6,6,Tommy Henry,Dinelson Lamet
+2023-06-01,AZ,COL,1,5,-1,2,Zach Davies,Connor Seabold
+2023-06-02,AZ,ATL,1,3,2,3,Merrill Kelly,Charlie Morton
+2023-06-03,AZ,ATL,-3,2,-4,1,Ryne Nelson,Spencer Strider
+2023-06-04,AZ,ATL,-3,5,2,5,Zac Gallen,Michael Soroka
+2023-06-06,AZ,WSH,5,10,3,8,Tommy Henry,Jake Irvin
+2023-06-07,AZ,WSH,4,6,1,3,Zach Davies,Patrick Corbin
+2023-06-09,AZ,DET,5,11,0,2,Merrill Kelly,Michael Lorenzen
+2023-06-10,AZ,DET,5,5,5,5,Ryne Nelson,Matthew Boyd
+2023-06-11,AZ,DET,2,7,-3,2,Zac Gallen,Will Vest
+2023-06-12,AZ,PHI,1,9,4,9,Tommy Henry,Matt Strahm
+2023-06-13,AZ,PHI,-12,3,-6,1,Zach Davies,Zack Wheeler
+2023-06-14,AZ,PHI,-1,3,-3,0,Merrill Kelly,Ranger Suarez
+2023-06-15,AZ,PHI,-1,4,-1,4,Ryne Nelson,Aaron Nola
+2023-06-16,AZ,CLE,4,5,3,4,Zac Gallen,Touki Toussaint
+2023-06-17,AZ,CLE,3,6,0,2,Tommy Henry,Shane Bieber
+2023-06-18,AZ,CLE,-9,3,-9,3,Zach Davies,Tanner Bibee
+2023-06-19,AZ,MIL,8,9,7,8,Merrill Kelly,Corbin Burnes
+2023-06-20,AZ,MIL,-2,5,2,5,Ryne Nelson,Colin Rea
+2023-06-21,AZ,MIL,4,5,1,2,Zac Gallen,Julio Teheran
+2023-06-22,AZ,WSH,2,5,1,2,Tommy Henry,Jake Irvin
+2023-06-23,AZ,SF,-3,5,-4,4,Zach Davies,Logan Webb
+2023-06-24,AZ,SF,-1,6,-2,5,Merrill Kelly,Ryan Walker
+2023-06-25,AZ,SF,3,5,1,2,Ryne Nelson,Anthony Desclafani
+2023-06-27,AZ,TB,4,8,4,8,Zac Gallen,Taj Bradley
+2023-06-28,AZ,TB,-1,2,2,2,Zach Davies,Zach Eflin
+2023-06-29,AZ,TB,-5,1,-6,0,Brandon Pfaadt,Zack Littell
+2023-06-30,AZ,LAA,4,6,4,5,Tommy Henry,Griffin Canning
+2023-07-01,AZ,LAA,2,3,1,2,Ryne Nelson,Tyler Anderson
+2023-07-02,AZ,LAA,-3,2,-2,2,Zac Gallen,Reid Detmers
+2023-07-04,AZ,NYM,-3,5,0,4,Zach Davies,Max Scherzer
+2023-07-05,AZ,NYM,-1,1,0,0,Tommy Henry,Kodai Senga
+2023-07-06,AZ,NYM,-9,0,-9,0,???,Carlos Carrasco
+2023-07-07,AZ,PIT,4,7,6,7,Zac Gallen,Rich Hill
+2023-07-08,AZ,PIT,1,3,-1,0,Kyle Nelson,Mitch Keller
+2023-07-09,AZ,PIT,-2,2,-1,2,Zach Davies,Carmen Mlodzinski
+2023-07-14,AZ,TOR,-5,2,-1,1,Ryne Nelson,Jose Berrios
+2023-07-15,AZ,TOR,-3,2,-1,2,Zac Gallen,Chris Bassitt
+2023-07-16,AZ,TOR,-2,5,-1,2,Tommy Henry,Yusei Kikuchi
+2023-07-18,AZ,ATL,3,16,-1,12,Zach Davies,Bryce Elder

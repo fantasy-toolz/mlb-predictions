@@ -1,96 +1,96 @@
-2023-03-30,TB,DET,4,4,1,1
-2023-04-01,TB,DET,10,12,9,10
-2023-04-02,TB,DET,4,5,1,1
-2023-04-03,TB,WSH,4,6,4,4
-2023-04-04,TB,WSH,4,10,-1,4
-2023-04-05,TB,WSH,5,7,1,3
-2023-04-07,TB,OAK,4,9,5,8
-2023-04-08,TB,OAK,11,11,5,5
-2023-04-09,TB,OAK,11,11,7,7
-2023-04-10,TB,BOS,1,1,0,0
-2023-04-11,TB,BOS,5,7,5,5
-2023-04-12,TB,BOS,2,9,5,8
-2023-04-13,TB,BOS,6,9,5,8
-2023-04-14,TB,TOR,-3,3,-5,1
-2023-04-15,TB,TOR,-3,2,-2,1
-2023-04-16,TB,TOR,7,8,6,7
-2023-04-17,TB,CIN,-7,1,-4,0
-2023-04-18,TB,CIN,10,10,8,8
-2023-04-19,TB,CIN,8,8,7,7
-2023-04-21,TB,CWS,1,8,-2,5
-2023-04-22,TB,CWS,1,4,1,3
-2023-04-23,TB,CWS,3,4,3,4
-2023-04-24,TB,HOU,5,8,3,6
-2023-04-25,TB,HOU,-5,0,-5,0
-2023-04-26,TB,HOU,-1,0,-1,0
-2023-04-27,TB,CWS,9,14,5,7
-2023-04-28,TB,CWS,1,3,0,2
-2023-04-29,TB,CWS,9,12,-2,0
-2023-04-30,TB,CWS,-3,9,1,2
-2023-05-02,TB,PIT,3,4,2,3
-2023-05-03,TB,PIT,7,8,4,5
-2023-05-04,TB,PIT,1,3,2,2
-2023-05-05,TB,NYY,1,5,4,4
-2023-05-06,TB,NYY,-1,2,2,2
-2023-05-07,TB,NYY,1,8,-4,2
-2023-05-08,TB,BAL,3,3,1,1
-2023-05-09,TB,BAL,-2,2,-2,2
-2023-05-10,TB,BAL,-1,1,0,0
-2023-05-11,TB,NYY,6,8,1,1
-2023-05-12,TB,NYY,-1,5,0,2
-2023-05-13,TB,NYY,-1,8,2,6
-2023-05-14,TB,NYY,1,8,4,8
-2023-05-16,TB,NYM,3,8,5,6
-2023-05-17,TB,NYM,-1,7,1,1
-2023-05-18,TB,NYM,-1,2,-1,1
-2023-05-19,TB,MIL,1,1,0,0
-2023-05-20,TB,MIL,4,8,3,6
-2023-05-21,TB,MIL,-2,4,-3,3
-2023-05-22,TB,TOR,2,6,2,4
-2023-05-23,TB,TOR,-19,1,-9,1
-2023-05-24,TB,TOR,4,7,4,5
-2023-05-25,TB,TOR,3,6,4,5
-2023-05-26,TB,LAD,6,9,4,6
-2023-05-27,TB,LAD,-1,5,1,4
-2023-05-28,TB,LAD,1,11,2,10
-2023-05-29,TB,CHC,-1,0,-1,0
-2023-05-30,TB,CHC,-1,1,0,1
-2023-05-31,TB,CHC,1,4,-2,0
-2023-06-03,TB,BOS,-3,5,3,4
-2023-06-04,TB,BOS,4,6,2,4
-2023-06-05,TB,BOS,3,4,3,3
-2023-06-06,TB,MIN,7,7,5,5
-2023-06-07,TB,MIN,1,2,1,1
-2023-06-08,TB,MIN,2,4,2,3
-2023-06-09,TB,TEX,5,8,3,4
-2023-06-10,TB,TEX,-4,4,-2,4
-2023-06-11,TB,TEX,4,7,4,7
-2023-06-12,TB,OAK,-1,3,-4,0
-2023-06-13,TB,OAK,-1,1,1,1
-2023-06-14,TB,OAK,3,6,1,4
-2023-06-15,TB,OAK,1,4,0,3
-2023-06-16,TB,SD,4,6,6,6
-2023-06-17,TB,SD,-2,0,-2,0
-2023-06-18,TB,SD,-1,4,-3,2
-2023-06-20,TB,BAL,-2,6,-5,2
-2023-06-21,TB,BAL,5,7,3,4
-2023-06-22,TB,KC,-1,5,0,2
-2023-06-23,TB,KC,8,11,5,8
-2023-06-24,TB,KC,-5,4,-3,4
-2023-06-25,TB,KC,2,3,0,1
-2023-06-27,TB,AZ,-4,4,-3,4
-2023-06-28,TB,AZ,1,3,-2,0
-2023-06-29,TB,AZ,5,6,6,6
-2023-06-30,TB,SEA,11,15,-1,3
-2023-07-01,TB,SEA,-5,3,-2,0
-2023-07-02,TB,SEA,-1,6,1,6
-2023-07-04,TB,PHI,-2,1,-1,0
-2023-07-05,TB,PHI,-4,4,-1,4
-2023-07-06,TB,PHI,-2,1,0,1
-2023-07-07,TB,ATL,-1,1,-1,1
-2023-07-08,TB,ATL,-5,1,-4,0
-2023-07-09,TB,ATL,6,10,6,8
-2023-07-15,TB,KC,4,6,-7,2
-2023-07-16,TB,KC,-4,4,-7,0
-2023-07-17,TB,TEX,-1,2,2,2
-2023-07-18,TB,TEX,-2,3,-1,0
+2023-03-30,TB,DET,4,4,3,3,Shane Mcclanahan,Eduardo Rodriguez
+2023-04-01,TB,DET,10,12,8,10,Zach Eflin,Spencer Turnbull
+2023-04-02,TB,DET,4,5,4,4,Jeffrey Springs,Joey Wentz
+2023-04-03,TB,WSH,4,6,4,4,Drew Rasmussen,Trevor Williams
+2023-04-04,TB,WSH,4,10,-1,4,Josh Fleming,Chad Kuhl
+2023-04-05,TB,WSH,5,7,4,6,Shane Mcclanahan,Patrick Corbin
+2023-04-07,TB,OAK,4,9,5,8,Zach Eflin,Ken Waldichuk
+2023-04-08,TB,OAK,11,11,9,9,Jeffrey Springs,Shintaro Fujinami
+2023-04-09,TB,OAK,11,11,9,9,Drew Rasmussen,James Kaprielian
+2023-04-10,TB,BOS,1,1,0,0,Jalen Beeks,Nick Pivetta
+2023-04-11,TB,BOS,5,7,4,5,Shane Mcclanahan,Garrett Whitlock
+2023-04-12,TB,BOS,2,9,4,8,Taj Bradley,Chris Sale
+2023-04-13,TB,BOS,6,9,5,8,Jeffrey Springs,Corey Kluber
+2023-04-14,TB,TOR,-3,3,-5,1,Drew Rasmussen,Jose Berrios
+2023-04-15,TB,TOR,-3,2,-3,1,Calvin Faucher,Yusei Kikuchi
+2023-04-16,TB,TOR,7,8,6,7,Shane Mcclanahan,Alek Manoah
+2023-04-17,TB,CIN,-7,1,-4,0,Jalen Beeks,Hunter Greene
+2023-04-18,TB,CIN,10,10,9,9,Taj Bradley,Nick Lodolo
+2023-04-19,TB,CIN,8,8,8,8,Drew Rasmussen,Levi Stoudt
+2023-04-21,TB,CWS,1,8,-2,5,Calvin Faucher,Michael Kopech
+2023-04-22,TB,CWS,1,4,1,3,Shane Mcclanahan,Dylan Cease
+2023-04-23,TB,CWS,3,4,3,4,Zach Eflin,Lucas Giolito
+2023-04-24,TB,HOU,5,8,4,7,Taj Bradley,Jose Urquidy
+2023-04-25,TB,HOU,-5,0,-5,0,Drew Rasmussen,Luis Garcia
+2023-04-26,TB,HOU,-1,0,-1,0,Calvin Faucher,Hunter Brown
+2023-04-27,TB,CWS,9,14,10,12,Shane Mcclanahan,Dylan Cease
+2023-04-28,TB,CWS,1,3,0,2,Zach Eflin,Lucas Giolito
+2023-04-29,TB,CWS,9,12,-3,0,Calvin Faucher,Lance Lynn
+2023-04-30,TB,CWS,-3,9,-1,2,Drew Rasmussen,Mike Clevinger
+2023-05-02,TB,PIT,3,4,3,4,Javy Guerra,???
+2023-05-03,TB,PIT,7,8,5,6,Shane Mcclanahan,Mitch Keller
+2023-05-04,TB,PIT,1,3,2,2,Zach Eflin,Vince Velasquez
+2023-05-05,TB,NYY,1,5,0,4,Yonny Chirinos,Jhony Brito
+2023-05-06,TB,NYY,-1,2,2,2,Drew Rasmussen,Domingo German
+2023-05-07,TB,NYY,1,8,1,7,Javy Guerra,Gerrit Cole
+2023-05-08,TB,BAL,3,3,1,1,Shane Mcclanahan,Kyle Gibson
+2023-05-09,TB,BAL,-2,2,-2,2,Zach Eflin,Grayson Rodriguez
+2023-05-10,TB,BAL,-1,1,-2,0,Jalen Beeks,Dean Kremer
+2023-05-11,TB,NYY,6,8,4,4,Drew Rasmussen,Domingo German
+2023-05-12,TB,NYY,-1,5,0,2,Trevor Kelley,Gerrit Cole
+2023-05-13,TB,NYY,-1,8,-3,6,Shane Mcclanahan,Nestor Cortes
+2023-05-14,TB,NYY,1,8,4,8,Zach Eflin,Clarke Schmidt
+2023-05-16,TB,NYM,3,8,6,7,Jalen Beeks,Justin Verlander
+2023-05-17,TB,NYM,-1,7,1,1,Josh Fleming,Kodai Senga
+2023-05-18,TB,NYM,-1,2,-1,2,Taj Bradley,Tylor Megill
+2023-05-19,TB,MIL,1,1,0,0,Shane Mcclanahan,Adrian Houser
+2023-05-20,TB,MIL,4,8,3,6,Zach Eflin,Eric Lauer
+2023-05-21,TB,MIL,-2,4,-3,3,Jalen Beeks,Freddy Peralta
+2023-05-22,TB,TOR,2,6,3,5,Trevor Kelley,Chris Bassitt
+2023-05-23,TB,TOR,-19,1,-9,1,Taj Bradley,Jose Berrios
+2023-05-24,TB,TOR,4,7,4,5,Shane Mcclanahan,Yusei Kikuchi
+2023-05-25,TB,TOR,3,6,4,5,Zach Eflin,Alek Manoah
+2023-05-26,TB,LAD,6,9,4,6,Jalen Beeks,Noah Syndergaard
+2023-05-27,TB,LAD,-1,5,1,4,Tyler Glasnow,Clayton Kershaw
+2023-05-28,TB,LAD,1,11,0,10,Josh Fleming,Gavin Stone
+2023-05-29,TB,CHC,-1,0,-1,0,Taj Bradley,Marcus Stroman
+2023-05-30,TB,CHC,-1,1,-1,1,Shane Mcclanahan,Kyle Hendricks
+2023-05-31,TB,CHC,1,4,-2,0,Zach Eflin,Justin Steele
+2023-06-03,TB,BOS,-3,5,-3,4,Tyler Glasnow,Garrett Whitlock
+2023-06-04,TB,BOS,4,6,4,6,Taj Bradley,Tanner Houck
+2023-06-05,TB,BOS,3,4,2,3,Shane Mcclanahan,Brayan Bello
+2023-06-06,TB,MIN,7,7,5,5,Zach Eflin,Louie Varland
+2023-06-07,TB,MIN,1,2,1,1,Shawn Armstrong,Pablo Lopez
+2023-06-08,TB,MIN,2,4,3,4,Yonny Chirinos,Bailey Ober
+2023-06-09,TB,TEX,5,8,7,8,Tyler Glasnow,Andrew Heaney
+2023-06-10,TB,TEX,-4,4,-4,4,Taj Bradley,Nathan Eovaldi
+2023-06-11,TB,TEX,4,7,4,7,Shane Mcclanahan,Martin Perez
+2023-06-12,TB,OAK,-1,3,-1,3,Zach Eflin,James Kaprielian
+2023-06-13,TB,OAK,-1,1,1,1,Jalen Beeks,Shintaro Fujinami
+2023-06-14,TB,OAK,3,6,1,4,Tyler Glasnow,Luis Medina
+2023-06-15,TB,OAK,1,4,0,3,Taj Bradley,Paul Blackburn
+2023-06-16,TB,SD,4,6,6,6,Shane Mcclanahan,Yu Darvish
+2023-06-17,TB,SD,-2,0,-2,0,Zach Eflin,Blake Snell
+2023-06-18,TB,SD,-1,4,-3,2,Yonny Chirinos,Joe Musgrove
+2023-06-20,TB,BAL,-2,6,-1,6,Tyler Glasnow,Kyle Bradish
+2023-06-21,TB,BAL,5,7,3,4,Taj Bradley,Tyler Wells
+2023-06-22,TB,KC,-1,5,0,2,Shane Mcclanahan,Jose Cuas
+2023-06-23,TB,KC,8,11,5,8,Zach Eflin,Zack Greinke
+2023-06-24,TB,KC,-5,4,-4,4,Yonny Chirinos,Jordan Lyles
+2023-06-25,TB,KC,2,3,0,1,Tyler Glasnow,Daniel Lynch
+2023-06-27,TB,AZ,-4,4,-4,4,Taj Bradley,Zac Gallen
+2023-06-28,TB,AZ,1,3,-2,0,Zach Eflin,Zach Davies
+2023-06-29,TB,AZ,5,6,6,6,Zack Littell,Brandon Pfaadt
+2023-06-30,TB,SEA,11,15,0,4,Shane Mcclanahan,Bryce Miller
+2023-07-01,TB,SEA,-5,3,-1,2,Tyler Glasnow,George Kirby
+2023-07-02,TB,SEA,-1,6,0,6,Taj Bradley,Luis Castillo
+2023-07-04,TB,PHI,-2,1,-1,0,Zach Eflin,Aaron Nola
+2023-07-05,TB,PHI,-4,4,-2,4,Zack Littell,Taijuan Walker
+2023-07-06,TB,PHI,-2,1,0,1,Shawn Armstrong,Cristopher Sanchez
+2023-07-07,TB,ATL,-1,1,-1,1,Tyler Glasnow,Charlie Morton
+2023-07-08,TB,ATL,-5,1,-4,0,Taj Bradley,Spencer Strider
+2023-07-09,TB,ATL,6,10,5,8,Zach Eflin,Bryce Elder
+2023-07-15,TB,KC,4,6,0,2,Shawn Armstrong,Cole Ragans
+2023-07-16,TB,KC,-4,4,-7,0,Zach Eflin,Brady Singer
+2023-07-17,TB,TEX,-1,2,0,2,Shane Mcclanahan,Dane Dunning
+2023-07-18,TB,TEX,-2,3,-2,0,Taj Bradley,Nathan Eovaldi

@@ -1,95 +1,95 @@
-2023-03-30,HOU,CWS,-1,2,0,0
-2023-03-31,HOU,CWS,3,6,-1,0
-2023-04-01,HOU,CWS,2,6,0,3
-2023-04-02,HOU,CWS,-3,3,-1,0
-2023-04-03,HOU,DET,-1,6,0,4
-2023-04-04,HOU,DET,-3,3,0,2
-2023-04-05,HOU,DET,6,8,3,4
-2023-04-07,HOU,MIN,-1,2,1,1
-2023-04-08,HOU,MIN,-3,6,0,4
-2023-04-09,HOU,MIN,4,5,3,4
-2023-04-10,HOU,PIT,6,8,5,7
-2023-04-11,HOU,PIT,-3,4,0,2
-2023-04-12,HOU,PIT,7,7,2,2
-2023-04-14,HOU,TEX,-4,2,-3,2
-2023-04-15,HOU,TEX,6,8,1,3
-2023-04-16,HOU,TEX,-8,1,0,0
-2023-04-17,HOU,TOR,7,9,7,8
-2023-04-18,HOU,TOR,-2,2,-4,0
-2023-04-19,HOU,TOR,7,8,2,2
-2023-04-21,HOU,ATL,2,6,-3,1
-2023-04-22,HOU,ATL,3,6,-1,0
-2023-04-23,HOU,ATL,3,5,-1,0
-2023-04-24,HOU,TB,-5,3,-3,3
-2023-04-25,HOU,TB,5,5,5,5
-2023-04-26,HOU,TB,1,1,1,1
-2023-04-28,HOU,PHI,-2,1,-1,1
-2023-04-29,HOU,PHI,-5,1,-2,0
-2023-04-30,HOU,PHI,1,4,2,4
-2023-05-01,HOU,SF,4,7,0,2
-2023-05-02,HOU,SF,-2,0,-2,0
-2023-05-03,HOU,SF,-2,2,0,0
-2023-05-05,HOU,SEA,2,6,1,4
-2023-05-06,HOU,SEA,-2,5,3,3
-2023-05-07,HOU,SEA,-2,1,-3,0
-2023-05-08,HOU,LAA,-2,4,0,4
-2023-05-09,HOU,LAA,2,3,2,3
-2023-05-10,HOU,LAA,1,5,3,5
-2023-05-12,HOU,CWS,4,5,1,2
-2023-05-13,HOU,CWS,-2,1,-1,0
-2023-05-14,HOU,CWS,1,4,3,4
-2023-05-15,HOU,CHC,2,6,0,4
-2023-05-16,HOU,CHC,4,7,4,5
-2023-05-17,HOU,CHC,1,7,-5,1
-2023-05-19,HOU,OAK,4,5,1,2
-2023-05-20,HOU,OAK,1,3,1,2
-2023-05-21,HOU,OAK,2,2,1,1
-2023-05-22,HOU,MIL,10,12,4,5
-2023-05-23,HOU,MIL,-6,0,-2,0
-2023-05-24,HOU,MIL,-4,0,-2,0
-2023-05-26,HOU,OAK,3,5,5,5
-2023-05-27,HOU,OAK,3,6,1,2
-2023-05-28,HOU,OAK,9,10,3,4
-2023-05-29,HOU,MIN,-2,5,-3,1
-2023-05-30,HOU,MIN,4,5,4,5
-2023-05-31,HOU,MIN,-6,2,-5,0
-2023-06-01,HOU,LAA,3,5,2,4
-2023-06-02,HOU,LAA,4,6,3,3
-2023-06-03,HOU,LAA,3,9,6,7
-2023-06-04,HOU,LAA,-1,1,1,1
-2023-06-05,HOU,TOR,7,11,8,10
-2023-06-06,HOU,TOR,-4,1,-2,1
-2023-06-07,HOU,TOR,-1,2,1,2
-2023-06-08,HOU,TOR,-1,2,-1,2
-2023-06-09,HOU,CLE,-1,9,1,5
-2023-06-10,HOU,CLE,2,6,4,5
-2023-06-11,HOU,CLE,-5,0,-4,0
-2023-06-13,HOU,WSH,5,6,2,2
-2023-06-14,HOU,WSH,1,5,3,4
-2023-06-15,HOU,WSH,-3,1,0,0
-2023-06-16,HOU,CIN,-1,1,0,0
-2023-06-17,HOU,CIN,-7,3,-4,1
-2023-06-18,HOU,CIN,-2,7,3,5
-2023-06-19,HOU,NYM,-10,1,-5,0
-2023-06-20,HOU,NYM,2,4,3,3
-2023-06-21,HOU,NYM,2,10,3,9
-2023-06-23,HOU,LAD,-1,2,-1,2
-2023-06-24,HOU,LAD,-1,7,3,6
-2023-06-25,HOU,LAD,1,6,3,4
-2023-06-27,HOU,STL,-2,2,-2,2
-2023-06-28,HOU,STL,3,10,-3,3
-2023-06-29,HOU,STL,14,14,6,6
-2023-06-30,HOU,TEX,2,5,-1,2
-2023-07-01,HOU,TEX,-3,2,-3,0
-2023-07-02,HOU,TEX,2,5,-1,0
-2023-07-03,HOU,TEX,1,12,1,10
-2023-07-04,HOU,COL,3,4,3,3
-2023-07-05,HOU,COL,2,6,3,5
-2023-07-06,HOU,SEA,-4,1,-3,0
-2023-07-07,HOU,SEA,-9,1,-8,1
-2023-07-08,HOU,SEA,1,3,0,2
-2023-07-09,HOU,SEA,-2,1,-3,0
-2023-07-14,HOU,LAA,2,7,-7,4
-2023-07-15,HOU,LAA,-1,12,-7,4
-2023-07-16,HOU,LAA,1,9,-2,1
-2023-07-18,HOU,COL,-1,3,-1,3
+2023-03-30,HOU,CWS,-1,2,0,0,Framber Valdez,Dylan Cease
+2023-03-31,HOU,CWS,3,6,-1,2,Cristian Javier,Lance Lynn
+2023-04-01,HOU,CWS,2,6,0,3,Jose Urquidy,Lucas Giolito
+2023-04-02,HOU,CWS,-3,3,-2,1,Luis Garcia,Mike Clevinger
+2023-04-03,HOU,DET,-1,6,0,4,Hunter Brown,Matthew Boyd
+2023-04-04,HOU,DET,-3,3,-1,2,Framber Valdez,Matt Manning
+2023-04-05,HOU,DET,6,8,3,4,Cristian Javier,Eduardo Rodriguez
+2023-04-07,HOU,MIN,-1,2,0,1,Jose Urquidy,Sonny Gray
+2023-04-08,HOU,MIN,-3,6,-1,4,Luis Garcia,Joe Ryan
+2023-04-09,HOU,MIN,4,5,3,4,Hunter Brown,Tyler Mahle
+2023-04-10,HOU,PIT,6,8,5,7,Framber Valdez,Roansy Contreras
+2023-04-11,HOU,PIT,-3,4,-2,2,Cristian Javier,Mitch Keller
+2023-04-12,HOU,PIT,7,7,2,2,Jose Urquidy,Rich Hill
+2023-04-14,HOU,TEX,-4,2,-3,2,Luis Garcia,Martin Perez
+2023-04-15,HOU,TEX,6,8,1,3,Hunter Brown,Jon Gray
+2023-04-16,HOU,TEX,-8,1,0,0,Framber Valdez,Andrew Heaney
+2023-04-17,HOU,TOR,7,9,8,9,Cristian Javier,Kevin Gausman
+2023-04-18,HOU,TOR,-2,2,-4,0,Jose Urquidy,Chris Bassitt
+2023-04-19,HOU,TOR,7,8,2,2,Luis Garcia,Jose Berrios
+2023-04-21,HOU,ATL,2,6,-3,1,Hunter Brown,Bryce Elder
+2023-04-22,HOU,ATL,3,6,1,4,Framber Valdez,Kyle Wright
+2023-04-23,HOU,ATL,3,5,-2,0,Cristian Javier,Max Fried
+2023-04-24,HOU,TB,-5,3,-4,3,Jose Urquidy,Taj Bradley
+2023-04-25,HOU,TB,5,5,5,5,Luis Garcia,Drew Rasmussen
+2023-04-26,HOU,TB,1,1,1,1,Hunter Brown,Calvin Faucher
+2023-04-28,HOU,PHI,-2,1,-1,1,Framber Valdez,Aaron Nola
+2023-04-29,HOU,PHI,-5,1,-4,0,Cristian Javier,Zack Wheeler
+2023-04-30,HOU,PHI,1,4,2,4,Jose Urquidy,Bailey Falter
+2023-05-01,HOU,SF,4,7,0,2,Brandon Bielak,Ross Stripling
+2023-05-02,HOU,SF,-2,0,-2,0,Hunter Brown,Anthony Desclafani
+2023-05-03,HOU,SF,-2,2,-2,0,Framber Valdez,Logan Webb
+2023-05-05,HOU,SEA,2,6,1,4,Cristian Javier,Luis Castillo
+2023-05-06,HOU,SEA,-2,5,3,3,J P,Marco Gonzales
+2023-05-07,HOU,SEA,-2,1,-3,0,Brandon Bielak,Bryce Miller
+2023-05-08,HOU,LAA,-2,4,0,4,Hunter Brown,Patrick Sandoval
+2023-05-09,HOU,LAA,2,3,2,3,Framber Valdez,Shohei Ohtani
+2023-05-10,HOU,LAA,1,5,3,5,Cristian Javier,Griffin Canning
+2023-05-12,HOU,CWS,4,5,3,4,J P,Michael Kopech
+2023-05-13,HOU,CWS,-2,1,-1,0,Brandon Bielak,Dylan Cease
+2023-05-14,HOU,CWS,1,4,1,4,Hunter Brown,Lucas Giolito
+2023-05-15,HOU,CHC,2,6,0,4,Framber Valdez,Jameson Taillon
+2023-05-16,HOU,CHC,4,7,4,5,Cristian Javier,Justin Steele
+2023-05-17,HOU,CHC,1,7,-5,1,J P,Drew Smyly
+2023-05-19,HOU,OAK,4,5,3,4,Brandon Bielak,Ken Waldichuk
+2023-05-20,HOU,OAK,1,3,0,2,Hunter Brown,Jp Sears
+2023-05-21,HOU,OAK,2,2,2,2,Framber Valdez,James Kaprielian
+2023-05-22,HOU,MIL,10,12,9,10,Cristian Javier,Corbin Burnes
+2023-05-23,HOU,MIL,-6,0,-2,0,J P,Colin Rea
+2023-05-24,HOU,MIL,-4,0,-2,0,Brandon Bielak,Adrian Houser
+2023-05-26,HOU,OAK,3,5,5,5,Hunter Brown,James Kaprielian
+2023-05-27,HOU,OAK,3,6,1,2,Framber Valdez,Austin Pruitt
+2023-05-28,HOU,OAK,9,10,3,4,Cristian Javier,Ken Waldichuk
+2023-05-29,HOU,MIN,-2,5,-3,1,J P,Sonny Gray
+2023-05-30,HOU,MIN,4,5,4,5,Brandon Bielak,Joe Ryan
+2023-05-31,HOU,MIN,-6,2,-7,0,Hunter Brown,Louie Varland
+2023-06-01,HOU,LAA,3,5,2,4,Ronel Blanco,Reid Detmers
+2023-06-02,HOU,LAA,4,6,5,5,Framber Valdez,Shohei Ohtani
+2023-06-03,HOU,LAA,3,9,6,7,Cristian Javier,Patrick Sandoval
+2023-06-04,HOU,LAA,-1,1,0,1,J P,Griffin Canning
+2023-06-05,HOU,TOR,7,11,8,10,Brandon Bielak,Alek Manoah
+2023-06-06,HOU,TOR,-4,1,-2,1,Hunter Brown,Kevin Gausman
+2023-06-07,HOU,TOR,-1,2,0,2,Ronel Blanco,Chris Bassitt
+2023-06-08,HOU,TOR,-1,2,-1,2,Framber Valdez,Jose Berrios
+2023-06-09,HOU,CLE,-1,9,1,5,Cristian Javier,Logan Allen
+2023-06-10,HOU,CLE,2,6,4,5,J P,Triston Mckenzie
+2023-06-11,HOU,CLE,-5,0,-5,0,Brandon Bielak,Shane Bieber
+2023-06-13,HOU,WSH,5,6,2,2,Hunter Brown,Patrick Corbin
+2023-06-14,HOU,WSH,1,5,3,4,Framber Valdez,Josiah Gray
+2023-06-15,HOU,WSH,-3,1,0,0,Cristian Javier,Mackenzie Gore
+2023-06-16,HOU,CIN,-1,1,0,0,J P,Andrew Abbott
+2023-06-17,HOU,CIN,-7,3,-3,2,Brandon Bielak,Hunter Greene
+2023-06-18,HOU,CIN,-2,7,0,5,Ronel Blanco,Luke Weaver
+2023-06-19,HOU,NYM,-10,1,-6,0,Hunter Brown,Max Scherzer
+2023-06-20,HOU,NYM,2,4,3,3,Framber Valdez,Justin Verlander
+2023-06-21,HOU,NYM,2,10,1,9,Cristian Javier,Tylor Megill
+2023-06-23,HOU,LAD,-1,2,-1,2,J P,Emmet Sheehan
+2023-06-24,HOU,LAD,-1,7,4,7,Ronel Blanco,Bobby Miller
+2023-06-25,HOU,LAD,1,6,3,4,Hunter Brown,Tony Gonsolin
+2023-06-27,HOU,STL,-2,2,-2,2,Framber Valdez,Jordan Montgomery
+2023-06-28,HOU,STL,3,10,-2,5,Cristian Javier,Miles Mikolas
+2023-06-29,HOU,STL,14,14,9,9,J P,Adam Wainwright
+2023-06-30,HOU,TEX,2,5,2,5,Ronel Blanco,Jon Gray
+2023-07-01,HOU,TEX,-3,2,-3,0,Hunter Brown,Nathan Eovaldi
+2023-07-02,HOU,TEX,2,5,0,1,Shawn Dubin,Andrew Heaney
+2023-07-03,HOU,TEX,1,12,1,10,Cristian Javier,Martin Perez
+2023-07-04,HOU,COL,3,4,3,3,Brandon Bielak,Kyle Freeland
+2023-07-05,HOU,COL,2,6,2,5,J P,Chase Anderson
+2023-07-06,HOU,SEA,-4,1,-3,0,Ronel Blanco,George Kirby
+2023-07-07,HOU,SEA,-9,1,-8,1,Hunter Brown,Luis Castillo
+2023-07-08,HOU,SEA,1,3,0,2,Framber Valdez,Bryan Woo
+2023-07-09,HOU,SEA,-2,1,-2,1,Brandon Bielak,Logan Gilbert
+2023-07-14,HOU,LAA,2,7,3,7,J P,Shohei Ohtani
+2023-07-15,HOU,LAA,-1,12,1,4,Framber Valdez,Reid Detmers
+2023-07-16,HOU,LAA,1,9,-2,1,Cristian Javier,Tyler Anderson
+2023-07-18,HOU,COL,-1,3,-1,3,Hunter Brown,Jake Bird

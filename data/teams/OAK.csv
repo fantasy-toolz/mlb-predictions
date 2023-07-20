@@ -1,97 +1,97 @@
-2023-03-30,OAK,LAA,1,2,-1,0
-2023-04-01,OAK,LAA,-12,1,-10,1
-2023-04-02,OAK,LAA,-6,0,-6,0
-2023-04-03,OAK,CLE,-1,11,3,8
-2023-04-04,OAK,CLE,1,4,-1,2
-2023-04-05,OAK,CLE,-2,4,0,0
-2023-04-07,OAK,TB,-4,5,-5,3
-2023-04-08,OAK,TB,-11,0,-5,0
-2023-04-09,OAK,TB,-11,0,-7,0
-2023-04-10,OAK,BAL,-4,1,-2,1
-2023-04-11,OAK,BAL,-4,8,1,7
-2023-04-12,OAK,BAL,4,8,2,4
-2023-04-13,OAK,BAL,-1,7,0,7
-2023-04-14,OAK,NYM,-11,6,-8,4
-2023-04-15,OAK,NYM,-1,2,1,2
-2023-04-16,OAK,NYM,-1,3,0,1
-2023-04-17,OAK,CHC,-9,1,-5,1
-2023-04-18,OAK,CHC,-4,0,0,0
-2023-04-19,OAK,CHC,-10,2,0,2
-2023-04-21,OAK,TEX,1,5,-1,3
-2023-04-22,OAK,TEX,-15,3,-11,2
-2023-04-23,OAK,TEX,-3,2,-2,2
-2023-04-24,OAK,LAA,1,11,5,7
-2023-04-25,OAK,LAA,-2,3,-2,2
-2023-04-26,OAK,LAA,-8,3,-5,3
-2023-04-27,OAK,LAA,-1,7,-2,5
-2023-04-28,OAK,CIN,-4,7,-4,1
-2023-04-29,OAK,CIN,-1,2,1,2
-2023-04-30,OAK,CIN,1,5,2,3
-2023-05-02,OAK,SEA,-1,1,0,0
-2023-05-03,OAK,SEA,-5,2,0,0
-2023-05-04,OAK,SEA,-2,3,-2,3
-2023-05-05,OAK,KC,4,12,6,9
-2023-05-06,OAK,KC,1,5,1,5
-2023-05-07,OAK,KC,-4,1,-1,1
-2023-05-08,OAK,NYY,-5,2,-2,0
-2023-05-09,OAK,NYY,-5,5,-5,2
-2023-05-10,OAK,NYY,-8,3,-9,2
-2023-05-11,OAK,TEX,-4,0,-1,0
-2023-05-12,OAK,TEX,2,9,0,4
-2023-05-13,OAK,TEX,-5,0,-3,0
-2023-05-14,OAK,TEX,-8,3,-2,1
-2023-05-15,OAK,AZ,-3,2,-4,1
-2023-05-16,OAK,AZ,1,9,-2,4
-2023-05-17,OAK,AZ,-2,3,-1,0
-2023-05-19,OAK,HOU,-4,1,-1,1
-2023-05-20,OAK,HOU,-1,2,-1,1
-2023-05-21,OAK,HOU,-2,0,-1,0
-2023-05-22,OAK,SEA,-9,2,-6,0
-2023-05-23,OAK,SEA,-1,2,-1,2
-2023-05-24,OAK,SEA,-5,1,-5,0
-2023-05-25,OAK,SEA,-1,2,1,2
-2023-05-26,OAK,HOU,-3,2,-5,0
-2023-05-27,OAK,HOU,-3,3,-1,1
-2023-05-28,OAK,HOU,-9,1,-3,1
-2023-05-29,OAK,ATL,5,7,3,4
-2023-05-30,OAK,ATL,1,2,0,1
-2023-05-31,OAK,ATL,-2,2,-3,0
-2023-06-02,OAK,MIA,-4,0,-4,0
-2023-06-03,OAK,MIA,-11,1,-9,0
-2023-06-04,OAK,MIA,-2,5,0,5
-2023-06-05,OAK,PIT,-1,4,2,3
-2023-06-06,OAK,PIT,9,11,0,2
-2023-06-07,OAK,PIT,4,9,4,7
-2023-06-09,OAK,MIL,3,5,3,5
-2023-06-10,OAK,MIL,1,2,1,1
-2023-06-11,OAK,MIL,2,8,2,4
-2023-06-12,OAK,TB,1,4,4,4
-2023-06-13,OAK,TB,1,2,-1,0
-2023-06-14,OAK,TB,-3,3,-1,3
-2023-06-15,OAK,TB,-1,3,0,3
-2023-06-16,OAK,PHI,-5,1,-3,1
-2023-06-17,OAK,PHI,-1,2,1,1
-2023-06-18,OAK,PHI,-1,2,-2,0
-2023-06-20,OAK,CLE,-1,2,1,1
-2023-06-21,OAK,CLE,-1,6,0,4
-2023-06-22,OAK,CLE,-5,1,-1,1
-2023-06-23,OAK,TOR,1,5,0,4
-2023-06-24,OAK,TOR,-4,3,-3,2
-2023-06-25,OAK,TOR,-11,1,-4,0
-2023-06-27,OAK,NYY,1,2,1,2
-2023-06-28,OAK,NYY,-11,0,-7,0
-2023-06-29,OAK,NYY,-6,4,1,3
-2023-06-30,OAK,CWS,3,7,4,5
-2023-07-01,OAK,CWS,1,7,-1,2
-2023-07-02,OAK,CWS,-1,7,-2,3
-2023-07-04,OAK,DET,1,1,0,0
-2023-07-05,OAK,DET,9,12,5,5
-2023-07-06,OAK,DET,-9,0,-7,0
-2023-07-07,OAK,BOS,-4,3,-4,1
-2023-07-08,OAK,BOS,-7,3,-8,1
-2023-07-09,OAK,BOS,-1,3,2,3
-2023-07-14,OAK,MIN,-1,4,-7,3
-2023-07-15,OAK,MIN,-3,7,-7,6
-2023-07-16,OAK,MIN,-1,4,1,3
-2023-07-17,OAK,BOS,-7,0,-2,0
-2023-07-18,OAK,BOS,3,3,3,3
+2023-03-30,OAK,LAA,1,2,-1,0,Kyle Muller,Shohei Ohtani
+2023-04-01,OAK,LAA,-12,1,-11,1,Shintaro Fujinami,Patrick Sandoval
+2023-04-02,OAK,LAA,-6,0,-6,0,Ken Waldichuk,Tyler Anderson
+2023-04-03,OAK,CLE,-1,11,1,8,James Kaprielian,Zach Plesac
+2023-04-04,OAK,CLE,1,4,0,3,Jp Sears,Shane Bieber
+2023-04-05,OAK,CLE,-2,4,-2,0,Kyle Muller,Hunter Gaddis
+2023-04-07,OAK,TB,-4,5,-5,3,Ken Waldichuk,Zach Eflin
+2023-04-08,OAK,TB,-11,0,-9,0,Shintaro Fujinami,Jeffrey Springs
+2023-04-09,OAK,TB,-11,0,-9,0,James Kaprielian,Drew Rasmussen
+2023-04-10,OAK,BAL,-4,1,-3,1,Jp Sears,Kyle Gibson
+2023-04-11,OAK,BAL,-4,8,0,7,Kyle Muller,Grayson Rodriguez
+2023-04-12,OAK,BAL,4,8,2,4,Ken Waldichuk,Dean Kremer
+2023-04-13,OAK,BAL,-1,7,0,7,Adam Oller,Cole Irvin
+2023-04-14,OAK,NYM,-11,6,-8,5,James Kaprielian,Kodai Senga
+2023-04-15,OAK,NYM,-1,2,1,2,Shintaro Fujinami,Carlos Carrasco
+2023-04-16,OAK,NYM,-1,3,-1,1,Jp Sears,Jose Butto
+2023-04-17,OAK,CHC,-9,1,-5,1,Kyle Muller,Hayden Wesneski
+2023-04-18,OAK,CHC,-4,0,0,0,Ken Waldichuk,Marcus Stroman
+2023-04-19,OAK,CHC,-10,2,-4,2,Mason Miller,Justin Steele
+2023-04-21,OAK,TEX,1,5,0,4,Jp Sears,Jon Gray
+2023-04-22,OAK,TEX,-15,3,-11,2,Shintaro Fujinami,Andrew Heaney
+2023-04-23,OAK,TEX,-3,2,-2,2,Kyle Muller,Jacob Degrom
+2023-04-24,OAK,LAA,1,11,0,7,Ken Waldichuk,Jose Suarez
+2023-04-25,OAK,LAA,-2,3,-2,3,Mason Miller,Griffin Canning
+2023-04-26,OAK,LAA,-8,3,-6,3,Luis Medina,Patrick Sandoval
+2023-04-27,OAK,LAA,-1,7,-3,5,Jp Sears,Shohei Ohtani
+2023-04-28,OAK,CIN,-4,7,-2,3,Drew Rucinski,Luis Cessa
+2023-04-29,OAK,CIN,-1,2,1,2,Kyle Muller,Hunter Greene
+2023-04-30,OAK,CIN,1,5,-1,3,Ken Waldichuk,Nick Lodolo
+2023-05-02,OAK,SEA,-1,1,1,1,Mason Miller,Bryce Miller
+2023-05-03,OAK,SEA,-5,2,2,2,Jp Sears,Logan Gilbert
+2023-05-04,OAK,SEA,-2,3,-2,3,Drew Rucinski,George Kirby
+2023-05-05,OAK,KC,4,12,4,9,Kyle Muller,Brad Keller
+2023-05-06,OAK,KC,1,5,1,5,Ken Waldichuk,Brady Singer
+2023-05-07,OAK,KC,-4,1,-1,1,Mason Miller,Ryan Yarbrough
+2023-05-08,OAK,NYY,-5,2,-3,2,Jp Sears,Nestor Cortes
+2023-05-09,OAK,NYY,-5,5,-5,2,Drew Rucinski,Clarke Schmidt
+2023-05-10,OAK,NYY,-8,3,-9,2,Kyle Muller,Jhony Brito
+2023-05-11,OAK,TEX,-4,0,-3,0,Luis Medina,Nathan Eovaldi
+2023-05-12,OAK,TEX,2,9,-1,4,Ken Waldichuk,Martin Perez
+2023-05-13,OAK,TEX,-5,0,-3,0,James Kaprielian,Jon Gray
+2023-05-14,OAK,TEX,-8,3,-2,1,Jp Sears,Andrew Heaney
+2023-05-15,OAK,AZ,-3,2,-4,1,Drew Rucinski,Merrill Kelly
+2023-05-16,OAK,AZ,1,9,-2,4,Kyle Muller,Tommy Henry
+2023-05-17,OAK,AZ,-2,3,-3,0,Luis Medina,Ryne Nelson
+2023-05-19,OAK,HOU,-4,1,-3,1,Ken Waldichuk,Brandon Bielak
+2023-05-20,OAK,HOU,-1,2,0,2,Jp Sears,Hunter Brown
+2023-05-21,OAK,HOU,-2,0,-2,0,James Kaprielian,Framber Valdez
+2023-05-22,OAK,SEA,-9,2,-8,0,Kyle Muller,Luis Castillo
+2023-05-23,OAK,SEA,-1,2,-1,2,Luis Medina,Marco Gonzales
+2023-05-24,OAK,SEA,-5,1,-5,0,Austin Pruitt,Bryce Miller
+2023-05-25,OAK,SEA,-1,2,0,2,Jp Sears,Logan Gilbert
+2023-05-26,OAK,HOU,-3,2,-5,0,James Kaprielian,Hunter Brown
+2023-05-27,OAK,HOU,-3,3,-1,1,Austin Pruitt,Framber Valdez
+2023-05-28,OAK,HOU,-9,1,-3,1,Ken Waldichuk,Cristian Javier
+2023-05-29,OAK,ATL,5,7,3,4,Paul Blackburn,Michael Soroka
+2023-05-30,OAK,ATL,1,2,0,1,Jp Sears,Bryce Elder
+2023-05-31,OAK,ATL,-2,2,-1,2,James Kaprielian,Jared Shuster
+2023-06-02,OAK,MIA,-4,0,-4,0,Shintaro Fujinami,Edward Cabrera
+2023-06-03,OAK,MIA,-11,1,-9,0,Luis Medina,Eury Perez
+2023-06-04,OAK,MIA,-2,5,0,5,Paul Blackburn,Sandy Alcantara
+2023-06-05,OAK,PIT,-1,4,-1,3,Jp Sears,Johan Oviedo
+2023-06-06,OAK,PIT,9,11,3,5,James Kaprielian,Mitch Keller
+2023-06-07,OAK,PIT,4,9,4,7,Hogan Harris,Roansy Contreras
+2023-06-09,OAK,MIL,3,5,3,5,Sam Moll,Adrian Houser
+2023-06-10,OAK,MIL,1,2,1,1,Paul Blackburn,Julio Teheran
+2023-06-11,OAK,MIL,2,8,1,4,Jp Sears,Freddy Peralta
+2023-06-12,OAK,TB,1,4,1,4,James Kaprielian,Zach Eflin
+2023-06-13,OAK,TB,1,2,-1,0,Shintaro Fujinami,Jalen Beeks
+2023-06-14,OAK,TB,-3,3,-1,3,Luis Medina,Tyler Glasnow
+2023-06-15,OAK,TB,-1,3,0,3,Paul Blackburn,Taj Bradley
+2023-06-16,OAK,PHI,-5,1,-3,1,Jp Sears,Taijuan Walker
+2023-06-17,OAK,PHI,-1,2,0,1,James Kaprielian,Cristopher Sanchez
+2023-06-18,OAK,PHI,-1,2,-2,0,Hogan Harris,Zack Wheeler
+2023-06-20,OAK,CLE,-1,2,1,1,Ken Waldichuk,Aaron Civale
+2023-06-21,OAK,CLE,-1,6,0,4,Paul Blackburn,Gavin Williams
+2023-06-22,OAK,CLE,-5,1,-1,1,Jp Sears,Logan Allen
+2023-06-23,OAK,TOR,1,5,0,4,James Kaprielian,Chris Bassitt
+2023-06-24,OAK,TOR,-4,3,-4,3,Shintaro Fujinami,Jose Berrios
+2023-06-25,OAK,TOR,-11,1,-4,1,Luis Medina,Yusei Kikuchi
+2023-06-27,OAK,NYY,1,2,1,2,Paul Blackburn,Jhony Brito
+2023-06-28,OAK,NYY,-11,0,-7,0,Jp Sears,Domingo German
+2023-06-29,OAK,NYY,-6,4,-7,3,Hogan Harris,Clarke Schmidt
+2023-06-30,OAK,CWS,3,7,4,5,Luis Medina,Tanner Banks
+2023-07-01,OAK,CWS,1,7,0,3,Kyle Muller,Dylan Cease
+2023-07-02,OAK,CWS,-1,7,-4,3,Paul Blackburn,Touki Toussaint
+2023-07-04,OAK,DET,1,1,0,0,Jp Sears,Tarik Skubal
+2023-07-05,OAK,DET,9,12,9,9,Austin Pruitt,Eduardo Rodriguez
+2023-07-06,OAK,DET,-9,0,-8,0,Hogan Harris,Michael Lorenzen
+2023-07-07,OAK,BOS,-4,3,-4,1,Sam Long,Brennan Bernardino
+2023-07-08,OAK,BOS,-7,3,-8,2,Austin Pruitt,James Paxton
+2023-07-09,OAK,BOS,-1,3,0,3,Jp Sears,Tayler Scott
+2023-07-14,OAK,MIN,-1,4,0,3,Ken Waldichuk,Kenta Maeda
+2023-07-15,OAK,MIN,-3,7,0,7,Austin Pruitt,Pablo Lopez
+2023-07-16,OAK,MIN,-1,4,1,3,Jp Sears,Joe Ryan
+2023-07-17,OAK,BOS,-7,0,-6,0,Paul Blackburn,Brennan Bernardino
+2023-07-18,OAK,BOS,3,3,3,3,Luis Medina,Joe Jacques

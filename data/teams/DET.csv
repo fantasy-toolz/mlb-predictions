@@ -1,90 +1,90 @@
-2023-03-30,DET,TB,-4,0,-1,0
-2023-04-01,DET,TB,-10,2,-9,1
-2023-04-02,DET,TB,-4,1,-1,0
-2023-04-03,DET,HOU,1,7,0,4
-2023-04-04,DET,HOU,3,6,0,2
-2023-04-05,DET,HOU,-6,2,-3,1
-2023-04-06,DET,BOS,-3,3,1,3
-2023-04-08,DET,BOS,-9,5,-6,2
-2023-04-09,DET,BOS,-3,1,-1,1
-2023-04-11,DET,TOR,-6,3,-1,3
-2023-04-12,DET,TOR,-1,3,0,1
-2023-04-13,DET,TOR,2,3,1,2
-2023-04-14,DET,SF,2,7,3,4
-2023-04-15,DET,SF,1,7,-3,3
-2023-04-18,DET,CLE,1,4,0,3
-2023-04-19,DET,CLE,-1,2,0,0
-2023-04-21,DET,BAL,-1,1,0,0
-2023-04-22,DET,BAL,-4,1,-5,0
-2023-04-23,DET,BAL,-1,1,0,0
-2023-04-24,DET,MIL,2,4,2,4
-2023-04-25,DET,MIL,1,4,2,4
-2023-04-26,DET,MIL,-4,2,-3,2
-2023-04-27,DET,BAL,-3,4,1,3
-2023-04-29,DET,BAL,1,7,1,5
-2023-04-30,DET,BAL,-2,3,-1,3
-2023-05-03,DET,NYM,3,8,1,6
-2023-05-04,DET,NYM,2,2,2,2
-2023-05-05,DET,STL,1,5,-1,2
-2023-05-06,DET,STL,1,6,-2,3
-2023-05-07,DET,STL,-6,6,-2,1
-2023-05-08,DET,CLE,4,6,2,4
-2023-05-09,DET,CLE,-2,0,-1,0
-2023-05-10,DET,CLE,5,5,5,5
-2023-05-12,DET,SEA,-7,2,-4,2
-2023-05-13,DET,SEA,-5,0,-3,0
-2023-05-14,DET,SEA,2,5,-1,2
-2023-05-16,DET,PIT,4,4,4,4
-2023-05-17,DET,PIT,-8,0,-4,0
-2023-05-19,DET,WSH,2,8,7,7
-2023-05-20,DET,WSH,-3,2,-1,2
-2023-05-21,DET,WSH,-2,4,-5,1
-2023-05-22,DET,KC,3,8,0,5
-2023-05-23,DET,KC,-3,1,-3,1
-2023-05-24,DET,KC,2,6,0,1
-2023-05-25,DET,CWS,5,7,2,4
-2023-05-26,DET,CWS,-9,3,-7,1
-2023-05-27,DET,CWS,4,7,2,2
-2023-05-28,DET,CWS,1,6,3,4
-2023-05-29,DET,TEX,-5,0,-3,0
-2023-05-30,DET,TEX,-4,6,-1,6
-2023-05-31,DET,TEX,1,3,0,1
-2023-06-02,DET,CWS,-3,0,0,0
-2023-06-03,DET,CWS,-1,1,-1,0
-2023-06-04,DET,CWS,-4,2,1,2
-2023-06-05,DET,PHI,-5,3,-5,0
-2023-06-06,DET,PHI,-1,0,-1,0
-2023-06-08,DET,PHI,-1,2,0,0
-2023-06-09,DET,AZ,-5,6,-1,1
-2023-06-10,DET,AZ,-5,0,-5,0
-2023-06-11,DET,AZ,-2,5,3,5
-2023-06-12,DET,ATL,1,6,-3,0
-2023-06-14,DET,ATL,-3,7,-2,5
-2023-06-15,DET,MIN,4,8,1,5
-2023-06-16,DET,MIN,6,7,5,6
-2023-06-17,DET,MIN,-2,0,-2,0
-2023-06-18,DET,MIN,2,6,5,6
-2023-06-19,DET,KC,2,6,-3,1
-2023-06-20,DET,KC,-1,0,0,0
-2023-06-21,DET,KC,5,9,3,5
-2023-06-23,DET,MIN,-3,1,-3,0
-2023-06-24,DET,MIN,1,3,3,3
-2023-06-25,DET,MIN,-3,3,1,3
-2023-06-26,DET,TEX,5,7,2,4
-2023-06-27,DET,TEX,-5,3,2,2
-2023-06-28,DET,TEX,-8,2,-6,0
-2023-06-29,DET,TEX,3,8,1,3
-2023-06-30,DET,COL,-3,5,-2,3
-2023-07-01,DET,COL,2,4,0,0
-2023-07-02,DET,COL,5,14,4,8
-2023-07-04,DET,OAK,-1,0,0,0
-2023-07-05,DET,OAK,-9,3,-5,0
-2023-07-06,DET,OAK,9,9,7,7
-2023-07-07,DET,TOR,-10,2,-6,1
-2023-07-08,DET,TOR,2,2,2,2
-2023-07-09,DET,TOR,-1,3,3,3
-2023-07-14,DET,SEA,1,5,-7,3
-2023-07-15,DET,SEA,6,6,-7,6
-2023-07-16,DET,SEA,-2,0,-2,0
-2023-07-17,DET,KC,1,3,-2,0
-2023-07-18,DET,KC,-1,10,-2,5
+2023-03-30,DET,TB,-4,0,-3,0,Eduardo Rodriguez,Shane Mcclanahan
+2023-04-01,DET,TB,-10,2,-8,2,Spencer Turnbull,Zach Eflin
+2023-04-02,DET,TB,-4,1,-4,0,Joey Wentz,Jeffrey Springs
+2023-04-03,DET,HOU,1,7,0,4,Matthew Boyd,Hunter Brown
+2023-04-04,DET,HOU,3,6,1,3,Matt Manning,Framber Valdez
+2023-04-05,DET,HOU,-6,2,-3,1,Eduardo Rodriguez,Cristian Javier
+2023-04-06,DET,BOS,-3,3,-3,3,Spencer Turnbull,Chris Sale
+2023-04-08,DET,BOS,-9,5,-6,2,Joey Wentz,Tanner Houck
+2023-04-09,DET,BOS,-3,1,-1,1,Matthew Boyd,Kutter Crawford
+2023-04-11,DET,TOR,-6,3,-1,3,Matt Manning,Alek Manoah
+2023-04-12,DET,TOR,-1,3,0,1,Eduardo Rodriguez,Kevin Gausman
+2023-04-13,DET,TOR,2,3,1,2,Spencer Turnbull,Chris Bassitt
+2023-04-14,DET,SF,2,7,3,4,Joey Wentz,Sean Manaea
+2023-04-15,DET,SF,1,7,-3,3,Michael Lorenzen,Anthony Desclafani
+2023-04-18,DET,CLE,1,4,0,3,Eduardo Rodriguez,Hunter Gaddis
+2023-04-19,DET,CLE,-1,2,-3,0,Spencer Turnbull,Cal Quantrill
+2023-04-21,DET,BAL,-1,1,0,0,Michael Lorenzen,Tyler Wells
+2023-04-22,DET,BAL,-4,1,-5,0,Joey Wentz,Kyle Gibson
+2023-04-23,DET,BAL,-1,1,0,0,Eduardo Rodriguez,Grayson Rodriguez
+2023-04-24,DET,MIL,2,4,2,4,Matthew Boyd,Colin Rea
+2023-04-25,DET,MIL,1,4,1,4,Spencer Turnbull,Eric Lauer
+2023-04-26,DET,MIL,-4,2,-3,2,Michael Lorenzen,Freddy Peralta
+2023-04-27,DET,BAL,-3,4,2,4,Joey Wentz,Kyle Gibson
+2023-04-29,DET,BAL,1,7,-1,5,Matthew Boyd,Dean Kremer
+2023-04-30,DET,BAL,-2,3,-1,3,Spencer Turnbull,Kyle Bradish
+2023-05-03,DET,NYM,3,8,1,6,Joey Wentz,Max Scherzer
+2023-05-04,DET,NYM,2,2,2,2,Eduardo Rodriguez,Justin Verlander
+2023-05-05,DET,STL,1,5,-1,2,Matthew Boyd,Jordan Montgomery
+2023-05-06,DET,STL,1,6,-1,4,Spencer Turnbull,Adam Wainwright
+2023-05-07,DET,STL,-6,6,-4,6,Alex Faedo,Steven Matz
+2023-05-08,DET,CLE,4,6,3,5,Joey Wentz,Tanner Bibee
+2023-05-09,DET,CLE,-2,0,-1,0,Michael Lorenzen,Shane Bieber
+2023-05-10,DET,CLE,5,5,5,5,Eduardo Rodriguez,Peyton Battenfield
+2023-05-12,DET,SEA,-7,2,-4,2,Matthew Boyd,Marco Gonzales
+2023-05-13,DET,SEA,-5,0,-3,0,Alex Faedo,Bryce Miller
+2023-05-14,DET,SEA,2,5,0,3,Joey Wentz,Logan Gilbert
+2023-05-16,DET,PIT,4,4,4,4,Michael Lorenzen,Luis L
+2023-05-17,DET,PIT,-8,0,-4,0,Eduardo Rodriguez,Rich Hill
+2023-05-19,DET,WSH,2,8,5,8,Matthew Boyd,Jake Irvin
+2023-05-20,DET,WSH,-3,2,-2,2,Alex Faedo,Patrick Corbin
+2023-05-21,DET,WSH,-2,4,-3,3,Joey Wentz,Josiah Gray
+2023-05-22,DET,KC,3,8,0,5,Michael Lorenzen,Brady Singer
+2023-05-23,DET,KC,-3,1,-3,1,Eduardo Rodriguez,Mike Mayers
+2023-05-24,DET,KC,2,6,3,4,Matthew Boyd,Zack Greinke
+2023-05-25,DET,CWS,5,7,3,5,Alex Faedo,Lucas Giolito
+2023-05-26,DET,CWS,-9,3,-5,3,Joey Wentz,Lance Lynn
+2023-05-27,DET,CWS,4,7,2,2,Michael Lorenzen,Jesse Scholtens
+2023-05-28,DET,CWS,1,6,3,4,Eduardo Rodriguez,Dylan Cease
+2023-05-29,DET,TEX,-5,0,-3,0,Matthew Boyd,Nathan Eovaldi
+2023-05-30,DET,TEX,-4,6,-1,6,Alex Faedo,Martin Perez
+2023-05-31,DET,TEX,1,3,2,3,Joey Wentz,Dane Dunning
+2023-06-02,DET,CWS,-3,0,-2,0,Reese Olson,Mike Clevinger
+2023-06-03,DET,CWS,-1,1,0,1,Michael Lorenzen,Dylan Cease
+2023-06-04,DET,CWS,-4,2,0,2,Matthew Boyd,Michael Kopech
+2023-06-05,DET,PHI,-5,3,-5,0,Joey Wentz,Aaron Nola
+2023-06-06,DET,PHI,-1,0,-1,0,Tyler Alexander,Taijuan Walker
+2023-06-08,DET,PHI,-1,2,-1,0,Tyler Holton,Zack Wheeler
+2023-06-09,DET,AZ,-5,6,0,2,Michael Lorenzen,Merrill Kelly
+2023-06-10,DET,AZ,-5,0,-5,0,Matthew Boyd,Ryne Nelson
+2023-06-11,DET,AZ,-2,5,3,5,Will Vest,Zac Gallen
+2023-06-12,DET,ATL,1,6,-4,0,Mason Englert,Charlie Morton
+2023-06-14,DET,ATL,-3,7,-2,5,Michael Lorenzen,Dylan Dodd
+2023-06-15,DET,MIN,4,8,1,5,Matthew Boyd,Sonny Gray
+2023-06-16,DET,MIN,6,7,5,6,Will Vest,Joe Ryan
+2023-06-17,DET,MIN,-2,0,-2,0,Joey Wentz,Jose De
+2023-06-18,DET,MIN,2,6,5,6,Will Vest,Louie Varland
+2023-06-19,DET,KC,2,6,-3,1,Reese Olson,Jordan Lyles
+2023-06-20,DET,KC,-1,0,-1,0,Michael Lorenzen,Daniel Lynch
+2023-06-21,DET,KC,5,9,3,5,Matthew Boyd,Brady Singer
+2023-06-23,DET,MIN,-3,1,-3,1,Joey Wentz,Kenta Maeda
+2023-06-24,DET,MIN,1,3,2,3,Reese Olson,Pablo Lopez
+2023-06-25,DET,MIN,-3,3,1,3,Michael Lorenzen,Bailey Ober
+2023-06-26,DET,TEX,5,7,4,6,Matthew Boyd,Andrew Heaney
+2023-06-27,DET,TEX,-5,3,-1,2,Matt Manning,Martin Perez
+2023-06-28,DET,TEX,-8,2,-8,0,Joey Wentz,Dane Dunning
+2023-06-29,DET,TEX,3,8,0,3,Reese Olson,Cody Bradford
+2023-06-30,DET,COL,-3,5,-5,3,Michael Lorenzen,Austin Gomber
+2023-07-01,DET,COL,2,4,-1,0,Brendan White,Peter Lambert
+2023-07-02,DET,COL,5,14,2,8,Matt Manning,Connor Seabold
+2023-07-04,DET,OAK,-1,0,0,0,Tarik Skubal,Jp Sears
+2023-07-05,DET,OAK,-9,3,-9,0,Eduardo Rodriguez,Austin Pruitt
+2023-07-06,DET,OAK,9,9,8,8,Michael Lorenzen,Hogan Harris
+2023-07-07,DET,TOR,-10,2,-6,1,Alex Faedo,Alek Manoah
+2023-07-08,DET,TOR,2,2,2,2,Matt Manning,Kevin Gausman
+2023-07-09,DET,TOR,-1,3,3,3,Tarik Skubal,Chris Bassitt
+2023-07-14,DET,SEA,1,5,1,3,Eduardo Rodriguez,Luis Castillo
+2023-07-15,DET,SEA,6,6,6,6,Michael Lorenzen,George Kirby
+2023-07-16,DET,SEA,-2,0,-2,0,Reese Olson,Bryce Miller
+2023-07-17,DET,KC,1,3,-2,0,Matt Manning,Jordan Lyles
+2023-07-18,DET,KC,-1,10,-3,6,Tarik Skubal,Daniel Lynch

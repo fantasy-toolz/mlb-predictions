@@ -1,96 +1,96 @@
-2023-03-30,MIN,KC,2,2,0,0
-2023-04-01,MIN,KC,2,2,1,1
-2023-04-02,MIN,KC,3,7,1,2
-2023-04-03,MIN,MIA,10,11,7,8
-2023-04-04,MIN,MIA,-1,0,-1,0
-2023-04-05,MIN,MIA,-3,2,-1,0
-2023-04-07,MIN,HOU,1,3,-1,0
-2023-04-08,MIN,HOU,3,9,0,4
-2023-04-09,MIN,HOU,-4,1,-3,1
-2023-04-10,MIN,CWS,-1,3,-1,3
-2023-04-11,MIN,CWS,1,4,1,3
-2023-04-12,MIN,CWS,2,3,1,1
-2023-04-13,MIN,NYY,9,11,10,11
-2023-04-14,MIN,NYY,1,4,-2,0
-2023-04-15,MIN,NYY,-5,1,-4,0
-2023-04-16,MIN,NYY,-2,0,-1,0
-2023-04-18,MIN,BOS,-1,4,0,1
-2023-04-19,MIN,BOS,6,10,5,7
-2023-04-20,MIN,BOS,-6,5,-9,1
-2023-04-21,MIN,WSH,-1,2,2,2
-2023-04-22,MIN,WSH,-6,4,-3,2
-2023-04-23,MIN,WSH,2,3,2,3
-2023-04-24,MIN,NYY,5,6,4,4
-2023-04-25,MIN,NYY,4,6,0,2
-2023-04-26,MIN,NYY,-6,6,-8,3
-2023-04-27,MIN,KC,6,7,6,7
-2023-04-28,MIN,KC,2,8,6,8
-2023-04-29,MIN,KC,-1,2,0,1
-2023-04-30,MIN,KC,4,8,8,8
-2023-05-02,MIN,CWS,-1,2,0,0
-2023-05-03,MIN,CWS,-2,4,0,4
-2023-05-04,MIN,CWS,4,7,-2,0
-2023-05-05,MIN,CLE,2,2,0,0
-2023-05-06,MIN,CLE,-1,3,-3,0
-2023-05-07,MIN,CLE,-2,0,-2,0
-2023-05-09,MIN,SD,-5,1,0,1
-2023-05-10,MIN,SD,1,4,2,2
-2023-05-11,MIN,SD,2,5,-1,2
-2023-05-12,MIN,CHC,-4,2,1,2
-2023-05-13,MIN,CHC,10,11,7,7
-2023-05-14,MIN,CHC,13,16,7,8
-2023-05-15,MIN,LAD,-1,8,-3,2
-2023-05-16,MIN,LAD,4,5,2,3
-2023-05-17,MIN,LAD,-4,3,-1,1
-2023-05-19,MIN,LAA,-1,4,-3,0
-2023-05-20,MIN,LAA,4,6,2,3
-2023-05-21,MIN,LAA,-2,2,0,1
-2023-05-22,MIN,SF,-3,1,-4,0
-2023-05-23,MIN,SF,-1,3,3,3
-2023-05-24,MIN,SF,6,7,5,6
-2023-05-26,MIN,TOR,-2,1,-3,0
-2023-05-27,MIN,TOR,2,9,3,7
-2023-05-28,MIN,TOR,-3,0,-2,0
-2023-05-29,MIN,HOU,2,7,3,4
-2023-05-30,MIN,HOU,-4,1,-4,1
-2023-05-31,MIN,HOU,6,8,5,5
-2023-06-01,MIN,CLE,1,7,2,3
-2023-06-02,MIN,CLE,1,1,0,0
-2023-06-03,MIN,CLE,-2,2,1,2
-2023-06-04,MIN,CLE,-1,1,0,0
-2023-06-06,MIN,TB,-7,0,-5,0
-2023-06-07,MIN,TB,-1,1,-1,0
-2023-06-08,MIN,TB,-2,2,-2,1
-2023-06-09,MIN,TOR,1,3,1,2
-2023-06-10,MIN,TOR,5,9,-3,0
-2023-06-11,MIN,TOR,-1,6,2,6
-2023-06-13,MIN,MIL,2,7,-1,2
-2023-06-14,MIN,MIL,2,4,2,4
-2023-06-15,MIN,DET,-4,4,-1,4
-2023-06-16,MIN,DET,-6,1,-5,1
-2023-06-17,MIN,DET,2,2,2,2
-2023-06-18,MIN,DET,-2,4,-5,1
-2023-06-19,MIN,BOS,-6,3,0,3
-2023-06-20,MIN,BOS,-6,4,-2,0
-2023-06-21,MIN,BOS,1,5,0,3
-2023-06-22,MIN,BOS,6,6,6,6
-2023-06-23,MIN,DET,3,4,3,3
-2023-06-24,MIN,DET,-1,2,-3,0
-2023-06-25,MIN,DET,3,6,-1,2
-2023-06-26,MIN,ATL,-3,1,0,1
-2023-06-27,MIN,ATL,-4,2,-4,2
-2023-06-28,MIN,ATL,-3,0,-2,0
-2023-06-30,MIN,BAL,7,8,8,8
-2023-07-01,MIN,BAL,1,1,1,1
-2023-07-02,MIN,BAL,-1,1,1,1
-2023-07-03,MIN,KC,4,8,1,3
-2023-07-04,MIN,KC,6,9,4,6
-2023-07-05,MIN,KC,5,5,3,3
-2023-07-07,MIN,BAL,-2,1,0,0
-2023-07-08,MIN,BAL,-4,2,-5,1
-2023-07-09,MIN,BAL,-13,2,-7,1
-2023-07-14,MIN,OAK,1,5,-7,3
-2023-07-15,MIN,OAK,3,10,-7,7
-2023-07-16,MIN,OAK,1,5,-1,2
-2023-07-17,MIN,SEA,-1,6,-2,2
-2023-07-18,MIN,SEA,7,10,4,7
+2023-03-30,MIN,KC,2,2,2,2,Pablo Lopez,Zack Greinke
+2023-04-01,MIN,KC,2,2,2,2,Sonny Gray,Jordan Lyles
+2023-04-02,MIN,KC,3,7,2,3,Joe Ryan,Brad Keller
+2023-04-03,MIN,MIA,10,11,7,8,Tyler Mahle,Johnny Cueto
+2023-04-04,MIN,MIA,-1,0,-1,0,Kenta Maeda,Sandy Alcantara
+2023-04-05,MIN,MIA,-3,2,-1,0,Pablo Lopez,Jesus Luzardo
+2023-04-07,MIN,HOU,1,3,0,1,Sonny Gray,Jose Urquidy
+2023-04-08,MIN,HOU,3,9,1,5,Joe Ryan,Luis Garcia
+2023-04-09,MIN,HOU,-4,1,-3,1,Tyler Mahle,Hunter Brown
+2023-04-10,MIN,CWS,-1,3,-1,3,Kenta Maeda,Dylan Cease
+2023-04-11,MIN,CWS,1,4,1,3,Pablo Lopez,Lance Lynn
+2023-04-12,MIN,CWS,2,3,1,1,Sonny Gray,Lucas Giolito
+2023-04-13,MIN,NYY,9,11,10,11,Joe Ryan,Jhony Brito
+2023-04-14,MIN,NYY,1,4,-2,1,Louie Varland,Nestor Cortes
+2023-04-15,MIN,NYY,-5,1,-4,0,Tyler Mahle,Domingo German
+2023-04-16,MIN,NYY,-2,0,-2,0,Pablo Lopez,Gerrit Cole
+2023-04-18,MIN,BOS,-1,4,0,1,Sonny Gray,Chris Sale
+2023-04-19,MIN,BOS,6,10,7,10,Joe Ryan,Corey Kluber
+2023-04-20,MIN,BOS,-6,5,-9,1,Kenta Maeda,Tanner Houck
+2023-04-21,MIN,WSH,-1,2,2,2,Tyler Mahle,Trevor Williams
+2023-04-22,MIN,WSH,-6,4,-3,2,Pablo Lopez,Chad Kuhl
+2023-04-23,MIN,WSH,2,3,2,3,Bailey Ober,Patrick Corbin
+2023-04-24,MIN,NYY,5,6,5,5,Sonny Gray,Jhony Brito
+2023-04-25,MIN,NYY,4,6,4,6,Joe Ryan,Nestor Cortes
+2023-04-26,MIN,NYY,-6,6,-6,5,Kenta Maeda,Domingo German
+2023-04-27,MIN,KC,6,7,6,7,Tyler Mahle,Zack Greinke
+2023-04-28,MIN,KC,2,8,4,8,Pablo Lopez,Jordan Lyles
+2023-04-29,MIN,KC,-1,2,0,1,Bailey Ober,Brad Keller
+2023-04-30,MIN,KC,4,8,7,8,Sonny Gray,Brady Singer
+2023-05-02,MIN,CWS,-1,2,1,1,Joe Ryan,Michael Kopech
+2023-05-03,MIN,CWS,-2,4,0,4,Louie Varland,Dylan Cease
+2023-05-04,MIN,CWS,4,7,-1,1,Pablo Lopez,Lucas Giolito
+2023-05-05,MIN,CLE,2,2,2,2,Bailey Ober,Peyton Battenfield
+2023-05-06,MIN,CLE,-1,3,-1,2,Sonny Gray,Logan Allen
+2023-05-07,MIN,CLE,-2,0,-2,0,Joe Ryan,Cal Quantrill
+2023-05-09,MIN,SD,-5,1,0,1,Louie Varland,Michael Wacha
+2023-05-10,MIN,SD,1,4,2,2,Pablo Lopez,Seth Lugo
+2023-05-11,MIN,SD,2,5,-1,2,Bailey Ober,Yu Darvish
+2023-05-12,MIN,CHC,-4,2,1,2,Sonny Gray,Drew Smyly
+2023-05-13,MIN,CHC,10,11,7,7,Joe Ryan,Hayden Wesneski
+2023-05-14,MIN,CHC,13,16,7,8,Louie Varland,Marcus Stroman
+2023-05-15,MIN,LAD,-1,8,-3,2,Pablo Lopez,Noah Syndergaard
+2023-05-16,MIN,LAD,4,5,2,3,Bailey Ober,Clayton Kershaw
+2023-05-17,MIN,LAD,-4,3,0,2,Sonny Gray,Dustin May
+2023-05-19,MIN,LAA,-1,4,0,3,Joe Ryan,Reid Detmers
+2023-05-20,MIN,LAA,4,6,2,4,Louie Varland,Patrick Sandoval
+2023-05-21,MIN,LAA,-2,2,0,1,Pablo Lopez,Shohei Ohtani
+2023-05-22,MIN,SF,-3,1,-4,0,Bailey Ober,John Brebbia
+2023-05-23,MIN,SF,-1,3,1,3,Sonny Gray,Alex Cobb
+2023-05-24,MIN,SF,6,7,6,7,Joe Ryan,Anthony Desclafani
+2023-05-26,MIN,TOR,-2,1,-2,1,Louie Varland,Kevin Gausman
+2023-05-27,MIN,TOR,2,9,3,7,Pablo Lopez,Chris Bassitt
+2023-05-28,MIN,TOR,-3,0,-2,0,Bailey Ober,Jose Berrios
+2023-05-29,MIN,HOU,2,7,3,4,Sonny Gray,J P
+2023-05-30,MIN,HOU,-4,1,-4,1,Joe Ryan,Brandon Bielak
+2023-05-31,MIN,HOU,6,8,7,7,Louie Varland,Hunter Brown
+2023-06-01,MIN,CLE,1,7,-3,3,Pablo Lopez,Tanner Bibee
+2023-06-02,MIN,CLE,1,1,0,0,Bailey Ober,Aaron Civale
+2023-06-03,MIN,CLE,-2,2,1,2,Sonny Gray,Logan Allen
+2023-06-04,MIN,CLE,-1,1,0,0,Joe Ryan,Triston Mckenzie
+2023-06-06,MIN,TB,-7,0,-5,0,Louie Varland,Zach Eflin
+2023-06-07,MIN,TB,-1,1,-1,0,Pablo Lopez,Shawn Armstrong
+2023-06-08,MIN,TB,-2,2,-3,1,Bailey Ober,Yonny Chirinos
+2023-06-09,MIN,TOR,1,3,0,2,Sonny Gray,Yusei Kikuchi
+2023-06-10,MIN,TOR,5,9,-3,0,Joe Ryan,Trevor Richards
+2023-06-11,MIN,TOR,-1,6,2,6,Louie Varland,Kevin Gausman
+2023-06-13,MIN,MIL,2,7,-1,2,Pablo Lopez,Corbin Burnes
+2023-06-14,MIN,MIL,2,4,2,4,Bailey Ober,Colin Rea
+2023-06-15,MIN,DET,-4,4,-1,4,Sonny Gray,Matthew Boyd
+2023-06-16,MIN,DET,-6,1,-5,1,Joe Ryan,Will Vest
+2023-06-17,MIN,DET,2,2,2,2,Jose De,Joey Wentz
+2023-06-18,MIN,DET,-2,4,-5,1,Louie Varland,Will Vest
+2023-06-19,MIN,BOS,-6,3,-3,3,Pablo Lopez,James Paxton
+2023-06-20,MIN,BOS,-6,4,-3,0,Bailey Ober,Kutter Crawford
+2023-06-21,MIN,BOS,1,5,1,4,Sonny Gray,Garrett Whitlock
+2023-06-22,MIN,BOS,6,6,6,6,Joe Ryan,Justin Garza
+2023-06-23,MIN,DET,3,4,3,4,Kenta Maeda,Joey Wentz
+2023-06-24,MIN,DET,-1,2,-2,1,Pablo Lopez,Reese Olson
+2023-06-25,MIN,DET,3,6,-1,2,Bailey Ober,Michael Lorenzen
+2023-06-26,MIN,ATL,-3,1,0,1,Sonny Gray,Spencer Strider
+2023-06-27,MIN,ATL,-4,2,-4,2,Joe Ryan,Bryce Elder
+2023-06-28,MIN,ATL,-3,0,-2,0,Kenta Maeda,Kolby Allard
+2023-06-30,MIN,BAL,7,8,7,8,Pablo Lopez,Dean Kremer
+2023-07-01,MIN,BAL,1,1,1,1,Bailey Ober,Kyle Bradish
+2023-07-02,MIN,BAL,-1,1,1,1,Sonny Gray,Cole Irvin
+2023-07-03,MIN,KC,4,8,1,3,Joe Ryan,Austin Cox
+2023-07-04,MIN,KC,6,9,4,6,Kenta Maeda,Zack Greinke
+2023-07-05,MIN,KC,5,5,3,3,Pablo Lopez,Alec Marsh
+2023-07-07,MIN,BAL,-2,1,-1,0,Bailey Ober,Cole Irvin
+2023-07-08,MIN,BAL,-4,2,-4,2,Sonny Gray,Tyler Wells
+2023-07-09,MIN,BAL,-13,2,-12,2,Joe Ryan,Kyle Gibson
+2023-07-14,MIN,OAK,1,5,0,3,Kenta Maeda,Ken Waldichuk
+2023-07-15,MIN,OAK,3,10,0,7,Pablo Lopez,Austin Pruitt
+2023-07-16,MIN,OAK,1,5,-1,2,Joe Ryan,Jp Sears
+2023-07-17,MIN,SEA,-1,6,-2,3,Sonny Gray,Logan Gilbert
+2023-07-18,MIN,SEA,7,10,5,8,Bailey Ober,Bryan Woo

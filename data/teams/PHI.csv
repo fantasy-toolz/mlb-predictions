@@ -1,92 +1,92 @@
-2023-03-30,PHI,TEX,-4,7,-5,6
-2023-04-01,PHI,TEX,-13,3,-4,3
-2023-04-02,PHI,TEX,-1,1,-1,1
-2023-04-03,PHI,NYY,-7,1,-7,1
-2023-04-04,PHI,NYY,3,4,4,4
-2023-04-05,PHI,NYY,-2,2,-1,0
-2023-04-07,PHI,CIN,3,5,1,2
-2023-04-08,PHI,CIN,1,3,-1,0
-2023-04-09,PHI,CIN,-2,4,2,4
-2023-04-10,PHI,MIA,12,15,9,9
-2023-04-11,PHI,MIA,-4,4,-1,0
-2023-04-12,PHI,MIA,-1,2,1,2
-2023-04-13,PHI,CIN,-4,2,-3,2
-2023-04-14,PHI,CIN,5,8,4,5
-2023-04-15,PHI,CIN,-13,0,-8,0
-2023-04-16,PHI,CIN,11,14,9,12
-2023-04-18,PHI,CWS,3,7,1,5
-2023-04-19,PHI,CWS,3,5,3,5
-2023-04-20,PHI,COL,-5,0,-2,0
-2023-04-21,PHI,COL,1,4,-1,2
-2023-04-22,PHI,COL,1,4,0,3
-2023-04-23,PHI,COL,6,9,1,4
-2023-04-25,PHI,SEA,-2,3,-1,1
-2023-04-26,PHI,SEA,1,6,-1,4
-2023-04-27,PHI,SEA,1,1,1,1
-2023-04-28,PHI,HOU,2,3,1,2
-2023-04-29,PHI,HOU,5,6,2,2
-2023-04-30,PHI,HOU,-1,3,-2,2
-2023-05-01,PHI,LAD,-9,4,-6,3
-2023-05-02,PHI,LAD,-12,1,-3,1
-2023-05-03,PHI,LAD,-4,6,2,5
-2023-05-05,PHI,BOS,-2,3,0,3
-2023-05-06,PHI,BOS,-3,4,-2,3
-2023-05-07,PHI,BOS,5,6,1,2
-2023-05-09,PHI,TOR,4,8,2,3
-2023-05-10,PHI,TOR,1,2,-1,0
-2023-05-12,PHI,COL,3,6,0,0
-2023-05-13,PHI,COL,3,7,1,4
-2023-05-14,PHI,COL,-4,0,-4,0
-2023-05-15,PHI,SF,-3,3,-4,2
-2023-05-16,PHI,SF,-1,3,-2,2
-2023-05-17,PHI,SF,-3,4,0,4
-2023-05-19,PHI,CHC,-9,1,-7,1
-2023-05-20,PHI,CHC,9,12,10,10
-2023-05-21,PHI,CHC,1,2,0,0
-2023-05-22,PHI,AZ,-3,3,-2,2
-2023-05-23,PHI,AZ,-1,3,-2,1
-2023-05-24,PHI,AZ,1,6,-5,0
-2023-05-25,PHI,ATL,-3,5,-1,4
-2023-05-26,PHI,ATL,2,6,-1,2
-2023-05-27,PHI,ATL,1,2,2,2
-2023-05-28,PHI,ATL,-7,4,-8,2
-2023-05-30,PHI,NYM,-2,0,-1,0
-2023-05-31,PHI,NYM,-3,1,-3,1
-2023-06-01,PHI,NYM,-2,2,-1,2
-2023-06-02,PHI,WSH,-1,7,-6,1
-2023-06-03,PHI,WSH,2,4,0,2
-2023-06-04,PHI,WSH,8,11,1,2
-2023-06-05,PHI,DET,5,8,5,5
-2023-06-06,PHI,DET,1,1,1,1
-2023-06-08,PHI,DET,1,3,0,0
-2023-06-09,PHI,LAD,1,5,3,4
-2023-06-10,PHI,LAD,-9,0,-3,0
-2023-06-11,PHI,LAD,4,7,3,3
-2023-06-12,PHI,AZ,-1,8,0,5
-2023-06-13,PHI,AZ,12,15,7,7
-2023-06-14,PHI,AZ,1,4,2,2
-2023-06-15,PHI,AZ,1,5,1,5
-2023-06-16,PHI,OAK,5,6,3,4
-2023-06-17,PHI,OAK,1,3,-1,0
-2023-06-18,PHI,OAK,1,3,2,2
-2023-06-20,PHI,ATL,-2,2,1,1
-2023-06-22,PHI,ATL,-4,1,0,0
-2023-06-23,PHI,NYM,4,5,1,2
-2023-06-24,PHI,NYM,-2,2,0,2
-2023-06-25,PHI,NYM,1,7,-1,3
-2023-06-27,PHI,CHC,4,5,5,5
-2023-06-28,PHI,CHC,3,8,4,8
-2023-06-29,PHI,CHC,2,3,2,3
-2023-06-30,PHI,WSH,-1,1,-1,1
-2023-07-01,PHI,WSH,15,19,15,19
-2023-07-02,PHI,WSH,-1,4,-2,3
-2023-07-04,PHI,TB,2,3,1,1
-2023-07-05,PHI,TB,4,8,1,5
-2023-07-06,PHI,TB,2,3,0,1
-2023-07-07,PHI,MIA,1,4,-3,0
-2023-07-08,PHI,MIA,-2,3,-1,3
-2023-07-09,PHI,MIA,-4,3,-3,2
-2023-07-14,PHI,SD,-5,3,-7,1
-2023-07-15,PHI,SD,5,9,-7,4
-2023-07-16,PHI,SD,1,7,-2,1
-2023-07-18,PHI,MIL,1,4,2,4
+2023-03-30,PHI,TEX,-4,7,-5,6,Aaron Nola,Jacob Degrom
+2023-04-01,PHI,TEX,-13,3,-4,3,Zack Wheeler,Nathan Eovaldi
+2023-04-02,PHI,TEX,-1,1,-1,1,Bailey Falter,???
+2023-04-03,PHI,NYY,-7,1,-7,1,Taijuan Walker,Nestor Cortes
+2023-04-04,PHI,NYY,3,4,4,4,Matt Strahm,Domingo German
+2023-04-05,PHI,NYY,-2,2,-2,0,Aaron Nola,Gerrit Cole
+2023-04-07,PHI,CIN,3,5,0,2,Zack Wheeler,Hunter Greene
+2023-04-08,PHI,CIN,1,3,-1,0,Bailey Falter,Nick Lodolo
+2023-04-09,PHI,CIN,-2,4,2,4,Taijuan Walker,Connor Overton
+2023-04-10,PHI,MIA,12,15,13,13,Matt Strahm,Sandy Alcantara
+2023-04-11,PHI,MIA,-4,4,-1,3,Aaron Nola,Jesus Luzardo
+2023-04-12,PHI,MIA,-1,2,1,2,Zack Wheeler,Edward Cabrera
+2023-04-13,PHI,CIN,-4,2,-4,2,Bailey Falter,Nick Lodolo
+2023-04-14,PHI,CIN,5,8,4,5,Taijuan Walker,Connor Overton
+2023-04-15,PHI,CIN,-13,0,-8,0,Matt Strahm,Graham Ashcraft
+2023-04-16,PHI,CIN,11,14,9,12,Aaron Nola,Luis Cessa
+2023-04-18,PHI,CWS,3,7,1,5,Bailey Falter,Lance Lynn
+2023-04-19,PHI,CWS,3,5,3,5,Taijuan Walker,Mike Clevinger
+2023-04-20,PHI,COL,-5,0,-4,0,Matt Strahm,Ryan Feltner
+2023-04-21,PHI,COL,1,4,-1,2,Aaron Nola,Noah Davis
+2023-04-22,PHI,COL,1,4,1,4,Cristopher Sanchez,Kyle Freeland
+2023-04-23,PHI,COL,6,9,1,4,Zack Wheeler,Jose Urena
+2023-04-25,PHI,SEA,-2,3,-2,2,Bailey Falter,Marco Gonzales
+2023-04-26,PHI,SEA,1,6,-1,4,Taijuan Walker,Logan Gilbert
+2023-04-27,PHI,SEA,1,1,1,1,Matt Strahm,George Kirby
+2023-04-28,PHI,HOU,2,3,1,2,Aaron Nola,Framber Valdez
+2023-04-29,PHI,HOU,5,6,4,4,Zack Wheeler,Cristian Javier
+2023-04-30,PHI,HOU,-1,3,-2,2,Bailey Falter,Jose Urquidy
+2023-05-01,PHI,LAD,-9,4,-5,4,Taijuan Walker,Tony Gonsolin
+2023-05-02,PHI,LAD,-12,1,-3,1,Matt Strahm,Julio Urias
+2023-05-03,PHI,LAD,-4,6,2,5,Aaron Nola,Gavin Stone
+2023-05-05,PHI,BOS,-2,3,-2,3,Zack Wheeler,Chris Sale
+2023-05-06,PHI,BOS,-3,4,-4,3,Bailey Falter,Corey Kluber
+2023-05-07,PHI,BOS,5,6,3,4,Taijuan Walker,Tanner Houck
+2023-05-09,PHI,TOR,4,8,3,5,Aaron Nola,Alek Manoah
+2023-05-10,PHI,TOR,1,2,-1,0,Zack Wheeler,Kevin Gausman
+2023-05-12,PHI,COL,3,6,-1,0,Taijuan Walker,Austin Gomber
+2023-05-13,PHI,COL,3,7,1,4,Ranger Suarez,Ryan Feltner
+2023-05-14,PHI,COL,-4,0,-4,0,Aaron Nola,Kyle Freeland
+2023-05-15,PHI,SF,-3,3,-3,3,Connor Brogdon,Alex Wood
+2023-05-16,PHI,SF,-1,3,-2,2,Zack Wheeler,Alex Cobb
+2023-05-17,PHI,SF,-3,4,0,4,Taijuan Walker,Ross Stripling
+2023-05-19,PHI,CHC,-9,1,-7,1,Ranger Suarez,Marcus Stroman
+2023-05-20,PHI,CHC,9,12,8,10,Aaron Nola,Jameson Taillon
+2023-05-21,PHI,CHC,1,2,0,0,Taijuan Walker,Justin Steele
+2023-05-22,PHI,AZ,-3,3,-2,2,Zack Wheeler,Tommy Henry
+2023-05-23,PHI,AZ,-1,3,-2,1,Matt Strahm,Ryne Nelson
+2023-05-24,PHI,AZ,1,6,-2,3,Ranger Suarez,Zac Gallen
+2023-05-25,PHI,ATL,-3,5,-1,4,Aaron Nola,Dylan Dodd
+2023-05-26,PHI,ATL,2,6,1,4,Taijuan Walker,Jared Shuster
+2023-05-27,PHI,ATL,1,2,2,2,Zack Wheeler,Charlie Morton
+2023-05-28,PHI,ATL,-7,4,-8,2,Dylan Covey,Spencer Strider
+2023-05-30,PHI,NYM,-2,0,-1,0,Ranger Suarez,Kodai Senga
+2023-05-31,PHI,NYM,-3,1,-3,1,Aaron Nola,Carlos Carrasco
+2023-06-01,PHI,NYM,-2,2,-2,2,Taijuan Walker,Max Scherzer
+2023-06-02,PHI,WSH,-1,7,-3,4,Zack Wheeler,Josiah Gray
+2023-06-03,PHI,WSH,2,4,1,3,Matt Strahm,Mackenzie Gore
+2023-06-04,PHI,WSH,8,11,4,5,Ranger Suarez,Trevor Williams
+2023-06-05,PHI,DET,5,8,5,5,Aaron Nola,Joey Wentz
+2023-06-06,PHI,DET,1,1,1,1,Taijuan Walker,Tyler Alexander
+2023-06-08,PHI,DET,1,3,1,1,Zack Wheeler,Tyler Holton
+2023-06-09,PHI,LAD,1,5,3,4,Ranger Suarez,Victor Gonzalez
+2023-06-10,PHI,LAD,-9,0,-3,0,Aaron Nola,Bobby Miller
+2023-06-11,PHI,LAD,4,7,3,4,Taijuan Walker,Caleb Ferguson
+2023-06-12,PHI,AZ,-1,8,-4,5,Matt Strahm,Tommy Henry
+2023-06-13,PHI,AZ,12,15,6,7,Zack Wheeler,Zach Davies
+2023-06-14,PHI,AZ,1,4,3,3,Ranger Suarez,Merrill Kelly
+2023-06-15,PHI,AZ,1,5,1,5,Aaron Nola,Ryne Nelson
+2023-06-16,PHI,OAK,5,6,3,4,Taijuan Walker,Jp Sears
+2023-06-17,PHI,OAK,1,3,0,1,Cristopher Sanchez,James Kaprielian
+2023-06-18,PHI,OAK,1,3,2,2,Zack Wheeler,Hogan Harris
+2023-06-20,PHI,ATL,-2,2,0,1,Ranger Suarez,Spencer Strider
+2023-06-22,PHI,ATL,-4,1,0,0,Aaron Nola,Bryce Elder
+2023-06-23,PHI,NYM,4,5,4,5,Taijuan Walker,Kodai Senga
+2023-06-24,PHI,NYM,-2,2,-2,2,Cristopher Sanchez,Max Scherzer
+2023-06-25,PHI,NYM,1,7,-2,3,Zack Wheeler,Carlos Carrasco
+2023-06-27,PHI,CHC,4,5,5,5,Ranger Suarez,Jameson Taillon
+2023-06-28,PHI,CHC,3,8,4,8,Aaron Nola,Drew Smyly
+2023-06-29,PHI,CHC,2,3,2,3,Taijuan Walker,Kyle Hendricks
+2023-06-30,PHI,WSH,-1,1,-1,1,Cristopher Sanchez,Josiah Gray
+2023-07-01,PHI,WSH,15,19,15,19,Zack Wheeler,Mackenzie Gore
+2023-07-02,PHI,WSH,-1,4,-2,3,Ranger Suarez,Trevor Williams
+2023-07-04,PHI,TB,2,3,1,1,Aaron Nola,Zach Eflin
+2023-07-05,PHI,TB,4,8,2,6,Taijuan Walker,Zack Littell
+2023-07-06,PHI,TB,2,3,0,1,Cristopher Sanchez,Shawn Armstrong
+2023-07-07,PHI,MIA,1,4,-2,1,Zack Wheeler,Sandy Alcantara
+2023-07-08,PHI,MIA,-2,3,-1,3,Ranger Suarez,Braxton Garrett
+2023-07-09,PHI,MIA,-4,3,-3,2,Aaron Nola,Jesus Luzardo
+2023-07-14,PHI,SD,-5,3,-3,1,Cristopher Sanchez,Yu Darvish
+2023-07-15,PHI,SD,5,9,3,6,Taijuan Walker,Blake Snell
+2023-07-16,PHI,SD,1,7,2,5,Zack Wheeler,Seth Lugo
+2023-07-18,PHI,MIL,1,4,2,4,Aaron Nola,Julio Teheran

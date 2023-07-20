@@ -1,94 +1,94 @@
-2023-03-30,LAD,AZ,6,8,3,5
-2023-03-31,LAD,AZ,-1,1,0,0
-2023-04-01,LAD,AZ,9,10,7,8
-2023-04-02,LAD,AZ,-1,1,0,1
-2023-04-03,LAD,COL,9,13,5,9
-2023-04-04,LAD,COL,3,5,4,4
-2023-04-06,LAD,AZ,3,5,3,3
-2023-04-07,LAD,AZ,-3,3,1,3
-2023-04-08,LAD,AZ,-4,8,-2,5
-2023-04-09,LAD,AZ,-5,6,-8,3
-2023-04-10,LAD,SF,8,9,3,4
-2023-04-11,LAD,SF,-5,0,-2,0
-2023-04-12,LAD,SF,5,10,0,3
-2023-04-14,LAD,CHC,-6,2,-2,1
-2023-04-15,LAD,CHC,1,2,-1,0
-2023-04-16,LAD,CHC,-1,2,0,1
-2023-04-17,LAD,NYM,-2,6,0,5
-2023-04-18,LAD,NYM,5,5,3,3
-2023-04-19,LAD,NYM,-2,3,-1,1
-2023-04-20,LAD,CHC,4,6,0,2
-2023-04-21,LAD,CHC,-13,0,-12,0
-2023-04-22,LAD,CHC,5,9,1,3
-2023-04-23,LAD,CHC,4,7,-1,2
-2023-04-25,LAD,PIT,1,8,-4,3
-2023-04-26,LAD,PIT,-7,1,-2,0
-2023-04-27,LAD,PIT,-4,2,-1,2
-2023-04-28,LAD,STL,4,7,3,5
-2023-04-29,LAD,STL,1,1,1,1
-2023-04-30,LAD,STL,3,6,2,5
-2023-05-01,LAD,PHI,9,13,6,9
-2023-05-02,LAD,PHI,12,13,3,4
-2023-05-03,LAD,PHI,4,10,-2,3
-2023-05-05,LAD,SD,-3,2,-3,1
-2023-05-06,LAD,SD,1,2,2,2
-2023-05-07,LAD,SD,3,5,-2,0
-2023-05-08,LAD,MIL,-6,3,-3,0
-2023-05-09,LAD,MIL,4,6,4,4
-2023-05-10,LAD,MIL,7,8,3,4
-2023-05-12,LAD,SD,2,4,2,2
-2023-05-13,LAD,SD,2,4,2,4
-2023-05-14,LAD,SD,4,4,2,2
-2023-05-15,LAD,MIN,1,9,3,5
-2023-05-16,LAD,MIN,-4,1,-2,1
-2023-05-17,LAD,MIN,4,7,1,2
-2023-05-18,LAD,STL,-8,8,-7,2
-2023-05-19,LAD,STL,5,5,1,1
-2023-05-20,LAD,STL,-1,5,-3,0
-2023-05-21,LAD,STL,-5,5,-4,3
-2023-05-22,LAD,ATL,2,8,1,6
-2023-05-23,LAD,ATL,7,8,3,4
-2023-05-24,LAD,ATL,-1,3,-2,1
-2023-05-26,LAD,TB,-6,3,-4,2
-2023-05-27,LAD,TB,1,6,-1,3
-2023-05-28,LAD,TB,-1,10,-2,8
-2023-05-29,LAD,WSH,5,6,5,6
-2023-05-30,LAD,WSH,6,9,3,4
-2023-05-31,LAD,WSH,-4,6,-1,4
-2023-06-02,LAD,NYY,4,8,5,7
-2023-06-03,LAD,NYY,-3,3,-3,1
-2023-06-04,LAD,NYY,-3,1,0,0
-2023-06-06,LAD,CIN,-1,8,4,8
-2023-06-07,LAD,CIN,-2,6,0,6
-2023-06-08,LAD,CIN,6,6,6,6
-2023-06-09,LAD,PHI,-1,4,-3,1
-2023-06-10,LAD,PHI,9,9,3,3
-2023-06-11,LAD,PHI,-4,3,-3,0
-2023-06-13,LAD,CWS,4,5,4,4
-2023-06-14,LAD,CWS,-4,4,-2,0
-2023-06-15,LAD,CWS,1,5,-4,0
-2023-06-16,LAD,SF,-2,5,4,4
-2023-06-17,LAD,SF,-15,0,-4,0
-2023-06-18,LAD,SF,-4,3,-1,2
-2023-06-20,LAD,LAA,2,2,0,0
-2023-06-21,LAD,LAA,2,2,1,1
-2023-06-23,LAD,HOU,1,3,1,3
-2023-06-24,LAD,HOU,1,8,-3,3
-2023-06-25,LAD,HOU,-1,5,-3,1
-2023-06-27,LAD,COL,5,5,4,4
-2023-06-28,LAD,COL,-1,8,2,6
-2023-06-29,LAD,COL,11,14,8,11
-2023-06-30,LAD,KC,6,9,3,5
-2023-07-01,LAD,KC,-2,4,-2,3
-2023-07-02,LAD,KC,-8,1,-6,1
-2023-07-03,LAD,PIT,3,5,4,5
-2023-07-04,LAD,PIT,-2,7,1,6
-2023-07-05,LAD,PIT,2,6,2,6
-2023-07-06,LAD,PIT,3,5,0,2
-2023-07-07,LAD,LAA,7,11,2,5
-2023-07-08,LAD,LAA,5,10,8,8
-2023-07-14,LAD,NYM,6,6,-7,3
-2023-07-15,LAD,NYM,4,5,-7,1
-2023-07-16,LAD,NYM,-1,1,-1,0
-2023-07-17,LAD,BAL,2,6,-3,1
-2023-07-18,LAD,BAL,7,10,4,5
+2023-03-30,LAD,AZ,6,8,5,7,Julio Urias,Zac Gallen
+2023-03-31,LAD,AZ,-1,1,0,0,Dustin May,Merrill Kelly
+2023-04-01,LAD,AZ,9,10,7,8,Clayton Kershaw,Madison Bumgarner
+2023-04-02,LAD,AZ,-1,1,0,1,Noah Syndergaard,Zach Davies
+2023-04-03,LAD,COL,9,13,5,9,Michael Grove,Ryan Feltner
+2023-04-04,LAD,COL,3,5,4,4,Julio Urias,German Marquez
+2023-04-06,LAD,AZ,3,5,3,4,Dustin May,Merrill Kelly
+2023-04-07,LAD,AZ,-3,3,-1,3,Clayton Kershaw,Madison Bumgarner
+2023-04-08,LAD,AZ,-4,8,-3,6,Noah Syndergaard,Zach Davies
+2023-04-09,LAD,AZ,-5,6,-8,3,Michael Grove,Ryne Nelson
+2023-04-10,LAD,SF,8,9,3,4,Julio Urias,Logan Webb
+2023-04-11,LAD,SF,-5,0,-2,0,Dustin May,Alex Wood
+2023-04-12,LAD,SF,5,10,5,8,Clayton Kershaw,Alex Cobb
+2023-04-14,LAD,CHC,-6,2,-2,1,Noah Syndergaard,Justin Steele
+2023-04-15,LAD,CHC,1,2,-1,0,Michael Grove,Jameson Taillon
+2023-04-16,LAD,CHC,-1,2,-2,1,Julio Urias,Drew Smyly
+2023-04-17,LAD,NYM,-2,6,1,6,Dustin May,David Peterson
+2023-04-18,LAD,NYM,5,5,3,3,Clayton Kershaw,Tylor Megill
+2023-04-19,LAD,NYM,-2,3,-1,1,Noah Syndergaard,Max Scherzer
+2023-04-20,LAD,CHC,4,6,0,2,Michael Grove,Javier Assad
+2023-04-21,LAD,CHC,-13,0,-13,0,Julio Urias,Drew Smyly
+2023-04-22,LAD,CHC,5,9,2,4,Dustin May,Hayden Wesneski
+2023-04-23,LAD,CHC,4,7,2,5,Clayton Kershaw,Marcus Stroman
+2023-04-25,LAD,PIT,1,8,-2,5,Noah Syndergaard,Johan Oviedo
+2023-04-26,LAD,PIT,-7,1,-3,0,Tony Gonsolin,Roansy Contreras
+2023-04-27,LAD,PIT,-4,2,-4,2,Julio Urias,Mitch Keller
+2023-04-28,LAD,STL,4,7,3,5,Dustin May,Jack Flaherty
+2023-04-29,LAD,STL,1,1,1,1,Clayton Kershaw,Jordan Montgomery
+2023-04-30,LAD,STL,3,6,2,5,Noah Syndergaard,Jake Woodford
+2023-05-01,LAD,PHI,9,13,5,9,Tony Gonsolin,Taijuan Walker
+2023-05-02,LAD,PHI,12,13,3,4,Julio Urias,Matt Strahm
+2023-05-03,LAD,PHI,4,10,-2,3,Gavin Stone,Aaron Nola
+2023-05-05,LAD,SD,-3,2,-3,1,Clayton Kershaw,Yu Darvish
+2023-05-06,LAD,SD,1,2,2,2,Dustin May,Blake Snell
+2023-05-07,LAD,SD,3,5,-1,1,Julio Urias,Joe Musgrove
+2023-05-08,LAD,MIL,-6,3,-2,1,Tony Gonsolin,Freddy Peralta
+2023-05-09,LAD,MIL,4,6,6,6,Noah Syndergaard,Eric Lauer
+2023-05-10,LAD,MIL,7,8,7,8,Clayton Kershaw,Wade Miley
+2023-05-12,LAD,SD,2,4,2,2,Dustin May,Blake Snell
+2023-05-13,LAD,SD,2,4,2,4,Julio Urias,Joe Musgrove
+2023-05-14,LAD,SD,4,4,4,4,Tony Gonsolin,Ryan Weathers
+2023-05-15,LAD,MIN,1,9,3,5,Noah Syndergaard,Pablo Lopez
+2023-05-16,LAD,MIN,-4,1,-2,1,Clayton Kershaw,Bailey Ober
+2023-05-17,LAD,MIN,4,7,0,2,Dustin May,Sonny Gray
+2023-05-18,LAD,STL,-8,8,-2,7,Julio Urias,Adam Wainwright
+2023-05-19,LAD,STL,5,5,1,1,Tony Gonsolin,Steven Matz
+2023-05-20,LAD,STL,-1,5,0,3,Noah Syndergaard,Miles Mikolas
+2023-05-21,LAD,STL,-5,5,-4,3,Clayton Kershaw,Jack Flaherty
+2023-05-22,LAD,ATL,2,8,2,7,Gavin Stone,Charlie Morton
+2023-05-23,LAD,ATL,7,8,3,4,Bobby Miller,Spencer Strider
+2023-05-24,LAD,ATL,-1,3,-2,1,Tony Gonsolin,Bryce Elder
+2023-05-26,LAD,TB,-6,3,-4,2,Noah Syndergaard,Jalen Beeks
+2023-05-27,LAD,TB,1,6,-1,3,Clayton Kershaw,Tyler Glasnow
+2023-05-28,LAD,TB,-1,10,0,10,Gavin Stone,Josh Fleming
+2023-05-29,LAD,WSH,5,6,5,6,Bobby Miller,Trevor Williams
+2023-05-30,LAD,WSH,6,9,3,4,Tony Gonsolin,Jake Irvin
+2023-05-31,LAD,WSH,-4,6,-1,4,Noah Syndergaard,Patrick Corbin
+2023-06-02,LAD,NYY,4,8,6,8,Clayton Kershaw,Luis Severino
+2023-06-03,LAD,NYY,-3,3,-4,1,Michael Grove,Gerrit Cole
+2023-06-04,LAD,NYY,-3,1,0,0,Bobby Miller,Domingo German
+2023-06-06,LAD,CIN,-1,8,3,8,Tony Gonsolin,Luke Weaver
+2023-06-07,LAD,CIN,-2,6,0,6,Noah Syndergaard,Brandon Williamson
+2023-06-08,LAD,CIN,6,6,6,6,Clayton Kershaw,Graham Ashcraft
+2023-06-09,LAD,PHI,-1,4,-3,1,Victor Gonzalez,Ranger Suarez
+2023-06-10,LAD,PHI,9,9,3,3,Bobby Miller,Aaron Nola
+2023-06-11,LAD,PHI,-4,3,-3,1,Caleb Ferguson,Taijuan Walker
+2023-06-13,LAD,CWS,4,5,5,5,Tony Gonsolin,Lance Lynn
+2023-06-14,LAD,CWS,-4,4,2,4,Clayton Kershaw,Mike Clevinger
+2023-06-15,LAD,CWS,1,5,0,4,Michael Grove,Dylan Cease
+2023-06-16,LAD,SF,-2,5,4,4,Emmet Sheehan,John Brebbia
+2023-06-17,LAD,SF,-15,0,-9,0,Bobby Miller,Alex Wood
+2023-06-18,LAD,SF,-4,3,-5,2,Tony Gonsolin,Logan Webb
+2023-06-20,LAD,LAA,2,2,0,0,Clayton Kershaw,Reid Detmers
+2023-06-21,LAD,LAA,2,2,1,1,Brusdar Graterol,Shohei Ohtani
+2023-06-23,LAD,HOU,1,3,1,3,Emmet Sheehan,J P
+2023-06-24,LAD,HOU,1,8,-4,3,Bobby Miller,Ronel Blanco
+2023-06-25,LAD,HOU,-1,5,-3,1,Tony Gonsolin,Hunter Brown
+2023-06-27,LAD,COL,5,5,5,5,Clayton Kershaw,Connor Seabold
+2023-06-28,LAD,COL,-1,8,-3,6,Michael Grove,Kyle Freeland
+2023-06-29,LAD,COL,11,14,9,12,Emmet Sheehan,Chase Anderson
+2023-06-30,LAD,KC,6,9,2,5,Bobby Miller,Alec Marsh
+2023-07-01,LAD,KC,-2,4,-2,3,Julio Urias,Daniel Lynch
+2023-07-02,LAD,KC,-8,1,-8,1,Tony Gonsolin,Brady Singer
+2023-07-03,LAD,PIT,3,5,3,5,Michael Grove,Mitch Keller
+2023-07-04,LAD,PIT,-2,7,0,6,Emmet Sheehan,Luis L
+2023-07-05,LAD,PIT,2,6,2,6,Bobby Miller,Osvaldo Bido
+2023-07-06,LAD,PIT,3,5,2,4,Julio Urias,Johan Oviedo
+2023-07-07,LAD,LAA,7,11,4,7,Tony Gonsolin,Griffin Canning
+2023-07-08,LAD,LAA,5,10,7,9,Alex Vesia,Reid Detmers
+2023-07-14,LAD,NYM,6,6,4,4,Julio Urias,Justin Verlander
+2023-07-15,LAD,NYM,4,5,0,1,Tony Gonsolin,Kodai Senga
+2023-07-16,LAD,NYM,-1,1,-1,0,Bobby Miller,Max Scherzer
+2023-07-17,LAD,BAL,2,6,2,6,Emmet Sheehan,Grayson Rodriguez
+2023-07-18,LAD,BAL,7,10,4,5,Michael Grove,Tyler Wells

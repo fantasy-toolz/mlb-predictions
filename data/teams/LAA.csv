@@ -1,96 +1,96 @@
-2023-03-30,LAA,OAK,-1,1,1,1
-2023-04-01,LAA,OAK,12,13,10,11
-2023-04-02,LAA,OAK,6,6,6,6
-2023-04-03,LAA,SEA,4,7,1,4
-2023-04-04,LAA,SEA,-9,2,-8,0
-2023-04-05,LAA,SEA,1,4,1,2
-2023-04-07,LAA,TOR,-1,3,2,3
-2023-04-08,LAA,TOR,4,9,2,7
-2023-04-09,LAA,TOR,-1,11,6,6
-2023-04-10,LAA,WSH,-2,4,-1,4
-2023-04-11,LAA,WSH,2,2,1,1
-2023-04-12,LAA,WSH,1,3,0,2
-2023-04-14,LAA,BOS,-2,3,-1,2
-2023-04-15,LAA,BOS,-2,7,0,6
-2023-04-16,LAA,BOS,-1,1,-1,1
-2023-04-17,LAA,BOS,1,5,4,5
-2023-04-18,LAA,NYY,3,5,3,5
-2023-04-19,LAA,NYY,-1,2,-1,1
-2023-04-20,LAA,NYY,-6,3,-3,2
-2023-04-21,LAA,KC,2,2,2,2
-2023-04-22,LAA,KC,-3,8,1,4
-2023-04-23,LAA,KC,1,4,0,1
-2023-04-24,LAA,OAK,-1,10,-5,2
-2023-04-25,LAA,OAK,2,5,2,4
-2023-04-26,LAA,OAK,8,11,5,8
-2023-04-27,LAA,OAK,1,8,2,7
-2023-04-28,LAA,MIL,-1,1,0,1
-2023-04-29,LAA,MIL,-2,5,-6,1
-2023-04-30,LAA,MIL,3,3,2,2
-2023-05-02,LAA,STL,4,5,3,4
-2023-05-03,LAA,STL,2,6,-1,3
-2023-05-04,LAA,STL,4,11,6,11
-2023-05-05,LAA,TEX,1,5,-3,0
-2023-05-06,LAA,TEX,-9,1,-3,0
-2023-05-07,LAA,TEX,-8,8,-4,7
-2023-05-08,LAA,HOU,2,6,0,4
-2023-05-09,LAA,HOU,-2,1,-2,1
-2023-05-10,LAA,HOU,-1,4,-3,2
-2023-05-12,LAA,CLE,1,5,0,3
-2023-05-13,LAA,CLE,-2,6,3,3
-2023-05-14,LAA,CLE,-1,3,-1,0
-2023-05-15,LAA,BAL,4,9,4,9
-2023-05-16,LAA,BAL,-4,3,-2,2
-2023-05-17,LAA,BAL,-2,1,-2,1
-2023-05-18,LAA,BAL,1,6,0,3
-2023-05-19,LAA,MIN,1,5,3,3
-2023-05-20,LAA,MIN,-4,2,-2,1
-2023-05-21,LAA,MIN,2,4,0,1
-2023-05-22,LAA,BOS,1,2,1,1
-2023-05-23,LAA,BOS,4,4,2,2
-2023-05-24,LAA,BOS,4,7,6,7
-2023-05-26,LAA,MIA,-4,2,-1,1
-2023-05-27,LAA,MIA,-3,5,-1,1
-2023-05-28,LAA,MIA,-2,0,-1,0
-2023-05-29,LAA,CWS,2,6,1,4
-2023-05-30,LAA,CWS,-4,3,-3,3
-2023-05-31,LAA,CWS,7,12,7,8
-2023-06-01,LAA,HOU,-3,2,-2,2
-2023-06-02,LAA,HOU,-4,2,-3,0
-2023-06-03,LAA,HOU,-3,6,-6,1
-2023-06-04,LAA,HOU,1,2,-1,0
-2023-06-06,LAA,CHC,3,7,2,6
-2023-06-07,LAA,CHC,4,6,0,2
-2023-06-08,LAA,CHC,2,3,1,2
-2023-06-09,LAA,SEA,1,5,0,3
-2023-06-10,LAA,SEA,-4,2,-3,2
-2023-06-11,LAA,SEA,5,9,4,7
-2023-06-12,LAA,TEX,3,9,-1,4
-2023-06-13,LAA,TEX,4,7,-2,1
-2023-06-14,LAA,TEX,-3,3,0,1
-2023-06-15,LAA,TEX,2,5,0,2
-2023-06-16,LAA,KC,3,3,1,1
-2023-06-17,LAA,KC,-1,9,2,4
-2023-06-18,LAA,KC,3,5,2,4
-2023-06-20,LAA,LAD,-2,0,0,0
-2023-06-21,LAA,LAD,-2,0,-1,0
-2023-06-23,LAA,COL,-3,4,2,4
-2023-06-24,LAA,COL,24,25,23,23
-2023-06-25,LAA,COL,-1,3,-3,0
-2023-06-26,LAA,CWS,1,2,0,1
-2023-06-27,LAA,CWS,2,4,2,2
-2023-06-28,LAA,CWS,-6,5,-7,2
-2023-06-29,LAA,CWS,-2,7,-2,5
-2023-06-30,LAA,AZ,-4,2,-5,0
-2023-07-01,LAA,AZ,-2,1,1,1
-2023-07-02,LAA,AZ,3,5,2,4
-2023-07-03,LAA,SD,-7,3,-4,0
-2023-07-04,LAA,SD,-3,5,-1,1
-2023-07-05,LAA,SD,-2,3,0,2
-2023-07-07,LAA,LAD,-7,4,-2,3
-2023-07-08,LAA,LAD,-5,5,-8,0
-2023-07-14,LAA,HOU,-2,5,-7,4
-2023-07-15,LAA,HOU,1,13,-7,3
-2023-07-16,LAA,HOU,-1,8,2,3
-2023-07-17,LAA,NYY,1,4,0,0
-2023-07-18,LAA,NYY,4,5,4,5
+2023-03-30,LAA,OAK,-1,1,1,1,Shohei Ohtani,Kyle Muller
+2023-04-01,LAA,OAK,12,13,11,12,Patrick Sandoval,Shintaro Fujinami
+2023-04-02,LAA,OAK,6,6,6,6,Tyler Anderson,Ken Waldichuk
+2023-04-03,LAA,SEA,4,7,1,4,Reid Detmers,George Kirby
+2023-04-04,LAA,SEA,-9,2,-8,0,Jose Suarez,Luis Castillo
+2023-04-05,LAA,SEA,1,4,1,2,Shohei Ohtani,Chris Flexen
+2023-04-07,LAA,TOR,-1,3,2,3,Patrick Sandoval,Chris Bassitt
+2023-04-08,LAA,TOR,4,9,2,7,Tyler Anderson,Jose Berrios
+2023-04-09,LAA,TOR,-1,11,0,6,Reid Detmers,Yusei Kikuchi
+2023-04-10,LAA,WSH,-2,4,-1,4,Jose Suarez,Patrick Corbin
+2023-04-11,LAA,WSH,2,2,2,2,Shohei Ohtani,Josiah Gray
+2023-04-12,LAA,WSH,1,3,1,3,Griffin Canning,Mackenzie Gore
+2023-04-14,LAA,BOS,-2,3,-3,2,Patrick Sandoval,Tanner Houck
+2023-04-15,LAA,BOS,-2,7,1,7,Tyler Anderson,Nick Pivetta
+2023-04-16,LAA,BOS,-1,1,-1,1,Reid Detmers,Garrett Whitlock
+2023-04-17,LAA,BOS,1,5,2,5,Shohei Ohtani,Brayan Bello
+2023-04-18,LAA,NYY,3,5,3,5,Jose Suarez,Clarke Schmidt
+2023-04-19,LAA,NYY,-1,2,-1,1,Griffin Canning,Jhony Brito
+2023-04-20,LAA,NYY,-6,3,-3,2,Patrick Sandoval,Nestor Cortes
+2023-04-21,LAA,KC,2,2,2,2,Shohei Ohtani,Taylor Clarke
+2023-04-22,LAA,KC,-3,8,0,6,Tyler Anderson,Zack Greinke
+2023-04-23,LAA,KC,1,4,2,4,Reid Detmers,Jordan Lyles
+2023-04-24,LAA,OAK,-1,10,0,7,Jose Suarez,Ken Waldichuk
+2023-04-25,LAA,OAK,2,5,2,5,Griffin Canning,Mason Miller
+2023-04-26,LAA,OAK,8,11,6,9,Patrick Sandoval,Luis Medina
+2023-04-27,LAA,OAK,1,8,3,8,Shohei Ohtani,Jp Sears
+2023-04-28,LAA,MIL,-1,1,0,1,Tyler Anderson,Wade Miley
+2023-04-29,LAA,MIL,-2,5,-6,1,Reid Detmers,Corbin Burnes
+2023-04-30,LAA,MIL,3,3,2,2,Jose Suarez,Colin Rea
+2023-05-02,LAA,STL,4,5,4,5,Patrick Sandoval,Steven Matz
+2023-05-03,LAA,STL,2,6,-1,3,Shohei Ohtani,Miles Mikolas
+2023-05-04,LAA,STL,4,11,4,11,Griffin Canning,Jack Flaherty
+2023-05-05,LAA,TEX,1,5,-3,0,Tyler Anderson,Dane Dunning
+2023-05-06,LAA,TEX,-9,1,-3,0,Reid Detmers,Nathan Eovaldi
+2023-05-07,LAA,TEX,-8,8,-4,7,Jose Suarez,Martin Perez
+2023-05-08,LAA,HOU,2,6,0,4,Patrick Sandoval,Hunter Brown
+2023-05-09,LAA,HOU,-2,1,-2,1,Shohei Ohtani,Framber Valdez
+2023-05-10,LAA,HOU,-1,4,-3,2,Griffin Canning,Cristian Javier
+2023-05-12,LAA,CLE,1,5,0,3,Tyler Anderson,Logan Allen
+2023-05-13,LAA,CLE,-2,6,1,3,Reid Detmers,Cal Quantrill
+2023-05-14,LAA,CLE,-1,3,-1,0,Patrick Sandoval,Tanner Bibee
+2023-05-15,LAA,BAL,4,9,4,9,Shohei Ohtani,Grayson Rodriguez
+2023-05-16,LAA,BAL,-4,3,-4,3,Chase Silseth,Dean Kremer
+2023-05-17,LAA,BAL,-2,1,-2,1,Griffin Canning,Kyle Bradish
+2023-05-18,LAA,BAL,1,6,1,4,Tyler Anderson,Tyler Wells
+2023-05-19,LAA,MIN,1,5,0,3,Reid Detmers,Joe Ryan
+2023-05-20,LAA,MIN,-4,2,-2,2,Patrick Sandoval,Louie Varland
+2023-05-21,LAA,MIN,2,4,0,1,Shohei Ohtani,Pablo Lopez
+2023-05-22,LAA,BOS,1,2,0,1,Jaime Barria,Tanner Houck
+2023-05-23,LAA,BOS,4,4,2,2,Griffin Canning,Brayan Bello
+2023-05-24,LAA,BOS,4,7,6,7,Tyler Anderson,James Paxton
+2023-05-26,LAA,MIA,-4,2,-1,2,Reid Detmers,Jesus Luzardo
+2023-05-27,LAA,MIA,-3,5,1,3,Shohei Ohtani,Edward Cabrera
+2023-05-28,LAA,MIA,-2,0,-2,0,Patrick Sandoval,Eury Perez
+2023-05-29,LAA,CWS,2,6,1,4,Griffin Canning,Michael Kopech
+2023-05-30,LAA,CWS,-4,3,-4,3,Tyler Anderson,Lucas Giolito
+2023-05-31,LAA,CWS,7,12,7,8,Jaime Barria,Lance Lynn
+2023-06-01,LAA,HOU,-3,2,-2,2,Reid Detmers,Ronel Blanco
+2023-06-02,LAA,HOU,-4,2,-5,0,Shohei Ohtani,Framber Valdez
+2023-06-03,LAA,HOU,-3,6,-6,1,Patrick Sandoval,Cristian Javier
+2023-06-04,LAA,HOU,1,2,0,1,Griffin Canning,J P
+2023-06-06,LAA,CHC,3,7,2,6,Tyler Anderson,Hayden Wesneski
+2023-06-07,LAA,CHC,4,6,4,6,Jaime Barria,Jameson Taillon
+2023-06-08,LAA,CHC,2,3,2,3,Reid Detmers,Drew Smyly
+2023-06-09,LAA,SEA,1,5,2,5,Shohei Ohtani,Luis Castillo
+2023-06-10,LAA,SEA,-4,2,-3,2,Patrick Sandoval,Bryan Woo
+2023-06-11,LAA,SEA,5,9,3,7,Griffin Canning,Logan Gilbert
+2023-06-12,LAA,TEX,3,9,-1,4,Tyler Anderson,Dane Dunning
+2023-06-13,LAA,TEX,4,7,1,4,Jaime Barria,Cody Bradford
+2023-06-14,LAA,TEX,-3,3,0,1,Reid Detmers,Andrew Heaney
+2023-06-15,LAA,TEX,2,5,0,2,Shohei Ohtani,Nathan Eovaldi
+2023-06-16,LAA,KC,3,3,2,2,Patrick Sandoval,Brady Singer
+2023-06-17,LAA,KC,-1,9,5,7,Griffin Canning,Mike Mayers
+2023-06-18,LAA,KC,3,5,2,4,Tyler Anderson,Zack Greinke
+2023-06-20,LAA,LAD,-2,0,0,0,Reid Detmers,Clayton Kershaw
+2023-06-21,LAA,LAD,-2,0,-1,0,Shohei Ohtani,Brusdar Graterol
+2023-06-23,LAA,COL,-3,4,1,4,Patrick Sandoval,Kyle Freeland
+2023-06-24,LAA,COL,24,25,24,24,Griffin Canning,Chase Anderson
+2023-06-25,LAA,COL,-1,3,-1,2,Tyler Anderson,Austin Gomber
+2023-06-26,LAA,CWS,1,2,0,1,Reid Detmers,Dylan Cease
+2023-06-27,LAA,CWS,2,4,2,2,Shohei Ohtani,Michael Kopech
+2023-06-28,LAA,CWS,-6,5,-7,2,Jaime Barria,Lucas Giolito
+2023-06-29,LAA,CWS,-2,7,-2,5,Patrick Sandoval,Lance Lynn
+2023-06-30,LAA,AZ,-4,2,-4,1,Griffin Canning,Tommy Henry
+2023-07-01,LAA,AZ,-2,1,-1,1,Tyler Anderson,Ryne Nelson
+2023-07-02,LAA,AZ,3,5,2,4,Reid Detmers,Zac Gallen
+2023-07-03,LAA,SD,-7,3,-4,2,Jaime Barria,Blake Snell
+2023-07-04,LAA,SD,-3,5,-4,1,Shohei Ohtani,Joe Musgrove
+2023-07-05,LAA,SD,-2,3,-1,2,Patrick Sandoval,Seth Lugo
+2023-07-07,LAA,LAD,-7,4,-4,3,Griffin Canning,Tony Gonsolin
+2023-07-08,LAA,LAD,-5,5,-7,2,Reid Detmers,Alex Vesia
+2023-07-14,LAA,HOU,-2,5,-3,4,Shohei Ohtani,J P
+2023-07-15,LAA,HOU,1,13,-1,3,Reid Detmers,Framber Valdez
+2023-07-16,LAA,HOU,-1,8,2,3,Tyler Anderson,Cristian Javier
+2023-07-17,LAA,NYY,1,4,-1,1,Griffin Canning,Luis Severino
+2023-07-18,LAA,NYY,4,5,4,5,Patrick Sandoval,Domingo German

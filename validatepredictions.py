@@ -36,7 +36,7 @@ rundiffrange = np.linspace(rdmin,rdmax,nrd)
 winperc = np.zeros([rundiffrange.size,2])
 
 for team in teams:
-    T = np.genfromtxt('data/teams/{}.csv'.format(team),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiff5', '<i8'), ('runsscored5', '<i8')],delimiter=',')
+    T = np.genfromtxt('data/teams/{}.csv'.format(team),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
     boxcar10rundiff = np.convolve(T['rundiff'], kernel, mode='same')
     for indx,date in enumerate(T['date']):
         if indx < 70:
@@ -44,7 +44,7 @@ for team in teams:
         opp = T['opponent'][indx]
         #print(opp)
         try:
-            O = np.genfromtxt('data/teams/{}.csv'.format(opp.decode()),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiff5', '<i8'), ('runsscored5', '<i8')],delimiter=',')
+            O = np.genfromtxt('data/teams/{}.csv'.format(opp.decode()),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
             oboxcar10rundiff = np.convolve(O['rundiff'], kernel, mode='same')
             oindx = np.where(O['date']==date)
         except:
@@ -87,19 +87,19 @@ plt.savefig('figures/rundifferentialcheck{}.png'.format(str(pd.to_datetime("toda
 
 boxcar10rundiff = np.convolve(T['rundiff'], kernel, mode='same')
 
-boxcar10rundiff5 = np.convolve(T['rundiff5'], kernel, mode='same')
+boxcar10rundiffI = np.convolve(T['rundiffI'], kernel, mode='same')
 
 
 #wins = int(np.nansum(np.ones(T['rundiff'].size)[G['rundiff']>0]))
 #loss = int(np.nansum(np.ones(T['rundiff'].size)[G['rundiff']<0]))
 
 
-# who has big leads after 5 innings typically?
+# who has big leads after 6 innings typically?
 for team in teams:
     try:
-        T = np.genfromtxt('data/teams/{}.csv'.format(team),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiff5', '<i8'), ('runsscored5', '<i8')],delimiter=',')
+        T = np.genfromtxt('data/teams/{}.csv'.format(team),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8')],delimiter=',')
     except:
         continue
-    earlygameleads = np.nanmean(T['rundiff5']) # early game leads
+    earlygameleads = np.nanmean(T['rundiffI']) # early game leads
     lategameleads  = np.nanmean(T['rundiff'])  # final scores
     print('{0:4s} {1:6.3f} {2:6.3f} {3:6.3f}'.format(team,np.round(earlygameleads*9./5.,3),np.round(lategameleads,3),np.round(lategameleads-(earlygameleads*9./5.),3)))

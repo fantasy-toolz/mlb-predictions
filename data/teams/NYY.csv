@@ -1,93 +1,93 @@
-2023-03-30,NYY,SF,5,5,3,3
-2023-04-01,NYY,SF,-2,5,0,3
-2023-04-02,NYY,SF,6,6,4,4
-2023-04-03,NYY,PHI,7,8,7,8
-2023-04-04,NYY,PHI,-3,1,-4,0
-2023-04-05,NYY,PHI,2,4,1,1
-2023-04-07,NYY,BAL,-1,6,-1,3
-2023-04-08,NYY,BAL,3,4,3,4
-2023-04-09,NYY,BAL,2,5,4,4
-2023-04-10,NYY,CLE,-1,2,0,2
-2023-04-11,NYY,CLE,9,11,6,8
-2023-04-12,NYY,CLE,1,4,-1,2
-2023-04-13,NYY,MIN,-9,2,-10,1
-2023-04-14,NYY,MIN,-1,3,2,2
-2023-04-15,NYY,MIN,5,6,4,4
-2023-04-16,NYY,MIN,2,2,1,1
-2023-04-18,NYY,LAA,-3,2,-3,2
-2023-04-19,NYY,LAA,1,3,1,2
-2023-04-20,NYY,LAA,6,9,3,5
-2023-04-21,NYY,TOR,-5,1,-1,1
-2023-04-22,NYY,TOR,1,3,0,0
-2023-04-23,NYY,TOR,-4,1,0,0
-2023-04-24,NYY,MIN,-5,1,-4,0
-2023-04-25,NYY,MIN,-4,2,0,2
-2023-04-26,NYY,MIN,6,12,8,11
-2023-04-27,NYY,TEX,2,4,3,3
-2023-04-28,NYY,TEX,-3,2,-4,1
-2023-04-29,NYY,TEX,-2,0,-2,0
-2023-04-30,NYY,TEX,-13,2,-7,1
-2023-05-01,NYY,CLE,-1,2,2,2
-2023-05-02,NYY,CLE,2,4,-2,0
-2023-05-03,NYY,CLE,1,4,0,2
-2023-05-05,NYY,TB,-1,4,-4,0
-2023-05-06,NYY,TB,1,3,-2,0
-2023-05-07,NYY,TB,-1,7,4,6
-2023-05-08,NYY,OAK,5,7,2,2
-2023-05-09,NYY,OAK,5,10,5,7
-2023-05-10,NYY,OAK,8,11,9,11
-2023-05-11,NYY,TB,-6,2,-1,0
-2023-05-12,NYY,TB,1,6,0,2
-2023-05-13,NYY,TB,1,9,-2,4
-2023-05-14,NYY,TB,-1,7,-4,4
-2023-05-15,NYY,TOR,3,7,5,5
-2023-05-16,NYY,TOR,3,6,0,3
-2023-05-17,NYY,TOR,-3,0,0,0
-2023-05-18,NYY,TOR,2,4,1,2
-2023-05-19,NYY,CIN,4,6,1,1
-2023-05-20,NYY,CIN,3,7,0,4
-2023-05-21,NYY,CIN,3,4,1,2
-2023-05-23,NYY,BAL,1,6,0,4
-2023-05-24,NYY,BAL,-3,6,4,5
-2023-05-25,NYY,BAL,-2,1,-1,0
-2023-05-26,NYY,SD,-4,1,-2,0
-2023-05-27,NYY,SD,1,3,0,1
-2023-05-28,NYY,SD,3,10,5,8
-2023-05-29,NYY,SEA,6,10,4,8
-2023-05-30,NYY,SEA,8,10,5,7
-2023-05-31,NYY,SEA,-1,0,0,0
-2023-06-02,NYY,LAD,-4,4,-5,2
-2023-06-03,NYY,LAD,3,6,3,4
-2023-06-04,NYY,LAD,3,4,0,0
-2023-06-06,NYY,CWS,-1,2,-3,0
-2023-06-08,NYY,CWS,-1,5,1,5
-2023-06-09,NYY,BOS,-1,2,-1,0
-2023-06-10,NYY,BOS,2,3,1,1
-2023-06-11,NYY,BOS,-1,2,1,2
-2023-06-13,NYY,NYM,1,7,0,6
-2023-06-14,NYY,NYM,-1,3,-1,0
-2023-06-16,NYY,BOS,-10,5,-12,1
-2023-06-18,NYY,BOS,-4,2,-2,2
-2023-06-20,NYY,SEA,2,3,3,3
-2023-06-21,NYY,SEA,2,4,3,3
-2023-06-22,NYY,SEA,-8,2,-10,0
-2023-06-23,NYY,TEX,-2,2,0,1
-2023-06-24,NYY,TEX,1,1,1,1
-2023-06-25,NYY,TEX,2,5,-1,2
-2023-06-27,NYY,OAK,-1,1,-1,1
-2023-06-28,NYY,OAK,11,11,7,7
-2023-06-29,NYY,OAK,6,10,-1,2
-2023-07-01,NYY,STL,-5,6,-8,3
-2023-07-02,NYY,STL,-4,1,-2,0
-2023-07-03,NYY,BAL,3,6,-1,2
-2023-07-04,NYY,BAL,4,8,1,4
-2023-07-05,NYY,BAL,-3,3,2,2
-2023-07-06,NYY,BAL,-13,1,-13,0
-2023-07-07,NYY,CHC,-3,0,-2,0
-2023-07-08,NYY,CHC,3,6,5,6
-2023-07-09,NYY,CHC,-3,4,0,1
-2023-07-14,NYY,COL,-5,2,-7,2
-2023-07-15,NYY,COL,3,6,-7,6
-2023-07-16,NYY,COL,-1,7,-1,0
-2023-07-17,NYY,LAA,-1,3,0,0
-2023-07-18,NYY,LAA,-4,1,-4,1
+2023-03-30,NYY,SF,5,5,3,3,Gerrit Cole,Logan Webb
+2023-04-01,NYY,SF,-2,5,-2,3,Clarke Schmidt,Alex Cobb
+2023-04-02,NYY,SF,6,6,4,4,Jhony Brito,Ross Stripling
+2023-04-03,NYY,PHI,7,8,7,8,Nestor Cortes,Taijuan Walker
+2023-04-04,NYY,PHI,-3,1,-4,0,Domingo German,Matt Strahm
+2023-04-05,NYY,PHI,2,4,2,2,Gerrit Cole,Aaron Nola
+2023-04-07,NYY,BAL,-1,6,0,5,Clarke Schmidt,Dean Kremer
+2023-04-08,NYY,BAL,3,4,3,4,Jhony Brito,Cole Irvin
+2023-04-09,NYY,BAL,2,5,2,4,Nestor Cortes,Tyler Wells
+2023-04-10,NYY,CLE,-1,2,0,2,Domingo German,Shane Bieber
+2023-04-11,NYY,CLE,9,11,8,10,Gerrit Cole,Hunter Gaddis
+2023-04-12,NYY,CLE,1,4,-1,2,Clarke Schmidt,Peyton Battenfield
+2023-04-13,NYY,MIN,-9,2,-10,1,Jhony Brito,Joe Ryan
+2023-04-14,NYY,MIN,-1,3,2,3,Nestor Cortes,Louie Varland
+2023-04-15,NYY,MIN,5,6,4,4,Domingo German,Tyler Mahle
+2023-04-16,NYY,MIN,2,2,2,2,Gerrit Cole,Pablo Lopez
+2023-04-18,NYY,LAA,-3,2,-3,2,Clarke Schmidt,Jose Suarez
+2023-04-19,NYY,LAA,1,3,1,2,Jhony Brito,Griffin Canning
+2023-04-20,NYY,LAA,6,9,3,5,Nestor Cortes,Patrick Sandoval
+2023-04-21,NYY,TOR,-5,1,-3,1,Domingo German,Yusei Kikuchi
+2023-04-22,NYY,TOR,1,3,0,0,Gerrit Cole,Alek Manoah
+2023-04-23,NYY,TOR,-4,1,-3,0,Clarke Schmidt,Kevin Gausman
+2023-04-24,NYY,MIN,-5,1,-5,0,Jhony Brito,Sonny Gray
+2023-04-25,NYY,MIN,-4,2,-4,2,Nestor Cortes,Joe Ryan
+2023-04-26,NYY,MIN,6,12,6,11,Domingo German,Kenta Maeda
+2023-04-27,NYY,TEX,2,4,1,3,Gerrit Cole,Andrew Heaney
+2023-04-28,NYY,TEX,-3,2,-3,2,Clarke Schmidt,Jacob Degrom
+2023-04-29,NYY,TEX,-2,0,-2,0,Jhony Brito,Nathan Eovaldi
+2023-04-30,NYY,TEX,-13,2,-13,1,Nestor Cortes,Martin Perez
+2023-05-01,NYY,CLE,-1,2,2,2,Domingo German,Cal Quantrill
+2023-05-02,NYY,CLE,2,4,0,2,Gerrit Cole,Tanner Bibee
+2023-05-03,NYY,CLE,1,4,0,2,Clarke Schmidt,Shane Bieber
+2023-05-05,NYY,TB,-1,4,0,4,Jhony Brito,Yonny Chirinos
+2023-05-06,NYY,TB,1,3,-2,0,Domingo German,Drew Rasmussen
+2023-05-07,NYY,TB,-1,7,-1,6,Gerrit Cole,Javy Guerra
+2023-05-08,NYY,OAK,5,7,3,5,Nestor Cortes,Jp Sears
+2023-05-09,NYY,OAK,5,10,5,7,Clarke Schmidt,Drew Rucinski
+2023-05-10,NYY,OAK,8,11,9,11,Jhony Brito,Kyle Muller
+2023-05-11,NYY,TB,-6,2,-4,0,Domingo German,Drew Rasmussen
+2023-05-12,NYY,TB,1,6,0,2,Gerrit Cole,Trevor Kelley
+2023-05-13,NYY,TB,1,9,3,9,Nestor Cortes,Shane Mcclanahan
+2023-05-14,NYY,TB,-1,7,-4,4,Clarke Schmidt,Zach Eflin
+2023-05-15,NYY,TOR,3,7,6,6,Jimmy Cordero,Alek Manoah
+2023-05-16,NYY,TOR,3,6,0,3,Domingo German,Kevin Gausman
+2023-05-17,NYY,TOR,-3,0,0,0,Gerrit Cole,Chris Bassitt
+2023-05-18,NYY,TOR,2,4,1,2,Nestor Cortes,Jose Berrios
+2023-05-19,NYY,CIN,4,6,1,3,Clarke Schmidt,Ben Lively
+2023-05-20,NYY,CIN,3,7,0,4,Jhony Brito,Luke Weaver
+2023-05-21,NYY,CIN,3,4,2,3,Luis Severino,Hunter Greene
+2023-05-23,NYY,BAL,1,6,-1,4,Gerrit Cole,Kyle Bradish
+2023-05-24,NYY,BAL,-3,6,4,5,Nestor Cortes,Tyler Wells
+2023-05-25,NYY,BAL,-2,1,-1,0,Clarke Schmidt,Kyle Gibson
+2023-05-26,NYY,SD,-4,1,-3,1,Randy Vasquez,Joe Musgrove
+2023-05-27,NYY,SD,1,3,0,1,Luis Severino,Michael Wacha
+2023-05-28,NYY,SD,3,10,5,8,Gerrit Cole,Yu Darvish
+2023-05-29,NYY,SEA,6,10,5,9,Domingo German,Bryce Miller
+2023-05-30,NYY,SEA,8,10,5,7,Nestor Cortes,Logan Gilbert
+2023-05-31,NYY,SEA,-1,0,0,0,Clarke Schmidt,George Kirby
+2023-06-02,NYY,LAD,-4,4,-6,2,Luis Severino,Clayton Kershaw
+2023-06-03,NYY,LAD,3,6,4,5,Gerrit Cole,Michael Grove
+2023-06-04,NYY,LAD,3,4,0,0,Domingo German,Bobby Miller
+2023-06-06,NYY,CWS,-1,2,-3,0,Clarke Schmidt,Lucas Giolito
+2023-06-08,NYY,CWS,-1,5,1,5,Randy Vasquez,Lance Lynn
+2023-06-09,NYY,BOS,-1,2,-1,1,Gerrit Cole,Garrett Whitlock
+2023-06-10,NYY,BOS,2,3,1,2,Domingo German,Tanner Houck
+2023-06-11,NYY,BOS,-1,2,1,2,Clarke Schmidt,Brayan Bello
+2023-06-13,NYY,NYM,1,7,1,7,Luis Severino,Max Scherzer
+2023-06-14,NYY,NYM,-1,3,0,1,Gerrit Cole,Justin Verlander
+2023-06-16,NYY,BOS,-10,5,-10,4,Domingo German,Tanner Houck
+2023-06-18,NYY,BOS,-4,2,-3,2,Clarke Schmidt,Kaleb Ort
+2023-06-20,NYY,SEA,2,3,2,3,Gerrit Cole,George Kirby
+2023-06-21,NYY,SEA,2,4,3,3,Jhony Brito,Luis Castillo
+2023-06-22,NYY,SEA,-8,2,-10,0,Domingo German,Bryan Woo
+2023-06-23,NYY,TEX,-2,2,0,1,Clarke Schmidt,Dane Dunning
+2023-06-24,NYY,TEX,1,1,1,1,Luis Severino,Jon Gray
+2023-06-25,NYY,TEX,2,5,-1,2,Gerrit Cole,Nathan Eovaldi
+2023-06-27,NYY,OAK,-1,1,-1,1,Jhony Brito,Paul Blackburn
+2023-06-28,NYY,OAK,11,11,7,7,Domingo German,Jp Sears
+2023-06-29,NYY,OAK,6,10,7,10,Clarke Schmidt,Hogan Harris
+2023-07-01,NYY,STL,-5,6,-8,3,Ian Hamilton,Matthew Liberatore
+2023-07-02,NYY,STL,-4,1,-2,0,Gerrit Cole,Jordan Montgomery
+2023-07-03,NYY,BAL,3,6,-1,2,Domingo German,Tyler Wells
+2023-07-04,NYY,BAL,4,8,1,4,Clarke Schmidt,Kyle Gibson
+2023-07-05,NYY,BAL,-3,3,-2,2,Randy Vasquez,Dean Kremer
+2023-07-06,NYY,BAL,-13,1,-13,0,Luis Severino,Kyle Bradish
+2023-07-07,NYY,CHC,-3,0,-2,0,Carlos Rodon,Jameson Taillon
+2023-07-08,NYY,CHC,3,6,5,6,Gerrit Cole,Drew Smyly
+2023-07-09,NYY,CHC,-3,4,3,4,Domingo German,Kyle Hendricks
+2023-07-14,NYY,COL,-5,2,-2,2,Carlos Rodon,Austin Gomber
+2023-07-15,NYY,COL,3,6,5,6,Clarke Schmidt,Connor Seabold
+2023-07-16,NYY,COL,-1,7,2,3,Gerrit Cole,Chase Anderson
+2023-07-17,NYY,LAA,-1,3,1,2,Luis Severino,Griffin Canning
+2023-07-18,NYY,LAA,-4,1,-4,1,Domingo German,Patrick Sandoval

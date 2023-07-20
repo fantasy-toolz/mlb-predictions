@@ -1,95 +1,95 @@
-2023-03-30,COL,SD,5,7,2,4
-2023-03-31,COL,SD,3,4,4,4
-2023-04-01,COL,SD,-4,4,-4,1
-2023-04-02,COL,SD,-2,1,-3,0
-2023-04-03,COL,LAD,-9,4,-5,4
-2023-04-04,COL,LAD,-3,2,-4,0
-2023-04-06,COL,WSH,1,1,1,1
-2023-04-07,COL,WSH,-5,5,-6,2
-2023-04-08,COL,WSH,-1,6,-4,1
-2023-04-09,COL,WSH,1,7,0,3
-2023-04-10,COL,STL,3,7,2,4
-2023-04-11,COL,STL,-3,6,4,6
-2023-04-12,COL,STL,-3,4,-1,2
-2023-04-14,COL,SEA,-2,3,-4,1
-2023-04-15,COL,SEA,-7,2,-4,1
-2023-04-16,COL,SEA,-1,0,0,0
-2023-04-17,COL,PIT,-11,3,-12,1
-2023-04-18,COL,PIT,-2,3,-2,3
-2023-04-19,COL,PIT,-11,3,-8,1
-2023-04-20,COL,PHI,5,5,2,2
-2023-04-21,COL,PHI,-1,3,1,3
-2023-04-22,COL,PHI,-1,3,0,3
-2023-04-23,COL,PHI,-6,3,-1,3
-2023-04-24,COL,CLE,6,6,6,6
-2023-04-25,COL,CLE,4,5,4,4
-2023-04-26,COL,CLE,-3,1,-3,0
-2023-04-28,COL,AZ,-8,1,0,1
-2023-04-29,COL,AZ,-7,4,-7,1
-2023-04-30,COL,AZ,8,12,5,6
-2023-05-02,COL,MIL,1,3,2,2
-2023-05-03,COL,MIL,6,7,4,4
-2023-05-04,COL,MIL,3,9,-3,0
-2023-05-05,COL,NYM,-1,0,-1,0
-2023-05-06,COL,NYM,3,5,1,3
-2023-05-07,COL,NYM,7,13,5,10
-2023-05-08,COL,PIT,-2,0,0,0
-2023-05-09,COL,PIT,9,10,4,5
-2023-05-10,COL,PIT,1,4,0,3
-2023-05-12,COL,PHI,-3,3,0,0
-2023-05-13,COL,PHI,-3,4,-1,3
-2023-05-14,COL,PHI,4,4,4,4
-2023-05-15,COL,CIN,1,9,0,6
-2023-05-16,COL,CIN,-2,1,0,0
-2023-05-17,COL,CIN,5,11,0,5
-2023-05-19,COL,TEX,-5,2,-7,0
-2023-05-20,COL,TEX,-6,5,-8,1
-2023-05-21,COL,TEX,-10,3,-11,0
-2023-05-22,COL,MIA,2,5,0,2
-2023-05-23,COL,MIA,1,5,4,5
-2023-05-24,COL,MIA,-8,2,-4,1
-2023-05-25,COL,MIA,1,7,-1,1
-2023-05-26,COL,NYM,-3,2,-3,1
-2023-05-27,COL,NYM,3,10,5,6
-2023-05-28,COL,NYM,1,11,5,11
-2023-05-29,COL,AZ,-2,5,-2,5
-2023-05-30,COL,AZ,-4,1,-4,0
-2023-05-31,COL,AZ,-6,0,-6,0
-2023-06-01,COL,AZ,-1,4,1,1
-2023-06-02,COL,KC,5,7,-1,1
-2023-06-03,COL,KC,2,6,3,5
-2023-06-04,COL,KC,-2,0,-1,0
-2023-06-06,COL,SF,-6,4,-6,2
-2023-06-07,COL,SF,-1,4,3,3
-2023-06-08,COL,SF,-2,4,3,4
-2023-06-09,COL,SD,-3,6,-6,1
-2023-06-10,COL,SD,-1,2,1,2
-2023-06-11,COL,SD,1,5,-2,1
-2023-06-12,COL,BOS,1,4,1,1
-2023-06-13,COL,BOS,1,7,1,4
-2023-06-14,COL,BOS,-3,3,-1,0
-2023-06-15,COL,ATL,-5,3,-4,3
-2023-06-16,COL,ATL,-7,1,-8,0
-2023-06-17,COL,ATL,-8,2,-9,1
-2023-06-18,COL,ATL,-8,6,-5,5
-2023-06-19,COL,CIN,-1,4,-2,1
-2023-06-20,COL,CIN,-2,6,-5,2
-2023-06-21,COL,CIN,-2,3,0,3
-2023-06-23,COL,LAA,3,7,-2,2
-2023-06-24,COL,LAA,-24,1,-23,0
-2023-06-25,COL,LAA,1,4,3,3
-2023-06-27,COL,LAD,-5,0,-4,0
-2023-06-28,COL,LAD,1,9,-2,4
-2023-06-29,COL,LAD,-11,3,-8,3
-2023-06-30,COL,DET,3,8,2,5
-2023-07-01,COL,DET,-2,2,0,0
-2023-07-02,COL,DET,-5,9,-4,4
-2023-07-04,COL,HOU,-3,1,-3,0
-2023-07-05,COL,HOU,-2,4,-3,2
-2023-07-07,COL,SF,3,5,2,2
-2023-07-08,COL,SF,-2,3,-3,2
-2023-07-09,COL,SF,-1,0,-1,0
-2023-07-14,COL,NYY,5,7,-7,4
-2023-07-15,COL,NYY,-3,3,-7,1
-2023-07-16,COL,NYY,1,8,1,1
-2023-07-18,COL,HOU,1,4,1,4
+2023-03-30,COL,SD,5,7,3,5,German Marquez,Blake Snell
+2023-03-31,COL,SD,3,4,4,4,Kyle Freeland,Nick Martinez
+2023-04-01,COL,SD,-4,4,-2,4,Jose Urena,Michael Wacha
+2023-04-02,COL,SD,-2,1,-3,0,Austin Gomber,Seth Lugo
+2023-04-03,COL,LAD,-9,4,-5,4,Ryan Feltner,Michael Grove
+2023-04-04,COL,LAD,-3,2,-4,0,German Marquez,Julio Urias
+2023-04-06,COL,WSH,1,1,1,1,Kyle Freeland,Josiah Gray
+2023-04-07,COL,WSH,-5,5,-6,2,Jose Urena,Mackenzie Gore
+2023-04-08,COL,WSH,-1,6,-3,2,Austin Gomber,Trevor Williams
+2023-04-09,COL,WSH,1,7,1,7,Ryan Feltner,Chad Kuhl
+2023-04-10,COL,STL,3,7,3,6,German Marquez,Steven Matz
+2023-04-11,COL,STL,-3,6,4,6,Kyle Freeland,Miles Mikolas
+2023-04-12,COL,STL,-3,4,-1,2,Jose Urena,Jack Flaherty
+2023-04-14,COL,SEA,-2,3,-2,3,Austin Gomber,Tommy Milone
+2023-04-15,COL,SEA,-7,2,-8,1,Ryan Feltner,George Kirby
+2023-04-16,COL,SEA,-1,0,-1,0,Noah Davis,Luis Castillo
+2023-04-17,COL,PIT,-11,3,-12,1,Kyle Freeland,Rich Hill
+2023-04-18,COL,PIT,-2,3,-2,3,Jose Urena,Vince Velasquez
+2023-04-19,COL,PIT,-11,3,-11,1,Austin Gomber,Johan Oviedo
+2023-04-20,COL,PHI,5,5,4,4,Ryan Feltner,Matt Strahm
+2023-04-21,COL,PHI,-1,3,1,3,Noah Davis,Aaron Nola
+2023-04-22,COL,PHI,-1,3,-1,3,Kyle Freeland,Cristopher Sanchez
+2023-04-23,COL,PHI,-6,3,-1,3,Jose Urena,Zack Wheeler
+2023-04-24,COL,CLE,6,6,6,6,Austin Gomber,Cal Quantrill
+2023-04-25,COL,CLE,4,5,4,5,Ryan Feltner,Peyton Battenfield
+2023-04-26,COL,CLE,-3,1,-2,1,German Marquez,Tanner Bibee
+2023-04-28,COL,AZ,-8,1,0,1,Kyle Freeland,Merrill Kelly
+2023-04-29,COL,AZ,-7,4,-5,4,Noah Davis,Tommy Henry
+2023-04-30,COL,AZ,8,12,9,10,Austin Gomber,Ryne Nelson
+2023-05-02,COL,MIL,1,3,0,2,Ryan Feltner,Freddy Peralta
+2023-05-03,COL,MIL,6,7,4,4,Kyle Freeland,Eric Lauer
+2023-05-04,COL,MIL,3,9,-4,0,Connor Seabold,Wade Miley
+2023-05-05,COL,NYM,-1,0,-1,0,Antonio Senzatela,Kodai Senga
+2023-05-06,COL,NYM,3,5,3,5,Austin Gomber,Tylor Megill
+2023-05-07,COL,NYM,7,13,5,10,Ryan Feltner,Joey Lucchesi
+2023-05-08,COL,PIT,-2,0,0,0,Kyle Freeland,Mitch Keller
+2023-05-09,COL,PIT,9,10,4,5,Connor Seabold,Luis L
+2023-05-10,COL,PIT,1,4,0,3,Antonio Senzatela,Rich Hill
+2023-05-12,COL,PHI,-3,3,1,1,Austin Gomber,Taijuan Walker
+2023-05-13,COL,PHI,-3,4,-1,3,Ryan Feltner,Ranger Suarez
+2023-05-14,COL,PHI,4,4,4,4,Kyle Freeland,Aaron Nola
+2023-05-15,COL,CIN,1,9,0,6,Connor Seabold,Hunter Greene
+2023-05-16,COL,CIN,-2,1,1,1,Chase Anderson,Brandon Williamson
+2023-05-17,COL,CIN,5,11,6,11,Austin Gomber,Graham Ashcraft
+2023-05-19,COL,TEX,-5,2,-5,2,Karl Kauffmann,Martin Perez
+2023-05-20,COL,TEX,-6,5,-10,1,Kyle Freeland,Jon Gray
+2023-05-21,COL,TEX,-10,3,-10,1,Connor Seabold,Andrew Heaney
+2023-05-22,COL,MIA,2,5,1,3,Chase Anderson,Edward Cabrera
+2023-05-23,COL,MIA,1,5,2,5,Austin Gomber,Eury Perez
+2023-05-24,COL,MIA,-8,2,-5,2,Karl Kauffmann,Sandy Alcantara
+2023-05-25,COL,MIA,1,7,0,2,Kyle Freeland,Braxton Garrett
+2023-05-26,COL,NYM,-3,2,-3,1,Connor Seabold,Max Scherzer
+2023-05-27,COL,NYM,3,10,0,6,Chase Anderson,Justin Verlander
+2023-05-28,COL,NYM,1,11,5,11,Austin Gomber,Tylor Megill
+2023-05-29,COL,AZ,-2,5,-2,5,Karl Kauffmann,Ryne Nelson
+2023-05-30,COL,AZ,-4,1,-5,0,Kyle Freeland,Zac Gallen
+2023-05-31,COL,AZ,-6,0,-6,0,Dinelson Lamet,Tommy Henry
+2023-06-01,COL,AZ,-1,4,1,3,Connor Seabold,Zach Davies
+2023-06-02,COL,KC,5,7,-1,1,Chase Anderson,Jordan Lyles
+2023-06-03,COL,KC,2,6,4,6,Austin Gomber,Daniel Lynch
+2023-06-04,COL,KC,-2,0,-1,0,Kyle Freeland,Brady Singer
+2023-06-06,COL,SF,-6,4,-6,2,Dinelson Lamet,John Brebbia
+2023-06-07,COL,SF,-1,4,4,4,Connor Seabold,Logan Webb
+2023-06-08,COL,SF,-2,4,1,4,Chase Anderson,Alex Cobb
+2023-06-09,COL,SD,-3,6,-4,4,Austin Gomber,Yu Darvish
+2023-06-10,COL,SD,-1,2,-1,2,Kyle Freeland,Ryan Weathers
+2023-06-11,COL,SD,1,5,-2,1,Dinelson Lamet,Blake Snell
+2023-06-12,COL,BOS,1,4,0,1,Connor Seabold,James Paxton
+2023-06-13,COL,BOS,1,7,0,4,Chase Anderson,Kutter Crawford
+2023-06-14,COL,BOS,-3,3,1,2,Austin Gomber,Garrett Whitlock
+2023-06-15,COL,ATL,-5,3,-4,3,Kyle Freeland,Aj Smith
+2023-06-16,COL,ATL,-7,1,-7,1,Dinelson Lamet,Jared Shuster
+2023-06-17,COL,ATL,-8,2,-9,1,Connor Seabold,Bryce Elder
+2023-06-18,COL,ATL,-8,6,-7,5,Chase Anderson,Charlie Morton
+2023-06-19,COL,CIN,-1,4,-1,4,Austin Gomber,Brandon Williamson
+2023-06-20,COL,CIN,-2,6,-6,2,Noah Davis,Ben Lively
+2023-06-21,COL,CIN,-2,3,0,3,Jake Bird,Andrew Abbott
+2023-06-23,COL,LAA,3,7,-1,3,Kyle Freeland,Patrick Sandoval
+2023-06-24,COL,LAA,-24,1,-24,0,Chase Anderson,Griffin Canning
+2023-06-25,COL,LAA,1,4,1,3,Austin Gomber,Tyler Anderson
+2023-06-27,COL,LAD,-5,0,-5,0,Connor Seabold,Clayton Kershaw
+2023-06-28,COL,LAD,1,9,3,9,Kyle Freeland,Michael Grove
+2023-06-29,COL,LAD,-11,3,-9,3,Chase Anderson,Emmet Sheehan
+2023-06-30,COL,DET,3,8,5,8,Austin Gomber,Michael Lorenzen
+2023-07-01,COL,DET,-2,2,1,1,Peter Lambert,Brendan White
+2023-07-02,COL,DET,-5,9,-2,6,Connor Seabold,Matt Manning
+2023-07-04,COL,HOU,-3,1,-3,0,Kyle Freeland,Brandon Bielak
+2023-07-05,COL,HOU,-2,4,-2,3,Chase Anderson,J P
+2023-07-07,COL,SF,3,5,0,2,Austin Gomber,Ross Stripling
+2023-07-08,COL,SF,-2,3,-3,2,Connor Seabold,Ryan Walker
+2023-07-09,COL,SF,-1,0,-1,0,Kyle Freeland,Logan Webb
+2023-07-14,COL,NYY,5,7,2,4,Austin Gomber,Carlos Rodon
+2023-07-15,COL,NYY,-3,3,-5,1,Connor Seabold,Clarke Schmidt
+2023-07-16,COL,NYY,1,8,-2,1,Chase Anderson,Gerrit Cole
+2023-07-18,COL,HOU,1,4,1,4,Jake Bird,Hunter Brown

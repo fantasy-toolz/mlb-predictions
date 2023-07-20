@@ -1,94 +1,94 @@
-2023-03-30,BOS,BAL,-1,9,-6,2
-2023-04-01,BOS,BAL,1,9,-3,5
-2023-04-02,BOS,BAL,4,9,3,6
-2023-04-03,BOS,PIT,-1,6,-2,5
-2023-04-04,BOS,PIT,-3,1,-2,1
-2023-04-05,BOS,PIT,-3,1,-1,0
-2023-04-06,BOS,DET,3,6,-1,2
-2023-04-08,BOS,DET,9,14,6,8
-2023-04-09,BOS,DET,3,4,1,2
-2023-04-10,BOS,TB,-1,0,0,0
-2023-04-11,BOS,TB,-5,2,-5,0
-2023-04-12,BOS,TB,-2,7,-5,3
-2023-04-13,BOS,TB,-6,3,-5,3
-2023-04-14,BOS,LAA,2,5,1,3
-2023-04-15,BOS,LAA,2,9,0,6
-2023-04-16,BOS,LAA,1,2,1,2
-2023-04-17,BOS,LAA,-1,4,-4,1
-2023-04-18,BOS,MIN,1,5,0,1
-2023-04-19,BOS,MIN,-6,4,-5,2
-2023-04-20,BOS,MIN,6,11,9,10
-2023-04-21,BOS,MIL,2,5,-1,2
-2023-04-22,BOS,MIL,-1,4,-3,2
-2023-04-23,BOS,MIL,7,12,0,3
-2023-04-24,BOS,BAL,-1,4,-1,4
-2023-04-25,BOS,BAL,2,8,6,7
-2023-04-26,BOS,BAL,-4,2,-3,1
-2023-04-28,BOS,CLE,-3,2,-2,2
-2023-04-29,BOS,CLE,1,8,4,5
-2023-04-30,BOS,CLE,6,7,2,2
-2023-05-01,BOS,TOR,1,6,-1,2
-2023-05-02,BOS,TOR,1,7,-1,5
-2023-05-03,BOS,TOR,5,8,2,5
-2023-05-04,BOS,TOR,6,11,4,8
-2023-05-05,BOS,PHI,2,5,0,3
-2023-05-06,BOS,PHI,3,7,2,5
-2023-05-07,BOS,PHI,-5,1,-1,1
-2023-05-09,BOS,ATL,-6,3,-7,1
-2023-05-10,BOS,ATL,3,5,2,2
-2023-05-12,BOS,STL,-2,6,2,4
-2023-05-13,BOS,STL,-1,3,3,3
-2023-05-14,BOS,STL,-8,1,-3,1
-2023-05-15,BOS,SEA,-9,1,-2,0
-2023-05-16,BOS,SEA,5,9,3,7
-2023-05-17,BOS,SEA,9,12,11,12
-2023-05-19,BOS,SD,5,6,5,6
-2023-05-20,BOS,SD,2,4,3,4
-2023-05-21,BOS,SD,-7,0,-6,0
-2023-05-22,BOS,LAA,-1,1,-1,0
-2023-05-23,BOS,LAA,-4,0,-2,0
-2023-05-24,BOS,LAA,-4,3,-6,1
-2023-05-26,BOS,AZ,5,7,4,5
-2023-05-27,BOS,AZ,1,2,1,2
-2023-05-28,BOS,AZ,-2,2,-4,0
-2023-05-30,BOS,CIN,-1,8,-2,0
-2023-05-31,BOS,CIN,-1,4,2,3
-2023-06-01,BOS,CIN,6,8,0,1
-2023-06-03,BOS,TB,3,8,-3,1
-2023-06-04,BOS,TB,-4,2,-2,2
-2023-06-05,BOS,TB,-3,1,-3,0
-2023-06-06,BOS,CLE,1,5,-2,0
-2023-06-07,BOS,CLE,-3,2,-3,2
-2023-06-08,BOS,CLE,-7,3,-2,1
-2023-06-09,BOS,NYY,1,3,1,1
-2023-06-10,BOS,NYY,-2,1,-1,0
-2023-06-11,BOS,NYY,1,3,-1,1
-2023-06-12,BOS,COL,-1,3,-1,0
-2023-06-13,BOS,COL,-1,6,-1,3
-2023-06-14,BOS,COL,3,6,1,1
-2023-06-16,BOS,NYY,10,15,12,13
-2023-06-18,BOS,NYY,4,6,2,4
-2023-06-19,BOS,MIN,6,9,0,3
-2023-06-20,BOS,MIN,6,10,2,2
-2023-06-21,BOS,MIN,-1,4,0,3
-2023-06-22,BOS,MIN,-6,0,-6,0
-2023-06-23,BOS,CWS,2,3,2,3
-2023-06-24,BOS,CWS,-1,4,-1,1
-2023-06-25,BOS,CWS,-3,1,-2,1
-2023-06-27,BOS,MIA,-9,1,-5,1
-2023-06-28,BOS,MIA,-4,2,0,1
-2023-06-29,BOS,MIA,-2,0,0,0
-2023-06-30,BOS,TOR,5,5,1,1
-2023-07-01,BOS,TOR,1,7,3,5
-2023-07-02,BOS,TOR,1,5,-1,2
-2023-07-04,BOS,TEX,-4,2,-3,1
-2023-07-05,BOS,TEX,2,4,3,3
-2023-07-06,BOS,TEX,4,10,-2,3
-2023-07-07,BOS,OAK,4,7,4,5
-2023-07-08,BOS,OAK,7,10,8,9
-2023-07-09,BOS,OAK,1,4,-2,1
-2023-07-14,BOS,CHC,5,8,-7,5
-2023-07-15,BOS,CHC,-6,4,-7,1
-2023-07-16,BOS,CHC,6,11,6,6
-2023-07-17,BOS,OAK,7,7,2,2
-2023-07-18,BOS,OAK,-3,0,-3,0
+2023-03-30,BOS,BAL,-1,9,-4,4,Corey Kluber,Kyle Gibson
+2023-04-01,BOS,BAL,1,9,-3,5,Chris Sale,Dean Kremer
+2023-04-02,BOS,BAL,4,9,3,6,Tanner Houck,Cole Irvin
+2023-04-03,BOS,PIT,-1,6,-1,6,Kutter Crawford,Johan Oviedo
+2023-04-04,BOS,PIT,-3,1,-2,1,Nick Pivetta,Roansy Contreras
+2023-04-05,BOS,PIT,-3,1,-2,0,Corey Kluber,Mitch Keller
+2023-04-06,BOS,DET,3,6,3,6,Chris Sale,Spencer Turnbull
+2023-04-08,BOS,DET,9,14,6,8,Tanner Houck,Joey Wentz
+2023-04-09,BOS,DET,3,4,1,2,Kutter Crawford,Matthew Boyd
+2023-04-10,BOS,TB,-1,0,0,0,Nick Pivetta,Jalen Beeks
+2023-04-11,BOS,TB,-5,2,-4,1,Garrett Whitlock,Shane Mcclanahan
+2023-04-12,BOS,TB,-2,7,-4,4,Chris Sale,Taj Bradley
+2023-04-13,BOS,TB,-6,3,-5,3,Corey Kluber,Jeffrey Springs
+2023-04-14,BOS,LAA,2,5,3,5,Tanner Houck,Patrick Sandoval
+2023-04-15,BOS,LAA,2,9,-1,6,Nick Pivetta,Tyler Anderson
+2023-04-16,BOS,LAA,1,2,1,2,Garrett Whitlock,Reid Detmers
+2023-04-17,BOS,LAA,-1,4,-2,3,Brayan Bello,Shohei Ohtani
+2023-04-18,BOS,MIN,1,5,0,1,Chris Sale,Sonny Gray
+2023-04-19,BOS,MIN,-6,4,-7,3,Corey Kluber,Joe Ryan
+2023-04-20,BOS,MIN,6,11,9,10,Tanner Houck,Kenta Maeda
+2023-04-21,BOS,MIL,2,5,1,4,Nick Pivetta,Freddy Peralta
+2023-04-22,BOS,MIL,-1,4,-1,4,Garrett Whitlock,Wade Miley
+2023-04-23,BOS,MIL,7,12,0,3,Brayan Bello,Corbin Burnes
+2023-04-24,BOS,BAL,-1,4,-1,4,Chris Sale,Dean Kremer
+2023-04-25,BOS,BAL,2,8,6,7,Corey Kluber,Kyle Bradish
+2023-04-26,BOS,BAL,-4,2,-3,2,Tanner Houck,Tyler Wells
+2023-04-28,BOS,CLE,-3,2,-2,2,Nick Pivetta,Shane Bieber
+2023-04-29,BOS,CLE,1,8,5,6,Brayan Bello,Zach Plesac
+2023-04-30,BOS,CLE,6,7,3,4,Chris Sale,Logan Allen
+2023-05-01,BOS,TOR,1,6,2,5,Corey Kluber,Jose Berrios
+2023-05-02,BOS,TOR,1,7,0,6,Tanner Houck,Yusei Kikuchi
+2023-05-03,BOS,TOR,5,8,3,6,Nick Pivetta,Alek Manoah
+2023-05-04,BOS,TOR,6,11,4,8,Brayan Bello,Kevin Gausman
+2023-05-05,BOS,PHI,2,5,2,5,Chris Sale,Zack Wheeler
+2023-05-06,BOS,PHI,3,7,4,7,Corey Kluber,Bailey Falter
+2023-05-07,BOS,PHI,-5,1,-3,1,Tanner Houck,Taijuan Walker
+2023-05-09,BOS,ATL,-6,3,-6,2,Nick Pivetta,Charlie Morton
+2023-05-10,BOS,ATL,3,5,0,2,Brayan Bello,Dylan Lee
+2023-05-12,BOS,STL,-2,6,-1,4,James Paxton,Adam Wainwright
+2023-05-13,BOS,STL,-1,3,3,3,Chris Sale,Steven Matz
+2023-05-14,BOS,STL,-8,1,-5,1,Corey Kluber,Miles Mikolas
+2023-05-15,BOS,SEA,-9,1,-4,1,Tanner Houck,George Kirby
+2023-05-16,BOS,SEA,5,9,3,7,Nick Pivetta,Luis Castillo
+2023-05-17,BOS,SEA,9,12,9,12,Brayan Bello,Marco Gonzales
+2023-05-19,BOS,SD,5,6,5,6,James Paxton,Blake Snell
+2023-05-20,BOS,SD,2,4,2,4,Chris Sale,Joe Musgrove
+2023-05-21,BOS,SD,-7,0,-7,0,Corey Kluber,Michael Wacha
+2023-05-22,BOS,LAA,-1,1,0,1,Tanner Houck,Jaime Barria
+2023-05-23,BOS,LAA,-4,0,-2,0,Brayan Bello,Griffin Canning
+2023-05-24,BOS,LAA,-4,3,-6,1,James Paxton,Tyler Anderson
+2023-05-26,BOS,AZ,5,7,5,6,Chris Sale,Brandon Pfaadt
+2023-05-27,BOS,AZ,1,2,1,2,Garrett Whitlock,Zach Davies
+2023-05-28,BOS,AZ,-2,2,-4,0,Tanner Houck,Merrill Kelly
+2023-05-30,BOS,CIN,-1,8,-3,0,Brayan Bello,Ben Lively
+2023-05-31,BOS,CIN,-1,4,1,3,James Paxton,Luke Weaver
+2023-06-01,BOS,CIN,6,8,0,1,Chris Sale,Hunter Greene
+2023-06-03,BOS,TB,3,8,3,7,Garrett Whitlock,Tyler Glasnow
+2023-06-04,BOS,TB,-4,2,-4,2,Tanner Houck,Taj Bradley
+2023-06-05,BOS,TB,-3,1,-2,1,Brayan Bello,Shane Mcclanahan
+2023-06-06,BOS,CLE,1,5,-1,1,James Paxton,Shane Bieber
+2023-06-07,BOS,CLE,-3,2,-3,2,Kutter Crawford,Tanner Bibee
+2023-06-08,BOS,CLE,-7,3,-6,2,Matt Dermody,Aaron Civale
+2023-06-09,BOS,NYY,1,3,1,2,Garrett Whitlock,Gerrit Cole
+2023-06-10,BOS,NYY,-2,1,-1,1,Tanner Houck,Domingo German
+2023-06-11,BOS,NYY,1,3,-1,1,Brayan Bello,Clarke Schmidt
+2023-06-12,BOS,COL,-1,3,0,1,James Paxton,Connor Seabold
+2023-06-13,BOS,COL,-1,6,0,4,Kutter Crawford,Chase Anderson
+2023-06-14,BOS,COL,3,6,-1,1,Garrett Whitlock,Austin Gomber
+2023-06-16,BOS,NYY,10,15,10,14,Tanner Houck,Domingo German
+2023-06-18,BOS,NYY,4,6,3,5,Kaleb Ort,Clarke Schmidt
+2023-06-19,BOS,MIN,6,9,3,6,James Paxton,Pablo Lopez
+2023-06-20,BOS,MIN,6,10,3,3,Kutter Crawford,Bailey Ober
+2023-06-21,BOS,MIN,-1,4,-1,3,Garrett Whitlock,Sonny Gray
+2023-06-22,BOS,MIN,-6,0,-6,0,Justin Garza,Joe Ryan
+2023-06-23,BOS,CWS,2,3,2,3,Brayan Bello,Lucas Giolito
+2023-06-24,BOS,CWS,-1,4,-1,3,James Paxton,Lance Lynn
+2023-06-25,BOS,CWS,-3,1,-3,1,Kutter Crawford,Tanner Banks
+2023-06-27,BOS,MIA,-9,1,-5,1,Garrett Whitlock,Sandy Alcantara
+2023-06-28,BOS,MIA,-4,2,-3,1,Kaleb Ort,Braxton Garrett
+2023-06-29,BOS,MIA,-2,0,0,0,Brayan Bello,Jesus Luzardo
+2023-06-30,BOS,TOR,5,5,4,4,James Paxton,Jose Berrios
+2023-07-01,BOS,TOR,1,7,4,6,Kutter Crawford,Yusei Kikuchi
+2023-07-02,BOS,TOR,1,5,-2,2,Garrett Whitlock,Kevin Gausman
+2023-07-04,BOS,TEX,-4,2,-3,1,Brennan Bernardino,Dane Dunning
+2023-07-05,BOS,TEX,2,4,2,4,Brayan Bello,Jon Gray
+2023-07-06,BOS,TEX,4,10,-1,4,Kutter Crawford,Nathan Eovaldi
+2023-07-07,BOS,OAK,4,7,4,5,Brennan Bernardino,Sam Long
+2023-07-08,BOS,OAK,7,10,8,10,James Paxton,Austin Pruitt
+2023-07-09,BOS,OAK,1,4,0,3,Tayler Scott,Jp Sears
+2023-07-14,BOS,CHC,5,8,2,5,Brayan Bello,Kyle Hendricks
+2023-07-15,BOS,CHC,-6,4,-7,1,James Paxton,Marcus Stroman
+2023-07-16,BOS,CHC,6,11,6,6,Kutter Crawford,Justin Steele
+2023-07-17,BOS,OAK,7,7,6,6,Brennan Bernardino,Paul Blackburn
+2023-07-18,BOS,OAK,-3,0,-3,0,Joe Jacques,Luis Medina
