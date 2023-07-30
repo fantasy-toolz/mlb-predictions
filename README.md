@@ -2,7 +2,11 @@
 ## MLB win-loss predictions on a daily basis
 ### Fantasy Toolz
 
-Predictions for MLB games, scraped and processed from Baseball Savant daily.
+Predictions for the outcome of MLB games, scraped and processed from MLB and Baseball Savant daily.
 
-- Files in `data/teams` record the outcomes of daily games.
-- Files in `predictions` record our daily predictions for game outcomes.
+- Files in `predictions/latest.csv` is our daily prediction for the next two weeks of game outcomes.
+- Team-specific files in `data/teams` record the outcomes of daily games.
+
+Tuning of estimated outcomes took place based on the first two months of the 2023 season.
+
+We also perform cursory validation that our predictions are robust.

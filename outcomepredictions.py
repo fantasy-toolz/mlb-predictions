@@ -4,7 +4,7 @@ import pandas as pd
 from io import StringIO
 import requests
 import unicodedata
-
+import os
 
 
 teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
@@ -45,9 +45,19 @@ def compute_betline(odds):
     return betstring
 
 
+
+# move the latest file to an archive file
+P = pd.read_csv('predictions/latest.csv')
+os.rename('predictions/latest.csv','predictions/archive/{}.csv'.format(P['date'][0]))
+
+# open the new file for writing
+f = open('predictions/latest.csv','w')
+
+# stamp the output file with the header
+print('date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanrundiff',file=f)
+
+# start the calculation of gamedays, going two weeks forward
 today = pd.to_datetime("today").dayofyear - 59
-f = open('predictions/{}.csv'.format(str(pd.to_datetime("today").date())),'w')
-print('date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds',file=f)
 for indx in range(today,today+15):
     ngames = len(DF.values[indx][5]['games'])
     gamedate =  DF.values[indx][5]['date']
@@ -59,10 +69,11 @@ for indx in range(today,today+15):
         A = np.genfromtxt('data/teams/{}.csv'.format(mlbteams[awayteam]),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
         arundiff = np.convolve(A['rundiff'], kernel, mode='same')
         rundiffdelta = hrundiff[-1] - arundiff[-1]
+        meanrundiff = 0.5*(hrundiff[-1] + arundiff[-1])
         hteamwin = rundiffdelta*X[1]+X[0]
         ateamwin = 1.-hteamwin
         betstring = compute_betline(np.nanmax([hteamwin,ateamwin]))
-        print('{0},{1},{2},{3},{4},{5},{6}'.format(gamedate,hometeam,mlbteams[hometeam],np.round(hteamwin,3),awayteam,mlbteams[awayteam],np.round(ateamwin,3),betstring),file=f)
+        print('{0},{1},{2},{3},{4},{5},{6},{7}'.format(gamedate,hometeam,mlbteams[hometeam],np.round(hteamwin,3),awayteam,mlbteams[awayteam],np.round(ateamwin,3),np.round(meanrundiff,2),betstring),file=f)
         print('{0}: {1:22s} ({2:4.3f}) v. {3:22s} ({4:4.3f})'.format(gamedate,hometeam,np.round(hteamwin,3),awayteam,np.round(ateamwin,3)))
 
 f.close()
