@@ -1,206 +1,200 @@
 date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanrundiff
-2023-07-30,Toronto Blue Jays,TOR,0.606,Los Angeles Angels,LAA,0.394,0.85
-2023-07-30,Pittsburgh Pirates,PIT,0.466,Philadelphia Phillies,PHI,0.534,0.2
-2023-07-30,Atlanta Braves,ATL,0.556,Milwaukee Brewers,MIL,0.444,-0.3
-2023-07-30,New York Mets,NYM,0.505,Washington Nationals,WSH,0.495,-0.15
-2023-07-30,Miami Marlins,MIA,0.483,Detroit Tigers,DET,0.517,0.05
-2023-07-30,Houston Astros,HOU,0.64,Tampa Bay Rays,TB,0.36,-0.55
-2023-07-30,Kansas City Royals,KC,0.516,Minnesota Twins,MIN,0.484,-0.55
-2023-07-30,Chicago White Sox,CWS,0.472,Cleveland Guardians,CLE,0.528,-0.05
-2023-07-30,St. Louis Cardinals,STL,0.331,Chicago Cubs,CHC,0.669,0.9
-2023-07-30,Colorado Rockies,COL,0.404,Oakland Athletics,OAK,0.596,-0.15
-2023-07-30,San Francisco Giants,SF,0.399,Boston Red Sox,BOS,0.601,0.6
-2023-07-30,Los Angeles Dodgers,LAD,0.421,Cincinnati Reds,CIN,0.579,-0.6
-2023-07-30,Arizona Diamondbacks,AZ,0.415,Seattle Mariners,SEA,0.585,-0.45
-2023-07-30,San Diego Padres,SD,0.539,Texas Rangers,TEX,0.461,0.35
-2023-07-30,Baltimore Orioles,BAL,0.444,New York Yankees,NYY,0.556,0.1
-2023-07-31,Miami Marlins,MIA,0.466,Philadelphia Phillies,PHI,0.534,0.2
-2023-07-31,New York Yankees,NYY,0.634,Tampa Bay Rays,TB,0.366,-0.6
-2023-07-31,Washington Nationals,WSH,0.533,Milwaukee Brewers,MIL,0.467,-0.5
-2023-07-31,Toronto Blue Jays,TOR,0.623,Baltimore Orioles,BAL,0.377,0.7
-2023-07-31,Atlanta Braves,ATL,0.516,Los Angeles Angels,LAA,0.484,0.05
-2023-07-31,Chicago Cubs,CHC,0.629,Cincinnati Reds,CIN,0.371,1.25
-2023-07-31,Houston Astros,HOU,0.528,Cleveland Guardians,CLE,0.472,0.45
-2023-07-31,Colorado Rockies,COL,0.404,San Diego Padres,SD,0.596,-0.15
-2023-07-31,Seattle Mariners,SEA,0.432,Boston Red Sox,BOS,0.568,0.9
-2023-07-31,San Francisco Giants,SF,0.55,Arizona Diamondbacks,AZ,0.45,-0.75
-2023-08-01,Miami Marlins,MIA,0.466,Philadelphia Phillies,PHI,0.534,0.2
-2023-08-01,Pittsburgh Pirates,PIT,0.483,Detroit Tigers,DET,0.517,0.05
-2023-08-01,New York Yankees,NYY,0.634,Tampa Bay Rays,TB,0.366,-0.6
-2023-08-01,Washington Nationals,WSH,0.533,Milwaukee Brewers,MIL,0.467,-0.5
-2023-08-01,Toronto Blue Jays,TOR,0.623,Baltimore Orioles,BAL,0.377,0.7
-2023-08-01,Atlanta Braves,ATL,0.516,Los Angeles Angels,LAA,0.484,0.05
-2023-08-01,St. Louis Cardinals,STL,0.505,Minnesota Twins,MIN,0.495,-0.65
-2023-08-01,Chicago Cubs,CHC,0.629,Cincinnati Reds,CIN,0.371,1.25
-2023-08-01,Texas Rangers,TEX,0.516,Chicago White Sox,CWS,0.484,-0.15
-2023-08-01,Houston Astros,HOU,0.528,Cleveland Guardians,CLE,0.472,0.45
-2023-08-01,Kansas City Royals,KC,0.483,New York Mets,NYM,0.517,-0.25
-2023-08-01,Colorado Rockies,COL,0.404,San Diego Padres,SD,0.596,-0.15
-2023-08-01,Seattle Mariners,SEA,0.432,Boston Red Sox,BOS,0.568,0.9
-2023-08-01,San Francisco Giants,SF,0.55,Arizona Diamondbacks,AZ,0.45,-0.75
-2023-08-01,Los Angeles Dodgers,LAD,0.387,Oakland Athletics,OAK,0.613,-0.3
-2023-08-02,Atlanta Braves,ATL,0.516,Los Angeles Angels,LAA,0.484,0.05
-2023-08-02,Pittsburgh Pirates,PIT,0.483,Detroit Tigers,DET,0.517,0.05
-2023-08-02,Washington Nationals,WSH,0.533,Milwaukee Brewers,MIL,0.467,-0.5
-2023-08-02,Houston Astros,HOU,0.528,Cleveland Guardians,CLE,0.472,0.45
-2023-08-02,Colorado Rockies,COL,0.404,San Diego Padres,SD,0.596,-0.15
-2023-08-02,Seattle Mariners,SEA,0.432,Boston Red Sox,BOS,0.568,0.9
-2023-08-02,Miami Marlins,MIA,0.466,Philadelphia Phillies,PHI,0.534,0.2
-2023-08-02,New York Yankees,NYY,0.634,Tampa Bay Rays,TB,0.366,-0.6
-2023-08-02,Toronto Blue Jays,TOR,0.623,Baltimore Orioles,BAL,0.377,0.7
-2023-08-02,St. Louis Cardinals,STL,0.505,Minnesota Twins,MIN,0.495,-0.65
-2023-08-02,Chicago Cubs,CHC,0.629,Cincinnati Reds,CIN,0.371,1.25
-2023-08-02,Texas Rangers,TEX,0.516,Chicago White Sox,CWS,0.484,-0.15
-2023-08-02,Kansas City Royals,KC,0.483,New York Mets,NYM,0.517,-0.25
-2023-08-02,San Francisco Giants,SF,0.55,Arizona Diamondbacks,AZ,0.45,-0.75
-2023-08-02,Los Angeles Dodgers,LAD,0.387,Oakland Athletics,OAK,0.613,-0.3
-2023-08-03,Miami Marlins,MIA,0.466,Philadelphia Phillies,PHI,0.534,0.2
-2023-08-03,Texas Rangers,TEX,0.516,Chicago White Sox,CWS,0.484,-0.15
-2023-08-03,Kansas City Royals,KC,0.483,New York Mets,NYM,0.517,-0.25
-2023-08-03,Toronto Blue Jays,TOR,0.623,Baltimore Orioles,BAL,0.377,0.7
-2023-08-03,San Francisco Giants,SF,0.55,Arizona Diamondbacks,AZ,0.45,-0.75
-2023-08-03,New York Yankees,NYY,0.494,Houston Astros,HOU,0.506,0.65
-2023-08-03,Milwaukee Brewers,MIL,0.46,Pittsburgh Pirates,PIT,0.54,-0.45
-2023-08-03,St. Louis Cardinals,STL,0.505,Minnesota Twins,MIN,0.495,-0.65
-2023-08-03,Chicago Cubs,CHC,0.629,Cincinnati Reds,CIN,0.371,1.25
-2023-08-03,Los Angeles Angels,LAA,0.477,Seattle Mariners,SEA,0.523,0.1
-2023-08-03,Los Angeles Dodgers,LAD,0.387,Oakland Athletics,OAK,0.613,-0.3
-2023-08-04,Chicago Cubs,CHC,0.623,Atlanta Braves,ATL,0.377,1.3
-2023-08-04,Cincinnati Reds,CIN,0.516,Washington Nationals,WSH,0.484,-0.05
-2023-08-04,Detroit Tigers,DET,0.612,Tampa Bay Rays,TB,0.388,-0.8
-2023-08-04,Baltimore Orioles,BAL,0.483,New York Mets,NYM,0.517,-0.25
-2023-08-04,Philadelphia Phillies,PHI,0.55,Kansas City Royals,KC,0.45,0.05
-2023-08-04,New York Yankees,NYY,0.494,Houston Astros,HOU,0.506,0.65
-2023-08-04,Boston Red Sox,BOS,0.483,Toronto Blue Jays,TOR,0.517,1.65
-2023-08-04,Cleveland Guardians,CLE,0.528,Chicago White Sox,CWS,0.472,-0.05
-2023-08-04,Texas Rangers,TEX,0.505,Miami Marlins,MIA,0.495,-0.05
-2023-08-04,Minnesota Twins,MIN,0.528,Arizona Diamondbacks,AZ,0.472,-0.95
-2023-08-04,Milwaukee Brewers,MIL,0.46,Pittsburgh Pirates,PIT,0.54,-0.45
-2023-08-04,St. Louis Cardinals,STL,0.522,Colorado Rockies,COL,0.478,-0.8
-2023-08-04,Los Angeles Angels,LAA,0.477,Seattle Mariners,SEA,0.523,0.1
-2023-08-04,San Diego Padres,SD,0.612,Los Angeles Dodgers,LAD,0.388,-0.3
-2023-08-05,New York Yankees,NYY,0.494,Houston Astros,HOU,0.506,0.65
-2023-08-05,Detroit Tigers,DET,0.612,Tampa Bay Rays,TB,0.388,-0.8
-2023-08-05,Chicago Cubs,CHC,0.623,Atlanta Braves,ATL,0.377,1.3
-2023-08-05,Texas Rangers,TEX,0.505,Miami Marlins,MIA,0.495,-0.05
-2023-08-05,Cincinnati Reds,CIN,0.516,Washington Nationals,WSH,0.484,-0.05
-2023-08-05,Boston Red Sox,BOS,0.483,Toronto Blue Jays,TOR,0.517,1.65
-2023-08-05,Philadelphia Phillies,PHI,0.55,Kansas City Royals,KC,0.45,0.05
-2023-08-05,Baltimore Orioles,BAL,0.483,New York Mets,NYM,0.517,-0.25
-2023-08-05,Oakland Athletics,OAK,0.556,San Francisco Giants,SF,0.444,0.2
-2023-08-05,Minnesota Twins,MIN,0.528,Arizona Diamondbacks,AZ,0.472,-0.95
-2023-08-05,Cleveland Guardians,CLE,0.528,Chicago White Sox,CWS,0.472,-0.05
-2023-08-05,Milwaukee Brewers,MIL,0.46,Pittsburgh Pirates,PIT,0.54,-0.45
-2023-08-05,St. Louis Cardinals,STL,0.522,Colorado Rockies,COL,0.478,-0.8
-2023-08-05,San Diego Padres,SD,0.612,Los Angeles Dodgers,LAD,0.388,-0.3
-2023-08-05,Los Angeles Angels,LAA,0.477,Seattle Mariners,SEA,0.523,0.1
-2023-08-06,Cleveland Guardians,CLE,0.528,Chicago White Sox,CWS,0.472,-0.05
-2023-08-06,Baltimore Orioles,BAL,0.483,New York Mets,NYM,0.517,-0.25
-2023-08-06,Boston Red Sox,BOS,0.483,Toronto Blue Jays,TOR,0.517,1.65
-2023-08-06,Philadelphia Phillies,PHI,0.55,Kansas City Royals,KC,0.45,0.05
-2023-08-06,New York Yankees,NYY,0.494,Houston Astros,HOU,0.506,0.65
-2023-08-06,Cincinnati Reds,CIN,0.516,Washington Nationals,WSH,0.484,-0.05
-2023-08-06,Detroit Tigers,DET,0.612,Tampa Bay Rays,TB,0.388,-0.8
-2023-08-06,Minnesota Twins,MIN,0.528,Arizona Diamondbacks,AZ,0.472,-0.95
-2023-08-06,Milwaukee Brewers,MIL,0.46,Pittsburgh Pirates,PIT,0.54,-0.45
-2023-08-06,St. Louis Cardinals,STL,0.522,Colorado Rockies,COL,0.478,-0.8
-2023-08-06,Chicago Cubs,CHC,0.623,Atlanta Braves,ATL,0.377,1.3
-2023-08-06,Texas Rangers,TEX,0.505,Miami Marlins,MIA,0.495,-0.05
-2023-08-06,Los Angeles Angels,LAA,0.477,Seattle Mariners,SEA,0.523,0.1
-2023-08-06,Oakland Athletics,OAK,0.556,San Francisco Giants,SF,0.444,0.2
-2023-08-06,San Diego Padres,SD,0.612,Los Angeles Dodgers,LAD,0.388,-0.3
-2023-08-07,San Diego Padres,SD,0.612,Los Angeles Dodgers,LAD,0.388,-0.3
-2023-08-07,Detroit Tigers,DET,0.55,Minnesota Twins,MIN,0.45,-0.25
-2023-08-07,Philadelphia Phillies,PHI,0.539,Washington Nationals,WSH,0.461,0.15
-2023-08-07,Cincinnati Reds,CIN,0.511,Miami Marlins,MIA,0.489,0.0
-2023-08-07,Pittsburgh Pirates,PIT,0.483,Atlanta Braves,ATL,0.517,0.05
-2023-08-07,Boston Red Sox,BOS,0.606,Kansas City Royals,KC,0.394,0.55
-2023-08-07,New York Mets,NYM,0.359,Chicago Cubs,CHC,0.641,1.15
-2023-08-07,Cleveland Guardians,CLE,0.41,Toronto Blue Jays,TOR,0.59,1.0
-2023-08-07,Chicago White Sox,CWS,0.449,New York Yankees,NYY,0.551,0.15
-2023-08-07,Milwaukee Brewers,MIL,0.511,Colorado Rockies,COL,0.489,-0.9
-2023-08-07,Los Angeles Angels,LAA,0.511,San Francisco Giants,SF,0.489,-0.2
-2023-08-07,Oakland Athletics,OAK,0.539,Texas Rangers,TEX,0.461,0.35
-2023-08-08,Tampa Bay Rays,TB,0.432,St. Louis Cardinals,STL,0.568,-1.2
-2023-08-08,Detroit Tigers,DET,0.55,Minnesota Twins,MIN,0.45,-0.25
-2023-08-08,Philadelphia Phillies,PHI,0.539,Washington Nationals,WSH,0.461,0.15
-2023-08-08,Cincinnati Reds,CIN,0.511,Miami Marlins,MIA,0.489,0.0
-2023-08-08,Baltimore Orioles,BAL,0.438,Houston Astros,HOU,0.562,0.15
-2023-08-08,Pittsburgh Pirates,PIT,0.483,Atlanta Braves,ATL,0.517,0.05
-2023-08-08,Boston Red Sox,BOS,0.606,Kansas City Royals,KC,0.394,0.55
-2023-08-08,New York Mets,NYM,0.359,Chicago Cubs,CHC,0.641,1.15
-2023-08-08,Cleveland Guardians,CLE,0.41,Toronto Blue Jays,TOR,0.59,1.0
-2023-08-08,Chicago White Sox,CWS,0.449,New York Yankees,NYY,0.551,0.15
-2023-08-08,Milwaukee Brewers,MIL,0.511,Colorado Rockies,COL,0.489,-0.9
-2023-08-08,Los Angeles Angels,LAA,0.511,San Francisco Giants,SF,0.489,-0.2
-2023-08-08,Arizona Diamondbacks,AZ,0.505,Los Angeles Dodgers,LAD,0.495,-1.25
-2023-08-08,Seattle Mariners,SEA,0.477,San Diego Padres,SD,0.523,0.5
-2023-08-08,Oakland Athletics,OAK,0.539,Texas Rangers,TEX,0.461,0.35
-2023-08-09,Cincinnati Reds,CIN,0.511,Miami Marlins,MIA,0.489,0.0
-2023-08-09,Milwaukee Brewers,MIL,0.511,Colorado Rockies,COL,0.489,-0.9
-2023-08-09,Oakland Athletics,OAK,0.539,Texas Rangers,TEX,0.461,0.35
-2023-08-09,Tampa Bay Rays,TB,0.432,St. Louis Cardinals,STL,0.568,-1.2
-2023-08-09,Detroit Tigers,DET,0.55,Minnesota Twins,MIN,0.45,-0.25
-2023-08-09,Philadelphia Phillies,PHI,0.539,Washington Nationals,WSH,0.461,0.15
-2023-08-09,Baltimore Orioles,BAL,0.438,Houston Astros,HOU,0.562,0.15
-2023-08-09,Pittsburgh Pirates,PIT,0.483,Atlanta Braves,ATL,0.517,0.05
-2023-08-09,Boston Red Sox,BOS,0.606,Kansas City Royals,KC,0.394,0.55
-2023-08-09,New York Mets,NYM,0.359,Chicago Cubs,CHC,0.641,1.15
-2023-08-09,Cleveland Guardians,CLE,0.41,Toronto Blue Jays,TOR,0.59,1.0
-2023-08-09,Chicago White Sox,CWS,0.449,New York Yankees,NYY,0.551,0.15
-2023-08-09,Los Angeles Angels,LAA,0.511,San Francisco Giants,SF,0.489,-0.2
-2023-08-09,Arizona Diamondbacks,AZ,0.505,Los Angeles Dodgers,LAD,0.495,-1.25
-2023-08-09,Seattle Mariners,SEA,0.477,San Diego Padres,SD,0.523,0.5
-2023-08-10,Baltimore Orioles,BAL,0.438,Houston Astros,HOU,0.562,0.15
-2023-08-10,Pittsburgh Pirates,PIT,0.483,Atlanta Braves,ATL,0.517,0.05
-2023-08-10,Cleveland Guardians,CLE,0.41,Toronto Blue Jays,TOR,0.59,1.0
-2023-08-10,Detroit Tigers,DET,0.55,Minnesota Twins,MIN,0.45,-0.25
-2023-08-10,Tampa Bay Rays,TB,0.432,St. Louis Cardinals,STL,0.568,-1.2
-2023-08-10,Philadelphia Phillies,PHI,0.539,Washington Nationals,WSH,0.461,0.15
-2023-08-10,Boston Red Sox,BOS,0.606,Kansas City Royals,KC,0.394,0.55
-2023-08-10,Los Angeles Dodgers,LAD,0.483,Colorado Rockies,COL,0.517,-1.15
-2023-08-11,Tampa Bay Rays,TB,0.387,Cleveland Guardians,CLE,0.613,-0.8
-2023-08-11,Miami Marlins,MIA,0.46,New York Yankees,NYY,0.54,0.25
-2023-08-11,Washington Nationals,WSH,0.449,Oakland Athletics,OAK,0.551,0.25
-2023-08-11,Pittsburgh Pirates,PIT,0.488,Cincinnati Reds,CIN,0.512,-0.0
-2023-08-11,Philadelphia Phillies,PHI,0.567,Minnesota Twins,MIN,0.433,-0.1
-2023-08-11,Toronto Blue Jays,TOR,0.466,Chicago Cubs,CHC,0.534,2.1
-2023-08-11,Boston Red Sox,BOS,0.573,Detroit Tigers,DET,0.427,0.85
-2023-08-11,New York Mets,NYM,0.483,Atlanta Braves,ATL,0.517,0.05
-2023-08-11,Houston Astros,HOU,0.545,Los Angeles Angels,LAA,0.455,0.3
-2023-08-11,Kansas City Royals,KC,0.511,St. Louis Cardinals,STL,0.489,-0.5
-2023-08-11,Chicago White Sox,CWS,0.528,Milwaukee Brewers,MIL,0.472,-0.55
-2023-08-11,Arizona Diamondbacks,AZ,0.393,San Diego Padres,SD,0.607,-0.25
-2023-08-11,Los Angeles Dodgers,LAD,0.483,Colorado Rockies,COL,0.517,-1.15
-2023-08-11,Seattle Mariners,SEA,0.539,Baltimore Orioles,BAL,0.461,-0.05
-2023-08-11,San Francisco Giants,SF,0.483,Texas Rangers,TEX,0.517,-0.15
-2023-08-12,New York Mets,NYM,0.483,Atlanta Braves,ATL,0.517,0.05
-2023-08-12,New York Mets,NYM,0.483,Atlanta Braves,ATL,0.517,0.05
-2023-08-12,Toronto Blue Jays,TOR,0.466,Chicago Cubs,CHC,0.534,2.1
-2023-08-12,Boston Red Sox,BOS,0.573,Detroit Tigers,DET,0.427,0.85
-2023-08-12,Tampa Bay Rays,TB,0.387,Cleveland Guardians,CLE,0.613,-0.8
-2023-08-12,Miami Marlins,MIA,0.46,New York Yankees,NYY,0.54,0.25
-2023-08-12,Philadelphia Phillies,PHI,0.567,Minnesota Twins,MIN,0.433,-0.1
-2023-08-12,Washington Nationals,WSH,0.449,Oakland Athletics,OAK,0.551,0.25
-2023-08-12,Pittsburgh Pirates,PIT,0.488,Cincinnati Reds,CIN,0.512,-0.0
-2023-08-12,Kansas City Royals,KC,0.511,St. Louis Cardinals,STL,0.489,-0.5
-2023-08-12,Houston Astros,HOU,0.545,Los Angeles Angels,LAA,0.455,0.3
-2023-08-12,Chicago White Sox,CWS,0.528,Milwaukee Brewers,MIL,0.472,-0.55
-2023-08-12,Arizona Diamondbacks,AZ,0.393,San Diego Padres,SD,0.607,-0.25
-2023-08-12,San Francisco Giants,SF,0.483,Texas Rangers,TEX,0.517,-0.15
-2023-08-12,Los Angeles Dodgers,LAD,0.483,Colorado Rockies,COL,0.517,-1.15
-2023-08-12,Seattle Mariners,SEA,0.539,Baltimore Orioles,BAL,0.461,-0.05
-2023-08-13,Boston Red Sox,BOS,0.573,Detroit Tigers,DET,0.427,0.85
-2023-08-13,Washington Nationals,WSH,0.449,Oakland Athletics,OAK,0.551,0.25
-2023-08-13,Pittsburgh Pirates,PIT,0.488,Cincinnati Reds,CIN,0.512,-0.0
-2023-08-13,Philadelphia Phillies,PHI,0.567,Minnesota Twins,MIN,0.433,-0.1
-2023-08-13,Toronto Blue Jays,TOR,0.466,Chicago Cubs,CHC,0.534,2.1
-2023-08-13,Tampa Bay Rays,TB,0.387,Cleveland Guardians,CLE,0.613,-0.8
-2023-08-13,Miami Marlins,MIA,0.46,New York Yankees,NYY,0.54,0.25
-2023-08-13,Houston Astros,HOU,0.545,Los Angeles Angels,LAA,0.455,0.3
-2023-08-13,Chicago White Sox,CWS,0.528,Milwaukee Brewers,MIL,0.472,-0.55
-2023-08-13,San Francisco Giants,SF,0.483,Texas Rangers,TEX,0.517,-0.15
-2023-08-13,Los Angeles Dodgers,LAD,0.483,Colorado Rockies,COL,0.517,-1.15
-2023-08-13,Arizona Diamondbacks,AZ,0.393,San Diego Padres,SD,0.607,-0.25
-2023-08-13,Seattle Mariners,SEA,0.539,Baltimore Orioles,BAL,0.461,-0.05
-2023-08-13,New York Mets,NYM,0.483,Atlanta Braves,ATL,0.517,0.05
+2023-07-31,Miami Marlins,MIA,0.511,Philadelphia Phillies,PHI,0.489,0.1
+2023-07-31,New York Yankees,NYY,0.545,Tampa Bay Rays,TB,0.455,-0.7
+2023-07-31,Washington Nationals,WSH,0.539,Milwaukee Brewers,MIL,0.461,-0.45
+2023-07-31,Toronto Blue Jays,TOR,0.589,Baltimore Orioles,BAL,0.411,0.8
+2023-07-31,Atlanta Braves,ATL,0.511,Los Angeles Angels,LAA,0.489,0.4
+2023-07-31,Chicago Cubs,CHC,0.556,Cincinnati Reds,CIN,0.444,1.1
+2023-07-31,Houston Astros,HOU,0.449,Cleveland Guardians,CLE,0.551,0.45
+2023-07-31,Colorado Rockies,COL,0.399,San Diego Padres,SD,0.601,0.2
+2023-07-31,Seattle Mariners,SEA,0.477,Boston Red Sox,BOS,0.523,1.0
+2023-07-31,San Francisco Giants,SF,0.584,Arizona Diamondbacks,AZ,0.416,-0.45
+2023-08-01,Miami Marlins,MIA,0.511,Philadelphia Phillies,PHI,0.489,0.1
+2023-08-01,Pittsburgh Pirates,PIT,0.528,Detroit Tigers,DET,0.472,0.05
+2023-08-01,New York Yankees,NYY,0.545,Tampa Bay Rays,TB,0.455,-0.7
+2023-08-01,Washington Nationals,WSH,0.539,Milwaukee Brewers,MIL,0.461,-0.45
+2023-08-01,Toronto Blue Jays,TOR,0.589,Baltimore Orioles,BAL,0.411,0.8
+2023-08-01,Atlanta Braves,ATL,0.511,Los Angeles Angels,LAA,0.489,0.4
+2023-08-01,St. Louis Cardinals,STL,0.511,Minnesota Twins,MIN,0.489,-0.8
+2023-08-01,Chicago Cubs,CHC,0.556,Cincinnati Reds,CIN,0.444,1.1
+2023-08-01,Texas Rangers,TEX,0.505,Chicago White Sox,CWS,0.495,-0.65
+2023-08-01,Houston Astros,HOU,0.449,Cleveland Guardians,CLE,0.551,0.45
+2023-08-01,Kansas City Royals,KC,0.46,New York Mets,NYM,0.54,0.35
+2023-08-01,Colorado Rockies,COL,0.399,San Diego Padres,SD,0.601,0.2
+2023-08-01,Seattle Mariners,SEA,0.477,Boston Red Sox,BOS,0.523,1.0
+2023-08-01,San Francisco Giants,SF,0.584,Arizona Diamondbacks,AZ,0.416,-0.45
+2023-08-01,Los Angeles Dodgers,LAD,0.387,Oakland Athletics,OAK,0.613,-0.8
+2023-08-02,Atlanta Braves,ATL,0.511,Los Angeles Angels,LAA,0.489,0.4
+2023-08-02,Pittsburgh Pirates,PIT,0.528,Detroit Tigers,DET,0.472,0.05
+2023-08-02,Washington Nationals,WSH,0.539,Milwaukee Brewers,MIL,0.461,-0.45
+2023-08-02,Houston Astros,HOU,0.449,Cleveland Guardians,CLE,0.551,0.45
+2023-08-02,Colorado Rockies,COL,0.399,San Diego Padres,SD,0.601,0.2
+2023-08-02,Seattle Mariners,SEA,0.477,Boston Red Sox,BOS,0.523,1.0
+2023-08-02,Miami Marlins,MIA,0.511,Philadelphia Phillies,PHI,0.489,0.1
+2023-08-02,New York Yankees,NYY,0.545,Tampa Bay Rays,TB,0.455,-0.7
+2023-08-02,Toronto Blue Jays,TOR,0.589,Baltimore Orioles,BAL,0.411,0.8
+2023-08-02,St. Louis Cardinals,STL,0.511,Minnesota Twins,MIN,0.489,-0.8
+2023-08-02,Chicago Cubs,CHC,0.556,Cincinnati Reds,CIN,0.444,1.1
+2023-08-02,Texas Rangers,TEX,0.505,Chicago White Sox,CWS,0.495,-0.65
+2023-08-02,Kansas City Royals,KC,0.46,New York Mets,NYM,0.54,0.35
+2023-08-02,San Francisco Giants,SF,0.584,Arizona Diamondbacks,AZ,0.416,-0.45
+2023-08-02,Los Angeles Dodgers,LAD,0.387,Oakland Athletics,OAK,0.613,-0.8
+2023-08-03,Miami Marlins,MIA,0.511,Philadelphia Phillies,PHI,0.489,0.1
+2023-08-03,Texas Rangers,TEX,0.505,Chicago White Sox,CWS,0.495,-0.65
+2023-08-03,Kansas City Royals,KC,0.46,New York Mets,NYM,0.54,0.35
+2023-08-03,Toronto Blue Jays,TOR,0.589,Baltimore Orioles,BAL,0.411,0.8
+2023-08-03,San Francisco Giants,SF,0.584,Arizona Diamondbacks,AZ,0.416,-0.45
+2023-08-03,New York Yankees,NYY,0.483,Houston Astros,HOU,0.517,-0.15
+2023-08-03,Milwaukee Brewers,MIL,0.438,Pittsburgh Pirates,PIT,0.562,-0.25
+2023-08-03,St. Louis Cardinals,STL,0.511,Minnesota Twins,MIN,0.489,-0.8
+2023-08-03,Chicago Cubs,CHC,0.556,Cincinnati Reds,CIN,0.444,1.1
+2023-08-03,Los Angeles Angels,LAA,0.472,Seattle Mariners,SEA,0.528,0.55
+2023-08-03,Los Angeles Dodgers,LAD,0.387,Oakland Athletics,OAK,0.613,-0.8
+2023-08-04,Chicago Cubs,CHC,0.561,Atlanta Braves,ATL,0.439,1.05
+2023-08-04,Cincinnati Reds,CIN,0.539,Washington Nationals,WSH,0.461,0.25
+2023-08-04,Detroit Tigers,DET,0.55,Tampa Bay Rays,TB,0.45,-0.65
+2023-08-04,Baltimore Orioles,BAL,0.46,New York Mets,NYM,0.54,0.35
+2023-08-04,Philadelphia Phillies,PHI,0.5,Kansas City Royals,KC,0.5,0.0
+2023-08-04,New York Yankees,NYY,0.483,Houston Astros,HOU,0.517,-0.15
+2023-08-04,Boston Red Sox,BOS,0.477,Toronto Blue Jays,TOR,0.523,1.4
+2023-08-04,Cleveland Guardians,CLE,0.589,Chicago White Sox,CWS,0.411,0.1
+2023-08-04,Texas Rangers,TEX,0.455,Miami Marlins,MIA,0.545,-0.2
+2023-08-04,Minnesota Twins,MIN,0.516,Arizona Diamondbacks,AZ,0.484,-1.05
+2023-08-04,Milwaukee Brewers,MIL,0.438,Pittsburgh Pirates,PIT,0.562,-0.25
+2023-08-04,St. Louis Cardinals,STL,0.5,Colorado Rockies,COL,0.5,-0.7
+2023-08-04,Los Angeles Angels,LAA,0.472,Seattle Mariners,SEA,0.528,0.55
+2023-08-04,San Diego Padres,SD,0.662,Los Angeles Dodgers,LAD,0.338,-0.35
+2023-08-05,New York Yankees,NYY,0.483,Houston Astros,HOU,0.517,-0.15
+2023-08-05,Detroit Tigers,DET,0.55,Tampa Bay Rays,TB,0.45,-0.65
+2023-08-05,Chicago Cubs,CHC,0.561,Atlanta Braves,ATL,0.439,1.05
+2023-08-05,Texas Rangers,TEX,0.455,Miami Marlins,MIA,0.545,-0.2
+2023-08-05,Cincinnati Reds,CIN,0.539,Washington Nationals,WSH,0.461,0.25
+2023-08-05,Boston Red Sox,BOS,0.477,Toronto Blue Jays,TOR,0.523,1.4
+2023-08-05,Philadelphia Phillies,PHI,0.5,Kansas City Royals,KC,0.5,0.0
+2023-08-05,Baltimore Orioles,BAL,0.46,New York Mets,NYM,0.54,0.35
+2023-08-05,Oakland Athletics,OAK,0.494,San Francisco Giants,SF,0.506,0.25
+2023-08-05,Minnesota Twins,MIN,0.516,Arizona Diamondbacks,AZ,0.484,-1.05
+2023-08-05,Cleveland Guardians,CLE,0.589,Chicago White Sox,CWS,0.411,0.1
+2023-08-05,Milwaukee Brewers,MIL,0.438,Pittsburgh Pirates,PIT,0.562,-0.25
+2023-08-05,St. Louis Cardinals,STL,0.5,Colorado Rockies,COL,0.5,-0.7
+2023-08-05,San Diego Padres,SD,0.662,Los Angeles Dodgers,LAD,0.338,-0.35
+2023-08-05,Los Angeles Angels,LAA,0.472,Seattle Mariners,SEA,0.528,0.55
+2023-08-06,Cleveland Guardians,CLE,0.589,Chicago White Sox,CWS,0.411,0.1
+2023-08-06,Baltimore Orioles,BAL,0.46,New York Mets,NYM,0.54,0.35
+2023-08-06,Boston Red Sox,BOS,0.477,Toronto Blue Jays,TOR,0.523,1.4
+2023-08-06,Philadelphia Phillies,PHI,0.5,Kansas City Royals,KC,0.5,0.0
+2023-08-06,New York Yankees,NYY,0.483,Houston Astros,HOU,0.517,-0.15
+2023-08-06,Cincinnati Reds,CIN,0.539,Washington Nationals,WSH,0.461,0.25
+2023-08-06,Detroit Tigers,DET,0.55,Tampa Bay Rays,TB,0.45,-0.65
+2023-08-06,Minnesota Twins,MIN,0.516,Arizona Diamondbacks,AZ,0.484,-1.05
+2023-08-06,Milwaukee Brewers,MIL,0.438,Pittsburgh Pirates,PIT,0.562,-0.25
+2023-08-06,St. Louis Cardinals,STL,0.5,Colorado Rockies,COL,0.5,-0.7
+2023-08-06,Chicago Cubs,CHC,0.561,Atlanta Braves,ATL,0.439,1.05
+2023-08-06,Texas Rangers,TEX,0.455,Miami Marlins,MIA,0.545,-0.2
+2023-08-06,Los Angeles Angels,LAA,0.472,Seattle Mariners,SEA,0.528,0.55
+2023-08-06,Oakland Athletics,OAK,0.494,San Francisco Giants,SF,0.506,0.25
+2023-08-06,San Diego Padres,SD,0.662,Los Angeles Dodgers,LAD,0.338,-0.35
+2023-08-07,San Diego Padres,SD,0.662,Los Angeles Dodgers,LAD,0.338,-0.35
+2023-08-07,Detroit Tigers,DET,0.539,Minnesota Twins,MIN,0.461,-0.55
+2023-08-07,Philadelphia Phillies,PHI,0.505,Washington Nationals,WSH,0.495,-0.05
+2023-08-07,Cincinnati Reds,CIN,0.522,Miami Marlins,MIA,0.478,0.4
+2023-08-07,Pittsburgh Pirates,PIT,0.488,Atlanta Braves,ATL,0.512,0.4
+2023-08-07,Boston Red Sox,BOS,0.567,Kansas City Royals,KC,0.433,0.6
+2023-08-07,New York Mets,NYM,0.449,Chicago Cubs,CHC,0.551,1.15
+2023-08-07,Cleveland Guardians,CLE,0.46,Toronto Blue Jays,TOR,0.54,1.25
+2023-08-07,Chicago White Sox,CWS,0.477,New York Yankees,NYY,0.523,-0.5
+2023-08-07,Milwaukee Brewers,MIL,0.494,Colorado Rockies,COL,0.506,-0.75
+2023-08-07,Los Angeles Angels,LAA,0.5,San Francisco Giants,SF,0.5,0.3
+2023-08-07,Oakland Athletics,OAK,0.545,Texas Rangers,TEX,0.455,-0.2
+2023-08-08,Tampa Bay Rays,TB,0.477,St. Louis Cardinals,STL,0.523,-0.9
+2023-08-08,Detroit Tigers,DET,0.539,Minnesota Twins,MIN,0.461,-0.55
+2023-08-08,Philadelphia Phillies,PHI,0.505,Washington Nationals,WSH,0.495,-0.05
+2023-08-08,Cincinnati Reds,CIN,0.522,Miami Marlins,MIA,0.478,0.4
+2023-08-08,Baltimore Orioles,BAL,0.5,Houston Astros,HOU,0.5,-0.0
+2023-08-08,Pittsburgh Pirates,PIT,0.488,Atlanta Braves,ATL,0.512,0.4
+2023-08-08,Boston Red Sox,BOS,0.567,Kansas City Royals,KC,0.433,0.6
+2023-08-08,New York Mets,NYM,0.449,Chicago Cubs,CHC,0.551,1.15
+2023-08-08,Cleveland Guardians,CLE,0.46,Toronto Blue Jays,TOR,0.54,1.25
+2023-08-08,Chicago White Sox,CWS,0.477,New York Yankees,NYY,0.523,-0.5
+2023-08-08,Milwaukee Brewers,MIL,0.494,Colorado Rockies,COL,0.506,-0.75
+2023-08-08,Los Angeles Angels,LAA,0.5,San Francisco Giants,SF,0.5,0.3
+2023-08-08,Arizona Diamondbacks,AZ,0.533,Los Angeles Dodgers,LAD,0.467,-1.5
+2023-08-08,Seattle Mariners,SEA,0.483,San Diego Padres,SD,0.517,0.95
+2023-08-08,Oakland Athletics,OAK,0.545,Texas Rangers,TEX,0.455,-0.2
+2023-08-09,Cincinnati Reds,CIN,0.522,Miami Marlins,MIA,0.478,0.4
+2023-08-09,Milwaukee Brewers,MIL,0.494,Colorado Rockies,COL,0.506,-0.75
+2023-08-09,Oakland Athletics,OAK,0.545,Texas Rangers,TEX,0.455,-0.2
+2023-08-09,Tampa Bay Rays,TB,0.477,St. Louis Cardinals,STL,0.523,-0.9
+2023-08-09,Detroit Tigers,DET,0.539,Minnesota Twins,MIN,0.461,-0.55
+2023-08-09,Philadelphia Phillies,PHI,0.505,Washington Nationals,WSH,0.495,-0.05
+2023-08-09,Baltimore Orioles,BAL,0.5,Houston Astros,HOU,0.5,-0.0
+2023-08-09,Pittsburgh Pirates,PIT,0.488,Atlanta Braves,ATL,0.512,0.4
+2023-08-09,Boston Red Sox,BOS,0.567,Kansas City Royals,KC,0.433,0.6
+2023-08-09,New York Mets,NYM,0.449,Chicago Cubs,CHC,0.551,1.15
+2023-08-09,Cleveland Guardians,CLE,0.46,Toronto Blue Jays,TOR,0.54,1.25
+2023-08-09,Chicago White Sox,CWS,0.477,New York Yankees,NYY,0.523,-0.5
+2023-08-09,Los Angeles Angels,LAA,0.5,San Francisco Giants,SF,0.5,0.3
+2023-08-09,Arizona Diamondbacks,AZ,0.533,Los Angeles Dodgers,LAD,0.467,-1.5
+2023-08-09,Seattle Mariners,SEA,0.483,San Diego Padres,SD,0.517,0.95
+2023-08-10,Baltimore Orioles,BAL,0.5,Houston Astros,HOU,0.5,-0.0
+2023-08-10,Pittsburgh Pirates,PIT,0.488,Atlanta Braves,ATL,0.512,0.4
+2023-08-10,Cleveland Guardians,CLE,0.46,Toronto Blue Jays,TOR,0.54,1.25
+2023-08-10,Detroit Tigers,DET,0.539,Minnesota Twins,MIN,0.461,-0.55
+2023-08-10,Tampa Bay Rays,TB,0.477,St. Louis Cardinals,STL,0.523,-0.9
+2023-08-10,Philadelphia Phillies,PHI,0.505,Washington Nationals,WSH,0.495,-0.05
+2023-08-10,Boston Red Sox,BOS,0.567,Kansas City Royals,KC,0.433,0.6
+2023-08-10,Los Angeles Dodgers,LAD,0.438,Colorado Rockies,COL,0.562,-1.25
+2023-08-11,Tampa Bay Rays,TB,0.387,Cleveland Guardians,CLE,0.613,-0.1
+2023-08-11,Miami Marlins,MIA,0.528,New York Yankees,NYY,0.472,-0.05
+2023-08-11,Washington Nationals,WSH,0.483,Oakland Athletics,OAK,0.517,0.05
+2023-08-11,Pittsburgh Pirates,PIT,0.483,Cincinnati Reds,CIN,0.517,0.45
+2023-08-11,Philadelphia Phillies,PHI,0.55,Minnesota Twins,MIN,0.45,-0.45
+2023-08-11,Toronto Blue Jays,TOR,0.5,Chicago Cubs,CHC,0.5,1.6
+2023-08-11,Boston Red Sox,BOS,0.578,Detroit Tigers,DET,0.422,0.5
+2023-08-11,New York Mets,NYM,0.511,Atlanta Braves,ATL,0.489,0.6
+2023-08-11,Houston Astros,HOU,0.483,Los Angeles Angels,LAA,0.517,0.15
+2023-08-11,Kansas City Royals,KC,0.539,St. Louis Cardinals,STL,0.461,-0.35
+2023-08-11,Chicago White Sox,CWS,0.505,Milwaukee Brewers,MIL,0.495,-0.75
+2023-08-11,Arizona Diamondbacks,AZ,0.371,San Diego Padres,SD,0.629,-0.05
+2023-08-11,Los Angeles Dodgers,LAD,0.438,Colorado Rockies,COL,0.562,-1.25
+2023-08-11,Seattle Mariners,SEA,0.545,Baltimore Orioles,BAL,0.455,0.4
+2023-08-11,San Francisco Giants,SF,0.55,Texas Rangers,TEX,0.45,-0.15
+2023-08-12,New York Mets,NYM,0.511,Atlanta Braves,ATL,0.489,0.6
+2023-08-12,New York Mets,NYM,0.511,Atlanta Braves,ATL,0.489,0.6
+2023-08-12,Toronto Blue Jays,TOR,0.5,Chicago Cubs,CHC,0.5,1.6
+2023-08-12,Boston Red Sox,BOS,0.578,Detroit Tigers,DET,0.422,0.5
+2023-08-12,Tampa Bay Rays,TB,0.387,Cleveland Guardians,CLE,0.613,-0.1
+2023-08-12,Miami Marlins,MIA,0.528,New York Yankees,NYY,0.472,-0.05
+2023-08-12,Philadelphia Phillies,PHI,0.55,Minnesota Twins,MIN,0.45,-0.45
+2023-08-12,Washington Nationals,WSH,0.483,Oakland Athletics,OAK,0.517,0.05
+2023-08-12,Pittsburgh Pirates,PIT,0.483,Cincinnati Reds,CIN,0.517,0.45
+2023-08-12,Kansas City Royals,KC,0.539,St. Louis Cardinals,STL,0.461,-0.35
+2023-08-12,Houston Astros,HOU,0.483,Los Angeles Angels,LAA,0.517,0.15
+2023-08-12,Chicago White Sox,CWS,0.505,Milwaukee Brewers,MIL,0.495,-0.75
+2023-08-12,Arizona Diamondbacks,AZ,0.371,San Diego Padres,SD,0.629,-0.05
+2023-08-12,San Francisco Giants,SF,0.55,Texas Rangers,TEX,0.45,-0.15
+2023-08-12,Los Angeles Dodgers,LAD,0.438,Colorado Rockies,COL,0.562,-1.25
+2023-08-12,Seattle Mariners,SEA,0.545,Baltimore Orioles,BAL,0.455,0.4
+2023-08-13,Boston Red Sox,BOS,0.578,Detroit Tigers,DET,0.422,0.5
+2023-08-13,Washington Nationals,WSH,0.483,Oakland Athletics,OAK,0.517,0.05
+2023-08-13,Pittsburgh Pirates,PIT,0.483,Cincinnati Reds,CIN,0.517,0.45
+2023-08-13,Philadelphia Phillies,PHI,0.55,Minnesota Twins,MIN,0.45,-0.45
+2023-08-13,Toronto Blue Jays,TOR,0.5,Chicago Cubs,CHC,0.5,1.6
+2023-08-13,Tampa Bay Rays,TB,0.387,Cleveland Guardians,CLE,0.613,-0.1
+2023-08-13,Miami Marlins,MIA,0.528,New York Yankees,NYY,0.472,-0.05
+2023-08-13,Houston Astros,HOU,0.483,Los Angeles Angels,LAA,0.517,0.15
+2023-08-13,Chicago White Sox,CWS,0.505,Milwaukee Brewers,MIL,0.495,-0.75
+2023-08-13,San Francisco Giants,SF,0.55,Texas Rangers,TEX,0.45,-0.15
+2023-08-13,Los Angeles Dodgers,LAD,0.438,Colorado Rockies,COL,0.562,-1.25
+2023-08-13,Arizona Diamondbacks,AZ,0.371,San Diego Padres,SD,0.629,-0.05
+2023-08-13,Seattle Mariners,SEA,0.545,Baltimore Orioles,BAL,0.455,0.4
+2023-08-13,New York Mets,NYM,0.511,Atlanta Braves,ATL,0.489,0.6
+2023-08-14,Miami Marlins,MIA,0.511,Houston Astros,HOU,0.489,0.1
+2023-08-14,New York Mets,NYM,0.522,Pittsburgh Pirates,PIT,0.478,0.5
+2023-08-14,Atlanta Braves,ATL,0.545,New York Yankees,NYY,0.455,0.1
+2023-08-14,St. Louis Cardinals,STL,0.449,Oakland Athletics,OAK,0.551,-0.25
+2023-08-14,Texas Rangers,TEX,0.449,Los Angeles Angels,LAA,0.551,-0.15
+2023-08-14,Kansas City Royals,KC,0.455,Seattle Mariners,SEA,0.545,0.4
+2023-08-14,Colorado Rockies,COL,0.528,Arizona Diamondbacks,AZ,0.472,-0.95
+2023-08-14,San Diego Padres,SD,0.561,Baltimore Orioles,BAL,0.439,0.55
+2023-08-14,San Francisco Giants,SF,0.578,Tampa Bay Rays,TB,0.422,-0.4
