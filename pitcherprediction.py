@@ -28,7 +28,7 @@ for team in teams:
     #    f = open('rotations/teams/{}.csv'.format(team),'a')
     #except:
     f = open('rotations/teams/{}.csv'.format(team),'w')
-    print('cycle,ace,no2,no3,no4,no5',file=f)
+    print('cycle,ace,no2,no3,no4,no5,',file=f)
     T = np.genfromtxt('data/teams/{}.csv'.format(team),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
 
     ngames = len(T['pitcher'])
@@ -47,6 +47,10 @@ for team in teams:
             print('',file=f)
 
         rotation_order[ncycle,norder] = T['pitcher'][n]
+
+    # finish the last line:
+    for nf in range(norder+1,5):
+        print('',end=',',file=f)
 
     #print(team,T['pitcher'][0],ncycles)
     #print(rotation_order)
