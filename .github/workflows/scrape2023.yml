@@ -31,6 +31,7 @@ jobs:
               python rundiffscraper.py
               python outcomepredictions.py
               python validatepredictions.py
+              python pitcherprediction.py
           - name: set me up
             run: |
               git config user.name "michael-petersen"

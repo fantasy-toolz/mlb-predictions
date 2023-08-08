@@ -6,6 +6,7 @@ import pandas as pd
 from io import StringIO
 import requests
 import unicodedata
+import os
 
 
 import matplotlib.pyplot as plt
@@ -81,7 +82,11 @@ plt.plot([0.,0.],[0.,1.],color='grey',lw=0.5,linestyle='dashed',zorder=-10)
 
 plt.axis([rdmin,rdmax,0.,1.])
 
-plt.savefig('figures/rundifferentialcheck{}.png'.format(str(pd.to_datetime("today").date())),dpi=300)
+# rename the previous image to archive
+os.rename('figures/latest.png','figures/archive/rundifferentialcheck{}.png'.format(str(pd.to_datetime("today").date())))
+
+# save as the latest image
+plt.savefig('figures/latest.png',dpi=300)
 
 
 
