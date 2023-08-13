@@ -58,14 +58,22 @@ for team in teams:
 
     # to find the next up, take the pitcher from the most recent game, scroll back, and see who followed them
     most_recent_pitcher = T['pitcher'][n]
-    print(most_recent_pitcher)
+    #print(most_recent_pitcher)
     n -= 1
     while T['pitcher'][n] != most_recent_pitcher:
         n -= 1
         #print(T['pitcher'][n])
     #print(T['pitcher'][n],most_recent_pitcher)
     #print(T['pitcher'][n+1])
-    print('{},{},{}'.format(team,T['pitcher'][n+1].decode(),T['pitcher'][n+2].decode()),file=g)
+
+    #print(team,n,len(T['pitcher']))
+    if ((n < len(T['pitcher'])-2) & (n>0)):
+        print('{},{},{}'.format(team,T['pitcher'][n+1].decode(),T['pitcher'][n+2].decode()),file=g)
+        #print(most_recent_pitcher.decode(),T['pitcher'][n+1].decode())
+    elif n == len(T['pitcher'])-2:
+        print('{},{},{}'.format(team,T['pitcher'][n+1].decode(),'???'),file=g)
+    else:
+        print('{},{},{}'.format(team,'???','???'),file=g)
 
 
 g.close()
