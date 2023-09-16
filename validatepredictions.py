@@ -50,14 +50,18 @@ for team in teams:
             oindx = np.where(O['date']==date)
         except:
             continue
-        rundiffdelta = boxcar10rundiff[indx] - oboxcar10rundiff[oindx][0]
-        print(date,team,opp,boxcar10rundiff[indx],oboxcar10rundiff[oindx][0],rundiffdelta*X[1]+X[0],T['rundiff'][indx]>0)
-        bin1 = int(np.floor((rundiffdelta-rdmin)/drd)) # boxcar bin
-        if bin1>=nrd: bin1=nrd-1
-        if bin1<0: bin1=0
-        if T['rundiff'][indx]>0:
-            winperc[bin1,0] += 1.0
-        winperc[bin1,1] += 1.0
+
+        try:
+            rundiffdelta = boxcar10rundiff[indx] - oboxcar10rundiff[oindx][0]
+            print(date,team,opp,boxcar10rundiff[indx],oboxcar10rundiff[oindx][0],rundiffdelta*X[1]+X[0],T['rundiff'][indx]>0)
+            bin1 = int(np.floor((rundiffdelta-rdmin)/drd)) # boxcar bin
+            if bin1>=nrd: bin1=nrd-1
+            if bin1<0: bin1=0
+            if T['rundiff'][indx]>0:
+                winperc[bin1,0] += 1.0
+            winperc[bin1,1] += 1.0
+        except:
+            print(f'validatepredictions: prediction failed for {team} and {opp.decode()} on {date}'.)
 
 
 
