@@ -61,7 +61,7 @@ for team in teams:
                 winperc[bin1,0] += 1.0
             winperc[bin1,1] += 1.0
         except:
-            print(f'validatepredictions: prediction failed for {team} and {opp.decode()} on {date}'.)
+            print(f'validatepredictions: prediction failed for {team} and {opp.decode()} on {date}.')
 
 
 
