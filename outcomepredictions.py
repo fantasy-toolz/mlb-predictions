@@ -57,8 +57,14 @@ f = open('predictions/latest.csv','w')
 print('date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanrundiff',file=f)
 
 # start the calculation of gamedays, going two weeks forward
+# the 59 is determined by hand, sadly. please automate!
 today = pd.to_datetime("today").dayofyear - 59
-for indx in range(today,today+15):
+
+# need a maximum day (i.e. last day of season)
+# failed at 217
+maxday = 216 # this is the last day of the season (with the -59 applied)
+
+for indx in range(today,np.nanmin([today+15,216])):
     ngames = len(DF.values[indx][5]['games'])
     gamedate =  DF.values[indx][5]['date']
     for gnum in range(0,ngames):
