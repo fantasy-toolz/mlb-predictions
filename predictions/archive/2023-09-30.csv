@@ -1,0 +1,32 @@
+date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanrundiff
+2023-09-30,Detroit Tigers,DET,0.595,Cleveland Guardians,CLE,0.405,0.35
+2023-09-30,Toronto Blue Jays,TOR,0.584,Tampa Bay Rays,TB,0.416,0.05
+2023-09-30,New York Mets,NYM,0.488,Philadelphia Phillies,PHI,0.512,0.6
+2023-09-30,New York Mets,NYM,0.488,Philadelphia Phillies,PHI,0.512,0.6
+2023-09-30,Pittsburgh Pirates,PIT,0.595,Miami Marlins,MIA,0.405,-1.15
+2023-09-30,Chicago White Sox,CWS,0.359,San Diego Padres,SD,0.641,0.15
+2023-09-30,Kansas City Royals,KC,0.516,New York Yankees,NYY,0.484,-0.75
+2023-09-30,Milwaukee Brewers,MIL,0.483,Chicago Cubs,CHC,0.517,-0.25
+2023-09-30,Baltimore Orioles,BAL,0.595,Boston Red Sox,BOS,0.405,0.05
+2023-09-30,St. Louis Cardinals,STL,0.253,Cincinnati Reds,CIN,0.747,-0.3
+2023-09-30,Seattle Mariners,SEA,0.545,Texas Rangers,TEX,0.455,-0.1
+2023-09-30,Atlanta Braves,ATL,0.612,Washington Nationals,WSH,0.388,-0.4
+2023-09-30,Arizona Diamondbacks,AZ,0.561,Houston Astros,HOU,0.439,0.95
+2023-09-30,Colorado Rockies,COL,0.365,Minnesota Twins,MIN,0.635,0.3
+2023-09-30,San Francisco Giants,SF,0.309,Los Angeles Dodgers,LAD,0.691,-0.1
+2023-09-30,Los Angeles Angels,LAA,0.545,Oakland Athletics,OAK,0.455,-0.8
+2023-10-01,Baltimore Orioles,BAL,0.595,Boston Red Sox,BOS,0.405,0.05
+2023-10-01,San Francisco Giants,SF,0.309,Los Angeles Dodgers,LAD,0.691,-0.1
+2023-10-01,Pittsburgh Pirates,PIT,0.595,Miami Marlins,MIA,0.405,-1.15
+2023-10-01,Los Angeles Angels,LAA,0.545,Oakland Athletics,OAK,0.455,-0.8
+2023-10-01,Toronto Blue Jays,TOR,0.584,Tampa Bay Rays,TB,0.416,0.05
+2023-10-01,Detroit Tigers,DET,0.595,Cleveland Guardians,CLE,0.405,0.35
+2023-10-01,Arizona Diamondbacks,AZ,0.561,Houston Astros,HOU,0.439,0.95
+2023-10-01,Seattle Mariners,SEA,0.545,Texas Rangers,TEX,0.455,-0.1
+2023-10-01,Colorado Rockies,COL,0.365,Minnesota Twins,MIN,0.635,0.3
+2023-10-01,New York Mets,NYM,0.488,Philadelphia Phillies,PHI,0.512,0.6
+2023-10-01,Atlanta Braves,ATL,0.612,Washington Nationals,WSH,0.388,-0.4
+2023-10-01,Chicago White Sox,CWS,0.359,San Diego Padres,SD,0.641,0.15
+2023-10-01,Kansas City Royals,KC,0.516,New York Yankees,NYY,0.484,-0.75
+2023-10-01,Milwaukee Brewers,MIL,0.483,Chicago Cubs,CHC,0.517,-0.25
+2023-10-01,St. Louis Cardinals,STL,0.253,Cincinnati Reds,CIN,0.747,-0.3
