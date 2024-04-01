@@ -19,7 +19,7 @@ teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF
 
 mlbteams = {'Oakland Athletics': 'OAK', 'Pittsburgh Pirates': 'PIT', 'Seattle Mariners': 'SEA', 'San Diego Padres': 'SD', 'Kansas City Royals': 'KC', 'Miami Marlins': 'MIA', 'Minnesota Twins': 'MIN', 'Tampa Bay Rays': 'TB', 'Arizona Diamondbacks': 'AZ', 'Washington Nationals': 'WSH', 'Houston Astros': 'HOU', 'Toronto Blue Jays': 'TOR', 'Boston Red Sox': 'BOS', 'Cleveland Guardians': 'CLE', 'Los Angeles Dodgers': 'LAD', 'Cincinnati Reds': 'CIN', 'New York Mets': 'NYM', 'Atlanta Braves': 'ATL', 'Baltimore Orioles': 'BAL', 'Milwaukee Brewers': 'MIL', 'St. Louis Cardinals': 'STL', 'Texas Rangers': 'TEX', 'San Francisco Giants': 'SF', 'Colorado Rockies': 'COL', 'Chicago Cubs': 'CHC', 'Los Angeles Angels': 'LAA', 'Detroit Tigers': 'DET', 'Philadelphia Phillies': 'PHI', 'Chicago White Sox': 'CWS', 'New York Yankees': 'NYY'}
 
-
+year = '2024'
 
 
 # tuned parameters from first 60 games of the 2023 season
@@ -37,15 +37,15 @@ rundiffrange = np.linspace(rdmin,rdmax,nrd)
 winperc = np.zeros([rundiffrange.size,2])
 
 for team in teams:
-    T = np.genfromtxt('data/teams/{}.csv'.format(team),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
+    T = np.genfromtxt('data/{}/teams/{}.csv'.format(year,team),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
     boxcar10rundiff = np.convolve(T['rundiff'], kernel, mode='same')
     for indx,date in enumerate(T['date']):
-        if indx < 70:
-            continue
+        #if indx < 70:
+        #    continue
         opp = T['opponent'][indx]
         #print(opp)
         try:
-            O = np.genfromtxt('data/teams/{}.csv'.format(opp.decode()),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
+            O = np.genfromtxt('data/{}/teams/{}.csv'.format(year,opp.decode()),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
             oboxcar10rundiff = np.convolve(O['rundiff'], kernel, mode='same')
             oindx = np.where(O['date']==date)
         except:
@@ -106,7 +106,7 @@ boxcar10rundiffI = np.convolve(T['rundiffI'], kernel, mode='same')
 # who has big leads after 6 innings typically?
 for team in teams:
     try:
-        T = np.genfromtxt('data/teams/{}.csv'.format(team),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8')],delimiter=',')
+        T = np.genfromtxt('data/{}/teams/{}.csv'.format(year,team),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8')],delimiter=',')
     except:
         continue
     earlygameleads = np.nanmean(T['rundiffI']) # early game leads

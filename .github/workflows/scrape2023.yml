@@ -5,7 +5,7 @@ name: daily scrape
 on:
 #      schedule:
 #        - cron: '01 10 * * *'
-      push:
+#      push:
 
 jobs:
       build:

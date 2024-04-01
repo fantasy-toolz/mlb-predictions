@@ -13,6 +13,7 @@ import matplotlib.pyplot as plt
 import matplotlib.cm as cm
 plt.ion()
 
+year = '2024'
 
 teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
 
@@ -20,16 +21,16 @@ mlbteams = {'Oakland Athletics': 'OAK', 'Pittsburgh Pirates': 'PIT', 'Seattle Ma
 
 rotation_size = 5
 
-g = open('rotations/nextup.csv','w')
+g = open('rotations/{}/nextup.csv'.format(year),'w')
 print('team,nextup,ondeck',file=g)
 
 for team in teams:
     #try:
     #    f = open('rotations/teams/{}.csv'.format(team),'a')
     #except:
-    f = open('rotations/teams/{}.csv'.format(team),'w')
+    f = open('rotations/{}/teams/{}.csv'.format(year,team),'w')
     print('cycle,ace,no2,no3,no4,no5,',file=f)
-    T = np.genfromtxt('data/teams/{}.csv'.format(team),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
+    T = np.genfromtxt('data/{}/teams/{}.csv'.format(year,team),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
 
     ngames = len(T['pitcher'])
     ncycles = int(np.ceil(ngames/rotation_size))

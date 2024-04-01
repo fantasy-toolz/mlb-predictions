@@ -11,17 +11,17 @@ teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF
 
 mlbteams = {'Oakland Athletics': 'OAK', 'Pittsburgh Pirates': 'PIT', 'Seattle Mariners': 'SEA', 'San Diego Padres': 'SD', 'Kansas City Royals': 'KC', 'Miami Marlins': 'MIA', 'Minnesota Twins': 'MIN', 'Tampa Bay Rays': 'TB', 'Arizona Diamondbacks': 'AZ', 'Washington Nationals': 'WSH', 'Houston Astros': 'HOU', 'Toronto Blue Jays': 'TOR', 'Boston Red Sox': 'BOS', 'Cleveland Guardians': 'CLE', 'Los Angeles Dodgers': 'LAD', 'Cincinnati Reds': 'CIN', 'New York Mets': 'NYM', 'Atlanta Braves': 'ATL', 'Baltimore Orioles': 'BAL', 'Milwaukee Brewers': 'MIL', 'St. Louis Cardinals': 'STL', 'Texas Rangers': 'TEX', 'San Francisco Giants': 'SF', 'Colorado Rockies': 'COL', 'Chicago Cubs': 'CHC', 'Los Angeles Angels': 'LAA', 'Detroit Tigers': 'DET', 'Philadelphia Phillies': 'PHI', 'Chicago White Sox': 'CWS', 'New York Yankees': 'NYY'}
 
-
+year = '2024'
 
 # use the MLB API to get the full schedule
-link = 'https://statsapi.mlb.com/api/v1/schedule/games/?sportId=1&startDate=2023-01-01&endDate=2023-12-31'
+link = 'https://statsapi.mlb.com/api/v1/schedule/games/?sportId=1&startDate=2024-01-01&endDate=2024-12-31'
 DF = pd.read_json(link)
 # every DF value is a different date DF.values[indx][5]
 # then games are DF.values[indx][5]['games']
 
 # DF.values[indx][5]['games'][0].keys()
 # DF.values[indx][5]['games'][0]['seriesDescription'] == 'Regular Season'
-indx,gnum = 102,0
+indx,gnum = 27,0
 ngames = len(DF.values[indx][5]['games'])
 gamedate =  DF.values[indx][5]['date']
 awayteam = DF.values[indx][5]['games'][gnum]['teams']['away']['team']['name']
@@ -47,8 +47,11 @@ def compute_betline(odds):
 
 
 # move the latest file to an archive file
-P = pd.read_csv('predictions/latest.csv')
-os.rename('predictions/latest.csv','predictions/archive/{}.csv'.format(P['date'][0]))
+try:
+    P = pd.read_csv('predictions/latest.csv')
+    os.rename('predictions/latest.csv','predictions/archive/{}.csv'.format(P['date'][0]))
+except:
+    pass
 
 # open the new file for writing
 f = open('predictions/latest.csv','w')
@@ -59,20 +62,21 @@ print('date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodd
 # start the calculation of gamedays, going two weeks forward
 # the 59 is determined by hand, sadly. please automate!
 today = pd.to_datetime("today").dayofyear - 59
+today = pd.to_datetime("today").dayofyear - 54
 
 # need a maximum day (i.e. last day of season)
 # failed at 217
 maxday = 216 # this is the last day of the season (with the -59 applied)
 
-for indx in range(today,np.nanmin([today+15,216])):
+for indx in range(today,np.nanmin([today+5,216])):
     ngames = len(DF.values[indx][5]['games'])
     gamedate =  DF.values[indx][5]['date']
     for gnum in range(0,ngames):
         awayteam = DF.values[indx][5]['games'][gnum]['teams']['away']['team']['name']
         hometeam = DF.values[indx][5]['games'][gnum]['teams']['home']['team']['name']
-        H = np.genfromtxt('data/teams/{}.csv'.format(mlbteams[hometeam]),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
+        H = np.genfromtxt('data/{}/teams/{}.csv'.format(year,mlbteams[hometeam]),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
         hrundiff = np.convolve(H['rundiff'], kernel, mode='same')
-        A = np.genfromtxt('data/teams/{}.csv'.format(mlbteams[awayteam]),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
+        A = np.genfromtxt('data/{}/teams/{}.csv'.format(year,mlbteams[awayteam]),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
         arundiff = np.convolve(A['rundiff'], kernel, mode='same')
         rundiffdelta = hrundiff[-1] - arundiff[-1]
         meanrundiff = 0.5*(hrundiff[-1] + arundiff[-1])

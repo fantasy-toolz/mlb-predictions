@@ -10,20 +10,24 @@ import unicodedata
 indexinning = 6
 
 
+# this is 2023 season specific
 year = '2023'
-# this is 2023 specific
 yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(88,365)]
+
+# this is 2024 season specific
+year = '2024'
+yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(77,365)]
 
 todaynum = np.where(np.array(yeardates)==str(pd.to_datetime("today").date()))[0][0]
 
 alldates = yeardates[0:todaynum]
 
 # check just the past couple of days
-alldates = yeardates[todaynum-3:todaynum]
+alldates = yeardates[max(0,todaynum-15):todaynum]
 
 
 # create a file that stamps the last time run
-f = open('data/lasttouched.txt'.format(year),'w')
+f = open('data/{}/lasttouched.txt'.format(year),'w')
 print(pd.to_datetime("today"),file=f)
 f.close()
 
@@ -75,10 +79,10 @@ for team in teams:
     print(team)
     try:
         try:
-            T = np.genfromtxt('data/teams/{}.csv'.format(team),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
-            f = open('data/teams/{}.csv'.format(team),'a')
+            T = np.genfromtxt('data/{}/teams/{}.csv'.format(year,team),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
+            f = open('data/{}/teams/{}.csv'.format(year,team),'a')
         except:
-            f = open('data/teams/{}.csv'.format(team),'w')
+            f = open('data/{}/teams/{}.csv'.format(year,team),'w')
         for date in alldates:
             if date in T['date'].astype('str'):
                 continue
