@@ -5,7 +5,7 @@ from io import StringIO
 import requests
 import unicodedata
 import os
-
+import shutil
 
 teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
 
@@ -49,6 +49,7 @@ def compute_betline(odds):
 # move the latest file to an archive file
 try:
     P = pd.read_csv('predictions/latest.csv')
+    shutil.copy('predictions/latest.csv', 'predictions/archive/yesterday.csv')
     os.rename('predictions/latest.csv','predictions/archive/{}.csv'.format(P['date'][0]))
 except:
     pass
@@ -68,7 +69,7 @@ today = pd.to_datetime("today").dayofyear - 54
 # failed at 217
 maxday = 216 # this is the last day of the season (with the -59 applied)
 
-for indx in range(today,np.nanmin([today+5,216])):
+for indx in range(today,np.nanmin([today+7,216])):
     ngames = len(DF.values[indx][5]['games'])
     gamedate =  DF.values[indx][5]['date']
     for gnum in range(0,ngames):
