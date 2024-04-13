@@ -46,10 +46,12 @@ def compute_betline(odds):
 
 
 
-# move the latest file to an archive file
+# move the latest files to an archive file
 try:
     P = pd.read_csv('predictions/latest.csv')
     os.rename('predictions/latest.csv','predictions/archive/{}.csv'.format(P['date'][0]))
+    Q = pd.read_csv('predictions/latestvalidation.csv')
+    os.rename('predictions/latestvalidation.csv','predictions/archive/{}validation.csv'.format(P['date'][0]))
 except:
     pass
 
