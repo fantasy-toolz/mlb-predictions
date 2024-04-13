@@ -49,21 +49,49 @@ def compute_betline(odds):
 # move the latest file to an archive file
 try:
     P = pd.read_csv('predictions/latest.csv')
-    shutil.copy('predictions/latest.csv', 'predictions/archive/yesterday.csv')
     os.rename('predictions/latest.csv','predictions/archive/{}.csv'.format(P['date'][0]))
 except:
     pass
 
 # open the new file for writing
 f = open('predictions/latest.csv','w')
+g = open('predictions/latestvalidation.csv','w')
 
 # stamp the output file with the header
 print('date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanrundiff',file=f)
+print('date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds',file=g)
 
 # start the calculation of gamedays, going two weeks forward
 # the 59 is determined by hand, sadly. please automate!
 today = pd.to_datetime("today").dayofyear - 59
 today = pd.to_datetime("today").dayofyear - 54
+yesterday = today - 1
+
+# check yesterdays scores
+gamedate =  DF.values[yesterday][5]['date']
+ngames = len(DF.values[yesterday][5]['games'])
+P = pd.read_csv('predictions/archive/{}.csv'.format(gamedate))
+Y = P.loc[P['date']==gamedate]
+
+for gnum in range(0,ngames):
+    try:
+        awayteam = DF.values[yesterday][5]['games'][gnum]['teams']['away']['team']['name']
+        dYA = Y.loc[(Y['awayteamfull']==DF.values[yesterday][5]['games'][gnum]['teams']['away']['team']['name'])]
+        awayteamprob = dYA['awayteamodds'].values[0]
+        awayteamwin = DF.values[yesterday][5]['games'][gnum]['teams']['away']['isWinner']
+        awayteamscore = DF.values[yesterday][5]['games'][gnum]['teams']['away']['score']
+        hometeam = DF.values[yesterday][5]['games'][gnum]['teams']['home']['team']['name']
+        dYH = Y.loc[(Y['hometeamfull']==DF.values[yesterday][5]['games'][gnum]['teams']['home']['team']['name'])]
+        hometeamprob = dYH['hometeamodds'].values[0]
+        hometeamwin = DF.values[yesterday][5]['games'][gnum]['teams']['home']['isWinner']
+        hometeamscore = DF.values[yesterday][5]['games'][gnum]['teams']['home']['score']
+    # now print to file
+        print('{0},{1},{2},{3},{4},{5},{6},{7},{8}'.format(gamedate,hometeam,hometeamwin,hometeamscore,dYH['hometeamodds'].values[0],awayteam,awayteamwin,awayteamscore,dYA['awayteamodds'].values[0]),file=g)
+    except:
+        print('Failed on')
+        print(DF.values[yesterday][5]['games'][gnum]['teams']['away']['team']['name'],DF.values[yesterday][5]['games'][gnum]['teams']['home']['team']['name'])
+
+g.close()
 
 # need a maximum day (i.e. last day of season)
 # failed at 217
