@@ -1,15 +1,18 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2024-04-12,Detroit Tigers,True,8,0.483,Minnesota Twins,False,2,0.517
-2024-04-12,Philadelphia Phillies,False,2,0.556,Pittsburgh Pirates,True,5,0.444
-2024-04-12,Tampa Bay Rays,True,2,0.516,San Francisco Giants,False,1,0.484
-2024-04-12,Baltimore Orioles,False,1,0.5,Milwaukee Brewers,True,11,0.5
-2024-04-12,Toronto Blue Jays,False,4,0.488,Colorado Rockies,True,12,0.512
-2024-04-12,Boston Red Sox,False,0,0.539,Los Angeles Angels,True,7,0.461
-2024-04-12,New York Mets,True,6,0.421,Kansas City Royals,False,1,0.579
-2024-04-12,Miami Marlins,False,1,0.522,Atlanta Braves,True,8,0.478
-2024-04-12,Chicago White Sox,False,1,0.488,Cincinnati Reds,True,11,0.512
-2024-04-12,Houston Astros,False,8,0.399,Texas Rangers,True,12,0.601
-2024-04-12,Oakland Athletics,True,2,0.556,Washington Nationals,False,1,0.444
-2024-04-12,Seattle Mariners,True,4,0.455,Chicago Cubs,False,2,0.545
-2024-04-12,Arizona Diamondbacks,False,6,0.488,St. Louis Cardinals,True,9,0.512
-2024-04-12,Los Angeles Dodgers,False,7,0.449,San Diego Padres,True,8,0.551
+2024-04-13,Cleveland Guardians,False,2,0.539,New York Yankees,True,3,0.461
+2024-04-13,Cleveland Guardians,False,2,0.539,New York Yankees,True,8,0.461
+2024-04-13,Detroit Tigers,False,5,0.556,Minnesota Twins,True,11,0.444
+2024-04-13,Detroit Tigers,False,1,0.556,Minnesota Twins,True,4,0.444
+2024-04-13,New York Mets,False,7,0.477,Kansas City Royals,True,11,0.523
+2024-04-13,Chicago White Sox,False,0,0.376,Cincinnati Reds,True,5,0.624
+2024-04-13,Toronto Blue Jays,True,5,0.399,Colorado Rockies,False,3,0.601
+2024-04-13,Houston Astros,True,9,0.41,Texas Rangers,False,2,0.59
+2024-04-13,Philadelphia Phillies,True,4,0.488,Pittsburgh Pirates,False,3,0.512
+2024-04-13,Baltimore Orioles,False,5,0.376,Milwaukee Brewers,True,11,0.624
+2024-04-13,Oakland Athletics,False,1,0.55,Washington Nationals,True,3,0.45
+2024-04-13,Boston Red Sox,True,7,0.438,Los Angeles Angels,False,2,0.562
+2024-04-13,Tampa Bay Rays,False,2,0.55,San Francisco Giants,True,11,0.45
+2024-04-13,Miami Marlins,True,5,0.466,Atlanta Braves,False,1,0.534
+2024-04-13,Arizona Diamondbacks,True,4,0.477,St. Louis Cardinals,False,2,0.523
+2024-04-13,Los Angeles Dodgers,True,5,0.444,San Diego Padres,False,2,0.556
+2024-04-13,Seattle Mariners,False,1,0.494,Chicago Cubs,True,4,0.506
