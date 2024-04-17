@@ -1,16 +1,15 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2024-04-15,Boston Red Sox,False,0,0.421,Cleveland Guardians,True,6,0.579
-2024-04-15,Baltimore Orioles,True,7,0.522,Minnesota Twins,False,4,0.478
-2024-04-15,Detroit Tigers,False,0,0.488,Texas Rangers,True,1,0.512
-2024-04-15,Philadelphia Phillies,True,2,0.46,Colorado Rockies,False,1,0.54
-2024-04-15,Miami Marlins,False,3,0.444,San Francisco Giants,True,4,0.556
-2024-04-15,Tampa Bay Rays,False,3,0.455,Los Angeles Angels,True,7,0.545
-2024-04-15,Toronto Blue Jays,True,3,0.41,New York Yankees,False,1,0.59
-2024-04-15,New York Mets,True,6,0.545,Pittsburgh Pirates,False,3,0.455
-2024-04-15,Chicago White Sox,False,0,0.258,Kansas City Royals,True,2,0.742
-2024-04-15,Milwaukee Brewers,False,3,0.584,San Diego Padres,True,7,0.416
-2024-04-15,Houston Astros,False,1,0.46,Atlanta Braves,True,6,0.54
-2024-04-15,Arizona Diamondbacks,False,2,0.545,Chicago Cubs,True,3,0.455
-2024-04-15,Oakland Athletics,False,1,0.511,St. Louis Cardinals,True,3,0.489
-2024-04-15,Seattle Mariners,True,9,0.404,Cincinnati Reds,False,3,0.596
-2024-04-15,Los Angeles Dodgers,False,4,0.5,Washington Nationals,True,6,0.5
+2024-04-16,Detroit Tigers,True,4,0.505,Texas Rangers,False,2,0.495
+2024-04-16,Baltimore Orioles,True,11,0.511,Minnesota Twins,False,3,0.489
+2024-04-16,Philadelphia Phillies,True,5,0.5,Colorado Rockies,False,0,0.5
+2024-04-16,Miami Marlins,True,6,0.432,San Francisco Giants,False,3,0.568
+2024-04-16,Tampa Bay Rays,True,7,0.477,Los Angeles Angels,False,6,0.523
+2024-04-16,Toronto Blue Jays,True,5,0.444,New York Yankees,False,4,0.556
+2024-04-16,Boston Red Sox,False,7,0.399,Cleveland Guardians,True,10,0.601
+2024-04-16,New York Mets,True,3,0.589,Pittsburgh Pirates,False,1,0.411
+2024-04-16,Milwaukee Brewers,False,3,0.556,San Diego Padres,True,6,0.444
+2024-04-16,Houston Astros,False,2,0.404,Atlanta Braves,True,6,0.596
+2024-04-16,Arizona Diamondbacks,True,12,0.539,Chicago Cubs,False,11,0.461
+2024-04-16,Seattle Mariners,True,3,0.5,Cincinnati Reds,False,1,0.5
+2024-04-16,Oakland Athletics,False,2,0.472,St. Louis Cardinals,True,3,0.528
+2024-04-16,Los Angeles Dodgers,True,6,0.505,Washington Nationals,False,2,0.495
