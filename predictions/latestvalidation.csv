@@ -1,17 +1,17 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2024-04-20,New York Yankees,False,0,0.533,Tampa Bay Rays,True,2,0.467
-2024-04-20,Minnesota Twins,True,4,0.449,Detroit Tigers,False,3,0.551
-2024-04-20,St. Louis Cardinals,False,5,0.46,Milwaukee Brewers,True,12,0.54
-2024-04-20,Chicago Cubs,False,2,0.578,Miami Marlins,True,3,0.422
-2024-04-20,Chicago Cubs,True,5,0.578,Miami Marlins,False,3,0.422
-2024-04-20,Washington Nationals,True,5,0.483,Houston Astros,False,4,0.517
-2024-04-20,Los Angeles Dodgers,False,4,0.387,New York Mets,True,6,0.613
-2024-04-20,Pittsburgh Pirates,False,2,0.421,Boston Red Sox,True,4,0.579
-2024-04-20,San Francisco Giants,True,7,0.331,Arizona Diamondbacks,False,3,0.669
-2024-04-20,Philadelphia Phillies,True,9,0.73,Chicago White Sox,False,5,0.27
-2024-04-20,Cleveland Guardians,True,6,0.646,Oakland Athletics,False,3,0.354
-2024-04-20,Cincinnati Reds,True,7,0.556,Los Angeles Angels,False,5,0.444
-2024-04-20,Kansas City Royals,False,7,0.516,Baltimore Orioles,True,9,0.484
-2024-04-20,Atlanta Braves,True,5,0.606,Texas Rangers,False,2,0.394
-2024-04-20,Colorado Rockies,False,0,0.41,Seattle Mariners,True,7,0.59
-2024-04-20,San Diego Padres,False,2,0.444,Toronto Blue Jays,True,5,0.556
+2024-04-21,Washington Nationals,True,6,0.522,Houston Astros,False,0,0.478
+2024-04-21,Pittsburgh Pirates,False,1,0.41,Boston Red Sox,True,6,0.59
+2024-04-21,Philadelphia Phillies,True,8,0.713,Chicago White Sox,False,2,0.287
+2024-04-21,New York Yankees,True,5,0.505,Tampa Bay Rays,False,4,0.495
+2024-04-21,Cincinnati Reds,True,3,0.545,Los Angeles Angels,False,0,0.455
+2024-04-21,Cleveland Guardians,True,6,0.662,Oakland Athletics,False,2,0.338
+2024-04-21,Kansas City Royals,False,0,0.488,Baltimore Orioles,True,5,0.512
+2024-04-21,Minnesota Twins,False,1,0.432,Detroit Tigers,True,6,0.568
+2024-04-21,St. Louis Cardinals,False,0,0.427,Milwaukee Brewers,True,2,0.573
+2024-04-21,Chicago Cubs,False,3,0.606,Miami Marlins,True,6,0.394
+2024-04-21,Colorado Rockies,True,2,0.298,Seattle Mariners,False,1,0.702
+2024-04-21,Colorado Rockies,False,2,0.298,Seattle Mariners,True,10,0.702
+2024-04-21,San Francisco Giants,False,3,0.432,Arizona Diamondbacks,True,5,0.568
+2024-04-21,Los Angeles Dodgers,True,10,0.326,New York Mets,False,0,0.674
+2024-04-21,San Diego Padres,True,6,0.438,Toronto Blue Jays,False,3,0.562
+2024-04-21,Atlanta Braves,False,4,0.646,Texas Rangers,True,6,0.354
