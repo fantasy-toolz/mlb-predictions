@@ -1,17 +1,12 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2024-04-21,Washington Nationals,True,6,0.522,Houston Astros,False,0,0.478
-2024-04-21,Pittsburgh Pirates,False,1,0.41,Boston Red Sox,True,6,0.59
-2024-04-21,Philadelphia Phillies,True,8,0.713,Chicago White Sox,False,2,0.287
-2024-04-21,New York Yankees,True,5,0.505,Tampa Bay Rays,False,4,0.495
-2024-04-21,Cincinnati Reds,True,3,0.545,Los Angeles Angels,False,0,0.455
-2024-04-21,Cleveland Guardians,True,6,0.662,Oakland Athletics,False,2,0.338
-2024-04-21,Kansas City Royals,False,0,0.488,Baltimore Orioles,True,5,0.512
-2024-04-21,Minnesota Twins,False,1,0.432,Detroit Tigers,True,6,0.568
-2024-04-21,St. Louis Cardinals,False,0,0.427,Milwaukee Brewers,True,2,0.573
-2024-04-21,Chicago Cubs,False,3,0.606,Miami Marlins,True,6,0.394
-2024-04-21,Colorado Rockies,True,2,0.298,Seattle Mariners,False,1,0.702
-2024-04-21,Colorado Rockies,False,2,0.298,Seattle Mariners,True,10,0.702
-2024-04-21,San Francisco Giants,False,3,0.432,Arizona Diamondbacks,True,5,0.568
-2024-04-21,Los Angeles Dodgers,True,10,0.326,New York Mets,False,0,0.674
-2024-04-21,San Diego Padres,True,6,0.438,Toronto Blue Jays,False,3,0.562
-2024-04-21,Atlanta Braves,False,4,0.646,Texas Rangers,True,6,0.354
+2024-04-22,New York Yankees,False,0,0.584,Oakland Athletics,True,2,0.416
+2024-04-22,Cincinnati Reds,False,0,0.359,Philadelphia Phillies,True,7,0.641
+2024-04-22,Pittsburgh Pirates,True,4,0.326,Milwaukee Brewers,False,2,0.674
+2024-04-22,Tampa Bay Rays,False,1,0.477,Detroit Tigers,True,7,0.523
+2024-04-22,Atlanta Braves,True,3,0.612,Miami Marlins,False,0,0.388
+2024-04-22,Kansas City Royals,False,3,0.477,Toronto Blue Jays,True,5,0.523
+2024-04-22,Minnesota Twins,True,7,0.556,Chicago White Sox,False,0,0.444
+2024-04-22,St. Louis Cardinals,True,5,0.399,Arizona Diamondbacks,False,3,0.601
+2024-04-22,Colorado Rockies,False,1,0.337,San Diego Padres,True,3,0.663
+2024-04-22,Los Angeles Angels,False,2,0.348,Baltimore Orioles,True,4,0.652
+2024-04-22,San Francisco Giants,True,5,0.387,New York Mets,False,2,0.613
