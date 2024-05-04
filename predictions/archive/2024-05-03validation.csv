@@ -1,0 +1,7 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2024-05-02,Miami Marlins,True,5,0.539,Colorado Rockies,False,4,0.461
+2024-05-02,Baltimore Orioles,True,7,0.432,New York Yankees,False,2,0.568
+2024-05-02,New York Mets,True,7,0.539,Chicago Cubs,False,6,0.461
+2024-05-02,Boston Red Sox,False,1,0.662,San Francisco Giants,True,3,0.338
+2024-05-02,Texas Rangers,True,6,0.444,Washington Nationals,False,0,0.556
+2024-05-02,Houston Astros,True,8,0.567,Cleveland Guardians,False,2,0.433
