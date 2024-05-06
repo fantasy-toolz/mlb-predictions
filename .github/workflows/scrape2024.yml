@@ -15,7 +15,7 @@ jobs:
           - name: checkout repo content
             uses: actions/checkout@v3 # checkout the repository content to github runner.
             with:
-              repository: mlb-predictions
+              repository: fantasy-toolz/mlb-predictions
               path: main
               token: ${{secrets.PUSH_TOKEN}}
           - name: setup python
