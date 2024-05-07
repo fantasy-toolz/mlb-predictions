@@ -1,10 +1,10 @@
 
-name: daily scrape
+name: line scrape
 
 # Controls when the workflow will run
 on:
       schedule:
-        - cron: '01 10 * * *'
+        - cron: '01 */6 * * *'
       push:
 
 jobs:
@@ -32,9 +32,7 @@ jobs:
               pip install numpy
               pip install html5lib
               pip install matplotlib
-              python rundiffscraper.py
-              python outcomepredictions.py
-              python validatepredictions.py
+              python draftkings.py
           - name: set me up
             run: |
               git config user.name "github-actions[bot]"

@@ -9,8 +9,10 @@ import requests
 import json
 from traceback import print_exc
 import pandas as pd
-from datetime import date
+from datetime import datetime
 
+
+year = '2024'
 id_dict = {"NHL": "42133", "NFL": "88808", "NBA": "42648", "MLB":"84240"}
 
 class DraftKings:
@@ -90,7 +92,7 @@ class DraftKings:
 
 def convert_n_save(games):          
     pred_df = pd.read_csv("predictions/latest.csv")
-    date_string = date.today().strftime("%Y-%m-%d")
+    date_string = datetime.today().strftime("%Y-%m-%d")
     pred_df = pred_df.loc[pred_df['date']==date_string]
     
     team_equiv = {
@@ -106,6 +108,13 @@ def convert_n_save(games):
         home_team = game['game'].split(" v ")[1]
         away_team = game['game'].split(" v ")[0]
         for outcome in game['markets']:
+            if outcome['marketName'] == 'Run Line':
+                pass
+                # this isn't particularly interesting, since it is always +/- 1.5
+            if outcome['marketName'] == 'Total':
+                for line in outcome['outcomes']:
+                    ou = float(line['label'].split()[-1])
+
             if outcome['marketName'] == 'Moneyline':
                 for line in outcome['outcomes']:
                     if line['label'] == home_team:
@@ -122,10 +131,10 @@ def convert_n_save(games):
         else:
             away_team = away_team.split(" ")[0]
         home_odds = home_odds/(home_odds + away_odds)
-        rows.append([home_team, away_team, 1-home_odds, home_odds])
+        rows.append([home_team, away_team, 1-home_odds, home_odds,ou])
         
-    line_df = pd.DataFrame(rows, columns = ['hometeam', 'awayteam', 'hometeamodds_dk', 'awayteamodds_dk'])
-    line_df.to_csv("predictions/dk.csv", index = False)
+    line_df = pd.DataFrame(rows, columns = ['hometeam', 'awayteam', 'hometeamodds_dk', 'awayteamodds_dk','ou'])
+    line_df.to_csv("data/{}/odds/dk_{}.csv".format(year,datetime.now().strftime("%Y-%m-%d-%H")), index = False)
     
     pred_df = pred_df.merge(line_df, on = ['hometeam', 'awayteam'], how = 'left')
 
