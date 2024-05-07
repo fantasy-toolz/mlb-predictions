@@ -5,7 +5,7 @@ name: line scrape
 on:
       schedule:
         - cron: '01 */6 * * *'
-      push:
+#      push:
 
 jobs:
       build:
@@ -38,6 +38,7 @@ jobs:
               git config user.name "github-actions[bot]"
               git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
               git status
+              git pull
               git add .
               git commit -m "bot update"
               git push https://$USERNAME:$REPO_KEY@github.com/fantasy-toolz/mlb-predictions.git
