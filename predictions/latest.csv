@@ -1,14 +1,4 @@
 date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanrundiff
-2024-05-06,Philadelphia Phillies,PHI,0.69,San Francisco Giants,SF,0.31,-0.2
-2024-05-06,Cleveland Guardians,CLE,0.455,Detroit Tigers,DET,0.545,0.1
-2024-05-06,Pittsburgh Pirates,PIT,0.477,Los Angeles Angels,LAA,0.523,-0.7
-2024-05-06,Tampa Bay Rays,TB,0.494,Chicago White Sox,CWS,0.506,-0.55
-2024-05-06,Kansas City Royals,KC,0.466,Milwaukee Brewers,MIL,0.534,0.4
-2024-05-06,Chicago Cubs,CHC,0.432,San Diego Padres,SD,0.568,0.8
-2024-05-06,Minnesota Twins,MIN,0.511,Seattle Mariners,SEA,0.489,0.4
-2024-05-06,St. Louis Cardinals,STL,0.449,New York Mets,NYM,0.551,-0.75
-2024-05-06,Oakland Athletics,OAK,0.516,Texas Rangers,TEX,0.484,1.85
-2024-05-06,Los Angeles Dodgers,LAD,0.662,Miami Marlins,MIA,0.338,1.05
 2024-05-07,Oakland Athletics,OAK,0.516,Texas Rangers,TEX,0.484,1.85
 2024-05-07,Cleveland Guardians,CLE,0.455,Detroit Tigers,DET,0.545,0.1
 2024-05-07,Cincinnati Reds,CIN,0.528,Arizona Diamondbacks,AZ,0.472,-1.95
@@ -92,3 +82,17 @@ date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanr
 2024-05-12,San Diego Padres,SD,0.438,Los Angeles Dodgers,LAD,0.562,1.95
 2024-05-12,Seattle Mariners,SEA,0.404,Oakland Athletics,OAK,0.596,1.15
 2024-05-12,New York Mets,NYM,0.556,Atlanta Braves,ATL,0.444,-0.8
+2024-05-13,Baltimore Orioles,BAL,0.679,Toronto Blue Jays,TOR,0.321,0.3
+2024-05-13,Detroit Tigers,DET,0.55,Miami Marlins,MIA,0.45,0.05
+2024-05-13,Boston Red Sox,BOS,0.578,Tampa Bay Rays,TB,0.422,0.1
+2024-05-13,New York Mets,NYM,0.399,Philadelphia Phillies,PHI,0.601,0.6
+2024-05-13,Atlanta Braves,ATL,0.415,Chicago Cubs,CHC,0.585,-0.55
+2024-05-13,Chicago White Sox,CWS,0.5,Washington Nationals,WSH,0.5,-0.5
+2024-05-13,Milwaukee Brewers,MIL,0.589,Pittsburgh Pirates,PIT,0.411,-0.1
+2024-05-13,Texas Rangers,TEX,0.612,Cleveland Guardians,CLE,0.388,0.7
+2024-05-13,Houston Astros,HOU,0.399,Oakland Athletics,OAK,0.601,1.1
+2024-05-13,Los Angeles Angels,LAA,0.539,St. Louis Cardinals,STL,0.461,-0.85
+2024-05-13,Arizona Diamondbacks,AZ,0.472,Cincinnati Reds,CIN,0.528,-1.95
+2024-05-13,San Diego Padres,SD,0.617,Colorado Rockies,COL,0.383,0.35
+2024-05-13,Seattle Mariners,SEA,0.511,Kansas City Royals,KC,0.489,0.2
+2024-05-13,San Francisco Giants,SF,0.253,Los Angeles Dodgers,LAD,0.747,0.3
