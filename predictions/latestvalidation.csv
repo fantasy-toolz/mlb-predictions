@@ -1,16 +1,16 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2024-05-07,Oakland Athletics,False,8,0.516,Texas Rangers,True,15,0.484
-2024-05-07,Cleveland Guardians,False,7,0.455,Detroit Tigers,True,11,0.545
-2024-05-07,Cincinnati Reds,False,2,0.528,Arizona Diamondbacks,True,6,0.472
-2024-05-07,Pittsburgh Pirates,False,0,0.477,Los Angeles Angels,True,9,0.523
-2024-05-07,Philadelphia Phillies,True,10,0.657,Toronto Blue Jays,False,1,0.343
-2024-05-07,Washington Nationals,True,3,0.365,Baltimore Orioles,False,0,0.635
-2024-05-07,Tampa Bay Rays,True,5,0.494,Chicago White Sox,False,1,0.506
-2024-05-07,New York Yankees,True,10,0.494,Houston Astros,False,3,0.506
-2024-05-07,Atlanta Braves,True,4,0.382,Boston Red Sox,False,2,0.618
-2024-05-07,Chicago Cubs,True,3,0.432,San Diego Padres,False,2,0.568
-2024-05-07,Minnesota Twins,False,6,0.511,Seattle Mariners,True,10,0.489
-2024-05-07,Kansas City Royals,False,5,0.466,Milwaukee Brewers,True,6,0.534
-2024-05-07,St. Louis Cardinals,False,5,0.449,New York Mets,True,7,0.551
-2024-05-07,Colorado Rockies,False,0,0.567,San Francisco Giants,True,5,0.433
-2024-05-07,Los Angeles Dodgers,True,8,0.662,Miami Marlins,False,2,0.338
+2024-05-08,Pittsburgh Pirates,False,4,0.444,Los Angeles Angels,True,5,0.556
+2024-05-08,Philadelphia Phillies,False,3,0.786,Toronto Blue Jays,True,5,0.214
+2024-05-08,Cleveland Guardians,True,5,0.466,Detroit Tigers,False,4,0.534
+2024-05-08,Kansas City Royals,True,6,0.483,Milwaukee Brewers,False,4,0.517
+2024-05-08,Chicago Cubs,False,0,0.41,San Diego Padres,True,3,0.59
+2024-05-08,Los Angeles Dodgers,True,3,0.769,Miami Marlins,False,1,0.231
+2024-05-08,Oakland Athletics,True,9,0.404,Texas Rangers,False,4,0.596
+2024-05-08,Oakland Athletics,False,11,0.404,Texas Rangers,True,12,0.596
+2024-05-08,Cincinnati Reds,False,3,0.444,Arizona Diamondbacks,True,4,0.556
+2024-05-08,Washington Nationals,False,6,0.444,Baltimore Orioles,True,7,0.556
+2024-05-08,Tampa Bay Rays,False,1,0.623,Chicago White Sox,True,4,0.377
+2024-05-08,New York Yankees,True,9,0.589,Houston Astros,False,4,0.411
+2024-05-08,Atlanta Braves,True,5,0.432,Boston Red Sox,False,0,0.568
+2024-05-08,Minnesota Twins,True,6,0.488,Seattle Mariners,False,3,0.512
+2024-05-08,Colorado Rockies,False,6,0.5,San Francisco Giants,True,8,0.5
