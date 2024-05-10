@@ -24,7 +24,29 @@ class DraftKings:
         :league str: Name of the league, NHL by default
         """
         self.pregame_url = f"https://sportsbook.draftkings.com//sites/US-SB/api/v5/eventgroups/{id_dict[league]}?format=json"
+
+        self.response = requests.get(self.pregame_url).json()
         
+    def _get_game_list(self):
+
+        games_dict = dict()
+
+        events = self.response['eventGroup']['events']
+
+        for event in events:
+            try:
+                home_pitcher = event['eventAttributes']['homeTeamStartingPitcherName']
+            except:
+                home_pitcher = ""
+
+            try:
+                away_pitcher = event['eventAttributes']['awayTeamStartingPitcherName']
+            except:
+                away_pitcher = ""
+
+            games_dict[event['eventId']] = [event['startDate'],home_pitcher,away_pitcher]
+
+        return games_dict
 
 
     def get_pregame_odds(self) -> list:
@@ -37,12 +59,16 @@ class DraftKings:
 
         :rtype: list
         """
+
+        # bring in the game details for matching
+        games_dict = self._get_game_list()
+
         # List that will contain dicts [one for each game]
         games_list = []
 
         # Requests the content from DK's API, loops through the different games & collects all the material deemed relevant
-        response = requests.get(self.pregame_url).json()
-        games = response['eventGroup']['offerCategories'][0]['offerSubcategoryDescriptors'][0]['offerSubcategory']['offers']
+        #response = requests.get(self.pregame_url).json()
+        games = self.response['eventGroup']['offerCategories'][0]['offerSubcategoryDescriptors'][0]['offerSubcategory']['offers']
         for game in games:
             # List that will contain dicts [one for each market]
             market_list = []
@@ -52,6 +78,11 @@ class DraftKings:
                     if market_name == "Moneyline":
                         home_team = market['outcomes'][0]['label']
                         away_team = market['outcomes'][1]['label']
+                        # match against the games
+                        eventId = market['eventId']
+                        date = games_dict[eventId][0]
+                        home_pitcher = games_dict[eventId][1]
+                        away_pitcher = games_dict[eventId][2]
                     # List that will contain dicts [one for each outcome]
                     outcome_list = []
                     for outcome in market['outcomes']:
@@ -71,7 +102,7 @@ class DraftKings:
                     print_exc()
                     print()
                     continue
-            games_list.append({"game": f"{home_team} v {away_team}", "markets": market_list})
+            games_list.append({"game": f"{home_team} v {away_team}", "matchup": f"{home_pitcher} v {away_pitcher}", "date": date, "markets": market_list})
 
         return games_list
     
@@ -105,14 +136,21 @@ def convert_n_save(games):
     
     rows = []
     for game in games:
+
+        date = game['date']
         home_team = game['game'].split(" v ")[1]
         away_team = game['game'].split(" v ")[0]
+        home_pitcher = game['matchup'].split(" v ")[0]
+        away_pitcher = game['matchup'].split(" v ")[1]
+
+
         for outcome in game['markets']:
             if outcome['marketName'] == 'Run Line':
                 pass
                 # this isn't particularly interesting, since it is always +/- 1.5
             if outcome['marketName'] == 'Total':
                 for line in outcome['outcomes']:
+                    #print(line)
                     ou = float(line['label'].split()[-1])
 
             if outcome['marketName'] == 'Moneyline':
@@ -131,9 +169,9 @@ def convert_n_save(games):
         else:
             away_team = away_team.split(" ")[0]
         home_odds = home_odds/(home_odds + away_odds)
-        rows.append([home_team, away_team, 1-home_odds, home_odds,ou])
+        rows.append([home_team, away_team, 1-home_odds, home_odds,ou,home_pitcher,away_pitcher,date])
         
-    line_df = pd.DataFrame(rows, columns = ['hometeam', 'awayteam', 'hometeamodds_dk', 'awayteamodds_dk','ou'])
+    line_df = pd.DataFrame(rows, columns = ['hometeam', 'awayteam', 'hometeamodds_dk', 'awayteamodds_dk','ou','homepitcher','awaypitcher','date'])
     line_df.to_csv("data/{}/odds/dk_{}.csv".format(year,datetime.now().strftime("%Y-%m-%d-%H")), index = False)
     
     pred_df = pred_df.merge(line_df, on = ['hometeam', 'awayteam'], how = 'left')
