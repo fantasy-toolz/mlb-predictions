@@ -1,0 +1,16 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2024-05-10,Detroit Tigers,False,2,0.561,Houston Astros,True,5,0.439
+2024-05-10,Pittsburgh Pirates,False,2,0.477,Chicago Cubs,True,7,0.523
+2024-05-10,Tampa Bay Rays,False,0,0.472,New York Yankees,True,2,0.528
+2024-05-10,Baltimore Orioles,True,4,0.623,Arizona Diamondbacks,False,2,0.377
+2024-05-10,Toronto Blue Jays,False,2,0.365,Minnesota Twins,True,3,0.635
+2024-05-10,Boston Red Sox,False,1,0.449,Washington Nationals,True,5,0.551
+2024-05-10,New York Mets,False,2,0.516,Atlanta Braves,True,4,0.484
+2024-05-10,Miami Marlins,False,2,0.247,Philadelphia Phillies,True,8,0.753
+2024-05-10,Chicago White Sox,True,6,0.46,Cleveland Guardians,False,3,0.54
+2024-05-10,Milwaukee Brewers,True,11,0.55,St. Louis Cardinals,False,2,0.45
+2024-05-10,Colorado Rockies,True,4,0.404,Texas Rangers,False,2,0.596
+2024-05-10,Los Angeles Angels,False,1,0.477,Kansas City Royals,True,2,0.523
+2024-05-10,San Diego Padres,True,2,0.449,Los Angeles Dodgers,False,1,0.551
+2024-05-10,Seattle Mariners,True,8,0.477,Oakland Athletics,False,1,0.523
+2024-05-10,San Francisco Giants,False,2,0.511,Cincinnati Reds,True,4,0.489
