@@ -9,7 +9,8 @@ import requests
 import json
 from traceback import print_exc
 import pandas as pd
-from datetime import datetime
+from datetime import datetime, timedelta
+import shutil
 
 
 year = '2024'
@@ -99,9 +100,10 @@ class DraftKings:
                     # if there was a problem with a specific market, continue with the next one...
                     # for example odds for totals not available as early as the other markets for NBA
                     # games a few days away
-                    print_exc()
-                    print()
-                    continue
+                    #print_exc()
+                    #print()
+                    #continue
+                    pass
             games_list.append({"game": f"{home_team} v {away_team}", "matchup": f"{home_pitcher} v {away_pitcher}", "date": date, "markets": market_list})
 
         return games_list
@@ -172,9 +174,16 @@ def convert_n_save(games):
         rows.append([home_team, away_team, 1-home_odds, home_odds,ou,home_pitcher,away_pitcher,date])
         
     line_df = pd.DataFrame(rows, columns = ['hometeam', 'awayteam', 'hometeamodds_dk', 'awayteamodds_dk','ou','homepitcher','awaypitcher','date'])
-    line_df.to_csv("data/{}/odds/dk_{}.csv".format(year,datetime.now().strftime("%Y-%m-%d-%H")), index = False)
+    line_df.to_csv("data/{}/odds/latest.csv".format(year), index = False)
+    #line_df.to_csv("data/{}/odds/dk_{}.csv".format(year,datetime.now().strftime("%Y-%m-%d-%H")), index = False)
     
     pred_df = pred_df.merge(line_df, on = ['hometeam', 'awayteam'], how = 'left')
+
+
+# move the latest predictions to be logged in archive: the scraping took place six hours ago, so record that
+now = datetime.now()
+six_hours_ago = now - timedelta(hours=6)
+shutil.copyfile("data/{}/odds/latest.csv".format(year), "data/{}/odds/archive/dk_{}.csv".format(year,six_hours_ago.strftime("%Y-%m-%d-%H")))
 
 dk = DraftKings(league = "MLB")
 games = dk.get_pregame_odds()
