@@ -1,16 +1,16 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2024-05-11,Toronto Blue Jays,True,10,0.393,Minnesota Twins,False,8,0.607
-2024-05-11,Baltimore Orioles,True,5,0.584,Arizona Diamondbacks,False,4,0.416
-2024-05-11,Pittsburgh Pirates,True,10,0.415,Chicago Cubs,False,9,0.585
-2024-05-11,Boston Red Sox,True,4,0.382,Washington Nationals,False,2,0.618
-2024-05-11,New York Mets,False,1,0.505,Atlanta Braves,True,4,0.495
-2024-05-11,Miami Marlins,False,3,0.197,Philadelphia Phillies,True,8,0.803
-2024-05-11,Tampa Bay Rays,True,7,0.444,New York Yankees,False,2,0.556
-2024-05-11,Detroit Tigers,True,8,0.545,Houston Astros,False,2,0.455
-2024-05-11,Chicago White Sox,True,3,0.522,Cleveland Guardians,False,1,0.478
-2024-05-11,San Francisco Giants,True,5,0.533,Cincinnati Reds,False,1,0.467
-2024-05-11,Milwaukee Brewers,True,5,0.674,St. Louis Cardinals,False,3,0.326
-2024-05-11,Colorado Rockies,True,8,0.387,Texas Rangers,False,3,0.613
-2024-05-11,San Diego Padres,False,0,0.432,Los Angeles Dodgers,True,5,0.568
-2024-05-11,Los Angeles Angels,True,9,0.438,Kansas City Royals,False,3,0.562
-2024-05-11,Seattle Mariners,False,1,0.539,Oakland Athletics,True,8,0.461
+2024-05-12,Baltimore Orioles,False,2,0.511,Arizona Diamondbacks,True,9,0.489
+2024-05-12,Boston Red Sox,True,3,0.455,Washington Nationals,False,2,0.545
+2024-05-12,Pittsburgh Pirates,False,4,0.427,Chicago Cubs,True,5,0.573
+2024-05-12,Toronto Blue Jays,False,1,0.41,Minnesota Twins,True,5,0.59
+2024-05-12,Detroit Tigers,False,3,0.595,Houston Astros,True,9,0.405
+2024-05-12,Miami Marlins,True,7,0.292,Philadelphia Phillies,False,6,0.708
+2024-05-12,Tampa Bay Rays,False,6,0.5,New York Yankees,True,10,0.5
+2024-05-12,Chicago White Sox,False,0,0.539,Cleveland Guardians,True,7,0.461
+2024-05-12,Milwaukee Brewers,False,3,0.719,St. Louis Cardinals,True,4,0.281
+2024-05-12,Colorado Rockies,True,3,0.511,Texas Rangers,False,1,0.489
+2024-05-12,San Francisco Giants,True,6,0.578,Cincinnati Reds,False,5,0.422
+2024-05-12,Los Angeles Angels,False,2,0.516,Kansas City Royals,True,4,0.484
+2024-05-12,San Diego Padres,True,4,0.359,Los Angeles Dodgers,False,0,0.641
+2024-05-12,Seattle Mariners,True,8,0.545,Oakland Athletics,False,4,0.455
+2024-05-12,New York Mets,True,4,0.477,Atlanta Braves,False,3,0.523
