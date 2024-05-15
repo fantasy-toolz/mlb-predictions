@@ -1,14 +1,16 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2024-05-13,Baltimore Orioles,False,2,0.595,Toronto Blue Jays,True,3,0.405
-2024-05-13,Detroit Tigers,True,6,0.612,Miami Marlins,False,5,0.388
-2024-05-13,Boston Red Sox,False,3,0.46,Tampa Bay Rays,True,5,0.54
-2024-05-13,New York Mets,False,4,0.365,Philadelphia Phillies,True,5,0.635
-2024-05-13,Atlanta Braves,True,2,0.539,Chicago Cubs,False,0,0.461
-2024-05-13,Milwaukee Brewers,False,6,0.651,Pittsburgh Pirates,True,8,0.349
-2024-05-13,Texas Rangers,False,0,0.516,Cleveland Guardians,True,7,0.484
-2024-05-13,Houston Astros,True,9,0.533,Oakland Athletics,False,2,0.467
-2024-05-13,Los Angeles Angels,False,5,0.646,St. Louis Cardinals,True,10,0.354
-2024-05-13,Arizona Diamondbacks,True,6,0.606,Cincinnati Reds,False,5,0.394
-2024-05-13,San Diego Padres,False,4,0.472,Colorado Rockies,True,5,0.528
-2024-05-13,Seattle Mariners,True,6,0.449,Kansas City Royals,False,2,0.551
-2024-05-13,San Francisco Giants,False,4,0.449,Los Angeles Dodgers,True,6,0.551
+2024-05-14,New York Mets,False,0,0.365,Philadelphia Phillies,True,4,0.635
+2024-05-14,Chicago White Sox,False,3,0.455,Washington Nationals,True,6,0.545
+2024-05-14,Chicago White Sox,True,4,0.455,Washington Nationals,False,0,0.545
+2024-05-14,Detroit Tigers,False,0,0.612,Miami Marlins,True,1,0.388
+2024-05-14,Boston Red Sox,True,5,0.46,Tampa Bay Rays,False,4,0.54
+2024-05-14,Atlanta Braves,True,7,0.539,Chicago Cubs,False,0,0.461
+2024-05-14,Minnesota Twins,False,1,0.5,New York Yankees,True,5,0.5
+2024-05-14,Milwaukee Brewers,True,4,0.651,Pittsburgh Pirates,False,3,0.349
+2024-05-14,Texas Rangers,False,4,0.516,Cleveland Guardians,True,7,0.484
+2024-05-14,Houston Astros,True,2,0.533,Oakland Athletics,False,1,0.467
+2024-05-14,Los Angeles Angels,False,6,0.646,St. Louis Cardinals,True,7,0.354
+2024-05-14,Arizona Diamondbacks,False,2,0.606,Cincinnati Reds,True,6,0.394
+2024-05-14,San Diego Padres,False,3,0.472,Colorado Rockies,True,6,0.528
+2024-05-14,Seattle Mariners,False,2,0.449,Kansas City Royals,True,4,0.551
+2024-05-14,San Francisco Giants,False,2,0.449,Los Angeles Dodgers,True,10,0.551
