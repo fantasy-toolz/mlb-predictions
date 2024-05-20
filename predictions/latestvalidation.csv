@@ -1,15 +1,16 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2024-05-18,New York Yankees,True,6,0.584,Chicago White Sox,False,1,0.416
-2024-05-18,Chicago Cubs,True,1,0.511,Pittsburgh Pirates,False,0,0.489
-2024-05-18,Toronto Blue Jays,False,4,0.466,Tampa Bay Rays,True,5,0.534
-2024-05-18,Baltimore Orioles,False,3,0.438,Seattle Mariners,True,4,0.562
-2024-05-18,San Francisco Giants,True,14,0.359,Colorado Rockies,False,4,0.641
-2024-05-18,Miami Marlins,True,10,0.516,New York Mets,False,9,0.484
-2024-05-18,Philadelphia Phillies,True,4,0.573,Washington Nationals,False,3,0.427
-2024-05-18,Cleveland Guardians,True,11,0.601,Minnesota Twins,False,4,0.399
-2024-05-18,Kansas City Royals,True,5,0.545,Oakland Athletics,False,3,0.455
-2024-05-18,Houston Astros,False,2,0.505,Milwaukee Brewers,True,4,0.495
-2024-05-18,St. Louis Cardinals,True,7,0.455,Boston Red Sox,False,2,0.545
-2024-05-18,Texas Rangers,True,3,0.404,Los Angeles Angels,False,2,0.596
-2024-05-18,Arizona Diamondbacks,False,3,0.539,Detroit Tigers,True,8,0.461
-2024-05-18,Los Angeles Dodgers,True,4,0.505,Cincinnati Reds,False,0,0.495
+2024-05-19,St. Louis Cardinals,False,3,0.634,Boston Red Sox,True,11,0.366
+2024-05-19,Baltimore Orioles,True,6,0.488,Seattle Mariners,False,3,0.512
+2024-05-19,Philadelphia Phillies,True,11,0.601,Washington Nationals,False,5,0.399
+2024-05-19,New York Yankees,True,7,0.702,Chicago White Sox,False,2,0.298
+2024-05-19,Toronto Blue Jays,True,5,0.444,Tampa Bay Rays,False,2,0.556
+2024-05-19,Cleveland Guardians,True,5,0.713,Minnesota Twins,False,2,0.287
+2024-05-19,Miami Marlins,False,3,0.668,New York Mets,True,7,0.332
+2024-05-19,Kansas City Royals,True,8,0.657,Oakland Athletics,False,4,0.343
+2024-05-19,Houston Astros,True,9,0.556,Milwaukee Brewers,False,4,0.444
+2024-05-19,Chicago Cubs,False,2,0.455,Pittsburgh Pirates,True,3,0.545
+2024-05-19,Texas Rangers,False,1,0.415,Los Angeles Angels,True,4,0.585
+2024-05-19,San Francisco Giants,True,4,0.556,Colorado Rockies,False,1,0.444
+2024-05-19,Arizona Diamondbacks,True,6,0.371,Detroit Tigers,False,4,0.629
+2024-05-19,Los Angeles Dodgers,True,3,0.561,Cincinnati Reds,False,2,0.439
+2024-05-19,Atlanta Braves,False,1,0.578,San Diego Padres,True,9,0.422
