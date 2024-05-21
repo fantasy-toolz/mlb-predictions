@@ -1,16 +1,13 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2024-05-19,St. Louis Cardinals,False,3,0.634,Boston Red Sox,True,11,0.366
-2024-05-19,Baltimore Orioles,True,6,0.488,Seattle Mariners,False,3,0.512
-2024-05-19,Philadelphia Phillies,True,11,0.601,Washington Nationals,False,5,0.399
-2024-05-19,New York Yankees,True,7,0.702,Chicago White Sox,False,2,0.298
-2024-05-19,Toronto Blue Jays,True,5,0.444,Tampa Bay Rays,False,2,0.556
-2024-05-19,Cleveland Guardians,True,5,0.713,Minnesota Twins,False,2,0.287
-2024-05-19,Miami Marlins,False,3,0.668,New York Mets,True,7,0.332
-2024-05-19,Kansas City Royals,True,8,0.657,Oakland Athletics,False,4,0.343
-2024-05-19,Houston Astros,True,9,0.556,Milwaukee Brewers,False,4,0.444
-2024-05-19,Chicago Cubs,False,2,0.455,Pittsburgh Pirates,True,3,0.545
-2024-05-19,Texas Rangers,False,1,0.415,Los Angeles Angels,True,4,0.585
-2024-05-19,San Francisco Giants,True,4,0.556,Colorado Rockies,False,1,0.444
-2024-05-19,Arizona Diamondbacks,True,6,0.371,Detroit Tigers,False,4,0.629
-2024-05-19,Los Angeles Dodgers,True,3,0.561,Cincinnati Reds,False,2,0.439
-2024-05-19,Atlanta Braves,False,1,0.578,San Diego Padres,True,9,0.422
+2024-05-20,Atlanta Braves,False,5,0.578,San Diego Padres,True,6,0.422
+2024-05-20,Atlanta Braves,True,3,0.578,San Diego Padres,False,0,0.422
+2024-05-20,Toronto Blue Jays,True,9,0.545,Chicago White Sox,False,3,0.455
+2024-05-20,Cleveland Guardians,True,3,0.719,New York Mets,False,1,0.281
+2024-05-20,Miami Marlins,True,3,0.528,Milwaukee Brewers,False,2,0.472
+2024-05-20,Washington Nationals,True,12,0.561,Minnesota Twins,False,3,0.439
+2024-05-20,Tampa Bay Rays,False,0,0.606,Boston Red Sox,True,5,0.394
+2024-05-20,New York Yankees,False,4,0.623,Seattle Mariners,True,5,0.377
+2024-05-20,Kansas City Royals,True,8,0.466,Detroit Tigers,False,3,0.534
+2024-05-20,St. Louis Cardinals,True,6,0.561,Baltimore Orioles,False,3,0.439
+2024-05-20,Houston Astros,False,7,0.584,Los Angeles Angels,True,9,0.416
+2024-05-20,Los Angeles Dodgers,True,6,0.629,Arizona Diamondbacks,False,4,0.371
