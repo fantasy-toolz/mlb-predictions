@@ -1,13 +1,15 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2024-05-20,Atlanta Braves,False,5,0.578,San Diego Padres,True,6,0.422
-2024-05-20,Atlanta Braves,True,3,0.578,San Diego Padres,False,0,0.422
-2024-05-20,Toronto Blue Jays,True,9,0.545,Chicago White Sox,False,3,0.455
-2024-05-20,Cleveland Guardians,True,3,0.719,New York Mets,False,1,0.281
-2024-05-20,Miami Marlins,True,3,0.528,Milwaukee Brewers,False,2,0.472
-2024-05-20,Washington Nationals,True,12,0.561,Minnesota Twins,False,3,0.439
-2024-05-20,Tampa Bay Rays,False,0,0.606,Boston Red Sox,True,5,0.394
-2024-05-20,New York Yankees,False,4,0.623,Seattle Mariners,True,5,0.377
-2024-05-20,Kansas City Royals,True,8,0.466,Detroit Tigers,False,3,0.534
-2024-05-20,St. Louis Cardinals,True,6,0.561,Baltimore Orioles,False,3,0.439
-2024-05-20,Houston Astros,False,7,0.584,Los Angeles Angels,True,9,0.416
-2024-05-20,Los Angeles Dodgers,True,6,0.629,Arizona Diamondbacks,False,4,0.371
+2024-05-21,Cleveland Guardians,True,7,0.724,New York Mets,False,6,0.276
+2024-05-21,Cincinnati Reds,True,2,0.522,San Diego Padres,False,0,0.478
+2024-05-21,Pittsburgh Pirates,True,7,0.444,San Francisco Giants,False,6,0.556
+2024-05-21,Philadelphia Phillies,True,5,0.64,Texas Rangers,False,2,0.36
+2024-05-21,Miami Marlins,False,5,0.528,Milwaukee Brewers,True,7,0.472
+2024-05-21,Washington Nationals,False,0,0.696,Minnesota Twins,True,10,0.304
+2024-05-21,Tampa Bay Rays,False,2,0.556,Boston Red Sox,True,5,0.444
+2024-05-21,New York Yankees,False,3,0.595,Seattle Mariners,True,6,0.405
+2024-05-21,Toronto Blue Jays,False,0,0.651,Chicago White Sox,True,5,0.349
+2024-05-21,Kansas City Royals,True,10,0.528,Detroit Tigers,False,3,0.472
+2024-05-21,Chicago Cubs,True,4,0.432,Atlanta Braves,False,3,0.568
+2024-05-21,Houston Astros,True,6,0.511,Los Angeles Angels,False,5,0.489
+2024-05-21,Oakland Athletics,True,5,0.387,Colorado Rockies,False,4,0.613
+2024-05-21,Los Angeles Dodgers,False,3,0.679,Arizona Diamondbacks,True,7,0.321

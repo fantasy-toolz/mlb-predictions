@@ -1,0 +1,13 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2024-05-20,Atlanta Braves,False,5,0.578,San Diego Padres,True,6,0.422
+2024-05-20,Atlanta Braves,True,3,0.578,San Diego Padres,False,0,0.422
+2024-05-20,Toronto Blue Jays,True,9,0.545,Chicago White Sox,False,3,0.455
+2024-05-20,Cleveland Guardians,True,3,0.719,New York Mets,False,1,0.281
+2024-05-20,Miami Marlins,True,3,0.528,Milwaukee Brewers,False,2,0.472
+2024-05-20,Washington Nationals,True,12,0.561,Minnesota Twins,False,3,0.439
+2024-05-20,Tampa Bay Rays,False,0,0.606,Boston Red Sox,True,5,0.394
+2024-05-20,New York Yankees,False,4,0.623,Seattle Mariners,True,5,0.377
+2024-05-20,Kansas City Royals,True,8,0.466,Detroit Tigers,False,3,0.534
+2024-05-20,St. Louis Cardinals,True,6,0.561,Baltimore Orioles,False,3,0.439
+2024-05-20,Houston Astros,False,7,0.584,Los Angeles Angels,True,9,0.416
+2024-05-20,Los Angeles Dodgers,True,6,0.629,Arizona Diamondbacks,False,4,0.371
