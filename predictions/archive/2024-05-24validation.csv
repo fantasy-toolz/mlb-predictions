@@ -1,0 +1,9 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2024-05-23,Pittsburgh Pirates,False,6,0.387,San Francisco Giants,True,7,0.613
+2024-05-23,New York Yankees,True,5,0.617,Seattle Mariners,False,0,0.383
+2024-05-23,Philadelphia Phillies,True,5,0.679,Texas Rangers,False,2,0.321
+2024-05-23,Cincinnati Reds,False,4,0.438,San Diego Padres,True,6,0.562
+2024-05-23,Chicago Cubs,False,0,0.488,Atlanta Braves,True,3,0.512
+2024-05-23,Oakland Athletics,True,10,0.46,Colorado Rockies,False,9,0.54
+2024-05-23,Detroit Tigers,False,1,0.444,Toronto Blue Jays,True,9,0.556
+2024-05-23,Chicago White Sox,False,6,0.371,Baltimore Orioles,True,8,0.629
