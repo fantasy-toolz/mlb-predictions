@@ -154,6 +154,7 @@ def convert_n_save(games):
         away_team = game['game'].split(" v ")[0]
         home_pitcher = game['matchup'].split(" v ")[0]
         away_pitcher = game['matchup'].split(" v ")[1]
+        ou = -1. # set a dummy ou line
 
 
         for outcome in game['markets']:
