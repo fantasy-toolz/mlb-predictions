@@ -5,7 +5,7 @@ name: line scrape
 on:
       schedule:
         - cron: '01 */6 * * *'
-#      push:
+      push:
 
 jobs:
       build:
@@ -25,6 +25,7 @@ jobs:
 
           - name: execute py script
             run: |
+              wget --server-response --no-check-certificate "https://sportsbook.draftkings.com/sites/US-SB/api/v5/eventgroups/84240?format=json" -O data/2024/odds/tmp.json
               python -m pip install --upgrade pip
               pip install bs4
               pip install requests

@@ -111,8 +111,11 @@ class DraftKings:
                     #print()
                     #continue
                     pass
-            games_list.append({"game": f"{home_team} v {away_team}", "matchup": f"{home_pitcher} v {away_pitcher}", "date": date, "markets": market_list})
-
+            try:
+                games_list.append({"game": f"{home_team} v {away_team}", "matchup": f"{home_pitcher} v {away_pitcher}", "date": date, "markets": market_list})
+            except:
+                pass 
+                # this is sloppy, and might miss some games. it seems like if the games are going, some data will get missed
         return games_list
     
     def store_as_json(self, games_list, file_path: str = None):
@@ -193,11 +196,11 @@ six_hours_ago = now - timedelta(hours=6)
 shutil.copyfile("data/{}/odds/latest.csv".format(year), "data/{}/odds/archive/dk_{}.csv".format(year,six_hours_ago.strftime("%Y-%m-%d-%H")))
 
 # the scraping version
-dk = DraftKings(league = "MLB")
+#dk = DraftKings(league = "MLB")
 
 # do a manual override if there are scraping problems
-#dk = DraftKings(league = "MLB",overrideinput=True)
-#dk.manually_set_input(json.load(open("data/2024/odds/tmp.json", 'r')))
+dk = DraftKings(league = "MLB",overrideinput=True)
+dk.manually_set_input(json.load(open("data/2024/odds/tmp.json", 'r')))
 
 games = dk.get_pregame_odds()
 # dk.store_as_json(games)
