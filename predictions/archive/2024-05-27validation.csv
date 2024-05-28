@@ -1,0 +1,16 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2024-05-26,Detroit Tigers,True,14,0.326,Toronto Blue Jays,False,11,0.674
+2024-05-26,Cincinnati Reds,True,4,0.567,Los Angeles Dodgers,False,1,0.433
+2024-05-26,Washington Nationals,False,5,0.561,Seattle Mariners,True,9,0.439
+2024-05-26,Pittsburgh Pirates,False,1,0.539,Atlanta Braves,True,8,0.461
+2024-05-26,Boston Red Sox,True,2,0.545,Milwaukee Brewers,False,1,0.455
+2024-05-26,New York Mets,True,4,0.382,San Francisco Giants,False,3,0.618
+2024-05-26,Tampa Bay Rays,True,4,0.191,Kansas City Royals,False,1,0.809
+2024-05-26,Minnesota Twins,False,2,0.617,Texas Rangers,True,6,0.383
+2024-05-26,Chicago White Sox,False,1,0.393,Baltimore Orioles,True,4,0.607
+2024-05-26,Colorado Rockies,True,5,0.337,Philadelphia Phillies,False,2,0.663
+2024-05-26,Los Angeles Angels,False,4,0.399,Cleveland Guardians,True,5,0.601
+2024-05-26,Oakland Athletics,False,2,0.455,Houston Astros,True,5,0.545
+2024-05-26,Arizona Diamondbacks,False,1,0.556,Miami Marlins,True,3,0.444
+2024-05-26,San Diego Padres,True,5,0.382,New York Yankees,False,2,0.618
+2024-05-26,St. Louis Cardinals,True,4,0.578,Chicago Cubs,False,3,0.422
