@@ -1,11 +1,15 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2024-06-06,Toronto Blue Jays,True,6,0.303,Baltimore Orioles,False,5,0.697
-2024-06-06,Cleveland Guardians,False,3,0.584,Kansas City Royals,True,4,0.416
-2024-06-06,Oakland Athletics,False,0,0.427,Seattle Mariners,True,3,0.573
-2024-06-06,Pittsburgh Pirates,False,7,0.528,Los Angeles Dodgers,True,11,0.472
-2024-06-06,Washington Nationals,False,2,0.432,Atlanta Braves,True,5,0.568
-2024-06-06,New York Yankees,True,8,0.651,Minnesota Twins,False,5,0.349
-2024-06-06,Cincinnati Reds,True,8,0.623,Chicago Cubs,False,4,0.377
-2024-06-06,St. Louis Cardinals,False,2,0.567,Colorado Rockies,True,3,0.433
-2024-06-06,Chicago White Sox,False,2,0.404,Boston Red Sox,True,14,0.596
-2024-06-06,San Diego Padres,False,3,0.488,Arizona Diamondbacks,True,4,0.512
+2024-06-07,Pittsburgh Pirates,True,3,0.573,Minnesota Twins,False,0,0.427
+2024-06-07,Detroit Tigers,False,0,0.421,Milwaukee Brewers,True,10,0.579
+2024-06-07,Washington Nationals,True,2,0.421,Atlanta Braves,False,1,0.579
+2024-06-07,Tampa Bay Rays,False,3,0.427,Baltimore Orioles,True,6,0.573
+2024-06-07,New York Yankees,False,1,0.601,Los Angeles Dodgers,True,2,0.399
+2024-06-07,Cincinnati Reds,True,3,0.651,Chicago Cubs,False,2,0.349
+2024-06-07,Miami Marlins,True,3,0.455,Cleveland Guardians,False,2,0.545
+2024-06-07,Texas Rangers,False,2,0.617,San Francisco Giants,True,5,0.383
+2024-06-07,Kansas City Royals,True,10,0.354,Seattle Mariners,False,9,0.646
+2024-06-07,Chicago White Sox,True,7,0.253,Boston Red Sox,False,2,0.747
+2024-06-07,St. Louis Cardinals,True,8,0.584,Colorado Rockies,False,5,0.416
+2024-06-07,Los Angeles Angels,False,1,0.438,Houston Astros,True,7,0.562
+2024-06-07,San Diego Padres,True,10,0.455,Arizona Diamondbacks,False,3,0.545
+2024-06-07,Oakland Athletics,True,2,0.573,Toronto Blue Jays,False,1,0.427
