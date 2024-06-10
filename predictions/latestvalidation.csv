@@ -1,16 +1,16 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2024-06-08,New York Mets,False,2,0.477,Philadelphia Phillies,True,7,0.523
-2024-06-08,Texas Rangers,False,1,0.595,San Francisco Giants,True,3,0.405
-2024-06-08,Pittsburgh Pirates,True,4,0.646,Minnesota Twins,False,0,0.354
-2024-06-08,Washington Nationals,True,7,0.449,Atlanta Braves,False,3,0.551
-2024-06-08,Oakland Athletics,False,0,0.556,Toronto Blue Jays,True,7,0.444
-2024-06-08,Cincinnati Reds,True,4,0.668,Chicago Cubs,False,3,0.332
-2024-06-08,Kansas City Royals,True,8,0.376,Seattle Mariners,False,4,0.624
-2024-06-08,Tampa Bay Rays,False,0,0.41,Baltimore Orioles,True,5,0.59
-2024-06-08,Chicago White Sox,True,6,0.371,Boston Red Sox,False,1,0.629
-2024-06-08,Detroit Tigers,False,4,0.371,Milwaukee Brewers,True,5,0.629
-2024-06-08,St. Louis Cardinals,False,5,0.629,Colorado Rockies,True,6,0.371
-2024-06-08,Miami Marlins,False,0,0.404,Cleveland Guardians,True,8,0.596
-2024-06-08,New York Yankees,False,3,0.55,Los Angeles Dodgers,True,11,0.45
-2024-06-08,San Diego Padres,True,13,0.539,Arizona Diamondbacks,False,1,0.461
-2024-06-08,Los Angeles Angels,False,1,0.348,Houston Astros,True,6,0.652
+2024-06-09,Philadelphia Phillies,False,5,0.573,New York Mets,True,6,0.427
+2024-06-09,Texas Rangers,True,7,0.511,San Francisco Giants,False,2,0.489
+2024-06-09,Pittsburgh Pirates,False,5,0.634,Minnesota Twins,True,11,0.366
+2024-06-09,Washington Nationals,True,8,0.466,Atlanta Braves,False,5,0.534
+2024-06-09,Cincinnati Reds,False,2,0.674,Chicago Cubs,True,4,0.326
+2024-06-09,Tampa Bay Rays,False,2,0.359,Baltimore Orioles,True,9,0.641
+2024-06-09,Miami Marlins,False,3,0.314,Cleveland Guardians,True,6,0.686
+2024-06-09,Detroit Tigers,True,10,0.382,Milwaukee Brewers,False,2,0.618
+2024-06-09,Kansas City Royals,False,5,0.488,Seattle Mariners,True,6,0.512
+2024-06-09,Chicago White Sox,False,4,0.449,Boston Red Sox,True,6,0.551
+2024-06-09,St. Louis Cardinals,True,5,0.589,Colorado Rockies,False,1,0.411
+2024-06-09,Los Angeles Angels,True,9,0.359,Houston Astros,False,7,0.641
+2024-06-09,Oakland Athletics,False,4,0.472,Toronto Blue Jays,True,6,0.528
+2024-06-09,San Diego Padres,False,3,0.685,Arizona Diamondbacks,True,9,0.315
+2024-06-09,New York Yankees,True,6,0.455,Los Angeles Dodgers,False,4,0.545
