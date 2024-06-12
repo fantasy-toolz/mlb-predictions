@@ -1,0 +1,8 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2024-06-10,Tampa Bay Rays,False,2,0.331,Baltimore Orioles,True,5,0.669
+2024-06-10,Minnesota Twins,True,5,0.505,Colorado Rockies,False,0,0.495
+2024-06-10,Kansas City Royals,False,2,0.494,New York Yankees,True,4,0.506
+2024-06-10,Milwaukee Brewers,True,3,0.483,Toronto Blue Jays,False,1,0.517
+2024-06-10,San Diego Padres,True,6,0.612,Oakland Athletics,False,1,0.388
+2024-06-10,Seattle Mariners,True,8,0.528,Chicago White Sox,False,4,0.472
+2024-06-10,San Francisco Giants,True,4,0.432,Houston Astros,False,3,0.568
