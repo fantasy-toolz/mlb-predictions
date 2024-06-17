@@ -1,15 +1,17 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2024-06-15,Chicago Cubs,True,5,0.427,St. Louis Cardinals,False,1,0.573
-2024-06-15,Toronto Blue Jays,True,5,0.472,Cleveland Guardians,False,0,0.528
-2024-06-15,San Francisco Giants,False,3,0.539,Los Angeles Angels,True,4,0.461
-2024-06-15,Baltimore Orioles,True,6,0.556,Philadelphia Phillies,False,2,0.444
-2024-06-15,Washington Nationals,True,4,0.696,Miami Marlins,False,0,0.304
-2024-06-15,Houston Astros,False,5,0.505,Detroit Tigers,True,13,0.495
-2024-06-15,New York Mets,True,5,0.444,San Diego Padres,False,1,0.556
-2024-06-15,Atlanta Braves,True,9,0.528,Tampa Bay Rays,False,2,0.472
-2024-06-15,Milwaukee Brewers,True,3,0.449,Cincinnati Reds,False,1,0.551
-2024-06-15,Seattle Mariners,True,7,0.584,Texas Rangers,False,5,0.416
-2024-06-15,Boston Red Sox,True,8,0.331,New York Yankees,False,4,0.669
-2024-06-15,Los Angeles Dodgers,False,2,0.696,Kansas City Royals,True,7,0.304
-2024-06-15,Colorado Rockies,True,16,0.404,Pittsburgh Pirates,False,4,0.596
-2024-06-15,Arizona Diamondbacks,False,2,0.629,Chicago White Sox,True,9,0.371
+2024-06-16,Chicago Cubs,False,1,0.472,St. Louis Cardinals,True,2,0.528
+2024-06-16,Baltimore Orioles,True,8,0.589,Philadelphia Phillies,False,3,0.411
+2024-06-16,Atlanta Braves,False,6,0.589,Tampa Bay Rays,True,8,0.411
+2024-06-16,Washington Nationals,True,3,0.674,Miami Marlins,False,1,0.326
+2024-06-16,Toronto Blue Jays,True,7,0.483,Cleveland Guardians,False,6,0.517
+2024-06-16,New York Mets,True,11,0.584,San Diego Padres,False,6,0.416
+2024-06-16,Houston Astros,True,4,0.382,Detroit Tigers,False,1,0.618
+2024-06-16,Minnesota Twins,True,6,0.707,Oakland Athletics,False,2,0.293
+2024-06-16,Minnesota Twins,True,8,0.707,Oakland Athletics,False,7,0.293
+2024-06-16,Milwaukee Brewers,True,5,0.472,Cincinnati Reds,False,4,0.528
+2024-06-16,Colorado Rockies,False,2,0.556,Pittsburgh Pirates,True,8,0.444
+2024-06-16,San Francisco Giants,True,13,0.488,Los Angeles Angels,False,6,0.512
+2024-06-16,Los Angeles Dodgers,True,3,0.589,Kansas City Royals,False,0,0.411
+2024-06-16,Seattle Mariners,True,5,0.589,Texas Rangers,False,0,0.411
+2024-06-16,Arizona Diamondbacks,True,12,0.606,Chicago White Sox,False,5,0.394
+2024-06-16,Boston Red Sox,True,9,0.415,New York Yankees,False,3,0.585
