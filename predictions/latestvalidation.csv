@@ -1,13 +1,15 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2024-06-24,Baltimore Orioles,False,2,0.382,Cleveland Guardians,True,3,0.618
-2024-06-24,Detroit Tigers,False,1,0.382,Philadelphia Phillies,True,8,0.618
-2024-06-24,Tampa Bay Rays,True,4,0.561,Seattle Mariners,False,3,0.439
-2024-06-24,Cincinnati Reds,True,11,0.505,Pittsburgh Pirates,False,5,0.495
-2024-06-24,Boston Red Sox,True,7,0.662,Toronto Blue Jays,False,6,0.338
-2024-06-24,St. Louis Cardinals,True,4,0.466,Atlanta Braves,False,3,0.534
-2024-06-24,Chicago White Sox,False,0,0.387,Los Angeles Dodgers,True,3,0.613
-2024-06-24,Kansas City Royals,True,4,0.421,Miami Marlins,False,1,0.579
-2024-06-24,Milwaukee Brewers,True,6,0.494,Texas Rangers,False,3,0.506
-2024-06-24,Los Angeles Angels,True,5,0.449,Oakland Athletics,False,1,0.551
-2024-06-24,San Diego Padres,True,7,0.522,Washington Nationals,False,6,0.478
-2024-06-24,San Francisco Giants,True,5,0.455,Chicago Cubs,False,4,0.545
+2024-06-25,Baltimore Orioles,False,8,0.365,Cleveland Guardians,True,10,0.635
+2024-06-25,Detroit Tigers,True,4,0.348,Philadelphia Phillies,False,1,0.652
+2024-06-25,Tampa Bay Rays,True,11,0.595,Seattle Mariners,False,3,0.405
+2024-06-25,Cincinnati Reds,False,5,0.606,Pittsburgh Pirates,True,9,0.394
+2024-06-25,Boston Red Sox,False,4,0.629,Toronto Blue Jays,True,9,0.371
+2024-06-25,New York Mets,True,9,0.679,New York Yankees,False,7,0.321
+2024-06-25,Houston Astros,True,5,0.651,Colorado Rockies,False,2,0.349
+2024-06-25,Chicago White Sox,False,3,0.365,Los Angeles Dodgers,True,4,0.635
+2024-06-25,Kansas City Royals,False,1,0.46,Miami Marlins,True,2,0.54
+2024-06-25,Milwaukee Brewers,True,3,0.444,Texas Rangers,False,1,0.556
+2024-06-25,Los Angeles Angels,True,7,0.545,Oakland Athletics,False,5,0.455
+2024-06-25,San Diego Padres,True,9,0.511,Washington Nationals,False,7,0.489
+2024-06-25,Arizona Diamondbacks,True,5,0.41,Minnesota Twins,False,4,0.59
+2024-06-25,San Francisco Giants,True,5,0.455,Chicago Cubs,False,1,0.545
