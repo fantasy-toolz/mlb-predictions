@@ -1,0 +1,16 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2024-06-29,Chicago White Sox,True,11,0.522,Colorado Rockies,False,3,0.478
+2024-06-29,St. Louis Cardinals,False,4,0.5,Cincinnati Reds,True,9,0.5
+2024-06-29,Toronto Blue Jays,True,9,0.505,New York Yankees,False,3,0.495
+2024-06-29,Philadelphia Phillies,False,2,0.573,Miami Marlins,True,3,0.427
+2024-06-29,Kansas City Royals,False,2,0.589,Cleveland Guardians,True,7,0.411
+2024-06-29,New York Mets,False,6,0.528,Houston Astros,True,9,0.472
+2024-06-29,Arizona Diamondbacks,True,3,0.415,Oakland Athletics,False,0,0.585
+2024-06-29,Boston Red Sox,False,1,0.382,San Diego Padres,True,11,0.618
+2024-06-29,Tampa Bay Rays,False,1,0.589,Washington Nationals,True,8,0.411
+2024-06-29,Atlanta Braves,True,2,0.528,Pittsburgh Pirates,False,1,0.472
+2024-06-29,Milwaukee Brewers,False,3,0.606,Chicago Cubs,True,5,0.394
+2024-06-29,San Francisco Giants,False,7,0.466,Los Angeles Dodgers,True,14,0.534
+2024-06-29,Baltimore Orioles,True,6,0.578,Texas Rangers,False,5,0.422
+2024-06-29,Los Angeles Angels,True,6,0.606,Detroit Tigers,False,5,0.394
+2024-06-29,Seattle Mariners,False,1,0.393,Minnesota Twins,True,5,0.607

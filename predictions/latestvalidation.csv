@@ -1,16 +1,16 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2024-06-29,Chicago White Sox,True,11,0.522,Colorado Rockies,False,3,0.478
-2024-06-29,St. Louis Cardinals,False,4,0.5,Cincinnati Reds,True,9,0.5
-2024-06-29,Toronto Blue Jays,True,9,0.505,New York Yankees,False,3,0.495
-2024-06-29,Philadelphia Phillies,False,2,0.573,Miami Marlins,True,3,0.427
-2024-06-29,Kansas City Royals,False,2,0.589,Cleveland Guardians,True,7,0.411
-2024-06-29,New York Mets,False,6,0.528,Houston Astros,True,9,0.472
-2024-06-29,Arizona Diamondbacks,True,3,0.415,Oakland Athletics,False,0,0.585
-2024-06-29,Boston Red Sox,False,1,0.382,San Diego Padres,True,11,0.618
-2024-06-29,Tampa Bay Rays,False,1,0.589,Washington Nationals,True,8,0.411
-2024-06-29,Atlanta Braves,True,2,0.528,Pittsburgh Pirates,False,1,0.472
-2024-06-29,Milwaukee Brewers,False,3,0.606,Chicago Cubs,True,5,0.394
-2024-06-29,San Francisco Giants,False,7,0.466,Los Angeles Dodgers,True,14,0.534
-2024-06-29,Baltimore Orioles,True,6,0.578,Texas Rangers,False,5,0.422
-2024-06-29,Los Angeles Angels,True,6,0.606,Detroit Tigers,False,5,0.394
-2024-06-29,Seattle Mariners,False,1,0.393,Minnesota Twins,True,5,0.607
+2024-06-30,Atlanta Braves,False,2,0.573,Pittsburgh Pirates,True,4,0.427
+2024-06-30,Boston Red Sox,True,4,0.298,San Diego Padres,False,1,0.702
+2024-06-30,Philadelphia Phillies,True,7,0.556,Miami Marlins,False,6,0.444
+2024-06-30,Toronto Blue Jays,False,1,0.617,New York Yankees,True,8,0.383
+2024-06-30,New York Mets,False,5,0.455,Houston Astros,True,10,0.545
+2024-06-30,Tampa Bay Rays,True,5,0.516,Washington Nationals,False,0,0.484
+2024-06-30,Kansas City Royals,True,6,0.561,Cleveland Guardians,False,2,0.439
+2024-06-30,Chicago White Sox,False,4,0.629,Colorado Rockies,True,5,0.371
+2024-06-30,Milwaukee Brewers,True,7,0.578,Chicago Cubs,False,1,0.422
+2024-06-30,St. Louis Cardinals,True,2,0.399,Cincinnati Reds,False,0,0.601
+2024-06-30,San Francisco Giants,True,10,0.393,Los Angeles Dodgers,False,4,0.607
+2024-06-30,Los Angeles Angels,False,6,0.696,Detroit Tigers,True,7,0.304
+2024-06-30,Arizona Diamondbacks,True,5,0.466,Oakland Athletics,False,1,0.534
+2024-06-30,Seattle Mariners,False,3,0.342,Minnesota Twins,True,5,0.658
+2024-06-30,Baltimore Orioles,False,2,0.651,Texas Rangers,True,11,0.349
