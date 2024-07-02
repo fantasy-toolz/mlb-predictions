@@ -1,0 +1,16 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2024-06-30,Atlanta Braves,False,2,0.573,Pittsburgh Pirates,True,4,0.427
+2024-06-30,Boston Red Sox,True,4,0.298,San Diego Padres,False,1,0.702
+2024-06-30,Philadelphia Phillies,True,7,0.556,Miami Marlins,False,6,0.444
+2024-06-30,Toronto Blue Jays,False,1,0.617,New York Yankees,True,8,0.383
+2024-06-30,New York Mets,False,5,0.455,Houston Astros,True,10,0.545
+2024-06-30,Tampa Bay Rays,True,5,0.516,Washington Nationals,False,0,0.484
+2024-06-30,Kansas City Royals,True,6,0.561,Cleveland Guardians,False,2,0.439
+2024-06-30,Chicago White Sox,False,4,0.629,Colorado Rockies,True,5,0.371
+2024-06-30,Milwaukee Brewers,True,7,0.578,Chicago Cubs,False,1,0.422
+2024-06-30,St. Louis Cardinals,True,2,0.399,Cincinnati Reds,False,0,0.601
+2024-06-30,San Francisco Giants,True,10,0.393,Los Angeles Dodgers,False,4,0.607
+2024-06-30,Los Angeles Angels,False,6,0.696,Detroit Tigers,True,7,0.304
+2024-06-30,Arizona Diamondbacks,True,5,0.466,Oakland Athletics,False,1,0.534
+2024-06-30,Seattle Mariners,False,3,0.342,Minnesota Twins,True,5,0.658
+2024-06-30,Baltimore Orioles,False,2,0.651,Texas Rangers,True,11,0.349
