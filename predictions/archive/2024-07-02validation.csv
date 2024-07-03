@@ -1,0 +1,4 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2024-07-01,Toronto Blue Jays,False,1,0.427,Houston Astros,True,3,0.573
+2024-07-01,Washington Nationals,False,7,0.444,New York Mets,True,9,0.556
+2024-07-01,Colorado Rockies,True,8,0.331,Milwaukee Brewers,False,7,0.669
