@@ -1,0 +1,16 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2024-07-03,Pittsburgh Pirates,True,5,0.556,St. Louis Cardinals,False,4,0.444
+2024-07-03,Cleveland Guardians,False,2,0.427,Chicago White Sox,True,8,0.573
+2024-07-03,Miami Marlins,False,2,0.528,Boston Red Sox,True,7,0.472
+2024-07-03,Washington Nationals,True,7,0.365,New York Mets,False,5,0.635
+2024-07-03,New York Yankees,False,2,0.438,Cincinnati Reds,True,3,0.562
+2024-07-03,Toronto Blue Jays,False,2,0.41,Houston Astros,True,9,0.59
+2024-07-03,Atlanta Braves,True,3,0.505,San Francisco Giants,False,1,0.495
+2024-07-03,Texas Rangers,False,4,0.455,San Diego Padres,True,6,0.545
+2024-07-03,Chicago Cubs,False,3,0.432,Philadelphia Phillies,True,5,0.568
+2024-07-03,Kansas City Royals,True,4,0.488,Tampa Bay Rays,False,2,0.512
+2024-07-03,Minnesota Twins,False,2,0.685,Detroit Tigers,True,9,0.315
+2024-07-03,Colorado Rockies,False,0,0.376,Milwaukee Brewers,True,3,0.624
+2024-07-03,Oakland Athletics,True,5,0.421,Los Angeles Angels,False,0,0.579
+2024-07-03,Los Angeles Dodgers,False,4,0.589,Arizona Diamondbacks,True,12,0.411
+2024-07-03,Seattle Mariners,False,1,0.399,Baltimore Orioles,True,4,0.601
