@@ -105,7 +105,12 @@ for indx in range(today,np.nanmin([today+7,216])):
     for gnum in range(0,ngames):
         awayteam = DF.values[indx][5]['games'][gnum]['teams']['away']['team']['name']
         hometeam = DF.values[indx][5]['games'][gnum]['teams']['home']['team']['name']
-        H = np.genfromtxt('data/{}/teams/{}.csv'.format(year,mlbteams[hometeam]),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
+        try:
+            H = np.genfromtxt('data/{}/teams/{}.csv'.format(year,mlbteams[hometeam]),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
+        except:
+            print("outcomepredictions.py: unexpected team name: {}".format(hometeam))
+            continue
+            # example cases running into this would be things like the All Star game.
         hrundiff = np.convolve(H['rundiff'], kernel, mode='same')
         A = np.genfromtxt('data/{}/teams/{}.csv'.format(year,mlbteams[awayteam]),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
         arundiff = np.convolve(A['rundiff'], kernel, mode='same')
