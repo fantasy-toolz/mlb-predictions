@@ -1,18 +1,13 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2024-07-10,St. Louis Cardinals,False,4,0.516,Kansas City Royals,True,6,0.484
-2024-07-10,St. Louis Cardinals,False,5,0.516,Kansas City Royals,True,8,0.484
-2024-07-10,Chicago White Sox,True,3,0.427,Minnesota Twins,False,1,0.573
-2024-07-10,Chicago White Sox,False,2,0.427,Minnesota Twins,True,3,0.573
-2024-07-10,Baltimore Orioles,False,0,0.331,Chicago Cubs,True,4,0.669
-2024-07-10,Detroit Tigers,True,5,0.466,Cleveland Guardians,False,4,0.534
-2024-07-10,San Diego Padres,False,0,0.421,Seattle Mariners,True,2,0.579
-2024-07-10,Tampa Bay Rays,False,1,0.438,New York Yankees,True,2,0.562
-2024-07-10,Philadelphia Phillies,True,4,0.612,Los Angeles Dodgers,False,3,0.388
-2024-07-10,Cincinnati Reds,False,5,0.64,Colorado Rockies,True,6,0.36
-2024-07-10,New York Mets,True,6,0.455,Washington Nationals,False,2,0.545
-2024-07-10,Boston Red Sox,False,2,0.444,Oakland Athletics,True,5,0.556
-2024-07-10,Houston Astros,True,9,0.545,Miami Marlins,False,1,0.455
-2024-07-10,Milwaukee Brewers,True,9,0.337,Pittsburgh Pirates,False,0,0.663
-2024-07-10,Los Angeles Angels,True,7,0.32,Texas Rangers,False,2,0.68
-2024-07-10,Arizona Diamondbacks,True,7,0.488,Atlanta Braves,False,5,0.512
-2024-07-10,San Francisco Giants,False,6,0.556,Toronto Blue Jays,True,10,0.444
+2024-07-11,Cincinnati Reds,True,8,0.612,Colorado Rockies,False,1,0.388
+2024-07-11,Detroit Tigers,True,10,0.55,Cleveland Guardians,False,1,0.45
+2024-07-11,New York Mets,True,7,0.511,Washington Nationals,False,0,0.489
+2024-07-11,Milwaukee Brewers,False,0,0.415,Pittsburgh Pirates,True,1,0.585
+2024-07-11,San Francisco Giants,False,3,0.483,Toronto Blue Jays,True,5,0.517
+2024-07-11,Philadelphia Phillies,True,5,0.567,Los Angeles Dodgers,False,1,0.433
+2024-07-11,Baltimore Orioles,False,0,0.258,Chicago Cubs,True,8,0.742
+2024-07-11,Tampa Bay Rays,True,5,0.432,New York Yankees,False,4,0.568
+2024-07-11,Boston Red Sox,True,7,0.41,Oakland Athletics,False,0,0.59
+2024-07-11,Houston Astros,True,6,0.567,Miami Marlins,False,3,0.433
+2024-07-11,Los Angeles Angels,False,0,0.427,Seattle Mariners,True,11,0.573
+2024-07-11,Arizona Diamondbacks,True,1,0.466,Atlanta Braves,False,0,0.534
