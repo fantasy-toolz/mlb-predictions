@@ -1,0 +1,16 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2024-07-12,Detroit Tigers,False,3,0.679,Los Angeles Dodgers,True,4,0.321
+2024-07-12,Philadelphia Phillies,False,2,0.533,Oakland Athletics,True,6,0.467
+2024-07-12,Tampa Bay Rays,True,2,0.472,Cleveland Guardians,False,0,0.528
+2024-07-12,Baltimore Orioles,False,1,0.337,New York Yankees,True,4,0.663
+2024-07-12,Boston Red Sox,False,1,0.466,Kansas City Royals,True,6,0.534
+2024-07-12,New York Mets,True,7,0.702,Colorado Rockies,False,6,0.298
+2024-07-12,Cincinnati Reds,True,7,0.617,Miami Marlins,False,4,0.383
+2024-07-12,Houston Astros,True,6,0.444,Texas Rangers,False,3,0.556
+2024-07-12,Chicago White Sox,False,1,0.427,Pittsburgh Pirates,True,4,0.573
+2024-07-12,Milwaukee Brewers,False,2,0.589,Washington Nationals,True,5,0.411
+2024-07-12,St. Louis Cardinals,False,1,0.393,Chicago Cubs,True,5,0.607
+2024-07-12,Los Angeles Angels,True,6,0.348,Seattle Mariners,False,5,0.652
+2024-07-12,Arizona Diamondbacks,True,5,0.511,Toronto Blue Jays,False,4,0.489
+2024-07-12,San Diego Padres,False,1,0.359,Atlanta Braves,True,6,0.641
+2024-07-12,San Francisco Giants,True,7,0.376,Minnesota Twins,False,1,0.624
