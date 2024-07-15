@@ -1,17 +1,16 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2024-07-13,Detroit Tigers,True,11,0.679,Los Angeles Dodgers,False,9,0.321
-2024-07-13,Chicago White Sox,False,2,0.427,Pittsburgh Pirates,True,6,0.573
-2024-07-13,St. Louis Cardinals,True,11,0.393,Chicago Cubs,False,3,0.607
-2024-07-13,St. Louis Cardinals,True,5,0.393,Chicago Cubs,False,4,0.607
-2024-07-13,Philadelphia Phillies,True,11,0.533,Oakland Athletics,False,5,0.467
-2024-07-13,Baltimore Orioles,False,1,0.337,New York Yankees,True,6,0.663
-2024-07-13,Boston Red Sox,True,5,0.466,Kansas City Royals,False,0,0.534
-2024-07-13,New York Mets,True,7,0.702,Colorado Rockies,False,3,0.298
-2024-07-13,Tampa Bay Rays,False,2,0.472,Cleveland Guardians,True,4,0.528
-2024-07-13,Houston Astros,False,1,0.444,Texas Rangers,True,2,0.556
-2024-07-13,Cincinnati Reds,True,10,0.617,Miami Marlins,False,6,0.383
-2024-07-13,Milwaukee Brewers,False,5,0.589,Washington Nationals,True,6,0.411
-2024-07-13,San Francisco Giants,False,2,0.376,Minnesota Twins,True,4,0.624
-2024-07-13,San Diego Padres,True,4,0.359,Atlanta Braves,False,0,0.641
-2024-07-13,Los Angeles Angels,True,2,0.348,Seattle Mariners,False,1,0.652
-2024-07-13,Arizona Diamondbacks,True,12,0.511,Toronto Blue Jays,False,1,0.489
+2024-07-14,Baltimore Orioles,True,6,0.348,New York Yankees,False,5,0.652
+2024-07-14,Boston Red Sox,True,5,0.511,Kansas City Royals,False,4,0.489
+2024-07-14,Philadelphia Phillies,False,3,0.623,Oakland Athletics,True,18,0.377
+2024-07-14,Detroit Tigers,True,4,0.685,Los Angeles Dodgers,False,3,0.315
+2024-07-14,New York Mets,False,5,0.696,Colorado Rockies,True,8,0.304
+2024-07-14,Tampa Bay Rays,True,2,0.505,Cleveland Guardians,False,0,0.495
+2024-07-14,Cincinnati Reds,False,2,0.73,Miami Marlins,True,3,0.27
+2024-07-14,Houston Astros,False,2,0.516,Texas Rangers,True,4,0.484
+2024-07-14,Chicago White Sox,False,4,0.342,Pittsburgh Pirates,True,9,0.658
+2024-07-14,Milwaukee Brewers,True,9,0.589,Washington Nationals,False,3,0.411
+2024-07-14,St. Louis Cardinals,False,3,0.399,Chicago Cubs,True,8,0.601
+2024-07-14,San Francisco Giants,True,3,0.46,Minnesota Twins,False,2,0.54
+2024-07-14,Los Angeles Angels,True,3,0.359,Seattle Mariners,False,2,0.641
+2024-07-14,Arizona Diamondbacks,False,7,0.589,Toronto Blue Jays,True,8,0.411
+2024-07-14,San Diego Padres,False,3,0.382,Atlanta Braves,True,6,0.618
