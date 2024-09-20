@@ -1,90 +1,75 @@
 date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanrundiff
-2024-09-22,Cincinnati Reds,CIN,0.589,Pittsburgh Pirates,PIT,0.411,-1.1
-2024-09-22,Baltimore Orioles,BAL,0.382,Detroit Tigers,DET,0.618,-0.45
-2024-09-22,Boston Red Sox,BOS,0.516,Minnesota Twins,MIN,0.484,-0.45
-2024-09-22,Tampa Bay Rays,TB,0.533,Toronto Blue Jays,TOR,0.467,-0.1
-2024-09-22,Miami Marlins,MIA,0.455,Atlanta Braves,ATL,0.545,-0.2
-2024-09-22,Houston Astros,HOU,0.528,Los Angeles Angels,LAA,0.472,-0.15
-2024-09-22,Kansas City Royals,KC,0.545,San Francisco Giants,SF,0.455,-0.1
-2024-09-22,Milwaukee Brewers,MIL,0.595,Arizona Diamondbacks,AZ,0.405,-0.05
-2024-09-22,St. Louis Cardinals,STL,0.5,Cleveland Guardians,CLE,0.5,0.4
-2024-09-22,Chicago Cubs,CHC,0.589,Washington Nationals,WSH,0.411,-0.5
-2024-09-22,Texas Rangers,TEX,0.505,Seattle Mariners,SEA,0.495,-0.15
-2024-09-22,Oakland Athletics,OAK,0.427,New York Yankees,NYY,0.573,0.25
-2024-09-22,Los Angeles Dodgers,LAD,0.511,Colorado Rockies,COL,0.489,0.4
-2024-09-22,San Diego Padres,SD,0.617,Chicago White Sox,CWS,0.383,0.85
-2024-09-22,New York Mets,NYM,0.674,Philadelphia Phillies,PHI,0.326,0.95
-2024-09-23,Philadelphia Phillies,PHI,0.449,Chicago Cubs,CHC,0.551,-0.15
-2024-09-23,Toronto Blue Jays,TOR,0.494,Boston Red Sox,BOS,0.506,-0.35
-2024-09-23,Houston Astros,HOU,0.516,Seattle Mariners,SEA,0.484,-0.05
-2024-09-23,Arizona Diamondbacks,AZ,0.477,San Francisco Giants,SF,0.523,-0.7
-2024-09-24,Cleveland Guardians,CLE,0.539,Cincinnati Reds,CIN,0.461,0.05
-2024-09-24,Detroit Tigers,DET,0.522,Tampa Bay Rays,TB,0.478,0.4
-2024-09-24,Philadelphia Phillies,PHI,0.449,Chicago Cubs,CHC,0.551,-0.15
-2024-09-24,Pittsburgh Pirates,PIT,0.348,Milwaukee Brewers,MIL,0.652,-0.55
-2024-09-24,Washington Nationals,WSH,0.41,Kansas City Royals,KC,0.59,-0.5
-2024-09-24,New York Yankees,NYY,0.634,Baltimore Orioles,BAL,0.366,-0.3
-2024-09-24,Toronto Blue Jays,TOR,0.494,Boston Red Sox,BOS,0.506,-0.35
-2024-09-24,Atlanta Braves,ATL,0.371,New York Mets,NYM,0.629,1.35
+2024-09-23,Philadelphia Phillies,PHI,0.444,Chicago Cubs,CHC,0.556,0.3
+2024-09-23,Toronto Blue Jays,TOR,0.545,Boston Red Sox,BOS,0.455,0.0
+2024-09-23,Houston Astros,HOU,0.505,Seattle Mariners,SEA,0.495,0.05
+2024-09-23,Arizona Diamondbacks,AZ,0.5,San Francisco Giants,SF,0.5,-0.4
+2024-09-24,Cleveland Guardians,CLE,0.595,Cincinnati Reds,CIN,0.405,-0.15
+2024-09-24,Detroit Tigers,DET,0.528,Tampa Bay Rays,TB,0.472,0.35
+2024-09-24,Philadelphia Phillies,PHI,0.444,Chicago Cubs,CHC,0.556,0.3
+2024-09-24,Pittsburgh Pirates,PIT,0.41,Milwaukee Brewers,MIL,0.59,-0.5
+2024-09-24,Washington Nationals,WSH,0.387,Kansas City Royals,KC,0.613,-0.7
+2024-09-24,New York Yankees,NYY,0.601,Baltimore Orioles,BAL,0.399,-0.2
+2024-09-24,Toronto Blue Jays,TOR,0.545,Boston Red Sox,BOS,0.455,0.0
+2024-09-24,Atlanta Braves,ATL,0.438,New York Mets,NYM,0.562,1.55
 2024-09-24,Chicago White Sox,CWS,0.511,Los Angeles Angels,LAA,0.489,-0.3
-2024-09-24,Minnesota Twins,MIN,0.5,Miami Marlins,MIA,0.5,-0.6
-2024-09-24,Houston Astros,HOU,0.516,Seattle Mariners,SEA,0.484,-0.05
+2024-09-24,Minnesota Twins,MIN,0.623,Miami Marlins,MIA,0.377,-1.4
+2024-09-24,Houston Astros,HOU,0.505,Seattle Mariners,SEA,0.495,0.05
 2024-09-24,Colorado Rockies,COL,0.494,St. Louis Cardinals,STL,0.506,0.35
-2024-09-24,Arizona Diamondbacks,AZ,0.477,San Francisco Giants,SF,0.523,-0.7
-2024-09-24,Oakland Athletics,OAK,0.483,Texas Rangers,TEX,0.517,-0.25
-2024-09-24,Los Angeles Dodgers,LAD,0.421,San Diego Padres,SD,0.579,1.2
-2024-09-25,Houston Astros,HOU,0.516,Seattle Mariners,SEA,0.484,-0.05
-2024-09-25,Philadelphia Phillies,PHI,0.449,Chicago Cubs,CHC,0.551,-0.15
-2024-09-25,Cleveland Guardians,CLE,0.539,Cincinnati Reds,CIN,0.461,0.05
-2024-09-25,Detroit Tigers,DET,0.522,Tampa Bay Rays,TB,0.478,0.4
-2024-09-25,Pittsburgh Pirates,PIT,0.348,Milwaukee Brewers,MIL,0.652,-0.55
-2024-09-25,Washington Nationals,WSH,0.41,Kansas City Royals,KC,0.59,-0.5
-2024-09-25,New York Yankees,NYY,0.634,Baltimore Orioles,BAL,0.366,-0.3
-2024-09-25,Toronto Blue Jays,TOR,0.494,Boston Red Sox,BOS,0.506,-0.35
-2024-09-25,Atlanta Braves,ATL,0.371,New York Mets,NYM,0.629,1.35
+2024-09-24,Arizona Diamondbacks,AZ,0.5,San Francisco Giants,SF,0.5,-0.4
+2024-09-24,Oakland Athletics,OAK,0.511,Texas Rangers,TEX,0.489,-0.5
+2024-09-24,Los Angeles Dodgers,LAD,0.533,San Diego Padres,SD,0.467,2.2
+2024-09-25,Houston Astros,HOU,0.505,Seattle Mariners,SEA,0.495,0.05
+2024-09-25,Philadelphia Phillies,PHI,0.444,Chicago Cubs,CHC,0.556,0.3
+2024-09-25,Cleveland Guardians,CLE,0.595,Cincinnati Reds,CIN,0.405,-0.15
+2024-09-25,Detroit Tigers,DET,0.528,Tampa Bay Rays,TB,0.472,0.35
+2024-09-25,Pittsburgh Pirates,PIT,0.41,Milwaukee Brewers,MIL,0.59,-0.5
+2024-09-25,Washington Nationals,WSH,0.387,Kansas City Royals,KC,0.613,-0.7
+2024-09-25,New York Yankees,NYY,0.601,Baltimore Orioles,BAL,0.399,-0.2
+2024-09-25,Toronto Blue Jays,TOR,0.545,Boston Red Sox,BOS,0.455,0.0
+2024-09-25,Atlanta Braves,ATL,0.438,New York Mets,NYM,0.562,1.55
 2024-09-25,Chicago White Sox,CWS,0.511,Los Angeles Angels,LAA,0.489,-0.3
-2024-09-25,Minnesota Twins,MIN,0.5,Miami Marlins,MIA,0.5,-0.6
+2024-09-25,Minnesota Twins,MIN,0.623,Miami Marlins,MIA,0.377,-1.4
 2024-09-25,Colorado Rockies,COL,0.494,St. Louis Cardinals,STL,0.506,0.35
-2024-09-25,Arizona Diamondbacks,AZ,0.477,San Francisco Giants,SF,0.523,-0.7
-2024-09-25,Oakland Athletics,OAK,0.483,Texas Rangers,TEX,0.517,-0.25
-2024-09-25,Los Angeles Dodgers,LAD,0.421,San Diego Padres,SD,0.579,1.2
-2024-09-26,Pittsburgh Pirates,PIT,0.348,Milwaukee Brewers,MIL,0.652,-0.55
-2024-09-26,Washington Nationals,WSH,0.41,Kansas City Royals,KC,0.59,-0.5
-2024-09-26,Detroit Tigers,DET,0.522,Tampa Bay Rays,TB,0.478,0.4
+2024-09-25,Arizona Diamondbacks,AZ,0.5,San Francisco Giants,SF,0.5,-0.4
+2024-09-25,Oakland Athletics,OAK,0.511,Texas Rangers,TEX,0.489,-0.5
+2024-09-25,Los Angeles Dodgers,LAD,0.533,San Diego Padres,SD,0.467,2.2
+2024-09-26,Pittsburgh Pirates,PIT,0.41,Milwaukee Brewers,MIL,0.59,-0.5
+2024-09-26,Washington Nationals,WSH,0.387,Kansas City Royals,KC,0.613,-0.7
+2024-09-26,Detroit Tigers,DET,0.528,Tampa Bay Rays,TB,0.472,0.35
 2024-09-26,Chicago White Sox,CWS,0.511,Los Angeles Angels,LAA,0.489,-0.3
 2024-09-26,Colorado Rockies,COL,0.494,St. Louis Cardinals,STL,0.506,0.35
-2024-09-26,Oakland Athletics,OAK,0.483,Texas Rangers,TEX,0.517,-0.25
-2024-09-26,New York Yankees,NYY,0.634,Baltimore Orioles,BAL,0.366,-0.3
-2024-09-26,Atlanta Braves,ATL,0.371,New York Mets,NYM,0.629,1.35
-2024-09-26,Minnesota Twins,MIN,0.5,Miami Marlins,MIA,0.5,-0.6
-2024-09-26,Los Angeles Dodgers,LAD,0.421,San Diego Padres,SD,0.579,1.2
-2024-09-27,Chicago Cubs,CHC,0.533,Cincinnati Reds,CIN,0.467,-0.0
+2024-09-26,Oakland Athletics,OAK,0.511,Texas Rangers,TEX,0.489,-0.5
+2024-09-26,New York Yankees,NYY,0.601,Baltimore Orioles,BAL,0.399,-0.2
+2024-09-26,Atlanta Braves,ATL,0.438,New York Mets,NYM,0.562,1.55
+2024-09-26,Minnesota Twins,MIN,0.623,Miami Marlins,MIA,0.377,-1.4
+2024-09-26,Los Angeles Dodgers,LAD,0.533,San Diego Padres,SD,0.467,2.2
+2024-09-27,Chicago Cubs,CHC,0.601,Cincinnati Reds,CIN,0.399,-0.1
 2024-09-27,Detroit Tigers,DET,0.545,Chicago White Sox,CWS,0.455,0.2
-2024-09-27,Washington Nationals,WSH,0.46,Philadelphia Phillies,PHI,0.54,-0.95
-2024-09-27,New York Yankees,NYY,0.657,Pittsburgh Pirates,PIT,0.343,-0.5
-2024-09-27,Toronto Blue Jays,TOR,0.511,Miami Marlins,MIA,0.489,-0.5
-2024-09-27,Cleveland Guardians,CLE,0.516,Houston Astros,HOU,0.484,0.25
-2024-09-27,Boston Red Sox,BOS,0.472,Tampa Bay Rays,TB,0.528,-0.05
-2024-09-27,Atlanta Braves,ATL,0.494,Kansas City Royals,KC,0.506,0.25
-2024-09-27,Colorado Rockies,COL,0.488,Los Angeles Dodgers,LAD,0.512,0.4
-2024-09-27,Minnesota Twins,MIN,0.55,Baltimore Orioles,BAL,0.45,-1.05
-2024-09-27,Milwaukee Brewers,MIL,0.404,New York Mets,NYM,0.596,1.65
-2024-09-27,Los Angeles Angels,LAA,0.483,Texas Rangers,TEX,0.517,-0.25
-2024-09-27,Arizona Diamondbacks,AZ,0.342,San Diego Padres,SD,0.658,0.5
-2024-09-27,Seattle Mariners,SEA,0.511,Oakland Athletics,OAK,0.489,-0.3
-2024-09-27,San Francisco Giants,SF,0.449,St. Louis Cardinals,STL,0.551,-0.05
-2024-09-28,New York Yankees,NYY,0.657,Pittsburgh Pirates,PIT,0.343,-0.5
+2024-09-27,Washington Nationals,WSH,0.415,Philadelphia Phillies,PHI,0.585,-0.95
+2024-09-27,New York Yankees,NYY,0.612,Pittsburgh Pirates,PIT,0.388,-0.3
+2024-09-27,Toronto Blue Jays,TOR,0.662,Miami Marlins,MIA,0.338,-1.05
+2024-09-27,Cleveland Guardians,CLE,0.533,Houston Astros,HOU,0.467,0.4
+2024-09-27,Boston Red Sox,BOS,0.472,Tampa Bay Rays,TB,0.528,-0.15
+2024-09-27,Atlanta Braves,ATL,0.539,Kansas City Royals,KC,0.461,0.65
+2024-09-27,Colorado Rockies,COL,0.376,Los Angeles Dodgers,LAD,0.624,1.4
+2024-09-27,Minnesota Twins,MIN,0.545,Baltimore Orioles,BAL,0.455,-0.7
+2024-09-27,Milwaukee Brewers,MIL,0.399,New York Mets,NYM,0.601,1.2
+2024-09-27,Los Angeles Angels,LAA,0.511,Texas Rangers,TEX,0.489,-0.5
+2024-09-27,Arizona Diamondbacks,AZ,0.371,San Diego Padres,SD,0.629,0.75
+2024-09-27,Seattle Mariners,SEA,0.522,Oakland Athletics,OAK,0.478,-0.2
+2024-09-27,San Francisco Giants,SF,0.455,St. Louis Cardinals,STL,0.545,-0.0
+2024-09-28,New York Yankees,NYY,0.612,Pittsburgh Pirates,PIT,0.388,-0.3
 2024-09-28,Detroit Tigers,DET,0.545,Chicago White Sox,CWS,0.455,0.2
-2024-09-28,Minnesota Twins,MIN,0.55,Baltimore Orioles,BAL,0.45,-1.05
-2024-09-28,Chicago Cubs,CHC,0.533,Cincinnati Reds,CIN,0.467,-0.0
-2024-09-28,Toronto Blue Jays,TOR,0.511,Miami Marlins,MIA,0.489,-0.5
-2024-09-28,San Francisco Giants,SF,0.449,St. Louis Cardinals,STL,0.551,-0.05
-2024-09-28,Washington Nationals,WSH,0.46,Philadelphia Phillies,PHI,0.54,-0.95
-2024-09-28,Boston Red Sox,BOS,0.472,Tampa Bay Rays,TB,0.528,-0.05
-2024-09-28,Cleveland Guardians,CLE,0.516,Houston Astros,HOU,0.484,0.25
-2024-09-28,Milwaukee Brewers,MIL,0.404,New York Mets,NYM,0.596,1.65
-2024-09-28,Atlanta Braves,ATL,0.494,Kansas City Royals,KC,0.506,0.25
-2024-09-28,Colorado Rockies,COL,0.488,Los Angeles Dodgers,LAD,0.512,0.4
-2024-09-28,Arizona Diamondbacks,AZ,0.342,San Diego Padres,SD,0.658,0.5
-2024-09-28,Los Angeles Angels,LAA,0.483,Texas Rangers,TEX,0.517,-0.25
-2024-09-28,Seattle Mariners,SEA,0.511,Oakland Athletics,OAK,0.489,-0.3
+2024-09-28,Minnesota Twins,MIN,0.545,Baltimore Orioles,BAL,0.455,-0.7
+2024-09-28,Chicago Cubs,CHC,0.601,Cincinnati Reds,CIN,0.399,-0.1
+2024-09-28,Toronto Blue Jays,TOR,0.662,Miami Marlins,MIA,0.338,-1.05
+2024-09-28,San Francisco Giants,SF,0.455,St. Louis Cardinals,STL,0.545,-0.0
+2024-09-28,Washington Nationals,WSH,0.415,Philadelphia Phillies,PHI,0.585,-0.95
+2024-09-28,Boston Red Sox,BOS,0.472,Tampa Bay Rays,TB,0.528,-0.15
+2024-09-28,Cleveland Guardians,CLE,0.533,Houston Astros,HOU,0.467,0.4
+2024-09-28,Milwaukee Brewers,MIL,0.399,New York Mets,NYM,0.601,1.2
+2024-09-28,Atlanta Braves,ATL,0.539,Kansas City Royals,KC,0.461,0.65
+2024-09-28,Colorado Rockies,COL,0.376,Los Angeles Dodgers,LAD,0.624,1.4
+2024-09-28,Arizona Diamondbacks,AZ,0.371,San Diego Padres,SD,0.629,0.75
+2024-09-28,Los Angeles Angels,LAA,0.511,Texas Rangers,TEX,0.489,-0.5
+2024-09-28,Seattle Mariners,SEA,0.522,Oakland Athletics,OAK,0.478,-0.2
