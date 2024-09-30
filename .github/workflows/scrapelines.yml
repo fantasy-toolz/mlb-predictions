@@ -3,9 +3,9 @@ name: line scrape
 
 # Controls when the workflow will run
 on:
-      schedule:
-        - cron: '01 */6 * * *'
-      push:
+#      schedule:
+#        - cron: '01 */6 * * *'
+#      push:
 
 jobs:
       build:
