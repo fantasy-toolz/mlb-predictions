@@ -10,3 +10,4 @@ Predictions for the outcome of MLB games, scraped and processed from MLB and Bas
 Tuning of estimated outcomes took place based on the first two months of the 2023 season.
 
 We also perform cursory validation that our predictions are robust.
+
