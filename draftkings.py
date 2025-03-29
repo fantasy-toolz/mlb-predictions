@@ -14,8 +14,9 @@ import shutil
 import json
 
 
-year = '2024'
+year = '2025'
 id_dict = {"NHL": "42133", "NFL": "88808", "NBA": "42648", "MLB":"84240"}
+headers = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36"} 
 
 class DraftKings:
     def __init__(self, league = "MLB", overrideinput=False):
@@ -29,7 +30,7 @@ class DraftKings:
         if not overrideinput:
             self.pregame_url = f"https://sportsbook.draftkings.com//sites/US-SB/api/v5/eventgroups/{id_dict[league]}?format=json"
 
-            self.response = requests.get(self.pregame_url).json()
+            self.response = requests.get(self.pregame_url, headers=headers).json()
 
     def manually_set_input(self,jsoninput):
 
@@ -194,14 +195,18 @@ def convert_n_save(games):
 # move the latest predictions to be logged in archive: the scraping took place six hours ago, so record that
 now = datetime.now()
 six_hours_ago = now - timedelta(hours=6)
-shutil.copyfile("data/{}/odds/latest.csv".format(year), "data/{}/odds/archive/dk_{}.csv".format(year,six_hours_ago.strftime("%Y-%m-%d-%H")))
+try:
+    shutil.copyfile("data/{}/odds/latest.csv".format(year), "data/{}/odds/archive/dk_{}.csv".format(year,six_hours_ago.strftime("%Y-%m-%d-%H")))
+except:
+    pass
 
 # the scraping version
 #dk = DraftKings(league = "MLB")
+# DraftKings obviously has a fairly sophisticated Python-scrape-blocking scheme, which is why we use wget to first grab the raw webpage data
 
 # do a manual override if there are scraping problems
 dk = DraftKings(league = "MLB",overrideinput=True)
-dk.manually_set_input(json.load(open("data/2024/odds/tmp.json", 'r')))
+dk.manually_set_input(json.load(open("data/{}/odds/tmp.json".format(year), 'r')))
 
 games = dk.get_pregame_odds()
 # dk.store_as_json(games)

@@ -1,10 +1,10 @@
 
-name: line scrape
+name: daily scrape
 
 # Controls when the workflow will run
 on:
       schedule:
-        - cron: '01 */6 * * *'
+        - cron: '01 10 * * *'
       push:
 
 jobs:
@@ -25,7 +25,6 @@ jobs:
 
           - name: execute py script
             run: |
-              wget --server-response --no-check-certificate "https://sportsbook.draftkings.com/sites/US-SB/api/v5/eventgroups/84240?format=json" -O data/2025/odds/tmp.json
               python -m pip install --upgrade pip
               pip install bs4
               pip install requests
@@ -33,13 +32,14 @@ jobs:
               pip install numpy
               pip install html5lib
               pip install matplotlib
-              python draftkings.py
+              python rundiffscraper.py
+#              python outcomepredictions.py
+#              python validatepredictions.py
           - name: set me up
             run: |
               git config user.name "github-actions[bot]"
               git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
               git status
-              git pull
               git add .
               git commit -m "bot update"
               git push https://$USERNAME:$REPO_KEY@github.com/fantasy-toolz/mlb-predictions.git
