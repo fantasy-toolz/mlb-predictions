@@ -5,7 +5,8 @@ name: line scrape
 on:
       schedule:
         - cron: '01 */6 * * *'
-      push:
+#      push:
+# if this runs on push, it conflicts with the push that is made by the bot
 
 jobs:
       build:
