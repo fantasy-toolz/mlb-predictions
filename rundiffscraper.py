@@ -26,6 +26,7 @@ yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for
 todaynum = np.where(np.array(yeardates)==str(pd.to_datetime("today").date()))[0][0]
 
 alldates = yeardates[0:todaynum]
+print(alldates)
 
 # check just the past couple of days
 alldates = yeardates[max(0,todaynum-15):todaynum]
@@ -88,11 +89,12 @@ for team in teams:
     print(team)
     try:
         try:
-            T = np.genfromtxt('data/{}/teams/{}.csv'.format(year,team),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
+            T = np.genfromtxt('data/{}/teams/{}.csv'.format(year,team),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',',skip_header=1)
             f = open('data/{}/teams/{}.csv'.format(year,team),'a')
         except:
             # the file doesn't exist yet!
             f = open('data/{}/teams/{}.csv'.format(year,team),'w')
+            print('date,team,opponent,rundifferential,teamruns,rundifferential6,teamruns6,teamstarter,opponentstarter',file=f)
         for date in alldates:
             if date in T['date'].astype('str'):
                 continue

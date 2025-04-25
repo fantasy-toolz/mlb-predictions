@@ -1,3 +1,6 @@
+date,team,opponent,rundifferential,teamruns,rundifferential6,teamruns6,teamstarter,opponentstarter
+2025-03-18,CHC,LAD,-3,1,-2,1,Shota Imanaga,Yoshinobu Yamamoto
+2025-03-19,CHC,LAD,-3,3,-3,3,Justin Steele,Roki Sasaki
 2025-03-27,CHC,AZ,4,10,3,8,Justin Steele,Zac Gallen
 2025-03-28,CHC,AZ,-7,1,-5,1,Jameson Taillon,Merrill Kelly
 2025-03-29,CHC,AZ,1,4,2,3,Shota Imanaga,Brandon Pfaadt
@@ -22,3 +25,4 @@
 2025-04-20,CHC,AZ,-1,2,0,1,Jameson Taillon,Merrill Kelly
 2025-04-22,CHC,LAD,1,11,2,7,Shota Imanaga,Dustin May
 2025-04-23,CHC,LAD,1,7,1,7,Matthew Boyd,Ben Casparius
+
