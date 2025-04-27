@@ -1,26 +1,3 @@
 date,team,opponent,rundifferential,teamruns,rundifferential6,teamruns6,teamstarter,opponentstarter
-2025-03-18,LAD,CHC,3,4,2,3,Yoshinobu Yamamoto,Shota Imanaga
-2025-03-19,LAD,CHC,3,6,3,6,Roki Sasaki,Justin Steele
-2025-03-27,LAD,DET,1,5,2,4,Blake Snell,Tarik Skubal
-2025-03-28,LAD,DET,3,8,0,2,Yoshinobu Yamamoto,Jack Flaherty
-2025-03-29,LAD,DET,4,7,3,5,Roki Sasaki,Reese Olson
-2025-03-31,LAD,ATL,5,6,6,6,Tyler Glasnow,Grant Holmes
-2025-04-01,LAD,ATL,2,3,2,3,Dustin May,Chris Sale
-2025-04-02,LAD,ATL,1,6,-2,3,Blake Snell,Bryce Elder
-2025-04-04,LAD,PHI,-1,2,-1,0,Yoshinobu Yamamoto,Jesus Luzardo
-2025-04-05,LAD,PHI,2,3,2,3,Roki Sasaki,Aaron Nola
-2025-04-06,LAD,PHI,-1,7,-2,4,Tyler Glasnow,Cristopher Sanchez
-2025-04-07,LAD,WSH,-2,4,-1,2,Dustin May,Mackenzie Gore
-2025-04-08,LAD,WSH,-6,2,-7,1,Justin Wrobleski,Brad Lord
-2025-04-09,LAD,WSH,1,6,-1,4,Landon Knack,Jake Irvin
-2025-04-11,LAD,CHC,3,3,3,3,Yoshinobu Yamamoto,Matthew Boyd
-2025-04-12,LAD,CHC,-16,0,-2,0,Roki Sasaki,Ben Brown
-2025-04-13,LAD,CHC,-2,2,0,2,Tyler Glasnow,Colin Rea
 2025-04-14,LAD,COL,2,5,4,5,Dustin May,Antonio Senzatela
-2025-04-15,LAD,COL,4,6,3,5,Landon Knack,Ryan Feltner
-2025-04-16,LAD,COL,1,8,2,8,Bobby Miller,German Marquez
-2025-04-18,LAD,TEX,3,3,1,1,Yoshinobu Yamamoto,Jacob Degrom
-2025-04-19,LAD,TEX,-1,3,1,3,Roki Sasaki,Nathan Eovaldi
-2025-04-20,LAD,TEX,1,1,0,0,Tyler Glasnow,Tyler Mahle
-2025-04-22,LAD,CHC,-1,10,-2,5,Dustin May,Shota Imanaga
-2025-04-23,LAD,CHC,-1,6,-1,6,Ben Casparius,Matthew Boyd2025-04-25,LAD,PIT,-3,0,-3,0,Yoshinobu Yamamoto,Paul Skenes
+2025-04-26,LAD,PIT,4,8,0,3,Roki Sasaki,Mitch Keller
