@@ -3,6 +3,7 @@ date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanr
 2025-05-07,Milwaukee Brewers,MIL,0.41,Houston Astros,HOU,0.59,-0.5
 2025-05-07,St. Louis Cardinals,STL,0.584,Pittsburgh Pirates,PIT,0.416,-1.15
 2025-05-07,Chicago Cubs,CHC,0.438,San Francisco Giants,SF,0.562,1.15
+2025-05-07,Athletics,ATH,0.46,Seattle Mariners,SEA,0.54,0.45
 2025-05-07,Arizona Diamondbacks,AZ,0.444,New York Mets,NYM,0.556,0.1
 2025-05-07,Miami Marlins,MIA,0.337,Los Angeles Dodgers,LAD,0.663,0.05
 2025-05-07,Boston Red Sox,BOS,0.573,Texas Rangers,TEX,0.427,-0.15
@@ -36,8 +37,10 @@ date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanr
 2025-05-09,Los Angeles Angels,LAA,0.533,Baltimore Orioles,BAL,0.467,-1.7
 2025-05-09,Arizona Diamondbacks,AZ,0.393,Los Angeles Dodgers,LAD,0.607,0.55
 2025-05-09,Seattle Mariners,SEA,0.567,Toronto Blue Jays,TOR,0.433,0.2
+2025-05-09,Athletics,ATH,0.455,New York Yankees,NYY,0.545,0.5
 2025-05-10,Washington Nationals,WSH,0.545,St. Louis Cardinals,STL,0.455,-0.0
 2025-05-10,Pittsburgh Pirates,PIT,0.399,Atlanta Braves,ATL,0.601,-1.0
+2025-05-10,Athletics,ATH,0.455,New York Yankees,NYY,0.545,0.5
 2025-05-10,Tampa Bay Rays,TB,0.505,Milwaukee Brewers,MIL,0.495,-1.25
 2025-05-10,Detroit Tigers,DET,0.735,Texas Rangers,TEX,0.265,1.3
 2025-05-10,Cleveland Guardians,CLE,0.427,Philadelphia Phillies,PHI,0.573,0.95
@@ -60,6 +63,7 @@ date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanr
 2025-05-11,Minnesota Twins,MIN,0.466,San Francisco Giants,SF,0.534,1.4
 2025-05-11,Chicago White Sox,CWS,0.472,Miami Marlins,MIA,0.528,-1.65
 2025-05-11,Colorado Rockies,COL,0.365,San Diego Padres,SD,0.635,-1.1
+2025-05-11,Athletics,ATH,0.455,New York Yankees,NYY,0.545,0.5
 2025-05-11,Los Angeles Angels,LAA,0.533,Baltimore Orioles,BAL,0.467,-1.7
 2025-05-11,Arizona Diamondbacks,AZ,0.393,Los Angeles Dodgers,LAD,0.607,0.55
 2025-05-11,Seattle Mariners,SEA,0.567,Toronto Blue Jays,TOR,0.433,0.2
@@ -89,3 +93,4 @@ date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanr
 2025-05-13,San Diego Padres,SD,0.584,Los Angeles Angels,LAA,0.416,-0.65
 2025-05-13,Seattle Mariners,SEA,0.494,New York Yankees,NYY,0.506,0.85
 2025-05-13,San Francisco Giants,SF,0.617,Arizona Diamondbacks,AZ,0.383,0.65
+2025-05-13,Los Angeles Dodgers,LAD,0.578,Athletics,ATH,0.422,0.8
