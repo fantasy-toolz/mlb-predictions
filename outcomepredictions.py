@@ -8,17 +8,20 @@ import os
 import shutil
 
 teams = ['LAA', 'HOU', 'OAK', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
+teams = ['LAA', 'HOU', 'ATH', 'TOR', 'ATL', 'MIL', 'STL','CHC', 'AZ', 'LAD', 'SF', 'CLE', 'SEA', 'MIA','NYM', 'WSH', 'BAL', 'SD', 'PHI', 'PIT', 'TEX','TB', 'BOS', 'CIN', 'COL', 'KC', 'DET', 'MIN','CWS', 'NYY']
 
 mlbteams = {'Oakland Athletics': 'OAK', 'Pittsburgh Pirates': 'PIT', 'Seattle Mariners': 'SEA', 'San Diego Padres': 'SD', 'Kansas City Royals': 'KC', 'Miami Marlins': 'MIA', 'Minnesota Twins': 'MIN', 'Tampa Bay Rays': 'TB', 'Arizona Diamondbacks': 'AZ', 'Washington Nationals': 'WSH', 'Houston Astros': 'HOU', 'Toronto Blue Jays': 'TOR', 'Boston Red Sox': 'BOS', 'Cleveland Guardians': 'CLE', 'Los Angeles Dodgers': 'LAD', 'Cincinnati Reds': 'CIN', 'New York Mets': 'NYM', 'Atlanta Braves': 'ATL', 'Baltimore Orioles': 'BAL', 'Milwaukee Brewers': 'MIL', 'St. Louis Cardinals': 'STL', 'Texas Rangers': 'TEX', 'San Francisco Giants': 'SF', 'Colorado Rockies': 'COL', 'Chicago Cubs': 'CHC', 'Los Angeles Angels': 'LAA', 'Detroit Tigers': 'DET', 'Philadelphia Phillies': 'PHI', 'Chicago White Sox': 'CWS', 'New York Yankees': 'NYY'}
+mlbteams = {'Athletics': 'ATH', 'Pittsburgh Pirates': 'PIT', 'Seattle Mariners': 'SEA', 'San Diego Padres': 'SD', 'Kansas City Royals': 'KC', 'Miami Marlins': 'MIA', 'Minnesota Twins': 'MIN', 'Tampa Bay Rays': 'TB', 'Arizona Diamondbacks': 'AZ', 'Washington Nationals': 'WSH', 'Houston Astros': 'HOU', 'Toronto Blue Jays': 'TOR', 'Boston Red Sox': 'BOS', 'Cleveland Guardians': 'CLE', 'Los Angeles Dodgers': 'LAD', 'Cincinnati Reds': 'CIN', 'New York Mets': 'NYM', 'Atlanta Braves': 'ATL', 'Baltimore Orioles': 'BAL', 'Milwaukee Brewers': 'MIL', 'St. Louis Cardinals': 'STL', 'Texas Rangers': 'TEX', 'San Francisco Giants': 'SF', 'Colorado Rockies': 'COL', 'Chicago Cubs': 'CHC', 'Los Angeles Angels': 'LAA', 'Detroit Tigers': 'DET', 'Philadelphia Phillies': 'PHI', 'Chicago White Sox': 'CWS', 'New York Yankees': 'NYY'}
 
-year = '2024'
+year = '2025'
 
 # use the MLB API to get the full schedule
-link = 'https://statsapi.mlb.com/api/v1/schedule/games/?sportId=1&startDate=2024-01-01&endDate=2024-12-31'
+link = f'https://statsapi.mlb.com/api/v1/schedule/games/?sportId=1&startDate={year}-01-01&endDate={year}-12-31'
 DF = pd.read_json(link)
 # every DF value is a different date DF.values[indx][5]
 # then games are DF.values[indx][5]['games']
 
+# this is a decoder explanation
 # DF.values[indx][5]['games'][0].keys()
 # DF.values[indx][5]['games'][0]['seriesDescription'] == 'Regular Season'
 indx,gnum = 27,0
@@ -49,9 +52,10 @@ def compute_betline(odds):
 # move the latest files to an archive file
 try:
     P = pd.read_csv('predictions/latest.csv')
-    os.rename('predictions/latest.csv','predictions/archive/{}.csv'.format(P['date'][0]))
+    zerodate = P['date'][0]
+    os.rename('predictions/latest.csv',f'predictions/archive/{year}/{zerodate}.csv')
     Q = pd.read_csv('predictions/latestvalidation.csv')
-    os.rename('predictions/latestvalidation.csv','predictions/archive/{}validation.csv'.format(P['date'][0]))
+    os.rename('predictions/latestvalidation.csv',f'predictions/archive/{year}/{zerodate}validation.csv')
 except:
     pass
 
@@ -69,31 +73,33 @@ today = pd.to_datetime("today").dayofyear - 59
 today = pd.to_datetime("today").dayofyear - 54
 yesterday = today - 1
 
-# check yesterdays scores
-gamedate =  DF.values[yesterday][5]['date']
-ngames = len(DF.values[yesterday][5]['games'])
-P = pd.read_csv('predictions/archive/{}.csv'.format(gamedate))
-Y = P.loc[P['date']==gamedate]
+doyesterday = False
+if doyesterday:
+    # check yesterdays scores
+    gamedate =  DF.values[yesterday][5]['date']
+    ngames = len(DF.values[yesterday][5]['games'])
+    P = pd.read_csv(f'predictions/archive/{year}/{gamedate}.csv')
+    Y = P.loc[P['date']==gamedate]
 
-for gnum in range(0,ngames):
-    try:
-        awayteam = DF.values[yesterday][5]['games'][gnum]['teams']['away']['team']['name']
-        dYA = Y.loc[(Y['awayteamfull']==DF.values[yesterday][5]['games'][gnum]['teams']['away']['team']['name'])]
-        awayteamprob = dYA['awayteamodds'].values[0]
-        awayteamwin = DF.values[yesterday][5]['games'][gnum]['teams']['away']['isWinner']
-        awayteamscore = DF.values[yesterday][5]['games'][gnum]['teams']['away']['score']
-        hometeam = DF.values[yesterday][5]['games'][gnum]['teams']['home']['team']['name']
-        dYH = Y.loc[(Y['hometeamfull']==DF.values[yesterday][5]['games'][gnum]['teams']['home']['team']['name'])]
-        hometeamprob = dYH['hometeamodds'].values[0]
-        hometeamwin = DF.values[yesterday][5]['games'][gnum]['teams']['home']['isWinner']
-        hometeamscore = DF.values[yesterday][5]['games'][gnum]['teams']['home']['score']
-    # now print to file
-        print('{0},{1},{2},{3},{4},{5},{6},{7},{8}'.format(gamedate,hometeam,hometeamwin,hometeamscore,dYH['hometeamodds'].values[0],awayteam,awayteamwin,awayteamscore,dYA['awayteamodds'].values[0]),file=g)
-    except:
-        print('Failed on')
-        print(DF.values[yesterday][5]['games'][gnum]['teams']['away']['team']['name'],DF.values[yesterday][5]['games'][gnum]['teams']['home']['team']['name'])
+    for gnum in range(0,ngames):
+        try:
+            awayteam = DF.values[yesterday][5]['games'][gnum]['teams']['away']['team']['name']
+            dYA = Y.loc[(Y['awayteamfull']==DF.values[yesterday][5]['games'][gnum]['teams']['away']['team']['name'])]
+            awayteamprob = dYA['awayteamodds'].values[0]
+            awayteamwin = DF.values[yesterday][5]['games'][gnum]['teams']['away']['isWinner']
+            awayteamscore = DF.values[yesterday][5]['games'][gnum]['teams']['away']['score']
+            hometeam = DF.values[yesterday][5]['games'][gnum]['teams']['home']['team']['name']
+            dYH = Y.loc[(Y['hometeamfull']==DF.values[yesterday][5]['games'][gnum]['teams']['home']['team']['name'])]
+            hometeamprob = dYH['hometeamodds'].values[0]
+            hometeamwin = DF.values[yesterday][5]['games'][gnum]['teams']['home']['isWinner']
+            hometeamscore = DF.values[yesterday][5]['games'][gnum]['teams']['home']['score']
+        # now print to file
+            print('{0},{1},{2},{3},{4},{5},{6},{7},{8}'.format(gamedate,hometeam,hometeamwin,hometeamscore,dYH['hometeamodds'].values[0],awayteam,awayteamwin,awayteamscore,dYA['awayteamodds'].values[0]),file=g)
+        except:
+            print('Failed on')
+            print(DF.values[yesterday][5]['games'][gnum]['teams']['away']['team']['name'],DF.values[yesterday][5]['games'][gnum]['teams']['home']['team']['name'])
 
-g.close()
+    g.close()
 
 # need a maximum day (i.e. last day of season)
 # failed at 217

@@ -33,7 +33,7 @@ jobs:
               pip install html5lib
               pip install matplotlib
               python rundiffscraper.py
-#              python outcomepredictions.py
+              python outcomepredictions.py
 #              python validatepredictions.py
           - name: set me up
             run: |
