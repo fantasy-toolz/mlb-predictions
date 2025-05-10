@@ -34,7 +34,7 @@ jobs:
               pip install numpy
               pip install html5lib
               pip install matplotlib
-              python draftkings.py
+              python 3draftkings.py
           - name: set me up
             run: |
               git config user.name "github-actions[bot]"

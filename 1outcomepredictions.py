@@ -70,8 +70,8 @@ print('date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awa
 # start the calculation of gamedays, going two weeks forward
 # the 59 is determined by hand, sadly. please automate!
 today = pd.to_datetime("today").dayofyear - 59
-today = pd.to_datetime("today").dayofyear - 54
-today = pd.to_datetime("today").dayofyear - 51
+today = pd.to_datetime("today").dayofyear - 54 # 2024
+today = pd.to_datetime("today").dayofyear - 51 # 2025
 yesterday = today - 1
 
 doyesterday = False

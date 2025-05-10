@@ -32,9 +32,9 @@ jobs:
               pip install numpy
               pip install html5lib
               pip install matplotlib
-              python rundiffscraper.py
-              python outcomepredictions.py
-#              python validatepredictions.py
+              python 0rundiffscraper.py
+              python 1outcomepredictions.py
+              python 2validatepredictions.py
           - name: set me up
             run: |
               git config user.name "github-actions[bot]"
