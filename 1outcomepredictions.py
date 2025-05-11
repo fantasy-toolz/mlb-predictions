@@ -33,6 +33,9 @@ print(gamedate,hometeam,'v.',awayteam)
 
 # tuned parameters from first 60 games of the 2023 season
 X = [0.49962572,0.05612191]
+
+# set the smoothing kernel size.
+# in this case, we are using a boxcar of 10 games
 kernel_size = 10
 kernel = np.ones(kernel_size) / kernel_size
 
@@ -64,7 +67,7 @@ f = open('predictions/latest.csv','w')
 g = open('predictions/latestvalidation.csv','w')
 
 # stamp the output file with the header
-print('date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanrundiff',file=f)
+print('date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanrundiff,homerollingdiff,homerollingruns',file=f)
 print('date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds',file=g)
 
 # start the calculation of gamedays, going two weeks forward
@@ -74,7 +77,7 @@ today = pd.to_datetime("today").dayofyear - 54 # 2024
 today = pd.to_datetime("today").dayofyear - 52 # 2025
 yesterday = today - 1
 
-doyesterday = False
+doyesterday = True
 if doyesterday:
     # check yesterdays scores
     gamedate =  DF.values[yesterday][5]['date']
@@ -106,7 +109,7 @@ if doyesterday:
 # failed at 217
 maxday = 216 # this is the last day of the season (with the -59 applied)
 
-for indx in range(today,np.nanmin([today+7,216])):
+for indx in range(today,np.nanmin([today+7,maxday])):
     ngames = len(DF.values[indx][5]['games'])
     gamedate =  DF.values[indx][5]['date']
     for gnum in range(0,ngames):
@@ -118,15 +121,29 @@ for indx in range(today,np.nanmin([today+7,216])):
             print("outcomepredictions.py: unexpected team name: {}".format(hometeam))
             continue
             # example cases running into this would be things like the All Star game.
+
+        # smooth the home team's run differential
         hrundiff = np.convolve(H['rundiff'], kernel, mode='same')
+        hrunscored = np.convolve(H['runsscored'], kernel, mode='same')
         A = np.genfromtxt('data/{}/teams/{}.csv'.format(year,mlbteams[awayteam]),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
+        
+        # smooth the opponent's run differential
         arundiff = np.convolve(A['rundiff'], kernel, mode='same')
+        arunscored = np.convolve(A['runsscored'], kernel, mode='same')
+
+        # compute the run differential differential
         rundiffdelta = hrundiff[-1] - arundiff[-1]
+
         meanrundiff = 0.5*(hrundiff[-1] + arundiff[-1])
+
+        # compute the winning probabiligies
         hteamwin = rundiffdelta*X[1]+X[0]
         ateamwin = 1.-hteamwin
+
         betstring = compute_betline(np.nanmax([hteamwin,ateamwin]))
-        print('{0},{1},{2},{3},{4},{5},{6},{7}'.format(gamedate,hometeam,mlbteams[hometeam],np.round(hteamwin,3),awayteam,mlbteams[awayteam],np.round(ateamwin,3),np.round(meanrundiff,2),betstring),file=f)
+
+        # print to file
+        print('{0},{1},{2},{3},{4},{5},{6},{7},{8},{9}'.format(gamedate,hometeam,mlbteams[hometeam],np.round(hteamwin,3),awayteam,mlbteams[awayteam],np.round(ateamwin,3),np.round(meanrundiff,2),np.round(hrundiff[-1],3),np.round(hrunscored[-1],3)),file=f)
         print('{0}: {1:22s} ({2:4.3f}) v. {3:22s} ({4:4.3f})'.format(gamedate,hometeam,np.round(hteamwin,3),awayteam,np.round(ateamwin,3)))
 
 f.close()
