@@ -67,7 +67,7 @@ f = open('predictions/latest.csv','w')
 g = open('predictions/latestvalidation.csv','w')
 
 # stamp the output file with the header
-print('date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanrundiff,homerollingdiff,homerollingruns',file=f)
+print('date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanrundiff,homerollingdiff,homerollingruns,awayrollingruns',file=f)
 print('date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds',file=g)
 
 # start the calculation of gamedays, going two weeks forward
@@ -143,7 +143,7 @@ for indx in range(today,np.nanmin([today+7,maxday])):
         betstring = compute_betline(np.nanmax([hteamwin,ateamwin]))
 
         # print to file
-        print('{0},{1},{2},{3},{4},{5},{6},{7},{8},{9}'.format(gamedate,hometeam,mlbteams[hometeam],np.round(hteamwin,3),awayteam,mlbteams[awayteam],np.round(ateamwin,3),np.round(meanrundiff,2),np.round(hrundiff[-1],3),np.round(hrunscored[-1],3)),file=f)
+        print('{0},{1},{2},{3},{4},{5},{6},{7},{8},{9},{10}'.format(gamedate,hometeam,mlbteams[hometeam],np.round(hteamwin,3),awayteam,mlbteams[awayteam],np.round(ateamwin,3),np.round(meanrundiff,2),np.round(hrundiff[-1],3),np.round(hrunscored[-1],3),np.round(arunscored[-1],3)),file=f)
         print('{0}: {1:22s} ({2:4.3f}) v. {3:22s} ({4:4.3f})'.format(gamedate,hometeam,np.round(hteamwin,3),awayteam,np.round(ateamwin,3)))
 
 f.close()
