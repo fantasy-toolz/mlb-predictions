@@ -1,16 +1,16 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2025-05-10,Washington Nationals,False,2,0.376,St. Louis Cardinals,True,4,0.624
-2025-05-10,Pittsburgh Pirates,False,2,0.399,Atlanta Braves,True,3,0.601
-2025-05-10,Athletics,True,11,0.354,New York Yankees,False,7,0.646
-2025-05-10,Tampa Bay Rays,True,3,0.477,Milwaukee Brewers,False,2,0.523
-2025-05-10,Detroit Tigers,False,3,0.646,Texas Rangers,True,10,0.354
-2025-05-10,Cleveland Guardians,False,1,0.494,Philadelphia Phillies,True,7,0.506
-2025-05-10,Houston Astros,False,9,0.617,Cincinnati Reds,True,13,0.383
-2025-05-10,Kansas City Royals,False,1,0.623,Boston Red Sox,True,10,0.377
-2025-05-10,Chicago White Sox,False,1,0.516,Miami Marlins,True,3,0.484
-2025-05-10,New York Mets,False,5,0.623,Chicago Cubs,True,6,0.377
-2025-05-10,Minnesota Twins,True,2,0.539,San Francisco Giants,False,1,0.461
-2025-05-10,Arizona Diamondbacks,True,3,0.427,Los Angeles Dodgers,False,0,0.573
-2025-05-10,Colorado Rockies,False,0,0.371,San Diego Padres,True,21,0.629
-2025-05-10,Los Angeles Angels,True,5,0.561,Baltimore Orioles,False,2,0.439
-2025-05-10,Seattle Mariners,False,3,0.477,Toronto Blue Jays,True,6,0.523
+2025-05-11,New York Mets,True,6,0.601,Chicago Cubs,False,2,0.399
+2025-05-11,Washington Nationals,False,1,0.348,St. Louis Cardinals,True,6,0.652
+2025-05-11,Pittsburgh Pirates,True,4,0.399,Atlanta Braves,False,3,0.601
+2025-05-11,Detroit Tigers,False,1,0.516,Texas Rangers,True,6,0.484
+2025-05-11,Tampa Bay Rays,False,2,0.46,Milwaukee Brewers,True,4,0.54
+2025-05-11,Houston Astros,True,6,0.528,Cincinnati Reds,False,0,0.472
+2025-05-11,Kansas City Royals,False,1,0.488,Boston Red Sox,True,3,0.512
+2025-05-11,Minnesota Twins,True,7,0.561,San Francisco Giants,False,6,0.439
+2025-05-11,Chicago White Sox,True,4,0.505,Miami Marlins,False,2,0.495
+2025-05-11,Colorado Rockies,True,9,0.135,San Diego Padres,False,3,0.865
+2025-05-11,Athletics,False,2,0.41,New York Yankees,True,12,0.59
+2025-05-11,Los Angeles Angels,False,3,0.556,Baltimore Orioles,True,7,0.444
+2025-05-11,Arizona Diamondbacks,False,1,0.444,Los Angeles Dodgers,True,8,0.556
+2025-05-11,Seattle Mariners,False,1,0.427,Toronto Blue Jays,True,9,0.573
+2025-05-11,Cleveland Guardians,False,0,0.466,Philadelphia Phillies,True,3,0.534
