@@ -1,0 +1,12 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2025-05-12,Cleveland Guardians,True,5,0.511,Milwaukee Brewers,False,0,0.489
+2025-05-12,Detroit Tigers,True,14,0.5,Boston Red Sox,False,2,0.5
+2025-05-12,Philadelphia Phillies,False,2,0.438,St. Louis Cardinals,True,3,0.562
+2025-05-12,New York Mets,True,4,0.606,Pittsburgh Pirates,False,3,0.394
+2025-05-12,Atlanta Braves,True,4,0.584,Washington Nationals,False,3,0.416
+2025-05-12,Chicago Cubs,True,5,0.516,Miami Marlins,False,2,0.484
+2025-05-12,Texas Rangers,True,2,0.752,Colorado Rockies,False,1,0.248
+2025-05-12,Houston Astros,False,5,0.533,Kansas City Royals,True,7,0.467
+2025-05-12,San Diego Padres,False,5,0.561,Los Angeles Angels,True,9,0.439
+2025-05-12,Seattle Mariners,False,5,0.303,New York Yankees,True,11,0.697
+2025-05-12,San Francisco Giants,False,1,0.539,Arizona Diamondbacks,True,2,0.461
