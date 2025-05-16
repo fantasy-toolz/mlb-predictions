@@ -1,0 +1,18 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2025-05-14,Baltimore Orioles,False,3,0.342,Minnesota Twins,True,6,0.658
+2025-05-14,Baltimore Orioles,False,6,0.342,Minnesota Twins,True,8,0.658
+2025-05-14,Philadelphia Phillies,True,2,0.421,St. Louis Cardinals,False,1,0.579
+2025-05-14,Philadelphia Phillies,False,7,0.421,St. Louis Cardinals,True,14,0.579
+2025-05-14,Cleveland Guardians,False,5,0.617,Milwaukee Brewers,True,9,0.383
+2025-05-14,San Francisco Giants,False,7,0.55,Arizona Diamondbacks,True,8,0.45
+2025-05-14,Seattle Mariners,False,2,0.286,New York Yankees,True,3,0.714
+2025-05-14,Detroit Tigers,True,6,0.55,Boston Red Sox,False,5,0.45
+2025-05-14,Toronto Blue Jays,True,3,0.612,Tampa Bay Rays,False,1,0.388
+2025-05-14,New York Mets,False,0,0.623,Pittsburgh Pirates,True,4,0.377
+2025-05-14,Cincinnati Reds,False,2,0.466,Chicago White Sox,True,4,0.534
+2025-05-14,Atlanta Braves,False,4,0.651,Washington Nationals,True,5,0.349
+2025-05-14,Chicago Cubs,False,1,0.561,Miami Marlins,True,3,0.439
+2025-05-14,Texas Rangers,True,8,0.735,Colorado Rockies,False,3,0.265
+2025-05-14,Houston Astros,True,4,0.561,Kansas City Royals,False,3,0.439
+2025-05-14,San Diego Padres,True,5,0.617,Los Angeles Angels,False,1,0.383
+2025-05-14,Los Angeles Dodgers,True,9,0.561,Athletics,False,3,0.439
