@@ -1,0 +1,7 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2025-05-15,Atlanta Braves,True,5,0.651,Washington Nationals,False,2,0.349
+2025-05-15,Baltimore Orioles,False,0,0.342,Minnesota Twins,True,4,0.658
+2025-05-15,Cincinnati Reds,True,7,0.466,Chicago White Sox,False,1,0.534
+2025-05-15,Toronto Blue Jays,False,3,0.612,Tampa Bay Rays,True,8,0.388
+2025-05-15,Texas Rangers,True,1,0.488,Houston Astros,False,0,0.512
+2025-05-15,Los Angeles Dodgers,True,19,0.561,Athletics,False,2,0.439
