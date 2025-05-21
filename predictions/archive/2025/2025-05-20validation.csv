@@ -1,0 +1,12 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2025-05-19,Pittsburgh Pirates,False,1,0.432,Cincinnati Reds,True,7,0.568
+2025-05-19,Miami Marlins,True,8,0.404,Chicago Cubs,False,7,0.596
+2025-05-19,Boston Red Sox,True,3,0.444,New York Mets,False,1,0.556
+2025-05-19,Tampa Bay Rays,False,3,0.494,Houston Astros,True,4,0.506
+2025-05-19,Chicago White Sox,False,1,0.365,Seattle Mariners,True,5,0.635
+2025-05-19,Milwaukee Brewers,True,5,0.516,Baltimore Orioles,False,4,0.484
+2025-05-19,St. Louis Cardinals,True,11,0.528,Detroit Tigers,False,4,0.472
+2025-05-19,Colorado Rockies,False,3,0.393,Philadelphia Phillies,True,9,0.607
+2025-05-19,San Francisco Giants,False,1,0.606,Kansas City Royals,True,3,0.394
+2025-05-19,Athletics,False,3,0.337,Los Angeles Angels,True,4,0.663
+2025-05-19,Los Angeles Dodgers,False,5,0.5,Arizona Diamondbacks,True,9,0.5
