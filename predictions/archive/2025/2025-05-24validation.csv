@@ -1,0 +1,16 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2025-05-23,Boston Red Sox,True,19,0.522,Baltimore Orioles,False,5,0.478
+2025-05-23,Cincinnati Reds,False,6,0.376,Chicago Cubs,True,13,0.624
+2025-05-23,Pittsburgh Pirates,True,6,0.449,Milwaukee Brewers,False,5,0.551
+2025-05-23,Washington Nationals,False,0,0.533,San Francisco Giants,True,4,0.467
+2025-05-23,Tampa Bay Rays,True,3,0.399,Toronto Blue Jays,False,1,0.601
+2025-05-23,Detroit Tigers,False,1,0.427,Cleveland Guardians,True,3,0.573
+2025-05-23,New York Mets,False,5,0.5,Los Angeles Dodgers,True,7,0.5
+2025-05-23,Atlanta Braves,False,1,0.707,San Diego Padres,True,2,0.293
+2025-05-23,Chicago White Sox,True,4,0.404,Texas Rangers,False,1,0.596
+2025-05-23,Houston Astros,False,3,0.472,Seattle Mariners,True,5,0.528
+2025-05-23,Minnesota Twins,True,3,0.556,Kansas City Royals,False,1,0.444
+2025-05-23,St. Louis Cardinals,True,4,0.505,Arizona Diamondbacks,False,3,0.495
+2025-05-23,Colorado Rockies,True,3,0.342,New York Yankees,False,2,0.658
+2025-05-23,Los Angeles Angels,True,7,0.64,Miami Marlins,False,4,0.36
+2025-05-23,Athletics,False,3,0.309,Philadelphia Phillies,True,4,0.691
