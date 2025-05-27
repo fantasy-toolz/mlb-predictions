@@ -1,16 +1,13 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2025-05-25,Detroit Tigers,True,5,0.359,Cleveland Guardians,False,0,0.641
-2025-05-25,Boston Red Sox,False,1,0.668,Baltimore Orioles,True,5,0.332
-2025-05-25,Washington Nationals,False,2,0.584,San Francisco Giants,True,3,0.416
-2025-05-25,Pittsburgh Pirates,False,5,0.472,Milwaukee Brewers,True,6,0.528
-2025-05-25,Cincinnati Reds,False,8,0.376,Chicago Cubs,True,11,0.624
-2025-05-25,Tampa Bay Rays,True,13,0.449,Toronto Blue Jays,False,0,0.551
-2025-05-25,Houston Astros,True,5,0.522,Seattle Mariners,False,3,0.478
-2025-05-25,Minnesota Twins,False,1,0.505,Kansas City Royals,True,2,0.495
-2025-05-25,Chicago White Sox,False,4,0.578,Texas Rangers,True,5,0.422
-2025-05-25,St. Louis Cardinals,True,4,0.516,Arizona Diamondbacks,False,3,0.484
-2025-05-25,Colorado Rockies,False,4,0.23,New York Yankees,True,5,0.77
-2025-05-25,Athletics,True,5,0.298,Philadelphia Phillies,False,4,0.702
-2025-05-25,Los Angeles Angels,False,0,0.612,Miami Marlins,True,3,0.388
-2025-05-25,Atlanta Braves,False,3,0.696,San Diego Padres,True,5,0.304
-2025-05-25,New York Mets,True,3,0.494,Los Angeles Dodgers,False,1,0.506
+2025-05-26,Detroit Tigers,True,3,0.511,San Francisco Giants,False,1,0.489
+2025-05-26,Milwaukee Brewers,True,3,0.444,Boston Red Sox,False,2,0.556
+2025-05-26,Chicago Cubs,True,3,0.735,Colorado Rockies,False,1,0.265
+2025-05-26,Baltimore Orioles,True,5,0.41,St. Louis Cardinals,False,2,0.59
+2025-05-26,Texas Rangers,False,1,0.427,Toronto Blue Jays,True,2,0.573
+2025-05-26,Kansas City Royals,False,4,0.545,Cincinnati Reds,True,7,0.455
+2025-05-26,New York Mets,True,2,0.5,Chicago White Sox,False,1,0.5
+2025-05-26,Cleveland Guardians,False,2,0.573,Los Angeles Dodgers,True,7,0.427
+2025-05-26,Tampa Bay Rays,True,7,0.64,Minnesota Twins,False,2,0.36
+2025-05-26,Arizona Diamondbacks,True,5,0.483,Pittsburgh Pirates,False,0,0.517
+2025-05-26,San Diego Padres,True,4,0.432,Miami Marlins,False,3,0.568
+2025-05-26,Los Angeles Angels,False,1,0.449,New York Yankees,True,5,0.551

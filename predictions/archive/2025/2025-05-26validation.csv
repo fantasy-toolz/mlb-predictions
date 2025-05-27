@@ -1,0 +1,16 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2025-05-25,Detroit Tigers,True,5,0.359,Cleveland Guardians,False,0,0.641
+2025-05-25,Boston Red Sox,False,1,0.668,Baltimore Orioles,True,5,0.332
+2025-05-25,Washington Nationals,False,2,0.584,San Francisco Giants,True,3,0.416
+2025-05-25,Pittsburgh Pirates,False,5,0.472,Milwaukee Brewers,True,6,0.528
+2025-05-25,Cincinnati Reds,False,8,0.376,Chicago Cubs,True,11,0.624
+2025-05-25,Tampa Bay Rays,True,13,0.449,Toronto Blue Jays,False,0,0.551
+2025-05-25,Houston Astros,True,5,0.522,Seattle Mariners,False,3,0.478
+2025-05-25,Minnesota Twins,False,1,0.505,Kansas City Royals,True,2,0.495
+2025-05-25,Chicago White Sox,False,4,0.578,Texas Rangers,True,5,0.422
+2025-05-25,St. Louis Cardinals,True,4,0.516,Arizona Diamondbacks,False,3,0.484
+2025-05-25,Colorado Rockies,False,4,0.23,New York Yankees,True,5,0.77
+2025-05-25,Athletics,True,5,0.298,Philadelphia Phillies,False,4,0.702
+2025-05-25,Los Angeles Angels,False,0,0.612,Miami Marlins,True,3,0.388
+2025-05-25,Atlanta Braves,False,3,0.696,San Diego Padres,True,5,0.304
+2025-05-25,New York Mets,True,3,0.494,Los Angeles Dodgers,False,1,0.506
