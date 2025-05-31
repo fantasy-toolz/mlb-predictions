@@ -1,0 +1,6 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2025-05-29,Philadelphia Phillies,True,5,0.573,Atlanta Braves,False,4,0.427
+2025-05-29,Philadelphia Phillies,False,3,0.573,Atlanta Braves,True,9,0.427
+2025-05-29,Toronto Blue Jays,True,12,0.522,Athletics,False,0,0.478
+2025-05-29,Houston Astros,False,3,0.472,Tampa Bay Rays,True,13,0.528
+2025-05-29,Seattle Mariners,False,3,0.449,Washington Nationals,True,9,0.551
