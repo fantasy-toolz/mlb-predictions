@@ -1,16 +1,16 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2025-05-30,Chicago Cubs,False,2,0.573,Cincinnati Reds,True,6,0.427
-2025-05-30,Baltimore Orioles,True,2,0.376,Chicago White Sox,False,1,0.624
-2025-05-30,Philadelphia Phillies,False,2,0.488,Milwaukee Brewers,True,6,0.512
-2025-05-30,Toronto Blue Jays,True,11,0.64,Athletics,False,7,0.36
-2025-05-30,Cleveland Guardians,False,1,0.516,Los Angeles Angels,True,4,0.484
-2025-05-30,New York Mets,True,4,0.595,Colorado Rockies,False,2,0.405
-2025-05-30,Miami Marlins,False,0,0.533,San Francisco Giants,True,2,0.467
-2025-05-30,Atlanta Braves,False,1,0.494,Boston Red Sox,True,5,0.506
-2025-05-30,Texas Rangers,True,11,0.427,St. Louis Cardinals,False,1,0.573
-2025-05-30,Kansas City Royals,False,5,0.415,Detroit Tigers,True,7,0.585
-2025-05-30,Houston Astros,True,2,0.331,Tampa Bay Rays,False,1,0.669
-2025-05-30,Arizona Diamondbacks,False,7,0.415,Washington Nationals,True,9,0.585
-2025-05-30,San Diego Padres,True,3,0.444,Pittsburgh Pirates,False,2,0.556
-2025-05-30,Seattle Mariners,False,6,0.488,Minnesota Twins,True,12,0.512
-2025-05-30,Los Angeles Dodgers,True,8,0.415,New York Yankees,False,5,0.585
+2025-05-31,Chicago Cubs,True,2,0.449,Cincinnati Reds,False,0,0.551
+2025-05-31,Toronto Blue Jays,True,8,0.69,Athletics,False,7,0.31
+2025-05-31,Texas Rangers,False,0,0.561,St. Louis Cardinals,True,2,0.439
+2025-05-31,Baltimore Orioles,True,4,0.483,Chicago White Sox,False,2,0.517
+2025-05-31,Philadelphia Phillies,False,7,0.427,Milwaukee Brewers,True,17,0.573
+2025-05-31,Cleveland Guardians,True,7,0.488,Los Angeles Angels,False,5,0.512
+2025-05-31,Kansas City Royals,True,1,0.393,Detroit Tigers,False,0,0.607
+2025-05-31,New York Mets,True,8,0.634,Colorado Rockies,False,2,0.366
+2025-05-31,Houston Astros,False,3,0.365,Tampa Bay Rays,True,16,0.635
+2025-05-31,Atlanta Braves,True,5,0.533,Boston Red Sox,False,0,0.467
+2025-05-31,Miami Marlins,True,1,0.55,San Francisco Giants,False,0,0.45
+2025-05-31,Seattle Mariners,True,5,0.421,Minnesota Twins,False,4,0.579
+2025-05-31,Los Angeles Dodgers,True,18,0.432,New York Yankees,False,2,0.568
+2025-05-31,San Diego Padres,False,0,0.455,Pittsburgh Pirates,True,5,0.545
+2025-05-31,Arizona Diamondbacks,False,7,0.376,Washington Nationals,True,11,0.624
