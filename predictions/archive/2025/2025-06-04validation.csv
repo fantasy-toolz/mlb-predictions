@@ -1,0 +1,16 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2025-06-03,Pittsburgh Pirates,False,0,0.601,Houston Astros,True,3,0.399
+2025-06-03,Miami Marlins,False,2,0.528,Colorado Rockies,True,3,0.472
+2025-06-03,Washington Nationals,False,3,0.528,Chicago Cubs,True,8,0.472
+2025-06-03,New York Yankees,True,3,0.477,Cleveland Guardians,False,2,0.523
+2025-06-03,Toronto Blue Jays,False,3,0.73,Philadelphia Phillies,True,8,0.27
+2025-06-03,Boston Red Sox,False,3,0.483,Los Angeles Angels,True,4,0.517
+2025-06-03,Cincinnati Reds,True,4,0.376,Milwaukee Brewers,False,2,0.624
+2025-06-03,Atlanta Braves,False,3,0.556,Arizona Diamondbacks,True,8,0.444
+2025-06-03,Tampa Bay Rays,True,5,0.556,Texas Rangers,False,1,0.444
+2025-06-03,Chicago White Sox,True,8,0.331,Detroit Tigers,False,1,0.669
+2025-06-03,St. Louis Cardinals,False,7,0.477,Kansas City Royals,True,10,0.523
+2025-06-03,Seattle Mariners,False,1,0.427,Baltimore Orioles,True,5,0.573
+2025-06-03,San Francisco Giants,False,2,0.5,San Diego Padres,True,3,0.5
+2025-06-03,Athletics,False,3,0.298,Minnesota Twins,True,10,0.702
+2025-06-03,Los Angeles Dodgers,True,6,0.539,New York Mets,False,5,0.461

@@ -1,0 +1,97 @@
+date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanrundiff,homerollingdiff,homerollingruns,awayrollingruns
+2025-06-04,Miami Marlins,MIA,0.522,Colorado Rockies,COL,0.478,-0.6,-0.4,1.9,1.7
+2025-06-04,Cincinnati Reds,CIN,0.393,Milwaukee Brewers,MIL,0.607,0.75,-0.2,1.7,3.9
+2025-06-04,Boston Red Sox,BOS,0.488,Los Angeles Angels,LAA,0.512,-0.1,-0.2,2.2,2.2
+2025-06-04,Pittsburgh Pirates,PIT,0.651,Houston Astros,HOU,0.349,-0.25,1.1,3.0,1.7
+2025-06-04,Washington Nationals,WSH,0.528,Chicago Cubs,CHC,0.472,1.15,1.4,4.2,2.5
+2025-06-04,New York Yankees,NYY,0.438,Cleveland Guardians,CLE,0.562,-0.65,-1.2,2.1,2.6
+2025-06-04,Toronto Blue Jays,TOR,0.679,Philadelphia Phillies,PHI,0.321,0.2,1.8,4.4,2.6
+2025-06-04,Atlanta Braves,ATL,0.539,Arizona Diamondbacks,AZ,0.461,-0.75,-0.4,1.9,3.2
+2025-06-04,Tampa Bay Rays,TB,0.606,Texas Rangers,TEX,0.394,2.05,3.0,4.0,2.2
+2025-06-04,Chicago White Sox,CWS,0.432,Detroit Tigers,DET,0.568,0.2,-0.4,2.3,2.6
+2025-06-04,St. Louis Cardinals,STL,0.444,Kansas City Royals,KC,0.556,-0.8,-1.3,2.4,2.1
+2025-06-04,Seattle Mariners,SEA,0.354,Baltimore Orioles,BAL,0.646,-1.0,-2.3,1.7,2.2
+2025-06-04,San Francisco Giants,SF,0.511,San Diego Padres,SD,0.489,-0.1,0.0,1.1,2.1
+2025-06-04,Athletics,ATH,0.241,Minnesota Twins,MIN,0.759,-1.1,-3.4,2.5,3.7
+2025-06-04,Los Angeles Dodgers,LAD,0.539,New York Mets,NYM,0.461,0.85,1.2,4.2,3.0
+2025-06-05,Atlanta Braves,ATL,0.539,Arizona Diamondbacks,AZ,0.461,-0.75,-0.4,1.9,3.2
+2025-06-05,Chicago White Sox,CWS,0.432,Detroit Tigers,DET,0.568,0.2,-0.4,2.3,2.6
+2025-06-05,Toronto Blue Jays,TOR,0.679,Philadelphia Phillies,PHI,0.321,0.2,1.8,4.4,2.6
+2025-06-05,Athletics,ATH,0.241,Minnesota Twins,MIN,0.759,-1.1,-3.4,2.5,3.7
+2025-06-05,Seattle Mariners,SEA,0.354,Baltimore Orioles,BAL,0.646,-1.0,-2.3,1.7,2.2
+2025-06-05,San Francisco Giants,SF,0.511,San Diego Padres,SD,0.489,-0.1,0.0,1.1,2.1
+2025-06-05,Los Angeles Dodgers,LAD,0.539,New York Mets,NYM,0.461,0.85,1.2,4.2,3.0
+2025-06-05,Pittsburgh Pirates,PIT,0.651,Houston Astros,HOU,0.349,-0.25,1.1,3.0,1.7
+2025-06-05,Washington Nationals,WSH,0.528,Chicago Cubs,CHC,0.472,1.15,1.4,4.2,2.5
+2025-06-05,New York Yankees,NYY,0.438,Cleveland Guardians,CLE,0.562,-0.65,-1.2,2.1,2.6
+2025-06-05,Tampa Bay Rays,TB,0.606,Texas Rangers,TEX,0.394,2.05,3.0,4.0,2.2
+2025-06-05,St. Louis Cardinals,STL,0.444,Kansas City Royals,KC,0.556,-0.8,-1.3,2.4,2.1
+2025-06-06,Tampa Bay Rays,TB,0.69,Miami Marlins,MIA,0.31,1.3,3.0,4.0,1.9
+2025-06-06,Pittsburgh Pirates,PIT,0.64,Philadelphia Phillies,PHI,0.36,-0.15,1.1,3.0,2.6
+2025-06-06,Washington Nationals,WSH,0.516,Texas Rangers,TEX,0.484,1.25,1.4,4.2,2.2
+2025-06-06,New York Yankees,NYY,0.444,Boston Red Sox,BOS,0.556,-0.7,-1.2,2.1,2.2
+2025-06-06,Cincinnati Reds,CIN,0.55,Arizona Diamondbacks,AZ,0.45,-0.65,-0.2,1.7,3.2
+2025-06-06,Detroit Tigers,DET,0.494,Chicago Cubs,CHC,0.506,0.85,0.8,2.6,2.5
+2025-06-06,Cleveland Guardians,CLE,0.584,Houston Astros,HOU,0.416,-0.85,-0.1,2.6,1.7
+2025-06-06,Chicago White Sox,CWS,0.494,Kansas City Royals,KC,0.506,-0.35,-0.4,2.3,2.1
+2025-06-06,Minnesota Twins,MIN,0.466,Toronto Blue Jays,TOR,0.534,1.5,1.2,3.7,4.4
+2025-06-06,Milwaukee Brewers,MIL,0.606,San Diego Padres,SD,0.394,0.75,1.7,3.9,2.1
+2025-06-06,St. Louis Cardinals,STL,0.359,Los Angeles Dodgers,LAD,0.641,-0.05,-1.3,2.4,4.2
+2025-06-06,Colorado Rockies,COL,0.427,New York Mets,NYM,0.573,-0.15,-0.8,1.7,3.0
+2025-06-06,Los Angeles Angels,LAA,0.629,Seattle Mariners,SEA,0.371,-1.15,0.0,2.2,1.7
+2025-06-06,Athletics,ATH,0.292,Baltimore Orioles,BAL,0.708,-1.55,-3.4,2.5,2.2
+2025-06-06,San Francisco Giants,SF,0.522,Atlanta Braves,ATL,0.478,-0.2,0.0,1.1,1.9
+2025-06-07,Detroit Tigers,DET,0.494,Chicago Cubs,CHC,0.506,0.85,0.8,2.6,2.5
+2025-06-07,Minnesota Twins,MIN,0.466,Toronto Blue Jays,TOR,0.534,1.5,1.2,3.7,4.4
+2025-06-07,St. Louis Cardinals,STL,0.359,Los Angeles Dodgers,LAD,0.641,-0.05,-1.3,2.4,4.2
+2025-06-07,Washington Nationals,WSH,0.516,Texas Rangers,TEX,0.484,1.25,1.4,4.2,2.2
+2025-06-07,Pittsburgh Pirates,PIT,0.64,Philadelphia Phillies,PHI,0.36,-0.15,1.1,3.0,2.6
+2025-06-07,San Francisco Giants,SF,0.522,Atlanta Braves,ATL,0.478,-0.2,0.0,1.1,1.9
+2025-06-07,Cincinnati Reds,CIN,0.55,Arizona Diamondbacks,AZ,0.45,-0.65,-0.2,1.7,3.2
+2025-06-07,Cleveland Guardians,CLE,0.584,Houston Astros,HOU,0.416,-0.85,-0.1,2.6,1.7
+2025-06-07,Chicago White Sox,CWS,0.494,Kansas City Royals,KC,0.506,-0.35,-0.4,2.3,2.1
+2025-06-07,Tampa Bay Rays,TB,0.69,Miami Marlins,MIA,0.31,1.3,3.0,4.0,1.9
+2025-06-07,New York Yankees,NYY,0.444,Boston Red Sox,BOS,0.556,-0.7,-1.2,2.1,2.2
+2025-06-07,Milwaukee Brewers,MIL,0.606,San Diego Padres,SD,0.394,0.75,1.7,3.9,2.1
+2025-06-07,Los Angeles Angels,LAA,0.629,Seattle Mariners,SEA,0.371,-1.15,0.0,2.2,1.7
+2025-06-07,Colorado Rockies,COL,0.427,New York Mets,NYM,0.573,-0.15,-0.8,1.7,3.0
+2025-06-07,Athletics,ATH,0.292,Baltimore Orioles,BAL,0.708,-1.55,-3.4,2.5,2.2
+2025-06-08,Tampa Bay Rays,TB,0.69,Miami Marlins,MIA,0.31,1.3,3.0,4.0,1.9
+2025-06-08,Milwaukee Brewers,MIL,0.606,San Diego Padres,SD,0.394,0.75,1.7,3.9,2.1
+2025-06-08,Washington Nationals,WSH,0.516,Texas Rangers,TEX,0.484,1.25,1.4,4.2,2.2
+2025-06-08,Pittsburgh Pirates,PIT,0.64,Philadelphia Phillies,PHI,0.36,-0.15,1.1,3.0,2.6
+2025-06-08,Cincinnati Reds,CIN,0.55,Arizona Diamondbacks,AZ,0.45,-0.65,-0.2,1.7,3.2
+2025-06-08,Detroit Tigers,DET,0.494,Chicago Cubs,CHC,0.506,0.85,0.8,2.6,2.5
+2025-06-08,Cleveland Guardians,CLE,0.584,Houston Astros,HOU,0.416,-0.85,-0.1,2.6,1.7
+2025-06-08,Minnesota Twins,MIN,0.466,Toronto Blue Jays,TOR,0.534,1.5,1.2,3.7,4.4
+2025-06-08,Chicago White Sox,CWS,0.494,Kansas City Royals,KC,0.506,-0.35,-0.4,2.3,2.1
+2025-06-08,St. Louis Cardinals,STL,0.359,Los Angeles Dodgers,LAD,0.641,-0.05,-1.3,2.4,4.2
+2025-06-08,Colorado Rockies,COL,0.427,New York Mets,NYM,0.573,-0.15,-0.8,1.7,3.0
+2025-06-08,Athletics,ATH,0.292,Baltimore Orioles,BAL,0.708,-1.55,-3.4,2.5,2.2
+2025-06-08,San Francisco Giants,SF,0.522,Atlanta Braves,ATL,0.478,-0.2,0.0,1.1,1.9
+2025-06-08,Los Angeles Angels,LAA,0.629,Seattle Mariners,SEA,0.371,-1.15,0.0,2.2,1.7
+2025-06-08,New York Yankees,NYY,0.444,Boston Red Sox,BOS,0.556,-0.7,-1.2,2.1,2.2
+2025-06-09,Cleveland Guardians,CLE,0.505,Cincinnati Reds,CIN,0.495,-0.15,-0.1,2.6,1.7
+2025-06-09,Pittsburgh Pirates,PIT,0.584,Miami Marlins,MIA,0.416,0.35,1.1,3.0,1.9
+2025-06-09,Philadelphia Phillies,PHI,0.371,Chicago Cubs,CHC,0.629,-0.25,-1.4,2.6,2.5
+2025-06-09,Boston Red Sox,BOS,0.32,Tampa Bay Rays,TB,0.68,1.4,-0.2,2.2,4.0
+2025-06-09,Milwaukee Brewers,MIL,0.617,Atlanta Braves,ATL,0.383,0.65,1.7,3.9,1.9
+2025-06-09,St. Louis Cardinals,STL,0.326,Toronto Blue Jays,TOR,0.674,0.25,-1.3,2.4,4.4
+2025-06-09,Los Angeles Angels,LAA,0.69,Athletics,ATH,0.31,-1.7,0.0,2.2,2.5
+2025-06-09,San Diego Padres,SD,0.421,Los Angeles Dodgers,LAD,0.579,0.5,-0.2,2.1,4.2
+2025-06-09,Arizona Diamondbacks,AZ,0.567,Seattle Mariners,SEA,0.433,-1.7,-1.1,3.2,1.7
+2025-06-10,Baltimore Orioles,BAL,0.472,Detroit Tigers,DET,0.528,0.55,0.3,2.2,2.6
+2025-06-10,Cleveland Guardians,CLE,0.505,Cincinnati Reds,CIN,0.495,-0.15,-0.1,2.6,1.7
+2025-06-10,Pittsburgh Pirates,PIT,0.584,Miami Marlins,MIA,0.416,0.35,1.1,3.0,1.9
+2025-06-10,Philadelphia Phillies,PHI,0.371,Chicago Cubs,CHC,0.629,-0.25,-1.4,2.6,2.5
+2025-06-10,New York Mets,NYM,0.449,Washington Nationals,WSH,0.551,0.95,0.5,3.0,4.2
+2025-06-10,Boston Red Sox,BOS,0.32,Tampa Bay Rays,TB,0.68,1.4,-0.2,2.2,4.0
+2025-06-10,Minnesota Twins,MIN,0.505,Texas Rangers,TEX,0.495,1.15,1.2,3.7,2.2
+2025-06-10,Kansas City Royals,KC,0.55,New York Yankees,NYY,0.45,-0.75,-0.3,2.1,2.1
+2025-06-10,Milwaukee Brewers,MIL,0.617,Atlanta Braves,ATL,0.383,0.65,1.7,3.9,1.9
+2025-06-10,St. Louis Cardinals,STL,0.326,Toronto Blue Jays,TOR,0.674,0.25,-1.3,2.4,4.4
+2025-06-10,Houston Astros,HOU,0.432,Chicago White Sox,CWS,0.568,-1.0,-1.6,1.7,2.3
+2025-06-10,Colorado Rockies,COL,0.455,San Francisco Giants,SF,0.545,-0.4,-0.8,1.7,1.1
+2025-06-10,Los Angeles Angels,LAA,0.69,Athletics,ATH,0.31,-1.7,0.0,2.2,2.5
+2025-06-10,San Diego Padres,SD,0.421,Los Angeles Dodgers,LAD,0.579,0.5,-0.2,2.1,4.2
+2025-06-10,Arizona Diamondbacks,AZ,0.567,Seattle Mariners,SEA,0.433,-1.7,-1.1,3.2,1.7

@@ -1,16 +1,15 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2025-06-03,Pittsburgh Pirates,False,0,0.601,Houston Astros,True,3,0.399
-2025-06-03,Miami Marlins,False,2,0.528,Colorado Rockies,True,3,0.472
-2025-06-03,Washington Nationals,False,3,0.528,Chicago Cubs,True,8,0.472
-2025-06-03,New York Yankees,True,3,0.477,Cleveland Guardians,False,2,0.523
-2025-06-03,Toronto Blue Jays,False,3,0.73,Philadelphia Phillies,True,8,0.27
-2025-06-03,Boston Red Sox,False,3,0.483,Los Angeles Angels,True,4,0.517
-2025-06-03,Cincinnati Reds,True,4,0.376,Milwaukee Brewers,False,2,0.624
-2025-06-03,Atlanta Braves,False,3,0.556,Arizona Diamondbacks,True,8,0.444
-2025-06-03,Tampa Bay Rays,True,5,0.556,Texas Rangers,False,1,0.444
-2025-06-03,Chicago White Sox,True,8,0.331,Detroit Tigers,False,1,0.669
-2025-06-03,St. Louis Cardinals,False,7,0.477,Kansas City Royals,True,10,0.523
-2025-06-03,Seattle Mariners,False,1,0.427,Baltimore Orioles,True,5,0.573
-2025-06-03,San Francisco Giants,False,2,0.5,San Diego Padres,True,3,0.5
-2025-06-03,Athletics,False,3,0.298,Minnesota Twins,True,10,0.702
-2025-06-03,Los Angeles Dodgers,True,6,0.539,New York Mets,False,5,0.461
+2025-06-04,Miami Marlins,False,2,0.522,Colorado Rockies,True,3,0.478
+2025-06-04,Cincinnati Reds,False,1,0.393,Milwaukee Brewers,True,9,0.607
+2025-06-04,Boston Red Sox,True,11,0.488,Los Angeles Angels,False,9,0.512
+2025-06-04,Pittsburgh Pirates,True,3,0.651,Houston Astros,False,0,0.349
+2025-06-04,Washington Nationals,True,2,0.528,Chicago Cubs,False,0,0.472
+2025-06-04,New York Yankees,False,0,0.438,Cleveland Guardians,True,4,0.562
+2025-06-04,Toronto Blue Jays,True,2,0.679,Philadelphia Phillies,False,1,0.321
+2025-06-04,Atlanta Braves,False,1,0.539,Arizona Diamondbacks,True,2,0.461
+2025-06-04,Tampa Bay Rays,True,5,0.606,Texas Rangers,False,4,0.394
+2025-06-04,Chicago White Sox,False,4,0.432,Detroit Tigers,True,5,0.568
+2025-06-04,Seattle Mariners,False,2,0.354,Baltimore Orioles,True,3,0.646
+2025-06-04,San Francisco Giants,True,6,0.511,San Diego Padres,False,5,0.489
+2025-06-04,Athletics,False,1,0.241,Minnesota Twins,True,6,0.759
+2025-06-04,Los Angeles Dodgers,False,1,0.539,New York Mets,True,6,0.461
