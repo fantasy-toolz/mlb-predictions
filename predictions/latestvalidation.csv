@@ -1,14 +1,15 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2025-06-05,Atlanta Braves,False,10,0.522,Arizona Diamondbacks,True,11,0.478
-2025-06-05,St. Louis Cardinals,True,6,0.444,Kansas City Royals,False,5,0.556
-2025-06-05,St. Louis Cardinals,False,5,0.444,Kansas City Royals,True,7,0.556
-2025-06-05,Chicago White Sox,True,3,0.399,Detroit Tigers,False,2,0.601
-2025-06-05,Toronto Blue Jays,True,9,0.69,Philadelphia Phillies,False,1,0.31
-2025-06-05,Athletics,True,14,0.225,Minnesota Twins,False,3,0.775
-2025-06-05,Seattle Mariners,False,3,0.376,Baltimore Orioles,True,4,0.624
-2025-06-05,San Francisco Giants,True,3,0.516,San Diego Padres,False,2,0.484
-2025-06-05,Los Angeles Dodgers,True,6,0.472,New York Mets,False,5,0.528
-2025-06-05,Pittsburgh Pirates,False,2,0.679,Houston Astros,True,8,0.321
-2025-06-05,Washington Nationals,False,1,0.505,Chicago Cubs,True,7,0.495
-2025-06-05,New York Yankees,True,4,0.365,Cleveland Guardians,False,0,0.635
-2025-06-05,Tampa Bay Rays,True,4,0.601,Texas Rangers,False,3,0.399
+2025-06-06,Tampa Bay Rays,True,4,0.634,Miami Marlins,False,3,0.366
+2025-06-06,Pittsburgh Pirates,True,5,0.595,Philadelphia Phillies,False,4,0.405
+2025-06-06,Washington Nationals,True,2,0.421,Texas Rangers,False,0,0.579
+2025-06-06,New York Yankees,True,9,0.415,Boston Red Sox,False,6,0.585
+2025-06-06,Detroit Tigers,True,3,0.466,Chicago Cubs,False,1,0.534
+2025-06-06,Cleveland Guardians,False,2,0.528,Houston Astros,True,4,0.472
+2025-06-06,Chicago White Sox,True,7,0.438,Kansas City Royals,False,2,0.562
+2025-06-06,Minnesota Twins,False,4,0.455,Toronto Blue Jays,True,6,0.545
+2025-06-06,Milwaukee Brewers,False,0,0.651,San Diego Padres,True,2,0.349
+2025-06-06,St. Louis Cardinals,True,5,0.359,Los Angeles Dodgers,False,0,0.641
+2025-06-06,Colorado Rockies,False,2,0.399,New York Mets,True,4,0.601
+2025-06-06,Los Angeles Angels,True,5,0.55,Seattle Mariners,False,4,0.45
+2025-06-06,Athletics,True,5,0.376,Baltimore Orioles,False,4,0.624
+2025-06-06,San Francisco Giants,True,5,0.55,Atlanta Braves,False,4,0.45
