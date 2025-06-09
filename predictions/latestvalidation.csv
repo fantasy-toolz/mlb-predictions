@@ -1,17 +1,16 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2025-06-07,Detroit Tigers,False,1,0.472,Chicago Cubs,True,6,0.528
-2025-06-07,Cincinnati Reds,True,4,0.432,Arizona Diamondbacks,False,3,0.568
-2025-06-07,Minnesota Twins,False,4,0.46,Toronto Blue Jays,True,5,0.54
-2025-06-07,St. Louis Cardinals,True,2,0.494,Los Angeles Dodgers,False,1,0.506
-2025-06-07,Washington Nationals,False,0,0.488,Texas Rangers,True,5,0.512
-2025-06-07,Pittsburgh Pirates,True,2,0.589,Philadelphia Phillies,False,1,0.411
-2025-06-07,San Francisco Giants,True,3,0.545,Atlanta Braves,False,2,0.455
-2025-06-07,Cincinnati Reds,True,13,0.432,Arizona Diamondbacks,False,1,0.568
-2025-06-07,Cleveland Guardians,False,3,0.528,Houston Astros,True,5,0.472
-2025-06-07,Chicago White Sox,True,4,0.511,Kansas City Royals,False,1,0.489
-2025-06-07,Tampa Bay Rays,False,10,0.64,Miami Marlins,True,11,0.36
-2025-06-07,New York Yankees,False,7,0.488,Boston Red Sox,True,10,0.512
-2025-06-07,Milwaukee Brewers,True,4,0.578,San Diego Padres,False,3,0.422
-2025-06-07,Los Angeles Angels,True,8,0.511,Seattle Mariners,False,6,0.489
-2025-06-07,Colorado Rockies,False,1,0.421,New York Mets,True,8,0.579
-2025-06-07,Athletics,False,4,0.399,Baltimore Orioles,True,7,0.601
+2025-06-08,Tampa Bay Rays,True,3,0.561,Miami Marlins,False,2,0.439
+2025-06-08,Milwaukee Brewers,False,0,0.545,San Diego Padres,True,1,0.455
+2025-06-08,Washington Nationals,False,2,0.399,Texas Rangers,True,4,0.601
+2025-06-08,Pittsburgh Pirates,True,2,0.516,Philadelphia Phillies,False,1,0.484
+2025-06-08,Cincinnati Reds,True,4,0.533,Arizona Diamondbacks,False,2,0.467
+2025-06-08,Detroit Tigers,True,4,0.421,Chicago Cubs,False,0,0.579
+2025-06-08,Cleveland Guardians,True,4,0.528,Houston Astros,False,2,0.472
+2025-06-08,Minnesota Twins,True,6,0.46,Toronto Blue Jays,False,3,0.54
+2025-06-08,Chicago White Sox,False,5,0.539,Kansas City Royals,True,7,0.461
+2025-06-08,St. Louis Cardinals,False,3,0.539,Los Angeles Dodgers,True,7,0.461
+2025-06-08,Colorado Rockies,False,5,0.387,New York Mets,True,13,0.613
+2025-06-08,Athletics,True,5,0.399,Baltimore Orioles,False,1,0.601
+2025-06-08,San Francisco Giants,True,4,0.573,Atlanta Braves,False,3,0.427
+2025-06-08,Los Angeles Angels,False,2,0.55,Seattle Mariners,True,3,0.45
+2025-06-08,New York Yankees,False,7,0.516,Boston Red Sox,True,11,0.484
