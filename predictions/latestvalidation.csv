@@ -1,10 +1,16 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2025-06-09,Cleveland Guardians,False,4,0.438,Cincinnati Reds,True,7,0.562
-2025-06-09,Pittsburgh Pirates,True,10,0.511,Miami Marlins,False,3,0.489
-2025-06-09,Philadelphia Phillies,True,4,0.415,Chicago Cubs,False,3,0.585
-2025-06-09,Boston Red Sox,False,8,0.483,Tampa Bay Rays,True,10,0.517
-2025-06-09,Milwaukee Brewers,False,1,0.584,Atlanta Braves,True,7,0.416
-2025-06-09,St. Louis Cardinals,False,4,0.427,Toronto Blue Jays,True,5,0.573
-2025-06-09,Los Angeles Angels,True,7,0.505,Athletics,False,4,0.495
-2025-06-09,San Diego Padres,False,7,0.533,Los Angeles Dodgers,True,8,0.467
-2025-06-09,Arizona Diamondbacks,True,8,0.5,Seattle Mariners,False,4,0.5
+2025-06-10,Baltimore Orioles,False,3,0.556,Detroit Tigers,True,5,0.444
+2025-06-10,Cleveland Guardians,False,0,0.404,Cincinnati Reds,True,1,0.596
+2025-06-10,Pittsburgh Pirates,False,2,0.595,Miami Marlins,True,3,0.405
+2025-06-10,Philadelphia Phillies,False,4,0.427,Chicago Cubs,True,8,0.573
+2025-06-10,New York Mets,True,5,0.69,Washington Nationals,False,4,0.31
+2025-06-10,Boston Red Sox,True,3,0.488,Tampa Bay Rays,False,1,0.512
+2025-06-10,Minnesota Twins,False,4,0.511,Texas Rangers,True,16,0.489
+2025-06-10,Kansas City Royals,False,2,0.5,New York Yankees,True,10,0.5
+2025-06-10,Milwaukee Brewers,True,4,0.483,Atlanta Braves,False,1,0.517
+2025-06-10,St. Louis Cardinals,False,9,0.427,Toronto Blue Jays,True,10,0.573
+2025-06-10,Houston Astros,False,2,0.472,Chicago White Sox,True,4,0.528
+2025-06-10,Colorado Rockies,False,5,0.404,San Francisco Giants,True,6,0.596
+2025-06-10,Los Angeles Angels,True,2,0.494,Athletics,False,1,0.506
+2025-06-10,San Diego Padres,True,11,0.522,Los Angeles Dodgers,False,1,0.478
+2025-06-10,Arizona Diamondbacks,True,10,0.494,Seattle Mariners,False,3,0.506
