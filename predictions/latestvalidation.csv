@@ -1,9 +1,16 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2025-06-12,New York Mets,True,4,0.719,Washington Nationals,False,3,0.281
-2025-06-12,Minnesota Twins,False,3,0.326,Texas Rangers,True,16,0.674
-2025-06-12,Colorado Rockies,True,8,0.342,San Francisco Giants,False,7,0.658
-2025-06-12,Baltimore Orioles,False,1,0.573,Detroit Tigers,True,4,0.427
-2025-06-12,Kansas City Royals,False,0,0.348,New York Yankees,True,1,0.652
-2025-06-12,Milwaukee Brewers,True,6,0.466,St. Louis Cardinals,False,0,0.534
-2025-06-12,Chicago Cubs,True,3,0.415,Pittsburgh Pirates,False,2,0.585
-2025-06-12,Houston Astros,True,4,0.573,Chicago White Sox,False,3,0.427
+2025-06-13,Chicago Cubs,False,1,0.444,Pittsburgh Pirates,True,2,0.556
+2025-06-13,Philadelphia Phillies,True,8,0.466,Toronto Blue Jays,False,0,0.534
+2025-06-13,Washington Nationals,False,9,0.488,Miami Marlins,True,11,0.512
+2025-06-13,Baltimore Orioles,True,2,0.472,Los Angeles Angels,False,0,0.528
+2025-06-13,Detroit Tigers,True,11,0.427,Cincinnati Reds,False,5,0.573
+2025-06-13,New York Mets,False,5,0.634,Tampa Bay Rays,True,7,0.366
+2025-06-13,Boston Red Sox,True,2,0.483,New York Yankees,False,1,0.517
+2025-06-13,Atlanta Braves,True,12,0.634,Colorado Rockies,False,4,0.366
+2025-06-13,Texas Rangers,True,3,0.651,Chicago White Sox,False,1,0.349
+2025-06-13,Kansas City Royals,False,4,0.415,Athletics,True,6,0.585
+2025-06-13,Houston Astros,True,10,0.668,Minnesota Twins,False,3,0.332
+2025-06-13,Milwaukee Brewers,True,3,0.573,St. Louis Cardinals,False,2,0.427
+2025-06-13,Arizona Diamondbacks,True,5,0.449,San Diego Padres,False,1,0.551
+2025-06-13,Seattle Mariners,True,7,0.393,Cleveland Guardians,False,2,0.607
+2025-06-13,Los Angeles Dodgers,False,2,0.421,San Francisco Giants,True,6,0.579
