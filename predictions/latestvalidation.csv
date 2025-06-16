@@ -1,16 +1,16 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2025-06-14,Washington Nationals,False,3,0.449,Miami Marlins,True,4,0.551
-2025-06-14,Detroit Tigers,False,1,0.488,Cincinnati Reds,True,11,0.512
-2025-06-14,Chicago Cubs,True,2,0.41,Pittsburgh Pirates,False,1,0.59
-2025-06-14,Baltimore Orioles,True,6,0.505,Los Angeles Angels,False,5,0.495
-2025-06-14,Philadelphia Phillies,True,3,0.573,Toronto Blue Jays,False,2,0.427
-2025-06-14,Texas Rangers,True,5,0.713,Chicago White Sox,False,4,0.287
-2025-06-14,Kansas City Royals,False,0,0.427,Athletics,True,4,0.573
-2025-06-14,New York Mets,False,4,0.606,Tampa Bay Rays,True,8,0.394
-2025-06-14,Houston Astros,True,3,0.724,Minnesota Twins,False,2,0.276
-2025-06-14,Atlanta Braves,True,4,0.719,Colorado Rockies,False,1,0.281
-2025-06-14,Milwaukee Brewers,False,5,0.584,St. Louis Cardinals,True,8,0.416
-2025-06-14,Arizona Diamondbacks,True,8,0.511,San Diego Padres,False,7,0.489
-2025-06-14,Boston Red Sox,True,4,0.528,New York Yankees,False,3,0.472
-2025-06-14,Seattle Mariners,True,4,0.444,Cleveland Guardians,False,3,0.556
-2025-06-14,Los Angeles Dodgers,True,11,0.41,San Francisco Giants,False,5,0.59
+2025-06-15,Detroit Tigers,False,4,0.472,Cincinnati Reds,True,8,0.528
+2025-06-15,Baltimore Orioles,True,11,0.511,Los Angeles Angels,False,2,0.489
+2025-06-15,Philadelphia Phillies,True,11,0.595,Toronto Blue Jays,False,4,0.405
+2025-06-15,Atlanta Braves,False,1,0.719,Colorado Rockies,True,10,0.281
+2025-06-15,Washington Nationals,False,1,0.472,Miami Marlins,True,3,0.528
+2025-06-15,Boston Red Sox,True,2,0.505,New York Yankees,False,0,0.495
+2025-06-15,New York Mets,False,0,0.516,Tampa Bay Rays,True,9,0.484
+2025-06-15,Kansas City Royals,False,2,0.382,Athletics,True,3,0.618
+2025-06-15,Houston Astros,True,2,0.719,Minnesota Twins,False,1,0.281
+2025-06-15,Milwaukee Brewers,True,3,0.533,St. Louis Cardinals,False,2,0.467
+2025-06-15,Chicago Cubs,True,3,0.449,Pittsburgh Pirates,False,2,0.551
+2025-06-15,Texas Rangers,True,2,0.713,Chicago White Sox,False,1,0.287
+2025-06-15,Arizona Diamondbacks,False,2,0.584,San Diego Padres,True,8,0.416
+2025-06-15,Seattle Mariners,True,6,0.455,Cleveland Guardians,False,0,0.545
+2025-06-15,Los Angeles Dodgers,True,5,0.488,San Francisco Giants,False,4,0.512
