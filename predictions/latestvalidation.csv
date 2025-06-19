@@ -1,16 +1,13 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2025-06-17,Miami Marlins,True,8,0.387,Philadelphia Phillies,False,3,0.613
-2025-06-17,Detroit Tigers,True,7,0.432,Pittsburgh Pirates,False,3,0.568
-2025-06-17,Washington Nationals,False,6,0.438,Colorado Rockies,True,10,0.562
-2025-06-17,New York Yankees,False,0,0.545,Los Angeles Angels,True,4,0.455
-2025-06-17,Toronto Blue Jays,True,5,0.365,Arizona Diamondbacks,False,4,0.635
-2025-06-17,Cincinnati Reds,True,6,0.685,Minnesota Twins,False,5,0.315
-2025-06-17,Atlanta Braves,True,5,0.595,New York Mets,False,4,0.405
-2025-06-17,Tampa Bay Rays,False,1,0.533,Baltimore Orioles,True,5,0.467
-2025-06-17,Chicago White Sox,False,2,0.488,St. Louis Cardinals,True,12,0.512
-2025-06-17,Texas Rangers,False,1,0.747,Kansas City Royals,True,6,0.253
-2025-06-17,Chicago Cubs,True,5,0.483,Milwaukee Brewers,False,3,0.517
-2025-06-17,Seattle Mariners,True,8,0.449,Boston Red Sox,False,0,0.551
-2025-06-17,San Francisco Giants,False,2,0.539,Cleveland Guardians,True,3,0.461
-2025-06-17,Athletics,False,3,0.449,Houston Astros,True,13,0.551
-2025-06-17,Los Angeles Dodgers,True,8,0.466,San Diego Padres,False,6,0.534
+2025-06-18,Seattle Mariners,False,1,0.589,Boston Red Sox,True,3,0.411
+2025-06-18,Miami Marlins,False,2,0.415,Philadelphia Phillies,True,4,0.585
+2025-06-18,Washington Nationals,False,1,0.404,Colorado Rockies,True,3,0.596
+2025-06-18,New York Yankees,False,2,0.488,Los Angeles Angels,True,3,0.512
+2025-06-18,Toronto Blue Jays,True,8,0.393,Arizona Diamondbacks,False,1,0.607
+2025-06-18,Cincinnati Reds,True,4,0.612,Minnesota Twins,False,2,0.388
+2025-06-18,Atlanta Braves,True,5,0.578,New York Mets,False,0,0.422
+2025-06-18,Tampa Bay Rays,True,12,0.55,Baltimore Orioles,False,8,0.45
+2025-06-18,Texas Rangers,False,3,0.578,Kansas City Royals,True,6,0.422
+2025-06-18,San Francisco Giants,False,2,0.505,Cleveland Guardians,True,4,0.495
+2025-06-18,Athletics,False,4,0.387,Houston Astros,True,11,0.613
+2025-06-18,Los Angeles Dodgers,True,4,0.601,San Diego Padres,False,3,0.399
