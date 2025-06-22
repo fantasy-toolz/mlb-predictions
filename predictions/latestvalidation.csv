@@ -1,16 +1,16 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2025-06-20,Chicago Cubs,False,4,0.427,Seattle Mariners,True,9,0.573
-2025-06-20,Pittsburgh Pirates,False,2,0.5,Texas Rangers,True,6,0.5
-2025-06-20,Tampa Bay Rays,True,14,0.589,Detroit Tigers,False,8,0.411
-2025-06-20,New York Yankees,False,3,0.432,Baltimore Orioles,True,5,0.568
-2025-06-20,Toronto Blue Jays,False,1,0.528,Chicago White Sox,True,7,0.472
-2025-06-20,Miami Marlins,True,6,0.432,Atlanta Braves,False,2,0.568
-2025-06-20,St. Louis Cardinals,True,6,0.516,Cincinnati Reds,False,1,0.484
-2025-06-20,Philadelphia Phillies,True,10,0.702,New York Mets,False,2,0.298
-2025-06-20,Minnesota Twins,False,6,0.449,Milwaukee Brewers,True,17,0.551
-2025-06-20,Colorado Rockies,False,8,0.601,Arizona Diamondbacks,True,14,0.399
-2025-06-20,Los Angeles Angels,False,2,0.371,Houston Astros,True,3,0.629
-2025-06-20,San Diego Padres,False,5,0.483,Kansas City Royals,True,6,0.517
-2025-06-20,Athletics,True,5,0.511,Cleveland Guardians,False,1,0.489
-2025-06-20,Los Angeles Dodgers,True,6,0.617,Washington Nationals,False,5,0.383
-2025-06-20,San Francisco Giants,False,5,0.472,Boston Red Sox,True,7,0.528
+2025-06-21,Tampa Bay Rays,True,8,0.651,Detroit Tigers,False,3,0.349
+2025-06-21,New York Yankees,True,9,0.421,Baltimore Orioles,False,0,0.579
+2025-06-21,Minnesota Twins,False,0,0.399,Milwaukee Brewers,True,9,0.601
+2025-06-21,St. Louis Cardinals,True,6,0.573,Cincinnati Reds,False,5,0.427
+2025-06-21,Chicago Cubs,True,10,0.393,Seattle Mariners,False,7,0.607
+2025-06-21,Toronto Blue Jays,True,7,0.5,Chicago White Sox,False,1,0.5
+2025-06-21,San Francisco Giants,True,3,0.432,Boston Red Sox,False,2,0.568
+2025-06-21,Pittsburgh Pirates,False,2,0.472,Texas Rangers,True,3,0.528
+2025-06-21,Miami Marlins,False,0,0.516,Atlanta Braves,True,7,0.484
+2025-06-21,San Diego Padres,True,5,0.466,Kansas City Royals,False,1,0.534
+2025-06-21,Philadelphia Phillies,False,4,0.775,New York Mets,True,11,0.225
+2025-06-21,Colorado Rockies,False,3,0.573,Arizona Diamondbacks,True,5,0.427
+2025-06-21,Los Angeles Angels,True,9,0.371,Houston Astros,False,1,0.629
+2025-06-21,Athletics,False,2,0.505,Cleveland Guardians,True,4,0.495
+2025-06-21,Los Angeles Dodgers,False,3,0.589,Washington Nationals,True,7,0.411

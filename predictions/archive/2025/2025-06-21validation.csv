@@ -1,0 +1,16 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2025-06-20,Chicago Cubs,False,4,0.427,Seattle Mariners,True,9,0.573
+2025-06-20,Pittsburgh Pirates,False,2,0.5,Texas Rangers,True,6,0.5
+2025-06-20,Tampa Bay Rays,True,14,0.589,Detroit Tigers,False,8,0.411
+2025-06-20,New York Yankees,False,3,0.432,Baltimore Orioles,True,5,0.568
+2025-06-20,Toronto Blue Jays,False,1,0.528,Chicago White Sox,True,7,0.472
+2025-06-20,Miami Marlins,True,6,0.432,Atlanta Braves,False,2,0.568
+2025-06-20,St. Louis Cardinals,True,6,0.516,Cincinnati Reds,False,1,0.484
+2025-06-20,Philadelphia Phillies,True,10,0.702,New York Mets,False,2,0.298
+2025-06-20,Minnesota Twins,False,6,0.449,Milwaukee Brewers,True,17,0.551
+2025-06-20,Colorado Rockies,False,8,0.601,Arizona Diamondbacks,True,14,0.399
+2025-06-20,Los Angeles Angels,False,2,0.371,Houston Astros,True,3,0.629
+2025-06-20,San Diego Padres,False,5,0.483,Kansas City Royals,True,6,0.517
+2025-06-20,Athletics,True,5,0.511,Cleveland Guardians,False,1,0.489
+2025-06-20,Los Angeles Dodgers,True,6,0.617,Washington Nationals,False,5,0.383
+2025-06-20,San Francisco Giants,False,5,0.472,Boston Red Sox,True,7,0.528
