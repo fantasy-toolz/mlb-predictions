@@ -1,0 +1,16 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2025-06-24,Baltimore Orioles,False,5,0.545,Texas Rangers,True,6,0.455
+2025-06-24,Detroit Tigers,True,11,0.567,Athletics,False,4,0.433
+2025-06-24,Cleveland Guardians,False,6,0.505,Toronto Blue Jays,True,10,0.495
+2025-06-24,New York Mets,False,4,0.32,Atlanta Braves,True,7,0.68
+2025-06-24,Cincinnati Reds,True,5,0.444,New York Yankees,False,4,0.556
+2025-06-24,Kansas City Royals,False,1,0.528,Tampa Bay Rays,True,5,0.472
+2025-06-24,Minnesota Twins,False,5,0.219,Seattle Mariners,True,6,0.781
+2025-06-24,Chicago White Sox,False,1,0.314,Arizona Diamondbacks,True,4,0.686
+2025-06-24,Milwaukee Brewers,True,9,0.629,Pittsburgh Pirates,False,3,0.371
+2025-06-24,St. Louis Cardinals,True,8,0.702,Chicago Cubs,False,7,0.298
+2025-06-24,Houston Astros,True,1,0.522,Philadelphia Phillies,False,0,0.478
+2025-06-24,Colorado Rockies,False,7,0.472,Los Angeles Dodgers,True,9,0.528
+2025-06-24,Los Angeles Angels,True,3,0.612,Boston Red Sox,False,2,0.388
+2025-06-24,San Diego Padres,True,4,0.505,Washington Nationals,False,3,0.495
+2025-06-24,San Francisco Giants,False,2,0.5,Miami Marlins,True,4,0.5
