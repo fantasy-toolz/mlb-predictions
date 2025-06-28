@@ -1,0 +1,10 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2025-06-26,Detroit Tigers,True,8,0.516,Athletics,False,0,0.484
+2025-06-26,Cleveland Guardians,False,0,0.5,Toronto Blue Jays,True,6,0.5
+2025-06-26,Minnesota Twins,True,10,0.236,Seattle Mariners,False,1,0.764
+2025-06-26,Kansas City Royals,False,0,0.404,Tampa Bay Rays,True,4,0.596
+2025-06-26,Houston Astros,True,2,0.444,Philadelphia Phillies,False,1,0.556
+2025-06-26,St. Louis Cardinals,False,0,0.561,Chicago Cubs,True,3,0.439
+2025-06-26,Colorado Rockies,False,1,0.354,Los Angeles Dodgers,True,3,0.646
+2025-06-26,San Francisco Giants,False,5,0.477,Miami Marlins,True,12,0.523
+2025-06-26,New York Mets,True,4,0.455,Atlanta Braves,False,0,0.545
