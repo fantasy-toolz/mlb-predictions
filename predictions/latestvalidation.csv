@@ -1,16 +1,16 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2025-06-27,Pittsburgh Pirates,True,9,0.432,New York Mets,False,1,0.568
-2025-06-27,Baltimore Orioles,True,22,0.348,Tampa Bay Rays,False,8,0.652
-2025-06-27,New York Yankees,True,3,0.623,Athletics,False,0,0.377
-2025-06-27,Cincinnati Reds,True,8,0.472,San Diego Padres,False,1,0.528
-2025-06-27,Cleveland Guardians,False,0,0.488,St. Louis Cardinals,True,5,0.512
-2025-06-27,Boston Red Sox,False,0,0.399,Toronto Blue Jays,True,9,0.601
-2025-06-27,Detroit Tigers,False,1,0.589,Minnesota Twins,True,4,0.411
-2025-06-27,Atlanta Braves,False,0,0.488,Philadelphia Phillies,True,13,0.512
-2025-06-27,Chicago White Sox,False,1,0.511,San Francisco Giants,True,3,0.489
-2025-06-27,Texas Rangers,False,6,0.488,Seattle Mariners,True,7,0.512
-2025-06-27,Houston Astros,True,7,0.494,Chicago Cubs,False,4,0.506
-2025-06-27,Kansas City Royals,False,4,0.337,Los Angeles Dodgers,True,5,0.663
-2025-06-27,Milwaukee Brewers,True,10,0.752,Colorado Rockies,False,6,0.248
-2025-06-27,Los Angeles Angels,False,9,0.584,Washington Nationals,True,15,0.416
-2025-06-27,Arizona Diamondbacks,False,8,0.522,Miami Marlins,True,9,0.478
+2025-06-28,New York Yankees,False,0,0.69,Athletics,True,7,0.31
+2025-06-28,Detroit Tigers,True,10,0.539,Minnesota Twins,False,5,0.461
+2025-06-28,Pittsburgh Pirates,True,9,0.584,New York Mets,False,2,0.416
+2025-06-28,Baltimore Orioles,False,3,0.528,Tampa Bay Rays,True,11,0.472
+2025-06-28,Texas Rangers,True,3,0.438,Seattle Mariners,False,2,0.562
+2025-06-28,Kansas City Royals,True,9,0.326,Los Angeles Dodgers,False,5,0.674
+2025-06-28,Cincinnati Reds,False,4,0.573,San Diego Padres,True,6,0.427
+2025-06-28,Cleveland Guardians,False,6,0.46,St. Louis Cardinals,True,9,0.54
+2025-06-28,Boston Red Sox,True,15,0.253,Toronto Blue Jays,False,1,0.747
+2025-06-28,Chicago White Sox,True,1,0.444,San Francisco Giants,False,0,0.556
+2025-06-28,Arizona Diamondbacks,False,7,0.5,Miami Marlins,True,8,0.5
+2025-06-28,Milwaukee Brewers,True,5,0.702,Colorado Rockies,False,0,0.298
+2025-06-28,Houston Astros,False,3,0.539,Chicago Cubs,True,12,0.461
+2025-06-28,Atlanta Braves,True,6,0.348,Philadelphia Phillies,False,1,0.652
+2025-06-28,Los Angeles Angels,True,8,0.516,Washington Nationals,False,2,0.484
