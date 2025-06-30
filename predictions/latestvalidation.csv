@@ -1,16 +1,16 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2025-06-28,New York Yankees,False,0,0.69,Athletics,True,7,0.31
-2025-06-28,Detroit Tigers,True,10,0.539,Minnesota Twins,False,5,0.461
-2025-06-28,Pittsburgh Pirates,True,9,0.584,New York Mets,False,2,0.416
-2025-06-28,Baltimore Orioles,False,3,0.528,Tampa Bay Rays,True,11,0.472
-2025-06-28,Texas Rangers,True,3,0.438,Seattle Mariners,False,2,0.562
-2025-06-28,Kansas City Royals,True,9,0.326,Los Angeles Dodgers,False,5,0.674
-2025-06-28,Cincinnati Reds,False,4,0.573,San Diego Padres,True,6,0.427
-2025-06-28,Cleveland Guardians,False,6,0.46,St. Louis Cardinals,True,9,0.54
-2025-06-28,Boston Red Sox,True,15,0.253,Toronto Blue Jays,False,1,0.747
-2025-06-28,Chicago White Sox,True,1,0.444,San Francisco Giants,False,0,0.556
-2025-06-28,Arizona Diamondbacks,False,7,0.5,Miami Marlins,True,8,0.5
-2025-06-28,Milwaukee Brewers,True,5,0.702,Colorado Rockies,False,0,0.298
-2025-06-28,Houston Astros,False,3,0.539,Chicago Cubs,True,12,0.461
-2025-06-28,Atlanta Braves,True,6,0.348,Philadelphia Phillies,False,1,0.652
-2025-06-28,Los Angeles Angels,True,8,0.516,Washington Nationals,False,2,0.484
+2025-06-29,Cleveland Guardians,False,0,0.399,St. Louis Cardinals,True,7,0.601
+2025-06-29,Pittsburgh Pirates,True,12,0.634,New York Mets,False,1,0.366
+2025-06-29,Baltimore Orioles,True,5,0.516,Tampa Bay Rays,False,1,0.484
+2025-06-29,Boston Red Sox,False,3,0.449,Toronto Blue Jays,True,5,0.551
+2025-06-29,Atlanta Braves,False,1,0.376,Philadelphia Phillies,True,2,0.624
+2025-06-29,New York Yankees,True,12,0.55,Athletics,False,5,0.45
+2025-06-29,Cincinnati Reds,True,3,0.578,San Diego Padres,False,2,0.422
+2025-06-29,Houston Astros,True,2,0.438,Chicago Cubs,False,0,0.562
+2025-06-29,Kansas City Royals,False,1,0.371,Los Angeles Dodgers,True,5,0.629
+2025-06-29,Chicago White Sox,True,5,0.494,San Francisco Giants,False,2,0.506
+2025-06-29,Milwaukee Brewers,False,3,0.696,Colorado Rockies,True,4,0.304
+2025-06-29,Texas Rangers,False,4,0.488,Seattle Mariners,True,6,0.512
+2025-06-29,Los Angeles Angels,False,4,0.561,Washington Nationals,True,7,0.439
+2025-06-29,Arizona Diamondbacks,False,4,0.438,Miami Marlins,True,6,0.562
+2025-06-29,Detroit Tigers,True,3,0.617,Minnesota Twins,False,0,0.383
