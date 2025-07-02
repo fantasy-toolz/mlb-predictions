@@ -1,0 +1,9 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2025-06-30,Philadelphia Phillies,True,4,0.573,San Diego Padres,False,0,0.427
+2025-06-30,Pittsburgh Pirates,True,7,0.578,St. Louis Cardinals,False,0,0.422
+2025-06-30,Toronto Blue Jays,True,5,0.516,New York Yankees,False,4,0.484
+2025-06-30,Boston Red Sox,True,13,0.438,Cincinnati Reds,False,6,0.562
+2025-06-30,Tampa Bay Rays,False,4,0.589,Athletics,True,6,0.411
+2025-06-30,Texas Rangers,False,6,0.455,Baltimore Orioles,True,10,0.545
+2025-06-30,Seattle Mariners,True,6,0.522,Kansas City Royals,False,2,0.478
+2025-06-30,Arizona Diamondbacks,True,4,0.606,San Francisco Giants,False,2,0.394
