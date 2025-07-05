@@ -1,0 +1,11 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2025-07-03,Miami Marlins,True,4,0.55,Minnesota Twins,False,1,0.45
+2025-07-03,Colorado Rockies,True,7,0.427,Houston Astros,False,6,0.573
+2025-07-03,Washington Nationals,True,11,0.427,Detroit Tigers,False,7,0.573
+2025-07-03,Toronto Blue Jays,True,8,0.578,New York Yankees,False,5,0.422
+2025-07-03,New York Mets,True,3,0.309,Milwaukee Brewers,False,2,0.691
+2025-07-03,Atlanta Braves,False,1,0.438,Los Angeles Angels,True,5,0.562
+2025-07-03,Chicago Cubs,True,1,0.702,Cleveland Guardians,False,0,0.298
+2025-07-03,Arizona Diamondbacks,False,2,0.567,San Francisco Giants,True,7,0.433
+2025-07-03,Seattle Mariners,False,2,0.539,Kansas City Royals,True,3,0.461
+2025-07-03,Los Angeles Dodgers,True,6,0.55,Chicago White Sox,False,2,0.45

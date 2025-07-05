@@ -1,11 +1,16 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2025-07-03,Miami Marlins,True,4,0.55,Minnesota Twins,False,1,0.45
-2025-07-03,Colorado Rockies,True,7,0.427,Houston Astros,False,6,0.573
-2025-07-03,Washington Nationals,True,11,0.427,Detroit Tigers,False,7,0.573
-2025-07-03,Toronto Blue Jays,True,8,0.578,New York Yankees,False,5,0.422
-2025-07-03,New York Mets,True,3,0.309,Milwaukee Brewers,False,2,0.691
-2025-07-03,Atlanta Braves,False,1,0.438,Los Angeles Angels,True,5,0.562
-2025-07-03,Chicago Cubs,True,1,0.702,Cleveland Guardians,False,0,0.298
-2025-07-03,Arizona Diamondbacks,False,2,0.567,San Francisco Giants,True,7,0.433
-2025-07-03,Seattle Mariners,False,2,0.539,Kansas City Royals,True,3,0.461
-2025-07-03,Los Angeles Dodgers,True,6,0.55,Chicago White Sox,False,2,0.45
+2025-07-04,Washington Nationals,False,2,0.477,Boston Red Sox,True,11,0.523
+2025-07-04,Philadelphia Phillies,False,6,0.556,Cincinnati Reds,True,9,0.444
+2025-07-04,Chicago Cubs,True,11,0.539,St. Louis Cardinals,False,3,0.461
+2025-07-04,New York Mets,True,6,0.455,New York Yankees,False,5,0.545
+2025-07-04,Seattle Mariners,True,6,0.292,Pittsburgh Pirates,False,0,0.708
+2025-07-04,Minnesota Twins,True,4,0.516,Tampa Bay Rays,False,3,0.484
+2025-07-04,San Diego Padres,True,3,0.41,Texas Rangers,False,2,0.59
+2025-07-04,Toronto Blue Jays,True,4,0.505,Los Angeles Angels,False,3,0.495
+2025-07-04,Cleveland Guardians,False,1,0.326,Detroit Tigers,True,2,0.674
+2025-07-04,Miami Marlins,False,5,0.494,Milwaukee Brewers,True,6,0.506
+2025-07-04,Atlanta Braves,False,2,0.432,Baltimore Orioles,True,3,0.568
+2025-07-04,Colorado Rockies,False,2,0.488,Chicago White Sox,True,3,0.512
+2025-07-04,Los Angeles Dodgers,False,1,0.573,Houston Astros,True,18,0.427
+2025-07-04,Arizona Diamondbacks,False,3,0.5,Kansas City Royals,True,9,0.5
+2025-07-04,Athletics,True,11,0.528,San Francisco Giants,False,2,0.472
