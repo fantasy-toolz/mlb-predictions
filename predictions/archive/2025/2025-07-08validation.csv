@@ -1,0 +1,11 @@
+date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
+2025-07-07,Detroit Tigers,True,5,0.556,Tampa Bay Rays,False,1,0.444
+2025-07-07,Boston Red Sox,True,9,0.674,Colorado Rockies,False,3,0.326
+2025-07-07,Cincinnati Reds,False,1,0.438,Miami Marlins,True,5,0.562
+2025-07-07,Kansas City Royals,True,9,0.511,Pittsburgh Pirates,False,3,0.489
+2025-07-07,Chicago White Sox,False,4,0.393,Toronto Blue Jays,True,8,0.607
+2025-07-07,Milwaukee Brewers,True,9,0.567,Los Angeles Dodgers,False,1,0.433
+2025-07-07,Houston Astros,False,5,0.707,Cleveland Guardians,True,7,0.293
+2025-07-07,Los Angeles Angels,True,6,0.449,Texas Rangers,False,5,0.551
+2025-07-07,San Diego Padres,False,3,0.505,Arizona Diamondbacks,True,6,0.495
+2025-07-07,San Francisco Giants,True,3,0.46,Philadelphia Phillies,False,1,0.54
