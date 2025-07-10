@@ -1,16 +1,15 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2025-07-08,Baltimore Orioles,False,6,0.5,New York Mets,True,7,0.5
-2025-07-08,Detroit Tigers,True,4,0.573,Tampa Bay Rays,False,2,0.427
-2025-07-08,New York Yankees,True,10,0.376,Seattle Mariners,False,3,0.624
-2025-07-08,Boston Red Sox,True,10,0.696,Colorado Rockies,False,2,0.304
-2025-07-08,Cincinnati Reds,False,2,0.444,Miami Marlins,True,12,0.556
-2025-07-08,Kansas City Royals,True,4,0.601,Pittsburgh Pirates,False,3,0.399
-2025-07-08,Minnesota Twins,True,8,0.354,Chicago Cubs,False,1,0.646
-2025-07-08,Chicago White Sox,False,1,0.415,Toronto Blue Jays,True,6,0.585
-2025-07-08,Milwaukee Brewers,True,3,0.69,Los Angeles Dodgers,False,1,0.31
-2025-07-08,St. Louis Cardinals,True,4,0.404,Washington Nationals,False,2,0.596
-2025-07-08,Houston Astros,False,6,0.662,Cleveland Guardians,True,10,0.338
-2025-07-08,Los Angeles Angels,False,1,0.415,Texas Rangers,True,13,0.585
-2025-07-08,San Diego Padres,True,1,0.511,Arizona Diamondbacks,False,0,0.489
-2025-07-08,San Francisco Giants,True,4,0.522,Philadelphia Phillies,False,3,0.478
-2025-07-08,Athletics,True,10,0.556,Atlanta Braves,False,1,0.444
+2025-07-09,Chicago White Sox,True,2,0.376,Toronto Blue Jays,False,1,0.624
+2025-07-09,Milwaukee Brewers,True,3,0.719,Los Angeles Dodgers,False,2,0.281
+2025-07-09,San Francisco Giants,False,0,0.55,Philadelphia Phillies,True,13,0.45
+2025-07-09,Detroit Tigers,False,3,0.578,Tampa Bay Rays,True,7,0.422
+2025-07-09,New York Yankees,True,9,0.477,Seattle Mariners,False,6,0.523
+2025-07-09,Boston Red Sox,True,10,0.763,Colorado Rockies,False,2,0.237
+2025-07-09,Cincinnati Reds,True,7,0.337,Miami Marlins,False,2,0.663
+2025-07-09,Kansas City Royals,True,4,0.623,Pittsburgh Pirates,False,3,0.377
+2025-07-09,Minnesota Twins,True,4,0.46,Chicago Cubs,False,2,0.54
+2025-07-09,St. Louis Cardinals,False,2,0.483,Washington Nationals,True,8,0.517
+2025-07-09,Houston Astros,False,2,0.601,Cleveland Guardians,True,4,0.399
+2025-07-09,Los Angeles Angels,True,11,0.354,Texas Rangers,False,8,0.646
+2025-07-09,San Diego Padres,False,2,0.539,Arizona Diamondbacks,True,8,0.461
+2025-07-09,Athletics,False,2,0.623,Atlanta Braves,True,9,0.377
