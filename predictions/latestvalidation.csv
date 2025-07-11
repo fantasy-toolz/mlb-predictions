@@ -1,15 +1,11 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2025-07-09,Chicago White Sox,True,2,0.376,Toronto Blue Jays,False,1,0.624
-2025-07-09,Milwaukee Brewers,True,3,0.719,Los Angeles Dodgers,False,2,0.281
-2025-07-09,San Francisco Giants,False,0,0.55,Philadelphia Phillies,True,13,0.45
-2025-07-09,Detroit Tigers,False,3,0.578,Tampa Bay Rays,True,7,0.422
-2025-07-09,New York Yankees,True,9,0.477,Seattle Mariners,False,6,0.523
-2025-07-09,Boston Red Sox,True,10,0.763,Colorado Rockies,False,2,0.237
-2025-07-09,Cincinnati Reds,True,7,0.337,Miami Marlins,False,2,0.663
-2025-07-09,Kansas City Royals,True,4,0.623,Pittsburgh Pirates,False,3,0.377
-2025-07-09,Minnesota Twins,True,4,0.46,Chicago Cubs,False,2,0.54
-2025-07-09,St. Louis Cardinals,False,2,0.483,Washington Nationals,True,8,0.517
-2025-07-09,Houston Astros,False,2,0.601,Cleveland Guardians,True,4,0.399
-2025-07-09,Los Angeles Angels,True,11,0.354,Texas Rangers,False,8,0.646
-2025-07-09,San Diego Padres,False,2,0.539,Arizona Diamondbacks,True,8,0.461
-2025-07-09,Athletics,False,2,0.623,Atlanta Braves,True,9,0.377
+2025-07-10,Baltimore Orioles,True,3,0.404,New York Mets,False,1,0.596
+2025-07-10,Baltimore Orioles,True,7,0.404,New York Mets,False,3,0.596
+2025-07-10,Minnesota Twins,False,1,0.483,Chicago Cubs,True,8,0.517
+2025-07-10,Cincinnati Reds,True,6,0.387,Miami Marlins,False,0,0.613
+2025-07-10,New York Yankees,True,6,0.528,Seattle Mariners,False,5,0.472
+2025-07-10,Boston Red Sox,True,4,0.735,Tampa Bay Rays,False,3,0.265
+2025-07-10,St. Louis Cardinals,True,8,0.41,Washington Nationals,False,1,0.59
+2025-07-10,Athletics,True,5,0.567,Atlanta Braves,False,4,0.433
+2025-07-10,Los Angeles Angels,False,4,0.399,Texas Rangers,True,11,0.601
+2025-07-10,San Diego Padres,True,4,0.438,Arizona Diamondbacks,False,3,0.562
