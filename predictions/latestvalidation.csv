@@ -1,17 +1,16 @@
 date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awayteamwin,awayteamscore,awayteamodds
-2025-07-11,Chicago White Sox,False,2,0.483,Cleveland Guardians,True,4,0.517
-2025-07-11,Chicago White Sox,True,5,0.483,Cleveland Guardians,False,4,0.517
-2025-07-11,Baltimore Orioles,True,5,0.494,Miami Marlins,False,2,0.506
-2025-07-11,New York Yankees,True,11,0.449,Chicago Cubs,False,0,0.551
-2025-07-11,Cincinnati Reds,False,2,0.606,Colorado Rockies,True,3,0.394
-2025-07-11,Detroit Tigers,False,3,0.567,Seattle Mariners,True,12,0.433
-2025-07-11,Boston Red Sox,True,5,0.69,Tampa Bay Rays,False,4,0.31
-2025-07-11,Kansas City Royals,False,3,0.55,New York Mets,True,8,0.45
-2025-07-11,Houston Astros,False,3,0.5,Texas Rangers,True,7,0.5
-2025-07-11,Minnesota Twins,True,2,0.601,Pittsburgh Pirates,False,1,0.399
-2025-07-11,Milwaukee Brewers,True,8,0.685,Washington Nationals,False,3,0.315
-2025-07-11,St. Louis Cardinals,False,5,0.466,Atlanta Braves,True,6,0.534
-2025-07-11,Los Angeles Angels,True,6,0.354,Arizona Diamondbacks,False,5,0.646
-2025-07-11,San Diego Padres,True,4,0.387,Philadelphia Phillies,False,2,0.613
-2025-07-11,Athletics,False,6,0.455,Toronto Blue Jays,True,7,0.545
-2025-07-11,San Francisco Giants,True,8,0.634,Los Angeles Dodgers,False,7,0.366
+2025-07-12,New York Yankees,False,2,0.623,Chicago Cubs,True,5,0.377
+2025-07-12,Detroit Tigers,False,7,0.494,Seattle Mariners,True,15,0.506
+2025-07-12,Minnesota Twins,True,12,0.573,Pittsburgh Pirates,False,4,0.427
+2025-07-12,St. Louis Cardinals,False,6,0.494,Atlanta Braves,True,7,0.506
+2025-07-12,San Francisco Giants,False,1,0.601,Los Angeles Dodgers,True,2,0.399
+2025-07-12,Baltimore Orioles,False,0,0.573,Miami Marlins,True,6,0.427
+2025-07-12,Cincinnati Reds,True,4,0.612,Colorado Rockies,False,3,0.388
+2025-07-12,Kansas City Royals,False,1,0.466,New York Mets,True,3,0.534
+2025-07-12,Boston Red Sox,True,1,0.657,Tampa Bay Rays,False,0,0.343
+2025-07-12,Chicago White Sox,False,2,0.483,Cleveland Guardians,True,6,0.517
+2025-07-12,Milwaukee Brewers,True,6,0.685,Washington Nationals,False,5,0.315
+2025-07-12,Houston Astros,True,5,0.376,Texas Rangers,False,4,0.624
+2025-07-12,San Diego Padres,True,5,0.41,Philadelphia Phillies,False,4,0.59
+2025-07-12,Los Angeles Angels,True,10,0.404,Arizona Diamondbacks,False,5,0.596
+2025-07-12,Athletics,True,4,0.399,Toronto Blue Jays,False,3,0.601
