@@ -1,0 +1,91 @@
+date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanrundiff,homerollingdiff,homerollingruns,awayrollingruns
+2025-07-30,Baltimore Orioles,BAL,0.427,Toronto Blue Jays,TOR,0.573,1.55,0.9,3.7,3.9
+2025-07-30,Detroit Tigers,DET,0.376,Arizona Diamondbacks,AZ,0.624,-1.6,-2.7,1.3,1.3
+2025-07-30,Minnesota Twins,MIN,0.494,Boston Red Sox,BOS,0.506,0.05,0.0,2.6,2.4
+2025-07-30,Houston Astros,HOU,0.427,Washington Nationals,WSH,0.573,-0.65,-1.3,1.9,2.6
+2025-07-30,Kansas City Royals,KC,0.64,Atlanta Braves,ATL,0.36,-0.65,0.6,3.3,2.2
+2025-07-30,Chicago White Sox,CWS,0.522,Philadelphia Phillies,PHI,0.478,1.1,1.3,4.2,3.8
+2025-07-30,Milwaukee Brewers,MIL,0.612,Chicago Cubs,CHC,0.388,-0.3,0.7,2.7,2.6
+2025-07-30,San Francisco Giants,SF,0.466,Pittsburgh Pirates,PIT,0.534,0.4,0.1,3.1,2.1
+2025-07-30,San Diego Padres,SD,0.393,New York Mets,NYM,0.607,0.55,-0.4,1.7,2.9
+2025-07-30,Cleveland Guardians,CLE,0.679,Colorado Rockies,COL,0.321,-0.1,1.5,3.6,2.3
+2025-07-30,New York Yankees,NYY,0.505,Tampa Bay Rays,TB,0.495,-1.65,-1.6,2.3,2.3
+2025-07-30,Cincinnati Reds,CIN,0.528,Los Angeles Dodgers,LAD,0.472,0.35,0.6,2.9,2.8
+2025-07-30,St. Louis Cardinals,STL,0.455,Miami Marlins,MIA,0.545,0.1,-0.3,2.3,2.4
+2025-07-30,Los Angeles Angels,LAA,0.348,Texas Rangers,TEX,0.652,0.15,-1.2,1.7,3.0
+2025-07-30,Athletics,ATH,0.589,Seattle Mariners,SEA,0.411,0.1,0.9,3.0,1.6
+2025-07-31,New York Yankees,NYY,0.505,Tampa Bay Rays,TB,0.495,-1.65,-1.6,2.3,2.3
+2025-07-31,Cincinnati Reds,CIN,0.64,Atlanta Braves,ATL,0.36,-0.65,0.6,2.9,2.2
+2025-07-31,Seattle Mariners,SEA,0.376,Texas Rangers,TEX,0.624,0.4,-0.7,1.6,3.0
+2025-08-01,Cincinnati Reds,CIN,0.64,Atlanta Braves,ATL,0.36,-0.65,0.6,2.9,2.2
+2025-08-01,Chicago Cubs,CHC,0.376,Baltimore Orioles,BAL,0.624,-0.2,-1.3,2.6,3.7
+2025-08-01,Philadelphia Phillies,PHI,0.702,Detroit Tigers,DET,0.298,-0.9,0.9,3.8,1.3
+2025-08-01,Washington Nationals,WSH,0.46,Milwaukee Brewers,MIL,0.54,0.35,0.0,2.6,2.7
+2025-08-01,Toronto Blue Jays,TOR,0.589,Kansas City Royals,KC,0.411,1.4,2.2,3.9,3.3
+2025-08-01,Boston Red Sox,BOS,0.578,Houston Astros,HOU,0.422,-0.6,0.1,2.4,1.9
+2025-08-01,New York Mets,NYM,0.578,San Francisco Giants,SF,0.422,0.8,1.5,2.9,3.1
+2025-08-01,Cleveland Guardians,CLE,0.584,Minnesota Twins,MIN,0.416,0.75,1.5,3.6,2.6
+2025-08-01,Miami Marlins,MIA,0.617,New York Yankees,NYY,0.383,-0.55,0.5,2.4,2.3
+2025-08-01,Tampa Bay Rays,TB,0.399,Los Angeles Dodgers,LAD,0.601,-0.8,-1.7,2.3,2.8
+2025-08-01,Colorado Rockies,COL,0.365,Pittsburgh Pirates,PIT,0.635,-0.5,-1.7,2.3,2.1
+2025-08-01,Los Angeles Angels,LAA,0.359,Chicago White Sox,CWS,0.641,0.05,-1.2,1.7,4.2
+2025-08-01,San Diego Padres,SD,0.494,St. Louis Cardinals,STL,0.506,-0.35,-0.4,1.7,2.3
+2025-08-01,Athletics,ATH,0.578,Arizona Diamondbacks,AZ,0.422,0.2,0.9,3.0,1.3
+2025-08-01,Seattle Mariners,SEA,0.376,Texas Rangers,TEX,0.624,0.4,-0.7,1.6,3.0
+2025-08-02,Tampa Bay Rays,TB,0.399,Los Angeles Dodgers,LAD,0.601,-0.8,-1.7,2.3,2.8
+2025-08-02,Chicago Cubs,CHC,0.376,Baltimore Orioles,BAL,0.624,-0.2,-1.3,2.6,3.7
+2025-08-02,Toronto Blue Jays,TOR,0.589,Kansas City Royals,KC,0.411,1.4,2.2,3.9,3.3
+2025-08-02,Colorado Rockies,COL,0.365,Pittsburgh Pirates,PIT,0.635,-0.5,-1.7,2.3,2.1
+2025-08-02,Philadelphia Phillies,PHI,0.702,Detroit Tigers,DET,0.298,-0.9,0.9,3.8,1.3
+2025-08-02,Washington Nationals,WSH,0.46,Milwaukee Brewers,MIL,0.54,0.35,0.0,2.6,2.7
+2025-08-02,Boston Red Sox,BOS,0.578,Houston Astros,HOU,0.422,-0.6,0.1,2.4,1.9
+2025-08-02,New York Mets,NYM,0.578,San Francisco Giants,SF,0.422,0.8,1.5,2.9,3.1
+2025-08-02,Seattle Mariners,SEA,0.376,Texas Rangers,TEX,0.624,0.4,-0.7,1.6,3.0
+2025-08-02,Cleveland Guardians,CLE,0.584,Minnesota Twins,MIN,0.416,0.75,1.5,3.6,2.6
+2025-08-02,Miami Marlins,MIA,0.617,New York Yankees,NYY,0.383,-0.55,0.5,2.4,2.3
+2025-08-02,Cincinnati Reds,CIN,0.64,Atlanta Braves,ATL,0.36,-0.65,0.6,2.9,2.2
+2025-08-02,Athletics,ATH,0.578,Arizona Diamondbacks,AZ,0.422,0.2,0.9,3.0,1.3
+2025-08-02,Los Angeles Angels,LAA,0.359,Chicago White Sox,CWS,0.641,0.05,-1.2,1.7,4.2
+2025-08-02,San Diego Padres,SD,0.494,St. Louis Cardinals,STL,0.506,-0.35,-0.4,1.7,2.3
+2025-08-03,Boston Red Sox,BOS,0.578,Houston Astros,HOU,0.422,-0.6,0.1,2.4,1.9
+2025-08-03,Tampa Bay Rays,TB,0.399,Los Angeles Dodgers,LAD,0.601,-0.8,-1.7,2.3,2.8
+2025-08-03,Washington Nationals,WSH,0.46,Milwaukee Brewers,MIL,0.54,0.35,0.0,2.6,2.7
+2025-08-03,Toronto Blue Jays,TOR,0.589,Kansas City Royals,KC,0.411,1.4,2.2,3.9,3.3
+2025-08-03,New York Mets,NYM,0.578,San Francisco Giants,SF,0.422,0.8,1.5,2.9,3.1
+2025-08-03,Cleveland Guardians,CLE,0.584,Minnesota Twins,MIN,0.416,0.75,1.5,3.6,2.6
+2025-08-03,Miami Marlins,MIA,0.617,New York Yankees,NYY,0.383,-0.55,0.5,2.4,2.3
+2025-08-03,Chicago Cubs,CHC,0.376,Baltimore Orioles,BAL,0.624,-0.2,-1.3,2.6,3.7
+2025-08-03,Colorado Rockies,COL,0.365,Pittsburgh Pirates,PIT,0.635,-0.5,-1.7,2.3,2.1
+2025-08-03,Athletics,ATH,0.578,Arizona Diamondbacks,AZ,0.422,0.2,0.9,3.0,1.3
+2025-08-03,Los Angeles Angels,LAA,0.359,Chicago White Sox,CWS,0.641,0.05,-1.2,1.7,4.2
+2025-08-03,San Diego Padres,SD,0.494,St. Louis Cardinals,STL,0.506,-0.35,-0.4,1.7,2.3
+2025-08-03,Seattle Mariners,SEA,0.376,Texas Rangers,TEX,0.624,0.4,-0.7,1.6,3.0
+2025-08-03,Philadelphia Phillies,PHI,0.702,Detroit Tigers,DET,0.298,-0.9,0.9,3.8,1.3
+2025-08-04,Pittsburgh Pirates,PIT,0.533,San Francisco Giants,SF,0.467,0.4,0.7,2.1,3.1
+2025-08-04,Detroit Tigers,DET,0.348,Minnesota Twins,MIN,0.652,-1.35,-2.7,1.3,2.6
+2025-08-04,Miami Marlins,MIA,0.601,Houston Astros,HOU,0.399,-0.4,0.5,2.4,1.9
+2025-08-04,Philadelphia Phillies,PHI,0.5,Baltimore Orioles,BAL,0.5,0.9,0.9,3.8,3.7
+2025-08-04,Boston Red Sox,BOS,0.472,Kansas City Royals,KC,0.528,0.35,0.1,2.4,3.3
+2025-08-04,New York Mets,NYM,0.5,Cleveland Guardians,CLE,0.5,1.5,1.5,2.9,3.6
+2025-08-04,Atlanta Braves,ATL,0.354,Milwaukee Brewers,MIL,0.646,-0.6,-1.9,2.2,2.7
+2025-08-04,Chicago Cubs,CHC,0.393,Cincinnati Reds,CIN,0.607,-0.35,-1.3,2.6,2.9
+2025-08-04,Texas Rangers,TEX,0.674,New York Yankees,NYY,0.326,-0.05,1.5,3.0,2.3
+2025-08-04,Colorado Rockies,COL,0.281,Toronto Blue Jays,TOR,0.719,0.25,-1.7,2.3,3.9
+2025-08-04,Los Angeles Angels,LAA,0.528,Tampa Bay Rays,TB,0.472,-1.45,-1.2,1.7,2.3
+2025-08-04,Arizona Diamondbacks,AZ,0.494,San Diego Padres,SD,0.506,-0.45,-0.5,1.3,1.7
+2025-08-04,Los Angeles Dodgers,LAD,0.522,St. Louis Cardinals,STL,0.478,-0.1,0.1,2.8,2.3
+2025-08-05,Pittsburgh Pirates,PIT,0.533,San Francisco Giants,SF,0.467,0.4,0.7,2.1,3.1
+2025-08-05,Detroit Tigers,DET,0.348,Minnesota Twins,MIN,0.652,-1.35,-2.7,1.3,2.6
+2025-08-05,Miami Marlins,MIA,0.601,Houston Astros,HOU,0.399,-0.4,0.5,2.4,1.9
+2025-08-05,Washington Nationals,WSH,0.449,Athletics,ATH,0.551,0.45,0.0,2.6,3.0
+2025-08-05,Philadelphia Phillies,PHI,0.5,Baltimore Orioles,BAL,0.5,0.9,0.9,3.8,3.7
+2025-08-05,Boston Red Sox,BOS,0.472,Kansas City Royals,KC,0.528,0.35,0.1,2.4,3.3
+2025-08-05,New York Mets,NYM,0.5,Cleveland Guardians,CLE,0.5,1.5,1.5,2.9,3.6
+2025-08-05,Atlanta Braves,ATL,0.354,Milwaukee Brewers,MIL,0.646,-0.6,-1.9,2.2,2.7
+2025-08-05,Chicago Cubs,CHC,0.393,Cincinnati Reds,CIN,0.607,-0.35,-1.3,2.6,2.9
+2025-08-05,Texas Rangers,TEX,0.674,New York Yankees,NYY,0.326,-0.05,1.5,3.0,2.3
+2025-08-05,Colorado Rockies,COL,0.281,Toronto Blue Jays,TOR,0.719,0.25,-1.7,2.3,3.9
+2025-08-05,Los Angeles Angels,LAA,0.528,Tampa Bay Rays,TB,0.472,-1.45,-1.2,1.7,2.3
+2025-08-05,Arizona Diamondbacks,AZ,0.494,San Diego Padres,SD,0.506,-0.45,-0.5,1.3,1.7
+2025-08-05,Seattle Mariners,SEA,0.387,Chicago White Sox,CWS,0.613,0.3,-0.7,1.6,4.2
+2025-08-05,Los Angeles Dodgers,LAD,0.522,St. Louis Cardinals,STL,0.478,-0.1,0.1,2.8,2.3
