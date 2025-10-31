@@ -30,10 +30,10 @@ kernel_size = 10
 kernel = np.ones(kernel_size) / kernel_size
 
 # bins in meanrundiff go from -3,3
-rdmin,rdmax = -6.,6.
+rdmin,rdmax = -9.,9.
 #rdmin,rdmax = -4.,4.
 
-nrd = 20
+nrd = 30
 drd = (rdmax-rdmin)/nrd
 rundiffrange = np.linspace(rdmin,rdmax,nrd)
 winperc = np.zeros([rundiffrange.size,2])
@@ -55,7 +55,7 @@ for team in teams:
 
         try:
             rundiffdelta = boxcar10rundiff[indx] - oboxcar10rundiff[oindx][0]
-            print(date,team,opp,boxcar10rundiff[indx],oboxcar10rundiff[oindx][0],rundiffdelta*X[1]+X[0],T['rundiff'][indx]>0)
+            #print(date,team,opp,boxcar10rundiff[indx],oboxcar10rundiff[oindx][0],rundiffdelta*X[1]+X[0],T['rundiff'][indx]>0)
             bin1 = int(np.floor((rundiffdelta-rdmin)/drd)) # boxcar bin
             if bin1>=nrd: bin1=nrd-1
             if bin1<0: bin1=0
@@ -68,6 +68,9 @@ for team in teams:
 
 
 plt.scatter(rundiffrange,winperc[:,0]/winperc[:,1],color='black',marker='.')
+
+for i in range(rundiffrange.size):
+    plt.text(rundiffrange[i],0.95,int(winperc[i,1]),color='black',fontsize=5,ha='center')
 
 for b in range(0,rundiffrange.size):
     med = winperc[b,0]/winperc[b,1]
