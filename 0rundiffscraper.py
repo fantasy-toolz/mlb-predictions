@@ -22,6 +22,10 @@ yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for
 year = '2025'
 yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(85,365)]
 
+# this is 2026 season specific
+year = '2026'
+yeardates = [str(pd.to_datetime(day, unit='D', origin=str(year))).split()[0] for day in range(82,365)]
+
 
 todaynum = np.where(np.array(yeardates)==str(pd.to_datetime("today").date()))[0][0]
 
@@ -96,8 +100,11 @@ for team in teams:
             f = open('data/{}/teams/{}.csv'.format(year,team),'w')
             print('date,team,opponent,rundifferential,teamruns,rundifferential6,teamruns6,teamstarter,opponentstarter',file=f)
         for date in alldates:
-            if date in T['date'].astype('str'):
-                continue
+            try:
+                if date in T['date'].astype('str'):
+                    continue
+            except:
+                pass
             print(date)
             D = get_team_game(year,date,team)
             # are they home or away
