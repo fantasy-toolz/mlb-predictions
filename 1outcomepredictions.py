@@ -75,6 +75,7 @@ print('date,hometeamfull,hometeamwin,hometeamscore,hometeamodds,awayteamfull,awa
 today = pd.to_datetime("today").dayofyear - 59
 today = pd.to_datetime("today").dayofyear - 54 # 2024
 today = pd.to_datetime("today").dayofyear - 52 # 2025
+today = pd.to_datetime("today").dayofyear - 51 # 2026
 yesterday = today - 1
 
 doyesterday = False
@@ -124,12 +125,14 @@ for indx in range(today,np.nanmin([today+7,maxday])):
 
         # smooth the home team's run differential
         hrundiff = np.convolve(H['rundiff'], kernel, mode='same')
-        hrunscored = np.convolve(H['runsscored'], kernel, mode='same')
+        hrunscored = np.maximum(np.convolve(H['runsscored'], kernel, mode='same'), 0) 
+        
         A = np.genfromtxt('data/{}/teams/{}.csv'.format(year,mlbteams[awayteam]),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
         
         # smooth the opponent's run differential
         arundiff = np.convolve(A['rundiff'], kernel, mode='same')
         arunscored = np.convolve(A['runsscored'], kernel, mode='same')
+        arunscored = np.maximum(np.convolve(A['runsscored'], kernel, mode='same'), 0) 
 
         # compute the run differential differential
         rundiffdelta = hrundiff[-1] - arundiff[-1]

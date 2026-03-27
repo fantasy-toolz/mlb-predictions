@@ -38,11 +38,15 @@ drd = (rdmax-rdmin)/nrd
 rundiffrange = np.linspace(rdmin,rdmax,nrd)
 winperc = np.zeros([rundiffrange.size,2])
 
-doyesterday = False
+doyesterday = True
 if doyesterday:
     for team in teams:
         T = np.genfromtxt('data/{}/teams/{}.csv'.format(year,team),dtype=[('date', 'S10'), ('team', 'S3'), ('opponent', 'S3'), ('rundiff', '<i8'), ('runsscored', '<i8'), ('rundiffI', '<i8'), ('runsscoredI', '<i8'),('pitcher','S20'),('opppitcher','S20')],delimiter=',')
         boxcar10rundiff = np.convolve(T['rundiff'], kernel, mode='same')
+        try: # check if the team has played any games yet
+            print(T['date'][-1],team)
+        except:
+            continue
         for indx,date in enumerate(T['date']):
             #if indx < 70:
             #    continue
