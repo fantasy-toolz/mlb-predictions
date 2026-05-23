@@ -1,0 +1,95 @@
+date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanrundiff,homerollingdiff,homerollingruns,awayrollingruns
+2026-05-22,Chicago Cubs,CHC,0.46,Houston Astros,HOU,0.54,-1.15,-1.5,2.6,1.2
+2026-05-22,Cincinnati Reds,CIN,0.528,St. Louis Cardinals,STL,0.472,-0.45,-0.2,3.1,2.0
+2026-05-22,Philadelphia Phillies,PHI,0.427,Cleveland Guardians,CLE,0.573,1.35,0.7,3.3,3.5
+2026-05-22,New York Yankees,NYY,0.371,Tampa Bay Rays,TB,0.629,0.65,-0.5,2.2,4.3
+2026-05-22,Toronto Blue Jays,TOR,0.561,Pittsburgh Pirates,PIT,0.439,-0.05,0.5,2.0,2.8
+2026-05-22,Boston Red Sox,BOS,0.488,Minnesota Twins,MIN,0.512,0.3,0.2,2.0,1.9
+2026-05-22,Miami Marlins,MIA,0.438,New York Mets,NYM,0.562,0.15,-0.4,3.3,4.1
+2026-05-22,Baltimore Orioles,BAL,0.455,Detroit Tigers,DET,0.545,-1.8,-2.2,2.2,1.0
+2026-05-22,Atlanta Braves,ATL,0.55,Washington Nationals,WSH,0.45,0.75,1.2,3.6,4.1
+2026-05-22,Kansas City Royals,KC,0.472,Seattle Mariners,SEA,0.528,-0.75,-1.0,1.3,1.9
+2026-05-22,Milwaukee Brewers,MIL,0.404,Los Angeles Dodgers,LAD,0.596,2.35,1.5,2.8,4.0
+2026-05-22,Los Angeles Angels,LAA,0.253,Texas Rangers,TEX,0.747,-0.9,-3.1,1.8,3.0
+2026-05-22,Arizona Diamondbacks,AZ,0.651,Colorado Rockies,COL,0.349,0.25,1.6,3.5,2.2
+2026-05-22,San Diego Padres,SD,0.545,Athletics,ATH,0.455,0.2,0.6,2.2,2.9
+2026-05-22,San Francisco Giants,SF,0.483,Chicago White Sox,CWS,0.517,-0.55,-0.7,2.6,2.9
+2026-05-23,New York Yankees,NYY,0.371,Tampa Bay Rays,TB,0.629,0.65,-0.5,2.2,4.3
+2026-05-23,Chicago Cubs,CHC,0.46,Houston Astros,HOU,0.54,-1.15,-1.5,2.6,1.2
+2026-05-23,Toronto Blue Jays,TOR,0.561,Pittsburgh Pirates,PIT,0.439,-0.05,0.5,2.0,2.8
+2026-05-23,Baltimore Orioles,BAL,0.455,Detroit Tigers,DET,0.545,-1.8,-2.2,2.2,1.0
+2026-05-23,Philadelphia Phillies,PHI,0.427,Cleveland Guardians,CLE,0.573,1.35,0.7,3.3,3.5
+2026-05-23,San Francisco Giants,SF,0.483,Chicago White Sox,CWS,0.517,-0.55,-0.7,2.6,2.9
+2026-05-23,Kansas City Royals,KC,0.472,Seattle Mariners,SEA,0.528,-0.75,-1.0,1.3,1.9
+2026-05-23,Boston Red Sox,BOS,0.488,Minnesota Twins,MIN,0.512,0.3,0.2,2.0,1.9
+2026-05-23,Atlanta Braves,ATL,0.55,Washington Nationals,WSH,0.45,0.75,1.2,3.6,4.1
+2026-05-23,Miami Marlins,MIA,0.438,New York Mets,NYM,0.562,0.15,-0.4,3.3,4.1
+2026-05-23,Cincinnati Reds,CIN,0.528,St. Louis Cardinals,STL,0.472,-0.45,-0.2,3.1,2.0
+2026-05-23,Milwaukee Brewers,MIL,0.404,Los Angeles Dodgers,LAD,0.596,2.35,1.5,2.8,4.0
+2026-05-23,San Diego Padres,SD,0.545,Athletics,ATH,0.455,0.2,0.6,2.2,2.9
+2026-05-23,Los Angeles Angels,LAA,0.253,Texas Rangers,TEX,0.747,-0.9,-3.1,1.8,3.0
+2026-05-23,Arizona Diamondbacks,AZ,0.651,Colorado Rockies,COL,0.349,0.25,1.6,3.5,2.2
+2026-05-24,Toronto Blue Jays,TOR,0.561,Pittsburgh Pirates,PIT,0.439,-0.05,0.5,2.0,2.8
+2026-05-24,Baltimore Orioles,BAL,0.455,Detroit Tigers,DET,0.545,-1.8,-2.2,2.2,1.0
+2026-05-24,Boston Red Sox,BOS,0.488,Minnesota Twins,MIN,0.512,0.3,0.2,2.0,1.9
+2026-05-24,Philadelphia Phillies,PHI,0.427,Cleveland Guardians,CLE,0.573,1.35,0.7,3.3,3.5
+2026-05-24,New York Yankees,NYY,0.371,Tampa Bay Rays,TB,0.629,0.65,-0.5,2.2,4.3
+2026-05-24,Cincinnati Reds,CIN,0.528,St. Louis Cardinals,STL,0.472,-0.45,-0.2,3.1,2.0
+2026-05-24,Miami Marlins,MIA,0.438,New York Mets,NYM,0.562,0.15,-0.4,3.3,4.1
+2026-05-24,Kansas City Royals,KC,0.472,Seattle Mariners,SEA,0.528,-0.75,-1.0,1.3,1.9
+2026-05-24,Milwaukee Brewers,MIL,0.404,Los Angeles Dodgers,LAD,0.596,2.35,1.5,2.8,4.0
+2026-05-24,Chicago Cubs,CHC,0.46,Houston Astros,HOU,0.54,-1.15,-1.5,2.6,1.2
+2026-05-24,San Francisco Giants,SF,0.483,Chicago White Sox,CWS,0.517,-0.55,-0.7,2.6,2.9
+2026-05-24,Arizona Diamondbacks,AZ,0.651,Colorado Rockies,COL,0.349,0.25,1.6,3.5,2.2
+2026-05-24,San Diego Padres,SD,0.545,Athletics,ATH,0.455,0.2,0.6,2.2,2.9
+2026-05-24,Atlanta Braves,ATL,0.55,Washington Nationals,WSH,0.45,0.75,1.2,3.6,4.1
+2026-05-24,Los Angeles Angels,LAA,0.253,Texas Rangers,TEX,0.747,-0.9,-3.1,1.8,3.0
+2026-05-25,Pittsburgh Pirates,PIT,0.55,Chicago Cubs,CHC,0.45,-1.05,-0.6,2.8,2.6
+2026-05-25,Baltimore Orioles,BAL,0.275,Tampa Bay Rays,TB,0.725,-0.2,-2.2,2.2,4.3
+2026-05-25,Chicago White Sox,CWS,0.455,Minnesota Twins,MIN,0.545,0.0,-0.4,2.9,1.9
+2026-05-25,Milwaukee Brewers,MIL,0.623,St. Louis Cardinals,STL,0.377,0.4,1.5,2.8,2.0
+2026-05-25,Kansas City Royals,KC,0.472,New York Yankees,NYY,0.528,-0.75,-1.0,1.3,2.2
+2026-05-25,New York Mets,NYM,0.55,Cincinnati Reds,CIN,0.45,0.25,0.7,4.1,3.1
+2026-05-25,San Francisco Giants,SF,0.371,Arizona Diamondbacks,AZ,0.629,0.45,-0.7,2.6,3.5
+2026-05-25,Cleveland Guardians,CLE,0.595,Washington Nationals,WSH,0.405,1.15,2.0,3.5,4.1
+2026-05-25,San Diego Padres,SD,0.494,Philadelphia Phillies,PHI,0.506,0.65,0.6,2.2,3.3
+2026-05-25,Texas Rangers,TEX,0.617,Houston Astros,HOU,0.383,0.25,1.3,3.0,1.2
+2026-05-25,Toronto Blue Jays,TOR,0.55,Miami Marlins,MIA,0.45,0.05,0.5,2.0,3.3
+2026-05-25,Los Angeles Dodgers,LAD,0.741,Colorado Rockies,COL,0.259,1.05,3.2,4.0,2.2
+2026-05-25,Athletics,ATH,0.516,Seattle Mariners,SEA,0.484,-0.35,-0.2,2.9,1.9
+2026-05-26,Cleveland Guardians,CLE,0.595,Washington Nationals,WSH,0.405,1.15,2.0,3.5,4.1
+2026-05-26,Baltimore Orioles,BAL,0.275,Tampa Bay Rays,TB,0.725,-0.2,-2.2,2.2,4.3
+2026-05-26,Detroit Tigers,DET,0.595,Los Angeles Angels,LAA,0.405,-2.25,-1.4,1.0,1.8
+2026-05-26,Pittsburgh Pirates,PIT,0.55,Chicago Cubs,CHC,0.45,-1.05,-0.6,2.8,2.6
+2026-05-26,Boston Red Sox,BOS,0.444,Atlanta Braves,ATL,0.556,0.7,0.2,2.0,3.6
+2026-05-26,Toronto Blue Jays,TOR,0.55,Miami Marlins,MIA,0.45,0.05,0.5,2.0,3.3
+2026-05-26,New York Mets,NYM,0.55,Cincinnati Reds,CIN,0.45,0.25,0.7,4.1,3.1
+2026-05-26,Chicago White Sox,CWS,0.455,Minnesota Twins,MIN,0.545,0.0,-0.4,2.9,1.9
+2026-05-26,Kansas City Royals,KC,0.472,New York Yankees,NYY,0.528,-0.75,-1.0,1.3,2.2
+2026-05-26,Milwaukee Brewers,MIL,0.623,St. Louis Cardinals,STL,0.377,0.4,1.5,2.8,2.0
+2026-05-26,Texas Rangers,TEX,0.617,Houston Astros,HOU,0.383,0.25,1.3,3.0,1.2
+2026-05-26,Athletics,ATH,0.516,Seattle Mariners,SEA,0.484,-0.35,-0.2,2.9,1.9
+2026-05-26,San Diego Padres,SD,0.494,Philadelphia Phillies,PHI,0.506,0.65,0.6,2.2,3.3
+2026-05-26,San Francisco Giants,SF,0.371,Arizona Diamondbacks,AZ,0.629,0.45,-0.7,2.6,3.5
+2026-05-26,Los Angeles Dodgers,LAD,0.741,Colorado Rockies,COL,0.259,1.05,3.2,4.0,2.2
+2026-05-27,Toronto Blue Jays,TOR,0.55,Miami Marlins,MIA,0.45,0.05,0.5,2.0,3.3
+2026-05-27,Cleveland Guardians,CLE,0.595,Washington Nationals,WSH,0.405,1.15,2.0,3.5,4.1
+2026-05-27,Milwaukee Brewers,MIL,0.623,St. Louis Cardinals,STL,0.377,0.4,1.5,2.8,2.0
+2026-05-27,Athletics,ATH,0.516,Seattle Mariners,SEA,0.484,-0.35,-0.2,2.9,1.9
+2026-05-27,San Francisco Giants,SF,0.371,Arizona Diamondbacks,AZ,0.629,0.45,-0.7,2.6,3.5
+2026-05-27,San Diego Padres,SD,0.494,Philadelphia Phillies,PHI,0.506,0.65,0.6,2.2,3.3
+2026-05-27,Baltimore Orioles,BAL,0.275,Tampa Bay Rays,TB,0.725,-0.2,-2.2,2.2,4.3
+2026-05-27,Detroit Tigers,DET,0.595,Los Angeles Angels,LAA,0.405,-2.25,-1.4,1.0,1.8
+2026-05-27,Pittsburgh Pirates,PIT,0.55,Chicago Cubs,CHC,0.45,-1.05,-0.6,2.8,2.6
+2026-05-27,Boston Red Sox,BOS,0.444,Atlanta Braves,ATL,0.556,0.7,0.2,2.0,3.6
+2026-05-27,New York Mets,NYM,0.55,Cincinnati Reds,CIN,0.45,0.25,0.7,4.1,3.1
+2026-05-27,Chicago White Sox,CWS,0.455,Minnesota Twins,MIN,0.545,0.0,-0.4,2.9,1.9
+2026-05-27,Kansas City Royals,KC,0.472,New York Yankees,NYY,0.528,-0.75,-1.0,1.3,2.2
+2026-05-27,Texas Rangers,TEX,0.617,Houston Astros,HOU,0.383,0.25,1.3,3.0,1.2
+2026-05-27,Los Angeles Dodgers,LAD,0.741,Colorado Rockies,COL,0.259,1.05,3.2,4.0,2.2
+2026-05-28,Detroit Tigers,DET,0.595,Los Angeles Angels,LAA,0.405,-2.25,-1.4,1.0,1.8
+2026-05-28,Chicago White Sox,CWS,0.455,Minnesota Twins,MIN,0.545,0.0,-0.4,2.9,1.9
+2026-05-28,Boston Red Sox,BOS,0.444,Atlanta Braves,ATL,0.556,0.7,0.2,2.0,3.6
+2026-05-28,Baltimore Orioles,BAL,0.348,Toronto Blue Jays,TOR,0.652,-0.85,-2.2,2.2,2.0
+2026-05-28,Pittsburgh Pirates,PIT,0.55,Chicago Cubs,CHC,0.45,-1.05,-0.6,2.8,2.6
+2026-05-28,Texas Rangers,TEX,0.617,Houston Astros,HOU,0.383,0.25,1.3,3.0,1.2
