@@ -1,5 +1,4 @@
 date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanrundiff,homerollingdiff,homerollingruns,awayrollingruns
-2026-07-16,Philadelphia Phillies,PHI,0.511,New York Mets,NYM,0.489,-0.4,-0.3,2.1,2.9
 2026-07-17,Boston Red Sox,BOS,0.617,Tampa Bay Rays,TB,0.383,1.15,2.2,2.8,2.8
 2026-07-17,Boston Red Sox,BOS,0.617,Tampa Bay Rays,TB,0.383,1.15,2.2,2.8,2.8
 2026-07-17,New York Yankees,NYY,0.629,Los Angeles Dodgers,LAD,0.371,-0.25,0.9,3.0,2.3
@@ -90,3 +89,8 @@ date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanr
 2026-07-22,Texas Rangers,TEX,0.41,Chicago White Sox,CWS,0.59,0.1,-0.7,3.2,2.6
 2026-07-22,Chicago Cubs,CHC,0.46,Detroit Tigers,DET,0.54,0.95,0.6,2.9,2.8
 2026-07-22,Houston Astros,HOU,0.483,Miami Marlins,MIA,0.517,-0.15,-0.3,3.6,2.1
+2026-07-23,Atlanta Braves,ATL,0.444,San Diego Padres,SD,0.556,0.2,-0.3,2.3,3.1
+2026-07-23,Cleveland Guardians,CLE,0.522,Minnesota Twins,MIN,0.478,0.5,0.7,2.3,2.3
+2026-07-23,Toronto Blue Jays,TOR,0.533,Tampa Bay Rays,TB,0.467,0.4,0.7,3.6,2.8
+2026-07-23,St. Louis Cardinals,STL,0.432,Arizona Diamondbacks,AZ,0.568,0.2,-0.4,2.1,3.1
+2026-07-23,Detroit Tigers,DET,0.668,Kansas City Royals,KC,0.332,-0.2,1.3,2.8,2.7
