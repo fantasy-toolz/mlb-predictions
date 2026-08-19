@@ -1,4 +1,13 @@
 date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanrundiff,homerollingdiff,homerollingruns,awayrollingruns
+2026-08-20,Cincinnati Reds,CIN,0.348,St. Louis Cardinals,STL,0.652,0.15,-1.2,2.1,3.3
+2026-08-20,Cleveland Guardians,CLE,0.494,San Francisco Giants,SF,0.506,-0.45,-0.5,2.1,2.4
+2026-08-20,Tampa Bay Rays,TB,0.511,Toronto Blue Jays,TOR,0.489,0.2,0.3,3.7,2.1
+2026-08-20,Kansas City Royals,KC,0.578,Athletics,ATH,0.422,-0.3,0.4,2.5,2.9
+2026-08-20,Chicago White Sox,CWS,0.561,Atlanta Braves,ATL,0.439,0.35,0.9,3.8,2.0
+2026-08-20,Milwaukee Brewers,MIL,0.5,Seattle Mariners,SEA,0.5,-0.4,-0.4,2.1,2.7
+2026-08-20,Baltimore Orioles,BAL,0.539,New York Yankees,NYY,0.461,0.65,1.0,3.6,2.0
+2026-08-20,Texas Rangers,TEX,0.438,Washington Nationals,WSH,0.562,-1.15,-1.7,1.4,2.7
+2026-08-20,Houston Astros,HOU,0.444,Los Angeles Angels,LAA,0.556,0.3,-0.2,2.6,2.2
 2026-08-21,Milwaukee Brewers,MIL,0.488,Atlanta Braves,ATL,0.512,-0.3,-0.4,2.1,2.0
 2026-08-21,Philadelphia Phillies,PHI,0.466,St. Louis Cardinals,STL,0.534,1.2,0.9,3.0,3.3
 2026-08-21,New York Yankees,NYY,0.511,Toronto Blue Jays,TOR,0.489,0.2,0.3,2.0,2.1
@@ -84,10 +93,3 @@ date,hometeamfull,hometeam,hometeamodds,awayteamfull,awayteam,awayteamodds,meanr
 2026-08-26,Chicago White Sox,CWS,0.646,Texas Rangers,TEX,0.354,-0.4,0.9,3.8,1.4
 2026-08-26,St. Louis Cardinals,STL,0.528,Baltimore Orioles,BAL,0.472,1.25,1.5,3.3,3.6
 2026-08-26,Athletics,ATH,0.528,Minnesota Twins,MIN,0.472,-1.25,-1.0,2.9,2.0
-2026-08-27,Washington Nationals,WSH,0.466,Colorado Rockies,COL,0.534,-0.3,-0.6,2.7,3.3
-2026-08-27,St. Louis Cardinals,STL,0.528,Baltimore Orioles,BAL,0.472,1.25,1.5,3.3,3.6
-2026-08-27,New York Yankees,NYY,0.528,Houston Astros,HOU,0.472,0.05,0.3,2.0,2.6
-2026-08-27,Toronto Blue Jays,TOR,0.483,Kansas City Royals,KC,0.517,0.25,0.1,2.1,2.5
-2026-08-27,New York Mets,NYM,0.516,Milwaukee Brewers,MIL,0.484,-0.25,-0.1,1.8,2.1
-2026-08-27,Atlanta Braves,ATL,0.477,Los Angeles Dodgers,LAD,0.523,0.0,-0.2,2.0,2.5
-2026-08-27,San Francisco Giants,SF,0.511,Arizona Diamondbacks,AZ,0.489,-0.5,-0.4,2.4,2.2
